@@ -2,8 +2,6 @@
 |+ Table Generated from input.csv
 ! Number !! Names
 |-
-| 387 || [[Toy]], [[Tia Maya]]
-|-
 | 386 || [[Problemas familiares]], [[Joana Amaral Dias]]
 |-
 | 385 || [[Ana Mendes]], [[Ana Galvão]], [[PAN]]
