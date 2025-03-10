@@ -2,6 +2,14 @@
 |+ Table Generated from input.tsv
 ! Number !! Names
 |-
+| 413 || [[Joacine Katar Moreira]], [[André Ventura]], [[André Silva]], [[Daniel Oliveira]]
+|-
+| 412 || [[Halloween]], [[Dia de São Valentim]], [[Starbucks]], [[Alexandre Lencastre]], [[Sunny Delight]], [[Greta Thunberg]], [[Donald Trump]], [[Xavier]]
+|-
+| 411 || [[Ágata]], [[Assunção Cristas]], [[José Cid]]
+|-
+| 410 || [[Paulo Silva]], [[Inês Afonso]], [[Fred Gomes]]
+|-
 | 409 || [[Primeiro dia no Parlamento]], [[Rui Rio]], [[Miguel Matos]], [[Greta Thunberg]], [[Rafael Esteves Martins]], [[João Cotrim de Figueiredo]], [[Joacine Katar Moreira]], [[André Ventura]], [[Ana Rita Bessa]]
 |-
 | 408 || [[Balões de ar quente]], [[Carla Rocha]], [[Ana Galvão]], [[Rosa Grilo]]
