@@ -2,6 +2,26 @@
 |+ Table Generated from input.tsv
 ! Number !! Names
 |-
+| 409 || [[Primeiro dia no Parlamento]], [[Rui Rio]], [[Miguel Matos]], [[Greta Thunberg]], [[Rafael Esteves Martins]], [[João Cotrim de Figueiredo]], [[Joacine Katar Moreira]], [[André Ventura]], [[Ana Rita Bessa]]
+|-
+| 408 || [[Balões de ar quente]], [[Carla Rocha]], [[Ana Galvão]], [[Rosa Grilo]]
+|-
+| 407 || [[Patrícia Cândido]], [[Joana Marques]], [[Código da Alma]], [[]]
+|-
+| 406 || [[Marcelo Rebelo de Sousa]], [[Alta Definição]], [[Daniel Oliveira]], [[Cavaco Silva]], [[Donald Trump]]
+|-
+| 405 || [[Chega]], [[André Ventura]], [[Humberto Bernardo]], [[Alentejanos]], [[Ciganos]]
+|-
+| 404 || [[Sofia Nicholson]], [[Fans de Manuel Luís Goucha]], [[Rihanna]], [[Xavier]]
+|-
+| 403 || [[Bruno de Carvalho]], [[CMTV]]
+|-
+| 402 || [[Óculos; Cristiano Ronaldo]], [[Miguel Relvas]], [[Zé Maria; Cátia Palhinha]]
+|-
+| 401 || [[Agentes Imobiliários]], [[José Sócrates]], [[Bruno Morato]], [[Anúncio da Fairy]], [[Urbanização Nova Rosa]], [[Urbanização da Portela]], [[Infantado]]
+|-
+| 400 || [[Cláudio Fonseca]], [[PAN]], [[Cristina Rodrigues]], [[André Silva]]
+|-
 | 399 || [[Maria das Dores]]
 |-
 | 398 || [[Globos de Ouro]], [[Cristiano Ronaldo]], [[Miguel Paixão]], [[Danie Ruah]], [[Sara Sampaio]], [[Carolina Deslandes]], [[Capitão Fausto]], [[Diogo Amaral]], [[Rodrigues Guedes de Carvalho]], [[Luciana Abreu]]
