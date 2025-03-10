@@ -2,6 +2,10 @@
 |+ Table Generated from input.tsv
 ! Number !! Names
 |-
+| 399 || [[Maria das Dores]]
+|-
+| 398 || [[Globos de Ouro]], [[Cristiano Ronaldo]], [[Miguel Paixão]], [[Danie Ruah]], [[Sara Sampaio]], [[Carolina Deslandes]], [[Capitão Fausto]], [[Diogo Amaral]], [[Rodrigues Guedes de Carvalho]], [[Luciana Abreu]]
+|-
 | 397 || [[Globos de Ouro]], [[Cristina Ferreira]], [[João Rôlo]], [[Carolina Patrocínio]], [[Dona Elisa]], [[João Manzarra]]
 |-
 | 396 || [[Frederico Varandas]], [[Teresa Dimas]]
