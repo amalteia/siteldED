@@ -2,6 +2,52 @@
 |+ Table Generated from input.tsv
 ! Number !! Names
 |-
+| 436 || [[Jorge Jesus]], [[Mariana Águas]]
+|-
+| 435 || [[Greta Thunberg]], [[Miguel Sousa Tavares]], [[Activistas de greve climática]], [[André Silva]], [[Verdes]]
+|-
+| 434 || [[André Ventura]], [[Coelha Acácia]], [[Correio da Manhã]], [[Jair Bolsonaro]]
+|-
+| 433 || [[Ljubomir Stanisic]]
+|-
+| 432 || [[João Ferreira]], [[CMTV]], [[André Ventura]], [[Aníbal Pinto]]
+|-
+| 431 || [[Manuel Maria Carrilho]], [[D4rkFrame]]
+|-
+| 430 || [[José  Sócrates]], [[Joana Marques]]
+|-
+| 429 || [[Joacine Katar Moreira]], [[Livre]], [[Joana Marques]]
+|-
+| 428 || [[Jorge Jesus]], [[Pedro Neves de Sousa]], [[Nuno Luz]]
+|-
+| 427 || [[Publicidade bizarra]]
+|-
+| 426 || [[Teresa Guilherme]], [[Riquita]], [[Mário]], [[Telmo]], [[Célia]], [[Fanny Rodrigues]], [[José Carlos Araújo]], [[Ricardo A.]], [[Ricardo V.]], [[Joana Marques]], [[Lourenço]], [[Cadete]], [[Zé Maria]], [[Big Brother]]
+|-
+| 425 || [[Alexandra Lencastre]], [[Lourdes Norberto]]
+|-
+| 424 || [[José Carlos Pereira]], [[Rita Salema]]
+|-
+| 423 || [[Miguel Sousa Tavares]], [[José Pacheco Pereira]]
+|-
+| 422 || [[Tiagovski]]
+|-
+| 421 || [[Wuant]], [[Paulo Borges]], [[Xavier]], [[Hugo Strada]]
+|-
+| 420 || [[João Galamba]], [[Fátima Campos Ferreira]]
+|-
+| 419 || [[Mateus Uribe]], [[Alex Telles]], [[Jesús Manuel Corona]], [[Cindy Álvarez García]]
+|-
+| 418 || [[Judite de Sousa]], [[CMTV]]
+|-
+| 417 || [[Marcelo Rebelo de Sousa]], [[CMTV]]
+|-
+| 416 || [[Sophie Grey]]
+|-
+| 415 || [[José  Sócrates]]
+|-
+| 414 || [[Web Summit]], [[Paddy Cosgrave]], [[Fernando Medina]], [[Sara Sampaio]], [[António Costa]]
+|-
 | 413 || [[Joacine Katar Moreira]], [[André Ventura]], [[André Silva]], [[Daniel Oliveira]]
 |-
 | 412 || [[Halloween]], [[Dia de São Valentim]], [[Starbucks]], [[Alexandre Lencastre]], [[Sunny Delight]], [[Greta Thunberg]], [[Donald Trump]], [[Xavier]]
