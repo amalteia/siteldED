@@ -2,6 +2,28 @@
 |+ Table Generated from input.tsv
 ! Number !! Names
 |-
+| 449 || [[Rui Pinto]], [[Iker Casillas]], [[Benfica]], [[Sporting]], [[Jorge Jesus]], [[João Félix]], [[Joacine Katar Moreira]], [[André Ventura]], [[João Cotrim de Figueiredo]], [[Azeredo Lopes]], [[José Cid]], [[Greta Thunberg]], [[Conan Osíris]], [[Filipa Garnel]], [[David Carreira]], [[Bruno de Carvalho]], [[Jessica Athaide]], [[Maria João Abreu]]
+|-
+| 448 || [[O Preço Certo]], [[Fernando Mendes]], [[Luís Filipe Vieira]]
+|-
+| 447 || [[Família Real Britânica]], [[Joana Marques]]
+|-
+| 446 || [[Operação Natal da GNR]], [[Aceleras]]
+|-
+| 445 || [[O pior pai do mundo]]
+|-
+| 444 || [[Aeroportos]], [[Joana Marques]], [[Paulo Futre]]
+|-
+| 443 || [[José Cid]], [[Ana Galvão]]
+|-
+| 442 || [[Joana Marques]]
+|-
+| 441 || [[Liliana Filipa]], [[Daniel Gregório]], [[Nome das crianças]], [[Fanny Rodrigues]]
+|-
+| 440 || [[Prós e Contras]], [[Fátima Campos Ferreira]]
+|-
+| 439 || [[Suzana Garcia]]
+|-
 | 438 || [[Ângelo Rodrigues]], [[Revista Flash]], [[Maria João Abreu]], [[Daniel Oliveira]]
 |-
 | 437 || [[Rui Rio]], [[Luís Montenegro]], [[Miguel Pinto Luz]]
@@ -38,7 +60,7 @@
 |-
 | 421 || [[Wuant]], [[Paulo Borges]], [[Xavier]], [[Hugo Strada]]
 |-
-| 420 || [[João Galamba]], [[Fátima Campos Ferreira]]
+| 420 || [[João Galamba]], [[Fátima Campos Ferreira]], [[Canábis]]
 |-
 | 419 || [[Mateus Uribe]], [[Alex Telles]], [[Jesús Manuel Corona]], [[Cindy Álvarez García]]
 |-
@@ -202,7 +224,7 @@
 |-
 | 339 || [[Nuno Markl]], [[José Cid]], [[Macaco]], [[Porto]], [[Francesinhas]], [[Saltos da Ponte]], [[Festa de São João do Porto]], [[Julen Lopetegui]]
 |-
-| 338 || [[Eleições Europeias]], [[PS]], [[Sandra Pereira]], [[Conan Conan Osíris]], [[CDS]], [[Nuno Melo]], [[PSD]], [[PURP]], [[André Ventura]], [[CMTV]], [[Salvador Sobral]], [[PAN]], [[Ana Galvão]]
+| 338 || [[Eleições Europeias]], [[PS]], [[Sandra Pereira]], [[Conan Osíris]], [[CDS]], [[Nuno Melo]], [[PSD]], [[PURP]], [[André Ventura]], [[CMTV]], [[Salvador Sobral]], [[PAN]], [[Ana Galvão]]
 |-
 | 337 || [[José Eduardo Moniz]], [[Deus e o Diabo]]
 |-
@@ -338,7 +360,7 @@
 |-
 | 271 || [[Teresa Guilherme]], [[Dia de São Valentim]], [[Xavier]], [[Ana Galvão]], [[Luís - O homem das flores]]
 |-
-| 270 || [[Emojis]], [[🥱]], [[🛺]], [[🦩]], [[🦧]], [[🧅]], [[🧄]], [[🦿]], [[🧆]], [[🪕]], [[🩸]], [[🤏]], [[Carla Rocha]]
+| 270 || [[Emojis🥱🛺🦩🦧🧅🧄🦿🧆🪕🩸🤏]], [[Carla Rocha]]
 |-
 | 269 || [[Casados à Primeira Vista]], [[SIC]], [[O Carro do Amor]], [[Rui Veloso]], [[TVI]], [[Fátima Lopes]], [[First Dates]], [[Ruben Rua]], [[Ljubomir Stanisic]], [[ASAE]], [[Quem Quer Casar Com o Meu Filho]]
 |-
