@@ -2,6 +2,10 @@
 |+ Table Generated from input.tsv
 ! Number !! Names
 |-
+| 438 || [[Ângelo Rodrigues]], [[Revista Flash]], [[Maria João Abreu]], [[Daniel Oliveira]]
+|-
+| 437 || [[Rui Rio]], [[Luís Montenegro]], [[Miguel Pinto Luz]]
+|-
 | 436 || [[Jorge Jesus]], [[Mariana Águas]]
 |-
 | 435 || [[Greta Thunberg]], [[Miguel Sousa Tavares]], [[Activistas de greve climática]], [[André Silva]], [[Verdes]]
