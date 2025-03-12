@@ -2,6 +2,36 @@
 |+ Table Generated from input.tsv
 ! Number !! Names
 |-
+| 466 || [[Pedro (testemunha de Rosa Grilo)]]
+|-
+| 465 || [[Coronavírus]], [[Portugueses em Wuhan]]
+|-
+| 464 || [[Francisco Rodrigues dos Santos (Chicão)]]
+|-
+| 463 || [[João Soares]], [[Isabel Maria dos Santos]]
+|-
+| 462 || [[CMTV]], [[Segurança de José Eduardo dos Santos]]
+|-
+| 461 || [[CF Canelas 2010]], [[Fernando Madureira]], [[Luís Pinela]]
+|-
+| 460 || [[Antilook]], [[Rute Marques]], [[Luísa Beirão]], [[Evelina Pereira]], [[Raquel Loureiro]], [[Vera Deus]]
+|-
+| 459 || [[Isabel dos Santos]]
+|-
+| 458 || [[Joacine Katar Moreira]], [[Patrícia Robalo]]
+|-
+| 457 || [[Rita Ferro Alvim]], [[Betas]], [[N'a Caravana]]
+|-
+| 456 || [[António Sousa Lara]]
+|-
+| 455 || [[Amigos Improváveis]]
+|-
+| 454 || [[Madonna]], [[Gaspar Varela]], [[Fans de Madonna]]
+|-
+| 453 || [[Miguel Pinto Luz]], [[Alberto João Jardim]], [[Luís Montenegro]], [[Rui Rio]], [[Vitor Martins]], [[Joana Marques]]
+|-
+| 452 || [[Academia de Alcochete]], [[Daniel Podence]], [[Ludovic Marques]], [[Mário Monteiro]], [[Wendel]], [[Miguel Fonseca]], [[Radosav Petrović]], [[André Pinto]]
+|-
 | 451 || [[Maria Vieira]]
 |-
 | 450 || [[Marcelo Rebelo de Sousa]], [[Mergulhadores do Novo Ano]]
