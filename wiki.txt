@@ -2,6 +2,22 @@
 |+ Table Generated from input.tsv
 ! Number !! Names
 |-
+| 474 || [[Cláudio Ramos]], [[Ana Marques]], [[Maria Cerqueira Gomes]]
+|-
+| 473 || [[Frederico Varandas]]
+|-
+| 472 || [[Rolling Loud Festival]], [[Piruka]], [[Feijoada da Caras]]
+|-
+| 471 || [[António Costa]]
+|-
+| 470 || [[Quintino Aires]], [[Leonor Poeiras]], [[Maria Cerqueira Gomes]], [[Xavier]]
+|-
+| 469 || [[José Peseiro]], [[Tiago Fernandes]], [[Marcel Keizer]], [[Leonel Fontes]], [[Programa Impulso Jovem]], [[Filipa Garnel]], [[Operação Stop do Fisco]], [[Julen Lopetegui]], [[Joacine Katar Moreira]], [[Ana Galvão]], [[Carla Rocha]], [[Joana Marques]]
+|-
+| 468 || [[Chef Olivier]]
+|-
+| 467 || [[Pessoas na vigília por Rui Pinto]], [[Joana Marques]], [[Joana Amaral Dias]]
+|-
 | 466 || [[Pedro (testemunha de Rosa Grilo)]]
 |-
 | 465 || [[Coronavírus]], [[Portugueses em Wuhan]]
