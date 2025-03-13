@@ -2,6 +2,16 @@
 |+ Table Generated from input.tsv
 ! Number !! Names
 |-
+| 479 || [[Cinha Jardim]], [[Manuel Luís Goucha]], [[André Ventura]]
+|-
+| 478 || [[Moussa Marega]], [[Rui Santos]], [[Paulo Garcia]], [[Manuel Fernandes]], [[Rodolfo Reis]]
+|-
+| 477 || [[Maria Leal]]
+|-
+| 476 || [[Casais que se vestem da mesma maneira]]
+|-
+| 475 || [[Joana Marques]]
+|-
 | 474 || [[Cláudio Ramos]], [[Ana Marques]], [[Maria Cerqueira Gomes]]
 |-
 | 473 || [[Frederico Varandas]]
