@@ -2,6 +2,46 @@
 |+ Table Generated from input.tsv
 ! Number !! Names
 |-
+| 499 || [[Pe. Celestino Ferreira]]
+|-
+| 498 || [[SirKazzio]], [[Rodrigues Guedes de Carvalho]]
+|-
+| 497 || [[Pedro Hipólito]]
+|-
+| 496 || [[Francisco George]]
+|-
+| 495 || [[Rodrigues Guedes de Carvalho]]
+|-
+| 494 || [[Rodrigues Guedes de Carvalho]], [[Ana Galvão]]
+|-
+| 493 || [[Jorge Gustavo]]
+|-
+| 492 || [[Bárbara Guimarães]], [[Maria João Abreu]]
+|-
+| 491 || [[Inês Lopes Gonçalves]], [[Elisa & Marta Carvalho]], [[Tomás  Luzia]], [[Jimmy P]], [[Throes + The Shine]], [[Kady]], [[Bárbara Tinoco]], [[Joana Espadinha]]
+|-
+| 490 || [[Manuel Almeida (Dr. Ninja)]]
+|-
+| 489 || [[Lili Caneças]]
+|-
+| 488 || [[Lili Caneças]]
+|-
+| 487 || [[Bruno de Carvalho]]
+|-
+| 486 || [[Wuant]]
+|-
+| 485 || [[Habitantes da Vibe House]], [[Tiktokers]]
+|-
+| 484 || [[Habitantes da Vibe House]], [[Hugo Strada]], [[Tiktokers]]
+|-
+| 483 || [[João Moura]]
+|-
+| 482 || [[Coronavírus]], [[Adriano Maranhão]], [[Emanuelle Maranhão]], [[TVI]], [[CMTV]]
+|-
+| 481 || [[Joana Marques]]
+|-
+| 480 || [[Dr. Almeida Nunes]], [[Cristina Ferreira]], [[Coronavírus]], [[Portugueses em Wuhan]], [[Cláudio Ramos]]
+|-
 | 479 || [[Cinha Jardim]], [[Manuel Luís Goucha]], [[André Ventura]]
 |-
 | 478 || [[Moussa Marega]], [[Rui Santos]], [[Paulo Garcia]], [[Manuel Fernandes]], [[Rodolfo Reis]]
