@@ -2,6 +2,38 @@
 |+ Table Generated from input.tsv
 ! Number !! Names
 |-
+| 515 || [[Carolina Loureiro]]
+|-
+| 514 || [[Pessoas que furam a quarentena]]
+|-
+| 513 || [[Prós e Contras]], [[Patricia Mota Veiga]], [[Pe. Anselmo Borges]]
+|-
+| 512 || [[Prós e Contras]], [[Patricia Mota Veiga]]
+|-
+| 511 || [[Manuel Pinto Coelho]]
+|-
+| 510 || [[José Eduardo Pinto da Costa]]
+|-
+| 509 || [[Bento Rodrigues]]
+|-
+| 508 || [[Ágata]], [[José Malhoa]]
+|-
+| 507 || [[Manuel Luís Goucha]], [[Bruno Caetano]], [[Habitantes de Moscavide]]
+|-
+| 506 || [[André Samaris]]
+|-
+| 505 || [[Músicas para a quarentena]]
+|-
+| 504 || [[Lili Caneças]]
+|-
+| 503 || [[Rodrigues Guedes de Carvalho]]
+|-
+| 502 || [[Nuno Graciano]]
+|-
+| 501 || [[Sancha Trindade]]
+|-
+| 500 || [[Pedro Abrunhosa]], [[Diogo Piçarra]]
+|-
 | 499 || [[Pe. Celestino Ferreira]]
 |-
 | 498 || [[SirKazzio]], [[Rodrigues Guedes de Carvalho]]
