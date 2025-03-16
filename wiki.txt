@@ -2,6 +2,74 @@
 |+ Table Generated from input.tsv
 ! Number !! Names
 |-
+| 549 || [[Joana Dias]]
+|-
+| 548 || [[Sandra Silva]]
+|-
+| 547 || [[Touradas]]
+|-
+| 546 || [[Nuno Lobo]]
+|-
+| 545 || [[Pedro Soá]], [[Ana Garcia Martins]]
+|-
+| 544 || [[Bruno de Carvalho]], [[Alexandre Lencastre]]
+|-
+| 543 || [[César Augusto Moniz]], [[Joana Marques]]
+|-
+| 542 || [[Joana Amaral Dias]]
+|-
+| 541 || [[Banhistas na praia]], [[Covid-19]], [[CMTV]]
+|-
+| 540 || [[António Costa]], [[Marcelo Rebelo de Sousa]], [[Época Balnear]]
+|-
+| 539 || [[Jetro Lima]]
+|-
+| 538 || [[Nel Monteiro]], [[Júlia Resende]]
+|-
+| 537 || [[David Araújo]]
+|-
+| 536 || [[Joana Latino]], [[Jéssica Athayde]]
+|-
+| 535 || [[Hélder Teixeira]], [[Big Brother 2020]], [[Daniel  Monteiro]]
+|-
+| 534 || [[Hélder Teixeira]], [[Big Brother 2020]]
+|-
+| 533 || [[Isabel dos Santos]], [[Jair Bolsonaro]]
+|-
+| 532 || [[Alexandra Solnado]]
+|-
+| 531 || [[Cláudio Ramos]], [[Big Brother 2020]]
+|-
+| 530 || [[Regina Duarte]], [[Maitê Proença]]
+|-
+| 529 || [[Regina Duarte]]
+|-
+| 528 || [[Frederico Varandas]], [[Luís Filipe Vieira]], [[Jorge Nuno Pinto da Costa]]
+|-
+| 527 || [[Tia Maya]], [[Covid-19]]
+|-
+| 526 || [[Fake News]], [[Polígrafo]], [[Covid-19]], [[Camilo Lourenço]]
+|-
+| 525 || [[Marta Temido]], [[Rodrigo Guedes Fernandes]]
+|-
+| 524 || [[Prós e Contras]], [[Fátima Campos Ferreira]], [[Mariana Sottomayor]]
+|-
+| 523 || [[Big Brother 2020]], [[Fábio Martins]], [[Daniel Monteiro]], [[Daniel Guerreiro]], [[Hélder Teixeira]], [[Pedro Alves]], [[Pedro Soá]]
+|-
+| 522 || [[Big Brother 2020]], [[Cláudio Ramos]], [[Sónia Jesus]], [[Angélica Gallettino]], [[Iury Mellany]], [[Edmar Teixeira]], [[Slávia dos Santos]], [[Jéssica Nogueira]], [[Ana Catarina França]], [[Rui Alves]]
+|-
+| 521 || [[Tiago Castro]], [[Sofia Grilo]]
+|-
+| 520 || [[Manuela Marle]]
+|-
+| 519 || [[Paulo Cardoso]]
+|-
+| 518 || [[José Malhoa]], [[CMTV]]
+|-
+| 517 || [[Gustavo Santos]]
+|-
+| 516 || [[Nuno Moura]]
+|-
 | 515 || [[Carolina Loureiro]]
 |-
 | 514 || [[Pessoas que furam a quarentena]]
