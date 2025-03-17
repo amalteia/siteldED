@@ -2,6 +2,42 @@
 |+ Table Generated from input.tsv
 ! Number !! Names
 |-
+| 567 || [[Miguel Sousa Tavares]], [[Inês Sousa Real]]
+|-
+| 566 || [[Leonor Santos]], [[Tiago Paiva]]
+|-
+| 565 || [[Tiago Paiva]], [[Mafalda Castro]], [[Carolina Loureiro]]
+|-
+| 564 || [[Damares Alves]]
+|-
+| 563 || [[Pedro Sanchez]], [[António Costa]]
+|-
+| 562 || [[Pessoas Anti Máscara]]
+|-
+| 561 || [[Pedro Nuno Santos]]
+|-
+| 560 || [[André Ventura]], [[Chega]]
+|-
+| 559 || [[André Ventura]], [[Chega]], [[Maria Vieira]]
+|-
+| 558 || [[Alexandra Vasconcelos]]
+|-
+| 557 || [[Rui Pedro Braz]]
+|-
+| 556 || [[Salvador Malheiro]], [[Fernando Medina]]
+|-
+| 555 || [[Detectives Privados Nuno e Paula]]
+|-
+| 554 || [[Rádio Ondas da Cabreira]]
+|-
+| 553 || [[Carlos Carvalhal]]
+|-
+| 552 || [[Sara Winter]]
+|-
+| 551 || [[Rafael Braz]], [[José Carlos Pereira]]
+|-
+| 550 || [[Fábio Gerardo]]
+|-
 | 549 || [[Joana Dias]]
 |-
 | 548 || [[Sandra Silva]]
