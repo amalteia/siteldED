@@ -2,6 +2,34 @@
 |+ Table Generated from input.tsv
 ! Number !! Names
 |-
+| 581 || [[Jornalistas pela Verdade]], [[Sérgio Tavares]]
+|-
+| 580 || [[Cristina Ferreira]]
+|-
+| 579 || [[Joana Dias]]
+|-
+| 578 || [[Médicos pela Verdade]], [[Margarida Oliveira]]
+|-
+| 577 || [[Fãns de Tony Carreira]]
+|-
+| 576 || [[Rui Pedro Vaz]]
+|-
+| 575 || [[Rui Pedro Vaz]]
+|-
+| 574 || [[Cláudio Viana]]
+|-
+| 573 || [[Pedro Guerra]], [[Joaquim Sousa Martins]]
+|-
+| 572 || [[TVI]], [[SIC]], [[D. Graziela]], [[D. Maria José]], [[Ediberto Lima]]
+|-
+| 571 || [[Bárbara Corby]]
+|-
+| 570 || [[Fernanda Velez]], [[Ana Garcia Martins]], [[Mariana Seara Cardoso]], [[Bárbara Corby]]
+|-
+| 569 || [[Backstreet Boys]], [[Excesso]], [[D.A.M.A]], [[Xutos e Pontapés]], [[Santamaria]], [[Perfume]], [[Paulo Gonzo]], [[Lúcia Moniz]], [[João Pedro Pais]], [[GNR]]
+|-
+| 568 || [[Helena Coelho]]
+|-
 | 567 || [[Miguel Sousa Tavares]], [[Inês Sousa Real]]
 |-
 | 566 || [[Leonor Santos]], [[Tiago Paiva]]
