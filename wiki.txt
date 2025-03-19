@@ -2,6 +2,28 @@
 |+ Table Generated from input.tsv
 ! Number !! Names
 |-
+| 592 || [[Gilson Machado Neto]]
+|-
+| 591 || [[Conspiracionistas]], [[Covid-19]]
+|-
+| 590 || [[Isabel Figueira]], [[Rita Pereira]]
+|-
+| 589 || [[Diogo Faro]]
+|-
+| 588 || [[Cristina Ferreira]], [[Haters de Cristina Ferreira]]
+|-
+| 587 || [[Paulo Silva]]
+|-
+| 586 || [[Ljubomir Stanisic]], [[Francisco Rodrigues dos Santos (Chicão)]]
+|-
+| 585 || [[Bárbara Bandeira]], [[Inês Nogueira]]
+|-
+| 584 || [[Fernando Nobre]], [[Margarida Gomes de Oliveira]]
+|-
+| 583 || [[Radio Comercial]]
+|-
+| 582 || [[Jornalistas pela Verdade]], [[Sérgio Tavares]]
+|-
 | 581 || [[Jornalistas pela Verdade]], [[Sérgio Tavares]]
 |-
 | 580 || [[Cristina Ferreira]]
