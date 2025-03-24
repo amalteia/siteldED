@@ -2,6 +2,128 @@
 |+ Table Generated from input.tsv
 ! Number !! Names
 |-
+| 719 || [[Dolores Aveiro]], [[Xavier]]
+|-
+| 718 || [[Vanessa Martins]]
+|-
+| 717 || [[Bruxo de Fafe]], [[Mestre Alves]]
+|-
+| 716 || [[João Beles]], [[Covid-19]]
+|-
+| 715 || [[Domingão]], [[SIC]], [[João Baião]], [[Emmanuel]], [[Luciana Abreu]], [[Inês de Medeiros]], [[José Malhoa]]
+|-
+| 714 || [[Maria Leal]], [[Daniel Savate]]
+|-
+| 713 || [[Marco Paulo]], [[Ana Marques]]
+|-
+| 712 || [[Marco Paulo]]
+|-
+| 711 || [[Jejum intermitente]], [[Irina Alves]], [[Cristina Ferreira]], [[Ana Galvão]], [[Pedro Choi]]
+|-
+| 710 || [[Júlia Palha]], [[Estamos em Casa]]
+|-
+| 709 || [[José Gomes Ferreira]]
+|-
+| 708 || [[Quem Quer Namorar Com o Agricultor]], [[José Luís Fernandes]]
+|-
+| 707 || [[José Gomes Ferreira]]
+|-
+| 706 || [[Quem Quer Namorar com o Agricultor]], [[Andreia Rodrigues]], [[Aurélio Pinto]], [[Luís Feijão]], [[Tiago Belo]], [[Ana Palma]], [[Diogo Moreira]], [[José Luís Fernandes]]
+|-
+| 705 || [[Festival da Eurovisão]], [[Nuno GalopimJosé Carlos Malato]]
+|-
+| 704 || [[Festival da Eurovisão]], [[José Carlos Malato]], [[Nuno Galopim]]
+|-
+| 703 || [[Pedro Barroso]]
+|-
+| 702 || [[Fernando Seara]]
+|-
+| 701 || [[Cristiano Ronaldo]]
+|-
+| 700 || [[Margarida Oliveira]], [[César Augusto Moniz]], [[Sérgio Tavares]], [[Rui Fonseca e Castro]]
+|-
+| 699 || [[Toy]]
+|-
+| 698 || [[João Mota]]
+|-
+| 697 || [[Mónica Sintra]], [[Diogo Infante]]
+|-
+| 696 || [[Sporting]], [[Gabriel Alves]], [[CNL]], [[Paulinho Coelho]], [[Pedro Barbosa]], [[Augusto Inácio]], [[Nuno Luz]], [[Rodrigo Guedes de Carvalho]], [[Eduardo Barroso]]
+|-
+| 695 || [[Sportinguistas sofredores]]
+|-
+| 694 || [[Anúncios de Clínicas de Estética]], [[José Carlos Pereira]], [[Rita Pereira]]
+|-
+| 693 || [[Alexandra Lencastre]], [[Liliana Campos]], [[Heitor Lourenço]]
+|-
+| 692 || [[Alexandra Lencastre]], [[Carolina Patrocínio]]
+|-
+| 691 || [[Tomás Silva]]
+|-
+| 690 || [[Suzana Garcia]]
+|-
+| 689 || [[Suzana Garcia]]
+|-
+| 688 || [[Pedro Pinho]], [[Paulo Futre]], [[Vítor Pinto]], [[Octávio Machado]], [[CMTV]]
+|-
+| 687 || [[Conceição Queiroz]]
+|-
+| 686 || [[Raquel Varela]]
+|-
+| 685 || [[Kapinha]]
+|-
+| 684 || [[Kapinha]]
+|-
+| 683 || [[Catarina Furtado]]
+|-
+| 682 || [[Maria Botelho Moniz]], [[Cláudio Ramos]], [[Paulo Salvador]]
+|-
+| 681 || [[Cristina Ferreira]], [[Fred Gomes]], [[Jorge Coutinho]]
+|-
+| 680 || [[Rute Marques]]
+|-
+| 679 || [[Mafalda da Costa Melo]], [[Covid-19]]
+|-
+| 678 || [[Cláudio André]]
+|-
+| 677 || [[Cláudio André]]
+|-
+| 676 || [[Cláudio André]], [[David Araújo]]
+|-
+| 675 || [[Carminho (não a fadista)]], [[João Paulo Rodrigues]]
+|-
+| 674 || [[José Sócrates]]
+|-
+| 673 || [[João Beles]], [[Covid-19]]
+|-
+| 672 || [[Patricia Pontes]]
+|-
+| 671 || [[Marco Paulo]]
+|-
+| 670 || [[Cristina Ferreira]], [[Jorge Jesus]]
+|-
+| 669 || [[Cristina Ferreira]]
+|-
+| 668 || [[Porfírio e Silva]], [[Miguel Ribeiro]]
+|-
+| 667 || [[Rui Fonseca e Castro]]
+|-
+| 666 || [[Rui Fonseca e Castro]]
+|-
+| 665 || [[Joana Miranda]], [[Inês Gonçalves]]
+|-
+| 664 || [[Iara Dias]], [[Matthias Schmelz]], [[Agnes Arabela Marques]]
+|-
+| 663 || [[Iara Dias]], [[Matthias Schmelz]]
+|-
+| 662 || [[Covid-19]], [[Coro dos Anjos]], [[Maria Spínola]], [[Vítor Verdade (Inconveniente)]]
+|-
+| 661 || [[Covid-19]], [[Vicky]], [[Regina]], [[Nuno Barroso]], [[Adelaide Ferreira]]
+|-
+| 660 || [[Sandra Celas]], [[Covid-19]]
+|-
+| 659 || [[Ljubomir Stanisic]], [[Concorrentes Hell's Kitchen 2021]]
+|-
 | 658 || [[Ljubomir Stanisic]], [[Concorrentes Hell's Kitchen 2021]]
 |-
 | 657 || [[Nuno Graciano]], [[Nuno Gomes]], [[Fábio Coentrão]], [[Muguel Veloso]], [[Ángel Di María]], [[Mantorras]]
@@ -124,7 +246,7 @@
 |-
 | 598 || [[Marcelo Rebelo de Sousa]]
 |-
-| 597 || [[Cristina Ferreira]], [[Maria Cerqueira Gomes]], [[Francisco Menezes]], [[Rita Pereira]], [[Rúben Rua]], [[]]
+| 597 || [[Cristina Ferreira]], [[Maria Cerqueira Gomes]], [[Francisco Menezes]], [[Rita Pereira]], [[Rúben Rua]]
 |-
 | 596 || [[Sam The Kid]], [[Possessivo.Alexandra Lencastre]], [[Joana Marques]]
 |-
@@ -504,7 +626,7 @@
 |-
 | 408 || [[Balões de ar quente]], [[Carla Rocha]], [[Ana Galvão]], [[Rosa Grilo]]
 |-
-| 407 || [[Patrícia Cândido]], [[Joana Marques]], [[Código da Alma]], [[]]
+| 407 || [[Patrícia Cândido]], [[Joana Marques]], [[Código da Alma]]
 |-
 | 406 || [[Marcelo Rebelo de Sousa]], [[Alta Definição]], [[Daniel Oliveira]], [[Cavaco Silva]], [[Donald Trump]]
 |-
@@ -592,7 +714,7 @@
 |-
 | 364 || [[Cinha Jardim]], [[Alentejo]], [[Marco Paulo]], [[Anjos]], [[Rádio Campanário]], [[Ana Galvão]], [[Feijoada da Caras]]
 |-
-| 363 || [[Filipa Garnel]], [[Bruno de Carvalho]], [[Madonna]], [[Rita Pereira]], [[David Carreira]], [[Jorge Jesus]], [[Clã Abreu]], [[Luciana Abreu]], [[Dani Gonçalves]], [[ToyPraia de Leça]], [[]]
+| 363 || [[Filipa Garnel]], [[Bruno de Carvalho]], [[Madonna]], [[Rita Pereira]], [[David Carreira]], [[Jorge Jesus]], [[Clã Abreu]], [[Luciana Abreu]], [[Dani Gonçalves]], [[ToyPraia de Leça]]
 |-
 | 362 || [[Mercadona]], [[Ana Galvão]], [[Inauguração de lojas]], [[Primark]], [[IKEA de Alfragide]], [[Pingo Doce de Telheiras]], [[Spar]], [[Marrachinho]]
 |-
