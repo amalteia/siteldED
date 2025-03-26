@@ -2,6 +2,102 @@
 |+ Table Generated from input.tsv
 ! Number !! Names
 |-
+| 791 || [[Gustavo Santos]]
+|-
+| 790 || [[Cristina Ferreira]]
+|-
+| 789 || [[Sónia Monteiro]]
+|-
+| 788 || [[Yeniffer Campos]]
+|-
+| 787 || [[Ricardo Teixeira]]
+|-
+| 786 || [[Separados pela Vida]], [[Tia Maya]]
+|-
+| 785 || [[Marcelo Rebelo de Sousa]], [[Duarte Siopa]], [[Mário Jardel]]
+|-
+| 784 || [[Rúben Rua]], [[Maria Cerqueira Gomes]]
+|-
+| 783 || [[Rúben Rua]], [[Maria Cerqueira Gomes]]
+|-
+| 782 || [[Joana Marques]]
+|-
+| 781 || [[Aristides Teixeira]]
+|-
+| 780 || [[Manuel Barros]]
+|-
+| 779 || [[Rui Xará]]
+|-
+| 778 || [[Rui Xará]]
+|-
+| 777 || [[Quimbé]], [[Ariel Rubin Fonseca]]
+|-
+| 776 || [[José Cid]]
+|-
+| 775 || [[Ricardo Martins Pereira (Arrumadinho)]]
+|-
+| 774 || [[Ricardo Martins Pereira (Arrumadinho)]], [[Ana Garcia Martins]]
+|-
+| 773 || [[Rúben Rua]]
+|-
+| 772 || [[Jorge Kapinha]], [[Duarte Siopa]]
+|-
+| 771 || [[Globos de Ouro 2021]], [[Bárbara Tinoco]], [[Humberto Bernardo]], [[Carolina Deslandes]], [[Maria João Luís]], [[Rui Mendes]], [[Alexandra Lencastre]], [[Francisco Pinto Balsemão]], [[Augusto Seabra]], [[Luciana Abreu]], [[Júlia Pinheiro]]
+|-
+| 770 || [[Globos de Ouro 2021]], [[Francisco Pedro Balsemão]], [[Filomena Cautela]], [[Iva Lamarão]]
+|-
+| 769 || [[Globos de Ouro 2021]], [[Clara de Sousa]], [[Teresa Villaverde]], [[Barbara Pollastri]], [[José Fidalgo]], [[Cristina Ferreira]], [[João Baião]], [[Nuno Nogueira]], [[Fernando Mendes]], [[Ricardo Pereira]]
+|-
+| 768 || [[Carlos do Paulo]]
+|-
+| 767 || [[Luciana Abreu]], [[Jéssica Athayde]]
+|-
+| 766 || [[João Barbosa (Numeiro)]], [[Alexandre Santos]]
+|-
+| 765 || [[João Barbosa (Numeiro)]], [[Alexandre Santos]]
+|-
+| 764 || [[Carlos Afonso (Bondage)]], [[Covid-19]]
+|-
+| 763 || [[CMTV]], [[Paulo Russo Corceiro]]
+|-
+| 762 || [[Joana Amaral Dias]]
+|-
+| 761 || [[Nuno Santana]]
+|-
+| 760 || [[Covid-19]], [[Alexandra Santos (A Dama do Açaime)]]
+|-
+| 759 || [[Manifestantes Negacionistas]], [[Covid-19]], [[Alexandra Santos (A Dama do Açaime)]]
+|-
+| 758 || [[Jorge Martinez (Jorge Rocha)]]
+|-
+| 757 || [[Manifestantes Negacionistas]], [[Covid-19]], [[Eduardo Ferro Rodrigues]], [[Anabela Seabra (Ana Desirat)]], [[Joana Amaral Dias]]
+|-
+| 756 || [[Manifestantes Negacionistas]], [[Covid-19]], [[Anabela Seabra (Ana Desirat)]]
+|-
+| 755 || [[Big Brother]], [[Joana Schreyer]], [[Rafael Teixeira]], [[João Ligeiro]], [[Nuno Lopes]], [[Rui Baptista]], [[Rui Pinheiro]], [[Rui Pinheiro]], [[Maria da Conceição Santos]], [[Rita Santos]], [[Yeniffer Campos]], [[Débora Neves]]
+|-
+| 754 || [[Big Brother]], [[Ana Barbosa]], [[Ana Morina]], [[Bruno D'Almeida]], [[Ana Soares]], [[Aurora Sousa]], [[Fábio Faísca]]
+|-
+| 753 || [[Bárbara Bandeira]], [[Rui Bandeira]]
+|-
+| 752 || [[Marco Sousa]]
+|-
+| 751 || [[Gustavo Santos]]
+|-
+| 750 || [[Rui Fonseca e Castro]], [[CMTV]]
+|-
+| 749 || [[Gustavo Santos]], [[Rúben Rua]]
+|-
+| 748 || [[Gustavo Santos]]
+|-
+| 747 || [[Bárbara Corby]], [[Sandra Silva]]
+|-
+| 746 || [[Henrique Gouveia e Melo]], [[Covid-19]]
+|-
+| 745 || [[Sandra Silvério]], [[Joana Amaral Dias]]
+|-
+| 744 || [[Agnes Arabela]], [[Catarina Furtado]], [[Pedro Barroso]], [[Rita Pereira]], [[Claudia Isabel]], [[Patricia Pontes]], [[Cristina Ferreira]], [[Rui Pedro Bras]], [[Fernando Seara]], [[Sandra Celas]]
+|-
 | 743 || [[Luciana Abreu]]
 |-
 | 742 || [[Luciana Abreu]], [[Emmanuel]]
