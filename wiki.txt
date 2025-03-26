@@ -2,6 +2,22 @@
 |+ Table Generated from input.tsv
 ! Number !! Names
 |-
+| 799 || [[Vanessa Martins]]
+|-
+| 798 || [[Diogo Faro]], [[Pedro Granger]], [[Peter Castro]], [[Mafalda Fernandes]], [[Pedro Ferreira Castro]], [[Mário Amaro]]
+|-
+| 797 || [[Daniela Salles]]
+|-
+| 796 || [[Daniel Oliveira]]
+|-
+| 795 || [[João Pedro Pais]]
+|-
+| 794 || [[Joana de Albuquerque]]
+|-
+| 793 || [[Maria Helena Costa]]
+|-
+| 792 || [[Gustavo Santos]]
+|-
 | 791 || [[Gustavo Santos]]
 |-
 | 790 || [[Cristina Ferreira]]
