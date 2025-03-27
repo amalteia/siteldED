@@ -2,6 +2,80 @@
 |+ Table Generated from input.tsv
 ! Number !! Names
 |-
+| 836 || [[Rui André Soares]]
+|-
+| 835 || [[Rui André Soares]]
+|-
+| 834 || [[Patrícia Porto]]
+|-
+| 833 || [[Carlos Areia]], [[Rosa Bela]]
+|-
+| 832 || [[Bruno de Carvalho]]
+|-
+| 831 || [[Luís Franco-Bastos]], [[Salvador Martinha]], [[Mariana Alvim]], [[Pedro Fernandes]]
+|-
+| 830 || [[Georgina Rodríguez]], [[Paula Brito]]
+|-
+| 829 || [[Georgina Rodríguez]]
+|-
+| 828 || [[Joana Amaral Dias]]
+|-
+| 827 || [[Helena Laureano]]
+|-
+| 826 || [[Marco Paulo]]
+|-
+| 825 || [[Rita Matias]], [[Joana Amaral Dias]]
+|-
+| 824 || [[Leandro Portugal]]
+|-
+| 823 || [[Rui Rio]], [[Francisco Rodrigues dos Santos (Chicão)]], [[Maria Vieira]], [[Fernando Rocha (Marido de Maria Vieira)]], [[Bruno de Carvalho]], [[Mário Jardel]], [[Leandro Portugal]], [[Cláudia Nayara]], [[Rita Pereira]], [[Vanessa Martins]]
+|-
+| 822 || [[Cláudia Nayara]]
+|-
+| 821 || [[Soraia Antunes]]
+|-
+| 820 || [[Vera Fernandes]]
+|-
+| 819 || [[Ana Isableal]], [[Joana Marques]], [[Ana Galvão]]
+|-
+| 818 || [[Leandro Portugal]]
+|-
+| 817 || [[Movimento Libertem as Crianças]], [[Covid-19]], [[Vicky]], [[João Marcello Caetano]]
+|-
+| 816 || [[Débora Monteiro]]
+|-
+| 815 || [[Fernando Nogueira (Bruxo de Fafe)]]
+|-
+| 814 || [[Wuant (Paulo)]]
+|-
+| 813 || [[Movimento Libertem as Crianças]], [[Covid-19]]
+|-
+| 812 || [[Pedro Barroso]]
+|-
+| 811 || [[Estraca]]
+|-
+| 810 || [[Pedro Hipólito]]
+|-
+| 809 || [[Pedro Hipólito]]
+|-
+| 808 || [[Fábio Paim]]
+|-
+| 807 || [[Susana Pinto]]
+|-
+| 806 || [[Marta Aragão Pinto]], [[Sara do Ó]]
+|-
+| 805 || [[Sancha Trindade]]
+|-
+| 804 || [[Noite da Medicina]]
+|-
+| 803 || [[CNN]], [[Sara de Melo Rocha]], [[Cátia Esteves]], [[Ana Brito e Cunha]], [[Inês Castel-Branco]], [[Beatriz Ralon]]
+|-
+| 802 || [[João Rendeiro]], [[Júlio Magalhães]]
+|-
+| 801 || [[São José Correia]], [[Gustavo Santos]]
+|-
+| 800 || [[Luis Filipe Vieira]], [[Joe Berardo]]
+|-
 | 799 || [[Vanessa Martins]]
 |-
 | 798 || [[Diogo Faro]], [[Pedro Granger]], [[Peter Castro]], [[Mafalda Fernandes]], [[Pedro Ferreira Castro]], [[Mário Amaro]]
