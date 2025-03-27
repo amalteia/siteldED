@@ -2,6 +2,32 @@
 |+ Table Generated from input.tsv
 ! Number !! Names
 |-
+| 849 || [[Francisco Penin]], [[Ágata Rodrigues]]
+|-
+| 848 || [[Festival da Canção]], [[Tânia Ribas de Oliveira]], [[Inês Lopes Gonçalves]], [[Cubita]], [[Inês Homem de Melo]], [[Pepperoni Passion]], [[Os Azeitonas]], [[Milhanas]], [[José Carlos Malato]], [[José Cid]], [[Surma]], [[O Vampiro Submarino]]
+|-
+| 847 || [[Festival da Canção]], [[Jorge Gabriel]], [[Sónia Araújo]], [[Inês Lopes Gonçalves]], [[Kumpania Algazarra]], [[Fado Bicha]], [[Aurea]], [[Dino D’Santiago]], [[Tatanka]], [[Pedro Granger]], [[Dulce Pontes]], [[Surma]]
+|-
+| 846 || [[Rui Unas]]
+|-
+| 845 || [[Ídolos]], [[André Filipe]], [[Anuska Marques]], [[Ricardo José]], [[Sónia Costa]], [[Tanya (Tânia Margarida Santos Lima)]]
+|-
+| 844 || [[Big Brother Famosos]], [[Daniel Kenedy]], [[Nuno Graciano]]
+|-
+| 843 || [[Ídolos]], [[André Filipe]], [[Anuska Marques]], [[Ricardo José]], [[Sónia Quim Costa]], [[Tanya (Tânia Margarida Santos Lima)]]
+|-
+| 842 || [[Big Brother Famosos]], [[Fernando Semedo]], [[Bernardo Sousa]], [[Marie (Maria Manuela Pinheiro Gomes)]], [[Pedro Pico]], [[Sara Aleixo]], [[Bruna Gomes]], [[Mafalda Matos]], [[Miguel Azevedo]], [[Tanya (Tânia Lima)]]
+|-
+| 841 || [[Rui Fonseca e Castro]]
+|-
+| 840 || [[Bruno de Carvalho]]
+|-
+| 839 || [[Gala da TVI]], [[Cláudio Ramos]], [[Rúben Rua]], [[Manuel Luís Goucha]], [[Maria Cerqueira Gomes]], [[Maria Botelho Moniz]], [[Lurdes Baeta]], [[Miguel Gameiro]]
+|-
+| 838 || [[Gala da TVI]], [[Kelly Ribeiro Bailey]], [[Rosinha]], [[Mónica Sintra]], [[Rúben Rua]], [[Carlos Cunha]], [[Jingle Lee (Miguel Silva)]], [[José Cid]]
+|-
+| 837 || [[TVI]], [[São José Lapa]], [[João Montez]], [[Rita Pereira]], [[José Lopes]]
+|-
 | 836 || [[Rui André Soares]]
 |-
 | 835 || [[Rui André Soares]]
