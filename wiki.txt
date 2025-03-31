@@ -2,6 +2,58 @@
 |+ Table Generated from input.tsv
 ! Number !! Names
 |-
+| 875 || [[Anabela Seabra (Désirat)]], [[Associação 21|26]], [[Covid-19]]
+|-
+| 874 || [[Alexandra Solnado]]
+|-
+| 871 || [[Sandra Silva]]
+|-
+| 872 || [[Nuno Homem de Sá]]
+|-
+| 871 || [[Sandra Felgueiras]], [[Cristina Real]], [[Carlos Carreira]]
+|-
+| 870 || [[Joana Marques]], [[Ana Galvão]], [[Inês Lopes Gonçalves]]
+|-
+| 869 || [[Gustavo Santos]], [[Abel Camará]]
+|-
+| 868 || [[Gonçalo Quinaz]], [[Sónia Costa]], [[Léo Caeiro]], [[Duarte Siopa]], [[Adriano Silva Martins]]
+|-
+| 867 || [[Tayti (banda)]], [[Ágata Rodrigues]], [[Catarina Martins (Cathy)]], [[Tânia Lima (Tanya)]]
+|-
+| 866 || [[Crónica Criminal]], [[Ticiana Xavier]]
+|-
+| 865 || [[Ricardo Martins Pereira (Arrumadinho)]]
+|-
+| 864 || [[Bárbara Norton de Matos]], [[Para Sempre (telenovela)]], [[José Cid]]
+|-
+| 863 || [[Catarina Furtado]], [[Mário Augusto]], [[Vanessa Oliveira]], [[Quimbé]], [[Sérgio Rosado]]
+|-
+| 862 || [[Catarina Furtado]], [[Mário Augusto]], [[Vanessa Oliveira]], [[Paixão da Costa]], [[Luís Filipe Borges]], [[Bruno Gascon]]
+|-
+| 861 || [[Helder Tavares]]
+|-
+| 860 || [[Casados à Primeira Vista]], [[João Pires]], [[Dulce Pimenta]]
+|-
+| 859 || [[Casados à Primeira Vista]], [[Tiago Jaqueta]], [[Dina Guedes]]
+|-
+| 858 || [[Décio Dinis]], [[Eliana Dinis]], [[Catarina Rodrigues]]
+|-
+| 857 || [[Para Sempre (telenovela)]]
+|-
+| 856 || [[Rebeca (Anaísa)]]
+|-
+| 855 || [[Bárbara Norton de Matos]], [[Luís Norton de Matos]]
+|-
+| 854 || [[Tiago Paiva]]
+|-
+| 853 || [[Bruno de Carvalho]]
+|-
+| 852 || [[Sara Aleixo]], [[Fernanda Brito]], [[Bruna Cardoso]]
+|-
+| 851 || [[Fernanda Brito]]
+|-
+| 850 || [[Pedro Bello Moraes]], [[José Cid]]
+|-
 | 849 || [[Francisco Penin]], [[Ágata Rodrigues]]
 |-
 | 848 || [[Festival da Canção]], [[Tânia Ribas de Oliveira]], [[Inês Lopes Gonçalves]], [[Cubita]], [[Inês Homem de Melo]], [[Pepperoni Passion]], [[Os Azeitonas]], [[Milhanas]], [[José Carlos Malato]], [[José Cid]], [[Surma]], [[O Vampiro Submarino]]
@@ -26,7 +78,7 @@
 |-
 | 838 || [[Gala da TVI]], [[Kelly Ribeiro Bailey]], [[Rosinha]], [[Mónica Sintra]], [[Rúben Rua]], [[Carlos Cunha]], [[Jingle Lee (Miguel Silva)]], [[José Cid]]
 |-
-| 837 || [[TVI]], [[São José Lapa]], [[João Montez]], [[Rita Pereira]], [[José Lopes]]
+| 837 || [[Gala da TVI]], [[São José Lapa]], [[João Montez]], [[Rita Pereira]], [[José Lopes]]
 |-
 | 836 || [[Rui André Soares]]
 |-
@@ -186,9 +238,9 @@
 |-
 | 758 || [[Jorge Martinez (Jorge Rocha)]]
 |-
-| 757 || [[Manifestantes Negacionistas]], [[Covid-19]], [[Eduardo Ferro Rodrigues]], [[Anabela Seabra (Ana Desirat)]], [[Joana Amaral Dias]]
+| 757 || [[Manifestantes Negacionistas]], [[Covid-19]], [[Eduardo Ferro Rodrigues]], [[Anabela Seabra (Désirat)]], [[Joana Amaral Dias Dias]]
 |-
-| 756 || [[Manifestantes Negacionistas]], [[Covid-19]], [[Anabela Seabra (Ana Desirat)]]
+| 756 || [[Manifestantes Negacionistas]], [[Covid-19]], [[Anabela Seabra (Desirat)]]
 |-
 | 755 || [[Big Brother]], [[Joana Schreyer]], [[Rafael Teixeira]], [[João Ligeiro]], [[Nuno Lopes]], [[Rui Baptista]], [[Rui Pinheiro]], [[Rui Pinheiro]], [[Maria da Conceição Santos]], [[Rita Santos]], [[Yeniffer Campos]], [[Débora Neves]]
 |-
@@ -266,7 +318,7 @@
 |-
 | 718 || [[Vanessa Martins]]
 |-
-| 717 || [[Bruxo de Fafe]], [[Mestre Alves]]
+| 717 || [[Fernando Nogueira (Bruxo de Fafe)]], [[Mestre Alves]]
 |-
 | 716 || [[João Beles]], [[Covid-19]]
 |-
@@ -452,7 +504,7 @@
 |-
 | 625 || [[Joana Marques]], [[Pastelaria São Jorge]], [[Influenciadores]], [[Covid-19]], [[Alex Silva]]
 |-
-| 624 || [[Hélder Teixeira]], [[Big Brother 2021]]
+| 624 || [[Hélder Teixeira]], [[Big Brother]]
 |-
 | 623 || [[Joana Dias]]
 |-
@@ -490,7 +542,7 @@
 |-
 | 606 || [[Fátima Campos Ferreira]], [[Sérgio Conceição]]
 |-
-| 605 || [[2020]], [[Adriano Maranhão]], [[Lili Caneças]], [[Joacine Katar Moreira]], [[Wuant]], [[Fátima Campos Ferreira]], [[Cláudio Viana]], [[Hélder Teixeira]], [[Manuel Fernandes]], [[Rui Santos]], [[Cinha Jardim]], [[Rodrigues Guedes de Carvalho]], [[Sancha Trindade]]
+| 605 || [[2020]], [[Adriano Maranhão]], [[Lili Caneças]], [[Joacine Katar Moreira]], [[Wuant (Paulo)]], [[Fátima Campos Ferreira]], [[Cláudio Viana]], [[Hélder Teixeira]], [[Manuel Fernandes]], [[Rui Santos]], [[Cinha Jardim]], [[Rodrigues Guedes de Carvalho]], [[Sancha Trindade]]
 |-
 | 604 || [[2020]], [[Joana Marques]], [[Ana Galvão]], [[Cristina Ferreira]], [[Cláudio Ramos]], [[Maria Botelho Moniz]], [[Madonna]], [[Piruka]], [[Sporting]], [[Francisco Varandas]]
 |-
@@ -556,7 +608,7 @@
 |-
 | 573 || [[Pedro Guerra]], [[Joaquim Sousa Martins]]
 |-
-| 572 || [[TVI]], [[SIC]], [[D. Graziela]], [[D. Maria José]], [[Ediberto Lima]]
+| 572 || [[TVI]], [[SIC]], [[Dona Graziela]], [[Dona Maria José]], [[Ediberto Lima]]
 |-
 | 571 || [[Bárbara Corby]]
 |-
@@ -630,15 +682,15 @@
 |-
 | 536 || [[Joana Latino]], [[Jéssica Athayde]]
 |-
-| 535 || [[Hélder Teixeira]], [[Big Brother 2020]], [[Daniel  Monteiro]]
+| 535 || [[Hélder Teixeira]], [[Big Brother]], [[Daniel  Monteiro]]
 |-
-| 534 || [[Hélder Teixeira]], [[Big Brother 2020]]
+| 534 || [[Hélder Teixeira]], [[Big Brother]]
 |-
 | 533 || [[Isabel dos Santos]], [[Jair Bolsonaro]]
 |-
 | 532 || [[Alexandra Solnado]]
 |-
-| 531 || [[Cláudio Ramos]], [[Big Brother 2020]]
+| 531 || [[Cláudio Ramos]], [[Big Brother]]
 |-
 | 530 || [[Regina Duarte]], [[Maitê Proença]]
 |-
@@ -654,9 +706,9 @@
 |-
 | 524 || [[Prós e Contras]], [[Fátima Campos Ferreira]], [[Mariana Sottomayor]]
 |-
-| 523 || [[Big Brother 2020]], [[Fábio Martins]], [[Daniel Monteiro]], [[Daniel Guerreiro]], [[Hélder Teixeira]], [[Pedro Alves]], [[Pedro Soá]]
+| 523 || [[Big Brother]], [[Fábio Martins]], [[Daniel Monteiro]], [[Daniel Guerreiro]], [[Hélder Teixeira]], [[Pedro Alves]], [[Pedro Soá]]
 |-
-| 522 || [[Big Brother 2020]], [[Cláudio Ramos]], [[Sónia Jesus]], [[Angélica Gallettino]], [[Iury Mellany]], [[Edmar Teixeira]], [[Slávia dos Santos]], [[Jéssica Nogueira]], [[Ana Catarina França]], [[Rui Alves]]
+| 522 || [[Big Brother]], [[Cláudio Ramos]], [[Sónia Jesus]], [[Angélica Gallettino]], [[Iury Mellany]], [[Edmar Teixeira]], [[Slávia dos Santos]], [[Jéssica Nogueira]], [[Ana Catarina França]], [[Rui Alves]]
 |-
 | 521 || [[Tiago Castro]], [[Sofia Grilo]]
 |-
@@ -736,11 +788,11 @@
 |-
 | 483 || [[João Moura]]
 |-
-| 482 || [[Coronavírus]], [[Adriano Maranhão]], [[Emanuelle Maranhão]], [[TVI]], [[CMTV]]
+| 482 || [[Covid-19]], [[Adriano Maranhão]], [[Emanuelle Maranhão]], [[TVI]], [[CMTV]]
 |-
 | 481 || [[Joana Marques]]
 |-
-| 480 || [[Dr. Almeida Nunes]], [[Cristina Ferreira]], [[Coronavírus]], [[Portugueses em Wuhan]], [[Cláudio Ramos]]
+| 480 || [[Dr. Almeida Nunes]], [[Cristina Ferreira]], [[Covid-19]], [[Portugueses em Wuhan]], [[Cláudio Ramos]]
 |-
 | 479 || [[Cinha Jardim]], [[Manuel Luís Goucha]], [[André Ventura]]
 |-
@@ -770,7 +822,7 @@
 |-
 | 466 || [[Pedro (testemunha de Rosa Grilo)]]
 |-
-| 465 || [[Coronavírus]], [[Portugueses em Wuhan]]
+| 465 || [[Covid-19]], [[Portugueses em Wuhan]]
 |-
 | 464 || [[Francisco Rodrigues dos Santos (Chicão)]]
 |-
@@ -778,7 +830,7 @@
 |-
 | 462 || [[CMTV]], [[Segurança de José Eduardo dos Santos]]
 |-
-| 461 || [[CF Canelas 2010]], [[Fernando Madureira]], [[Luís Pinela]]
+| 461 || [[CF Canelas 2010]], [[Fernando Madureira (macaco)]], [[Luís Pinela]]
 |-
 | 460 || [[Antilook]], [[Rute Marques]], [[Luísa Beirão]], [[Evelina Pereira]], [[Raquel Loureiro]], [[Vera Deus]]
 |-
@@ -818,7 +870,7 @@
 |-
 | 442 || [[Joana Marques]]
 |-
-| 441 || [[Liliana Filipa]], [[Daniel Gregório]], [[Nome das crianças]], [[Fanny Rodrigues]]
+| 441 || [[Liliana Filipa]], [[Daniel Gregório]], [[Fanny Rodrigues]]
 |-
 | 440 || [[Prós e Contras]], [[Fátima Campos Ferreira]]
 |-
@@ -858,7 +910,7 @@
 |-
 | 422 || [[Tiagovski]]
 |-
-| 421 || [[Wuant]], [[Paulo Borges]], [[Xavier]], [[Hugo Strada]]
+| 421 || [[Wuant (Paulo)]], [[Paulo Borges]], [[Xavier]], [[Hugo Strada]]
 |-
 | 420 || [[João Galamba]], [[Fátima Campos Ferreira]], [[Canábis]]
 |-
@@ -892,7 +944,7 @@
 |-
 | 405 || [[Chega]], [[André Ventura]], [[Humberto Bernardo]], [[Alentejanos]], [[Ciganos]]
 |-
-| 404 || [[Sofia Nicholson]], [[Fans de Manuel Luís Goucha]], [[Rihanna]], [[Xavier]]
+| 404 || [[Sofia Nicholson]], [[Fãs de Manuel Luís Goucha]], [[Rihanna]], [[Xavier]]
 |-
 | 403 || [[Bruno de Carvalho]], [[CMTV]]
 |-
@@ -940,7 +992,7 @@
 |-
 | 381 || [[Carla Guimarães]]
 |-
-| 380 || [[Sporting]], [[Siniša Mihajlović]], [[José Peseiro]], [[Tiago Fernandes]], [[Marcel Keizer]], [[Frederico Varandas]], [[Julen LopeteguiJorge Jesus]], [[Luiz Felipe Scolari]], [[Bruno Fernandes]], [[Manuel Machado]], [[Filipe Rocha]]
+| 380 || [[Sporting]], [[Siniša Mihajlović]], [[José Peseiro]], [[Tiago Fernandes]], [[Marcel Keizer]], [[Frederico Varandas]], [[Julen Lopetegui]], [[Jorge Jesus]], [[Luiz Felipe Scolari]], [[Bruno Fernandes]], [[Manuel Machado]], [[Filipe Rocha]]
 |-
 | 379 || [[Bruno Salgueiro]], [[Donald Trump]]
 |-
