@@ -844,7 +844,7 @@
 |-
 | 455 || [[Amigos Improváveis]]
 |-
-| 454 || [[Madonna]], [[Gaspar Varela]], [[Fans de Madonna]]
+| 454 || [[Madonna]], [[Gaspar Varela]], [[Fãs de Madonna]]
 |-
 | 453 || [[Miguel Pinto Luz]], [[Alberto João Jardim]], [[Luís Montenegro]], [[Rui Rio]], [[Vitor Martins]], [[Joana Marques]]
 |-
@@ -1140,7 +1140,7 @@
 |-
 | 307 || [[Maria Leal]]
 |-
-| 306 || [[Rui Oliveira]], [[Cláudio Ramos]], [[Marido de Maria Vieira]]
+| 306 || [[Rui Oliveira]], [[Cláudio Ramos]], [[Fernando Rocha (Marido de Maria Vieira)]]
 |-
 | 305 || [[Youtubers]], [[SirKazzio]]
 |-
@@ -1178,11 +1178,11 @@
 |-
 | 288 || [[Quem Quer Casar com o Meu Filho]], [[TVI]], [[Sogras]], [[Yuri]], [[Maria de Lurdes Modesto]], [[Mães]]
 |-
-| 287 || [[Joana Marques]], [[João Pedro Marques]], [[Companhias Low Cost]], [[Bruxo de Fafe]]
+| 287 || [[Joana Marques]], [[João Pedro Marques]], [[Companhias Low Cost]], [[Fernando Nogueira (Bruxo de Fafe)]]
 |-
 | 286 || [[CMTV]], [[Sofia Arruda]], [[Helena Costa]], [[Francisco Penin]], [[Rosa Grilo]], [[Anabela Teixeira]], [[António Pedro Cerdeira]], [[João Catarré]], [[Praia de Moledo]], [[Neto de Moura]], [[O Princepezinho]], [[Gonçalo Botelho]]
 |-
-| 285 || [[Maria Vieira]], [[Júlia Pinheiro]], [[Marido de Maria Vieira]], [[Facebook]], [[Chulo]]
+| 285 || [[Maria Vieira]], [[Júlia Pinheiro]], [[Fernando Rocha (Marido de Maria Vieira)]], [[Facebook]], [[Chulo]]
 |-
 | 284 || [[Joana Marques]], [[Corso de Carnaval]], [[Sambistas da Mealhada]], [[António Costa]], [[Walter Chicharro]], [[Reis do Carnaval]]
 |-
@@ -1262,7 +1262,7 @@
 |-
 | 246 || [[Paco Bandeira]], [[Marial Leal]], [[Vidas Suspensas]], [[António Ribeiro Cristóvão]], [[Joana Marques]], [[Casados à Primeira Vista]], [[OLX]], [[Trabalhadores da Autoeuropa]], [[SIC]], [[5àsec]], [[Colombo]], [[ArrábidaShopping]], [[Gisela de Jesus]], [[Sociadade Portuguesa de Autores]], [[Kevin Spacey]], [[Bruno Alves]]
 |-
-| 245 || [[Graça Fonseca]], [[Wuant]], [[Correio da Manhã]], [[JN]], [[SirKazzio]], [[Joana Marques]], [[Amiga Olga]], [[Artigo 13]], [[Sérgio Godinho]], [[Alves Gonçalves]], [[Katty Xiomara]], [[Deus]], [[Sandra Marques]], [[Xavier]], [[SIC Notícias]]
+| 245 || [[Graça Fonseca]], [[Wuant (Paulo)]], [[Correio da Manhã]], [[JN]], [[SirKazzio]], [[Joana Marques]], [[Amiga Olga]], [[Artigo 13]], [[Sérgio Godinho]], [[Alves Gonçalves]], [[Katty Xiomara]], [[Deus]], [[Sandra Marques]], [[Xavier]], [[SIC Notícias]]
 |-
 | 244 || [[Blaya]], [[Inês Lopes Gonçalves]], [[Rádio Comercial]], [[Joana Marques]], [[Tatuagens]], [[Daniel Saavedra]], [[Andrea Bocelli]], [[Pedro Chagas Freitas]]
 |-
@@ -1356,7 +1356,7 @@
 |-
 | 199 || [[Cristina Ferreira]], [[Cristiano Ronaldo]], [[José Mourinho]], [[SIC]], [[Rodrigues Guedes de Carvalho]], [[Elton John]], [[Feiras]], [[Xavier]], [[Filho da Cristina Ferreira]], [[Novelas da SIC]], [[Lady Diana]]
 |-
-| 198 || [[Regresso às aulas]], [[Estudantes]], [[Luís Oliveira]], [[Inês Lopes Gonçalves]], [[Wuant]], [[Intermache]], [[Youtubers]], [[Stapples]], [[David Carreira]], [[Continente]], [[D8]], [[Diogo Piçarra]], [[Soraia Chaves]], [[Vadafone]], [[Cristina Ferreira]]
+| 198 || [[Regresso às aulas]], [[Estudantes]], [[Luís Oliveira]], [[Inês Lopes Gonçalves]], [[Wuant (Paulo)]], [[Intermache]], [[Youtubers]], [[Stapples]], [[David Carreira]], [[Continente]], [[D8]], [[Diogo Piçarra]], [[Soraia Chaves]], [[Vadafone]], [[Cristina Ferreira]]
 |-
 | 197 || [[José Pedro Gomes]], [[Sporting]], [[Carla Ferreira]], [[Frederico Varandas]]
 |-
@@ -1500,7 +1500,7 @@
 |-
 | 127 || [[Octávio Machado]], [[Manuel Ribeiro]], [[Eduardo Barroso]]
 |-
-| 126 || [[Luciana Abreu]], [[Nuno Lopes]], [[Marido da Maria Vieira]], [[H&M]], [[Yanny ou Laurel]]
+| 126 || [[Luciana Abreu]], [[Nuno Lopes]], [[Fernando Rocha (Marido de Maria Vieira)]], [[H&M]], [[Yanny ou Laurel]]
 |-
 | 125 || [[Joana Marques]], [[Diane Carson]], [[Quintino Aires]]
 |-
@@ -1644,7 +1644,7 @@
 |-
 | 55 || [[Clientes Intermache]]
 |-
-| 54 || [[Fans de Artistas]], [[Sérgio Cardoso]], [[Ana Markl]]
+| 54 || [[Fãs de Artistas]], [[Sérgio Cardoso]], [[Ana Markl]]
 |-
 | 53 || [[Elle Darby]]
 |-
@@ -1734,7 +1734,7 @@
 |-
 | 10 || [[Clientes da Primark]], [[Jorge Jesus]], [[Rita Ferro Rodrigues]], [[Ana Malhoa]], [[Ana Markl]], [[Silvia Alberto]], [[Dona Otilia]], [[Ljubomir Stanisic]]
 |-
-| 9 || [[Diogo Morgado]], [[Madonna]], [[Maria Vieira]], [[Marido da Maria Vieira]], [[José Rodrigues dos Santos]]
+| 9 || [[Diogo Morgado]], [[Madonna]], [[Maria Vieira]], [[Fernando Rocha (Marido de Maria Vieira)]], [[José Rodrigues dos Santos]]
 |-
 | 8 || [[Conceição Lino]], [[Rui Veloso]], [[Carlão]]
 |-
