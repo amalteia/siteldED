@@ -2,6 +2,54 @@
 |+ Table Generated from input.tsv
 ! Number !! Names
 |-
+| 899 || [[José Cid]]
+|-
+| 898 || [[Marial Leal]], [[FCT]]
+|-
+| 897 || [[Débora Monteiro]]
+|-
+| 896 || [[Concorrentes Ídolos 2022]]
+|-
+| 895 || [[Tatanka]], [[Ana Bacalhau]], [[Martim Sousa Tavares]], [[Joana Marques]], [[Concorrentes Ídolos 2022]]
+|-
+| 894 || [[António Tadeia]]
+|-
+| 893 || [[Francisco Maria Pereira (Kacha)]], [[D.A.M.A]], [[Cristina Ferreira]], [[Big Brother]]
+|-
+| 892 || [[Cristina Ferreira]], [[Francisco Maria Pereira (Kacha)]], [[Big Brother]]
+|-
+| 891 || [[Betclic Mano a Mano]], [[Pedro Henriques]], [[Gilmário Vemba]], [[Ana Garcia Martins]], [[Nuno Duarte (Tio Jel)]], [[Fernando Melão]], [[Maria Sampaio]], [[João Seabra]], [[Landu Bi]], [[Inês Simões]], [[João Seabra]], [[Sara Diniz]], [[Hugo Sousa]], [[Francisco Menezes]], [[Paulo Battista]], [[Fanny Rodrigues]]
+|-
+| 890 || [[Betclic Mano a Mano]], [[Gilmário Vemba]], [[Ana Garcia Martins]], [[Landu Bi]], [[Inês Simões]], [[João Seabra]], [[Inês Abrantes]], [[Francisco Menezes]], [[Fernando Pereira]], [[Jorge Andrade]], [[Pedro Henriques]]
+|-
+| 889 || [[Judite de Sousa]]
+|-
+| 888 || [[Carolina Torres]], [[Prémios Play]], [[Bárbara Guimarães]], [[Gustavo Carona]], [[Euclides Gomes (EU.CLIDES)]], [[Claudia Pascoal]], [[Leonor Dias]]
+|-
+| 887 || [[Filomena Cautela]], [[Prémios Play]]
+|-
+| 886 || [[Bárbara Corby]]
+|-
+| 885 || [[Miguel Coimbra]], [[João Montez]]
+|-
+| 884 || [[Rúben Semedo]], [[CMTV]]
+|-
+| 883 || [[Casados à Primeira Vista]], [[Tiago Jaqueta]], [[Dina Guedes]], [[Júlia Pinheiro]]
+|-
+| 882 || [[Casados à Primeira Vista]], [[Tiago Jaqueta]], [[Dina Guedes]]
+|-
+| 881 || [[Mafalda Rodiles (Mafalda Pinto)]], [[Carina Caldeira]]
+|-
+| 880 || [[Sebastião Bugalho]]
+|-
+| 879 || [[Rui Sinel de Cordes]], [[Alberta Marques Fernandes]]
+|-
+| 878 || [[Rui Sinel de Cordes]], [[Alberta Marques Fernandes]]
+|-
+| 877 || [[Carlos Costa]]
+|-
+| 876 || [[Nuno Graciano]]
+|-
 | 875 || [[Anabela Seabra (Désirat)]], [[Associação 21|26]], [[Covid-19]]
 |-
 | 874 || [[Alexandra Solnado]]
