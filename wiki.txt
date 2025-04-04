@@ -2,9 +2,9 @@
 |+ Table Generated from input.tsv
 ! Number !! Names
 |-
-| 910 || [[Casamentos de Santo António]], [[Isabel Angelino]], [[Serenella Andrade [w]]]
+| 910 || [[Casamentos de Santo António]], [[Isabel Angelino]], [[Serenella Andrade]]
 |-
-| 909 || [[Cristina Ferreira [w]]]
+| 909 || [[Cristina Ferreira]]
 |-
 | 908 || [[Filipa Castro]], [[Léo Caeiro]], [[Duarte Siopa]], [[Ana Galvão]], [[Inês Lopes Gonçalves]]
 |-
@@ -20,9 +20,9 @@
 |-
 | 902 || [[Tiago Jaqueta]], [[Ana Jaqueta]]
 |-
-| 901 || [[Joana Marques [w]]], [[Ana Galvão [w]]], [[Inês Lopes Gonçalves]]
+| 901 || [[Joana Marques]], [[Ana Galvão]], [[Inês Lopes Gonçalves]]
 |-
-| 900 || [[Joana Marques]], [[Ana Galvão]], [[Inês Lopes Gonçalves [w]]]
+| 900 || [[Joana Marques]], [[Ana Galvão]], [[Inês Lopes Gonçalves]]
 |-
 | 899 || [[José Cid]]
 |-
@@ -72,7 +72,7 @@
 |-
 | 876 || [[Nuno Graciano]]
 |-
-| 875 || [[Anabela Seabra (Désirat)]], [[Associação 21|26]], [[Covid-19 [w]]]
+| 875 || [[Anabela Seabra (Désirat)]], [[Associação 21|26]], [[Covid-19]]
 |-
 | 874 || [[Alexandra Solnado]]
 |-
@@ -116,7 +116,7 @@
 |-
 | 854 || [[Tiago Paiva]]
 |-
-| 853 || [[Bruno de Carvalho [w]]]
+| 853 || [[Bruno de Carvalho]]
 |-
 | 852 || [[Sara Aleixo]], [[Fernanda Brito]], [[Bruna Cardoso]]
 |-
@@ -240,7 +240,7 @@
 |-
 | 792 || [[Gustavo Santos]]
 |-
-| 791 || [[Gustavo Santos [w]]]
+| 791 || [[Gustavo Santos]]
 |-
 | 790 || [[Cristina Ferreira]]
 |-
@@ -336,7 +336,7 @@
 |-
 | 744 || [[Agnes Arabela]], [[Catarina Furtado]], [[Pedro Barroso]], [[Rita Pereira]], [[Claudia Isabel]], [[Patricia Pontes]], [[Cristina Ferreira]], [[Rui Pedro Bras]], [[Fernando Seara]], [[Sandra Celas]]
 |-
-| 743 || [[Luciana Abreu [w]]]
+| 743 || [[Luciana Abreu]]
 |-
 | 742 || [[Luciana Abreu]], [[Emmanuel]]
 |-
@@ -420,7 +420,7 @@
 |-
 | 702 || [[Fernando Seara]]
 |-
-| 701 || [[Cristiano Ronaldo [w]]]
+| 701 || [[Cristiano Ronaldo]]
 |-
 | 700 || [[Margarida Oliveira]], [[César Augusto Moniz]], [[Sérgio Tavares]], [[Rui Fonseca e Castro]]
 |-
