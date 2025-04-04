@@ -32,7 +32,7 @@
 |-
 | 896 || [[Concorrentes Ídolos 2022]]
 |-
-| 895 || [[Tatanka]], [[Ana Bacalhau]], [[Martim Sousa Tavares]], [[Joana Marques]], [[Concorrentes Ídolos 2022]]
+| 895 || [[Tatanka {https://www.gethucinema.com/wiki/pedro-tatanka}]], [[Ana Bacalhau]], [[Martim Sousa Tavares]], [[Joana Marques]], [[Concorrentes Ídolos 2022]]
 |-
 | 894 || [[António Tadeia]]
 |-
@@ -384,7 +384,7 @@
 |-
 | 720 || [[Ferro Rodrigues]], [[Ana Galvão]], [[André Ventura]]
 |-
-| 719 || [[Dolores Aveiro]], [[Xavier]]
+| 719 || [[Dolores Aveiro]], [[Xavier {}]]
 |-
 | 718 || [[Vanessa Martins]]
 |-
@@ -980,7 +980,7 @@
 |-
 | 422 || [[Tiagovski]]
 |-
-| 421 || [[Wuant (Paulo)]], [[Paulo Borges]], [[Xavier]], [[Hugo Strada]]
+| 421 || [[Wuant (Paulo)]], [[Paulo Borges]], [[Xavier{}]], [[Hugo Strada]]
 |-
 | 420 || [[João Galamba]], [[Fátima Campos Ferreira]], [[Canábis]]
 |-
@@ -1066,7 +1066,7 @@
 |-
 | 379 || [[Bruno Salgueiro]], [[Donald Trump]]
 |-
-| 378 || [[Vanessa Correia]], [[Xavier]], [[Mafalda Mingacho]], [[Bárbara Magalhães]], [[David Whitlock]]
+| 378 || [[Vanessa Correia]], [[Xavier{}]], [[Mafalda Mingacho]], [[Bárbara Magalhães]], [[David Whitlock]]
 |-
 | 377 || [[Joacine Katar Moreira]]
 |-
@@ -1130,7 +1130,7 @@
 |-
 | 347 || [[José Castelo Branco]], [[Joana Marques]], [[Zezé Camarinha]], [[André Ventura]], [[Donald Trump]]
 |-
-| 346 || [[Lisboa]], [[Turistas]], [[Tuk Tuks]], [[Trotinetes elétricas]], [[Bicicletas da Uber]], [[Motas da Cooltra]], [[Motas da Glovo]], [[Segways]], [[Monociclos de artistas de circo]], [[HIPPOtrip]], [[Xavier]], [[Pastéis de Belém]], [[Ana Galvão:Carla Rocha]]
+| 346 || [[Lisboa]], [[Turistas]], [[Tuk Tuks]], [[Trotinetes elétricas]], [[Bicicletas da Uber]], [[Motas da Cooltra]], [[Motas da Glovo]], [[Segways]], [[Monociclos de artistas de circo]], [[HIPPOtrip]], [[Xavier{}]], [[Pastéis de Belém]], [[Ana Galvão:Carla Rocha]]
 |-
 | 345 || [[Porto]], [[Carlos Tê]], [[Rui Veloso]], [[Sónia Araújo]], [[Maria Cerqueira Gomes]], [[Marta Leite de Castro]], [[Joana Teles]], [[Rute Marques]], [[Rute Rita]], [[Jorge Gabriel]], [[Rui Massena]], [[Pedro Tochas]], [[Vanda Stewart]], [[Maria José Valério]], [[José Eduardo Pinto da Costa]], [[Manuel Sobrinho Simões]], [[Rui Rio]], [[Rui Moreira]], [[Ricardo Trepa]], [[Rosa Mota]]
 |-
@@ -1140,7 +1140,7 @@
 |-
 | 342 || [[Lisboa]], [[Cristina Ferreira]], [[Fernando Pessoa]], [[Café A Brasileira]], [[Fernando Mendes]], [[Leonel Vieira]], [[Cuca Roseta]], [[Paula Rego]], [[Jorge Jesus]], [[Bernardo Silva]], [[Iva Domingues]]
 |-
-| 341 || [[Setúbal]], [[Betos]], [[Praia de Galapinhos]], [[Portinho da Arrábida]], [[Praia da Lisnave]], [[Vitória Futebol Clube]], [[Rui Vitória]], [[Bruno Lages]], [[José Mourinho]], [[Xavier]], [[Bocage]], [[Toy]], [[Joe Berardo]]
+| 341 || [[Setúbal]], [[Betos]], [[Praia de Galapinhos]], [[Portinho da Arrábida]], [[Praia da Lisnave]], [[Vitória Futebol Clube]], [[Rui Vitória]], [[Bruno Lages]], [[José Mourinho]], [[Xavier{}]], [[Bocage]], [[Toy]], [[Joe Berardo]]
 |-
 | 340 || [[Coimbra]], [[Ana Galvão]], [[Massamá]], [[Miguel Relvas]], [[Carro alegóricos]], [[Homens trajados]], [[João Luís Jesus]], [[Jogadoes do Académico]], [[Restaurante ”Zé Manel Dos Ossos”]], [[Sérgio Conceição]]
 |-
@@ -1236,7 +1236,7 @@
 |-
 | 294 || [[TVI]], [[Concorrentes do Começar do Zero]], [[Gêmeas Marta e Mariana]], [[Joana Marques]]
 |-
-| 293 || [[Dia do Pai]], [[Xavier]], [[Elton John]], [[David Furnish]], [[José Fidalgo]], [[Cristina Ferreira]], [[Iva Lamarão]], [[Manuel Luís Goucha]]
+| 293 || [[Dia do Pai]], [[Xavier{}]], [[Elton John]], [[David Furnish]], [[José Fidalgo]], [[Cristina Ferreira]], [[Iva Lamarão]], [[Manuel Luís Goucha]]
 |-
 | 292 || [[TVI]], [[Gato Fedorento]], [[José Eduardo Moniz]], [[Deus e o Diabo]], [[Leonor Poeiras]], [[Rute Agulhas]], [[Quem Quer Casar com o Meu Filho]], [[Bruno Santos]]
 |-
@@ -1272,7 +1272,7 @@
 |-
 | 276 || [[Ethan Lindenberger]], [[Joana Marques]], [[Correio da Manhã]], [[Pessoas Anti-Vacinas]]
 |-
-| 275 || [[Joana Marques]], [[Xavier]], [[Masha e o Urso]], [[First Dates]], [[Secret Stories]], [[Eliana Voigt]], [[Moscavide]], [[Rio Tinto]], [[Buraca]], [[Cátia Palhinha]], [[Super Wings]]
+| 275 || [[Joana Marques]], [[Xavier{}]], [[Masha e o Urso]], [[First Dates]], [[Secret Stories]], [[Eliana Voigt]], [[Moscavide]], [[Rio Tinto]], [[Buraca]], [[Cátia Palhinha]], [[Super Wings]]
 |-
 | 274 || [[Madonna]], [[Dino Santiago]], [[João Félix]], [[Celeste Rodrigues]], [[Simplex]], [[Alfândega]], [[EMEL]]
 |-
@@ -1280,7 +1280,7 @@
 |-
 | 272 || [[Pedro Lima]], [[Jornal 2]], [[Facebook]], [[Chimpanzé Gervásio]], [[CMTV]], [[João Fernando Ramos]], [[Carlos Areia]], [[Nós Os Ricos]], [[Ricardo Carriço]], [[Caixas de comentários]]
 |-
-| 271 || [[Teresa Guilherme]], [[Dia de São Valentim]], [[Xavier]], [[Ana Galvão]], [[Luís - O homem das flores]]
+| 271 || [[Teresa Guilherme]], [[Dia de São Valentim]], [[Xavier{}]], [[Ana Galvão]], [[Luís - O homem das flores]]
 |-
 | 270 || [[Emojis🥱🛺🦩🦧🧅🧄🦿🧆🪕🩸🤏]], [[Carla Rocha]]
 |-
@@ -1294,7 +1294,7 @@
 |-
 | 265 || [[Perigos das redes sociais]], [[Fernando Pereira]]
 |-
-| 264 || [[Santana Lopes]], [[Gustavo Santos]], [[Nuno Graciano]], [[Xavier]], [[Daniel Leitão]], [[Ariana Grande]], [[Ana Galvão]], [[Tatuagens]], [[Ricardo Quaresma]]
+| 264 || [[Santana Lopes]], [[Gustavo Santos]], [[Nuno Graciano]], [[Xavier{}]], [[Daniel Leitão]], [[Ariana Grande]], [[Ana Galvão]], [[Tatuagens]], [[Ricardo Quaresma]]
 |-
 | 263 || [[Joana Marques]], [[Joana Latino]], [[Guilherme Leite]], [[SIC]], [[Rodrigo Guedes de Carvalho]], [[SIC Notícias]], [[Bento Rodrigues]], [[Clara de Sousa]]
 |-
@@ -1308,7 +1308,7 @@
 |-
 | 258 || [[Jóias TV]], [[Catarina Morazzo]], [[Gisela Serrano]], [[Cristina Ferreira]], [[Manuel Luís Goucha]], [[Alexandra Lencastre]], [[Fátima Lopes]], [[Rui Oliveira]], [[TVI]], [[O Contentor]], [[O Preço Certo]], [[Nelson Pereira]], [[Luís Oliveira]], [[Ana Markl]], [[José Eduardo Moniz]], [[Casados à Primeira Vista]], [[Hugo Oliveira]], [[Madonna]]
 |-
-| 257 || [[Xavier]], [[Luís Oliveira]], [[Festas de Natal das Escolas]], [[Pais]], [[Inês Lopes Gonçalves]], [[Daniel Sampaio]], [[Cat lovers]], [[Grupos de WhatsApp]], [[Ana Markl]]
+| 257 || [[Xavier{}]], [[Luís Oliveira]], [[Festas de Natal das Escolas]], [[Pais]], [[Inês Lopes Gonçalves]], [[Daniel Sampaio]], [[Cat lovers]], [[Grupos de WhatsApp]], [[Ana Markl]]
 |-
 | 256 || [[Ana Malhoa]], [[Fernando Pessoa]], [[Ela Mexe]], [[Vasco Palmeirim]], [[António Lobo Antunes]], [[Inês Lopes Gonçalves]], [[Ana Markl]]
 |-
@@ -1324,7 +1324,7 @@
 |-
 | 250 || [[Jorge Jesus]], [[Frederico Varandas]]
 |-
-| 249 || [[Amália Rodrigues]], [[Joana Marques]], [[Xi Jinping]], [[Reclusos do estabelecimento prisional de Lisboa]], [[Novela da Globo]], [[Penitenciária do estado do Maranhão]], [[Turistas em Lisboa]], [[Filas dos Pastéis de Belém]], [[Trotinetes elétricas]], [[Tuk tuks]], [[Hippo-hippo Urra]], [[Hotel Ritz]], [[Avó Maria Estela]]
+| 249 || [[Amália Rodrigues]], [[Joana Marques]], [[Xi Jinping]], [[Reclusos do estabelecimento prisional de Lisboa]], [[Novela da Globo]], [[Penitenciária do estado do Maranhão]], [[Turistas em Lisboa]], [[Filas dos pastéis de Belém]], [[Trotinetes elétricas]], [[Tuk tuks]], [[Hippo-hippo Urra]], [[Hotel Ritz]], [[Avó Maria Estela]]
 |-
 | 248 || [[Manuel Cardoso]], [[Joana Marques]], [[Escola dos Youtubers]], [[Morangos com Açúcar]], [[Edmundo Vieira]], [[D'ZRT]], [[Maré Alta]], [[Malucos do Riso]], [[Barco do Amor]], [[Carlos Areia]], [[Lusíadas]], [[Thomas Edison]]
 |-
@@ -1332,7 +1332,7 @@
 |-
 | 246 || [[Paco Bandeira]], [[Marial Leal]], [[Vidas Suspensas]], [[António Ribeiro Cristóvão]], [[Joana Marques]], [[Casados à Primeira Vista]], [[OLX]], [[Trabalhadores da Autoeuropa]], [[SIC]], [[5àsec]], [[Colombo]], [[ArrábidaShopping]], [[Gisela de Jesus]], [[Sociadade Portuguesa de Autores]], [[Kevin Spacey]], [[Bruno Alves]]
 |-
-| 245 || [[Graça Fonseca]], [[Wuant (Paulo)]], [[Correio da Manhã]], [[JN]], [[SirKazzio]], [[Joana Marques]], [[Amiga Olga]], [[Artigo 13]], [[Sérgio Godinho]], [[Alves Gonçalves]], [[Katty Xiomara]], [[Deus]], [[Sandra Marques]], [[Xavier]], [[SIC Notícias]]
+| 245 || [[Graça Fonseca]], [[Wuant (Paulo)]], [[Correio da Manhã]], [[JN]], [[SirKazzio]], [[Joana Marques]], [[Amiga Olga]], [[Artigo 13]], [[Sérgio Godinho]], [[Alves Gonçalves]], [[Katty Xiomara]], [[Deus]], [[Sandra Marques]], [[Xavier{}]], [[SIC Notícias]]
 |-
 | 244 || [[Blaya]], [[Inês Lopes Gonçalves]], [[Rádio Comercial]], [[Joana Marques]], [[Tatuagens]], [[Daniel Saavedra]], [[Andrea Bocelli]], [[Pedro Chagas Freitas]]
 |-
@@ -1344,9 +1344,9 @@
 |-
 | 240 || [[Touradas]], [[Manuel Alegre]], [[Joana Marques]], [[Hélder Milheiro]], [[Prós e Contras]], [[Inês Lopes Gonçalves]], [[Cristina Ferreira]]
 |-
-| 239 || [[JN]], [[Bidés]], [[Marcel Duchamp]], [[Sara Sampaio]], [[Xavier]], [[IRA]], [[Minuto Verde]], [[Caixas de comentários]], [[Apoiantes de Bolsonaro]], [[Joana Marques]], [[Ana Markl]], [[Touradas]]
+| 239 || [[JN]], [[Bidés]], [[Marcel Duchamp]], [[Sara Sampaio]], [[Xavier{}]], [[IRA]], [[Minuto Verde]], [[Caixas de comentários]], [[Apoiantes de Bolsonaro]], [[Joana Marques]], [[Ana Markl]], [[Touradas]]
 |-
-| 238 || [[Octávio Machado]], [[Backstreet Boys]], [[Joana Marques]], [[BES]], [[Xavier]], [[Nickelback]], [[Anjos]], [[Milénio]], [[Brian Littrell]], [[AJ McLean]], [[Nick Carter]], [[Howie Dorough]], [[Kevin Richardson]], [[Zezé Di Camargo & Luciano]]
+| 238 || [[Octávio Machado]], [[Backstreet Boys]], [[Joana Marques]], [[BES]], [[Xavier{}]], [[Nickelback]], [[Anjos]], [[Milénio]], [[Brian Littrell]], [[AJ McLean]], [[Nick Carter]], [[Howie Dorough]], [[Kevin Richardson]], [[Zezé Di Camargo & Luciano]]
 |-
 | 237 || [[IRA]], [[TVI]], [[Ana Leal]], [[Cristiano Ronaldo]], [[Cristina Rodrigues]], [[André Silva]], [[Gustavo Santos]], [[Biodanza]], [[Hernâni Carvalho]], [[Manuel Alegre]]
 |-
@@ -1398,7 +1398,7 @@
 |-
 | 213 || [[Joana Marques]], [[Questionários escolares]], [[Victoria Beckham]], [[TV Guia]], [[Cláudio Ramos]]
 |-
-| 212 || [[Laura Figueiredo]], [[Luís Oliveira]], [[Joana Marques]], [[Daniel Leitão]], [[Xavier]], [[Youtubers]], [[Mães de Youtubers]]
+| 212 || [[Laura Figueiredo]], [[Luís Oliveira]], [[Joana Marques]], [[Daniel Leitão]], [[Xavier{}]], [[Youtubers]], [[Mães de Youtubers]]
 |-
 | 211 || [[André Ventura]], [[Tino de Rans]], [[Maria Helena]], [[CMTV]], [[Moita Flores]], [[Rui Rio]], [[Hernani Carvalho]], [[Fernando Mendes]], [[Jair Bolsonaro]], [[Joana Amaral Dias]], [[Correio da Manhã]], [[António Salazar]]
 |-
@@ -1424,7 +1424,7 @@
 |-
 | 200 || [[Praxes]], [[Alunos da Faculdade de Arquitectura]], [[Eduardo Souto Moura]], [[Álvaro Siza Vieira]], [[Alunos Instituto Piaget]]
 |-
-| 199 || [[Cristina Ferreira]], [[Cristiano Ronaldo]], [[José Mourinho]], [[SIC]], [[Rodrigues Guedes de Carvalho]], [[Elton John]], [[Feiras]], [[Xavier]], [[Filho da Cristina Ferreira]], [[Novelas da SIC]], [[Lady Diana]]
+| 199 || [[Cristina Ferreira]], [[Cristiano Ronaldo]], [[José Mourinho]], [[SIC]], [[Rodrigues Guedes de Carvalho]], [[Elton John]], [[Feiras]], [[Xavier{}]], [[Filho da Cristina Ferreira]], [[Novelas da SIC]], [[Lady Diana]]
 |-
 | 198 || [[Regresso às aulas]], [[Estudantes]], [[Luís Oliveira]], [[Inês Lopes Gonçalves]], [[Wuant (Paulo)]], [[Intermache]], [[Youtubers]], [[Stapples]], [[David Carreira]], [[Continente]], [[D8]], [[Diogo Piçarra]], [[Soraia Chaves]], [[Vadafone]], [[Cristina Ferreira]]
 |-
@@ -1462,7 +1462,7 @@
 |-
 | 181 || [[David Carreira]], [[Dora]], [[Francisco Carvalho]], [[Ágata]]
 |-
-| 180 || [[Luis Fonsi]], [[Daddy Yankee]], [[Xavier]], [[Ágata]], [[Romana]]
+| 180 || [[Luis Fonsi]], [[Daddy Yankee]], [[Xavier{}]], [[Ágata]], [[Romana]]
 |-
 | 179 || [[Daniel Sampaio]], [[Bruno de Carvalho]], [[Vitor Espadinha]]
 |-
@@ -1500,7 +1500,7 @@
 |-
 | 162 || [[Jorge Jesus]], [[Salvador Sobral]], [[Academia de Alcochete]], [[Joana Marques]]
 |-
-| 161 || [[Pessoas em hotéis]], [[Xavier]], [[Daniel Leitão]]
+| 161 || [[Pessoas em hotéis]], [[Xavier{}]], [[Daniel Leitão]]
 |-
 | 160 || [[Santana Lopes]], [[Gisela Serrano]], [[Duarte Lima]], [[Jorge Kapinha]], [[José Carlos Pereira]], [[Joana Marques]], [[Maria Vieira]], [[Bolas de Berlin]], [[Ana Markl]], [[Toy]], [[Inês Lopes Gonçalves]]
 |-
