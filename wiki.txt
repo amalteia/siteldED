@@ -424,7 +424,7 @@
 |-
 | 701 || [[Cristiano Ronaldo]]
 |-
-| 700 || [[Margarida Oliveira]], [[César Augusto Moniz]], [[Sérgio Tavares]], [[Rui Fonseca e Castro]]
+| 700 || [[Margarida Oliveira]], [[César Augusto Moniz]], [[Sérgio Tavares{}]], [[Rui Fonseca e Castro]]
 |-
 | 699 || [[Toy]]
 |-
@@ -660,9 +660,9 @@
 |-
 | 583 || [[Radio Comercial]]
 |-
-| 582 || [[Jornalistas pela Verdade]], [[Sérgio Tavares]]
+| 582 || [[Jornalistas pela Verdade]], [[Sérgio Tavares{}]]
 |-
-| 581 || [[Jornalistas pela Verdade]], [[Sérgio Tavares]]
+| 581 || [[Jornalistas pela Verdade]], [[Sérgio Tavares{}]]
 |-
 | 580 || [[Cristina Ferreira]]
 |-
