@@ -2,7 +2,7 @@
 |+ Table Generated from input.tsv
 ! Number !! Names
 |-
-| 910 || [[Casamentos de Santo António]], [[Isabel Angelino]], [[Serenella Andrade]]
+| 910 || [[Casamentos de Santo António]], [[Isabel Angelino]], [[Serenella Andrade [w]]]
 |-
 | 909 || [[Cristina Ferreira [w]]]
 |-
@@ -308,9 +308,9 @@
 |-
 | 758 || [[Jorge Martinez (Jorge Rocha)]]
 |-
-| 757 || [[Manifestantes Negacionistas]], [[Covid-19]], [[Eduardo Ferro Rodrigues]], [[Anabela Seabra (Désirat)]], [[Joana Amaral Dias Dias]]
+| 757 || [[Manifestantes Negacionistas]], [[Covid-19]], [[Eduardo Ferro Rodrigues]], [[Anabela Seabra (Désirat)]], [[Joana Amaral Dias]]
 |-
-| 756 || [[Manifestantes Negacionistas]], [[Covid-19]], [[Anabela Seabra (Desirat)]]
+| 756 || [[Manifestantes Negacionistas]], [[Covid-19]], [[Anabela Seabra (Désirat)]]
 |-
 | 755 || [[Big Brother]], [[Joana Schreyer]], [[Rafael Teixeira]], [[João Ligeiro]], [[Nuno Lopes]], [[Rui Baptista]], [[Rui Pinheiro]], [[Rui Pinheiro]], [[Maria da Conceição Santos]], [[Rita Santos]], [[Yeniffer Campos]], [[Débora Neves]]
 |-
@@ -1096,7 +1096,7 @@
 |-
 | 364 || [[Cinha Jardim]], [[Alentejo]], [[Marco Paulo]], [[Anjos]], [[Rádio Campanário]], [[Ana Galvão]], [[Feijoada da Caras]]
 |-
-| 363 || [[Filipa Garnel]], [[Bruno de Carvalho]], [[Madonna]], [[Rita Pereira]], [[David Carreira]], [[Jorge Jesus]], [[Clã Abreu]], [[Luciana Abreu]], [[Dani Gonçalves]], [[ToyPraia de Leça]]
+| 363 || [[Filipa Garnel]], [[Bruno de Carvalho]], [[Madonna]], [[Rita Pereira]], [[David Carreira]], [[Jorge Jesus]], [[Clã Abreu]], [[Luciana Abreu]], [[Dani Gonçalves]], [[ToyPraia de Leça]], [[]]
 |-
 | 362 || [[Mercadona]], [[Ana Galvão]], [[Inauguração de lojas]], [[Primark]], [[IKEA de Alfragide]], [[Pingo Doce de Telheiras]], [[Spar]], [[Marrachinho]]
 |-
