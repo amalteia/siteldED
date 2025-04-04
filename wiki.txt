@@ -2,6 +2,28 @@
 |+ Table Generated from input.tsv
 ! Number !! Names
 |-
+| 910 || [[Casamentos de Santo António]], [[Isabel Angelino]], [[Serenella Andrade]]
+|-
+| 909 || [[Cristina Ferreira]]
+|-
+| 908 || [[Filipa Castro]], [[Léo Caeiro]], [[Duarte Siopa]], [[Ana Galvão]], [[Inês Lopes Gonçalves]]
+|-
+| 907 || [[Hugo Strada]], [[Elma Aveiro]]
+|-
+| 906 || [[Big Brother]], [[Vitor Soares]], [[Amílcar Teixeira]], [[Léo Caeiro]], [[Duarte Siopa]], [[Flipa Castro]], [[Sónia Jesus]], [[Edmar Teixeira]]
+|-
+| 905 || [[Sara Cunha]], [[Catarina Gouveia]]
+|-
+| 904 || [[Catarina Gouveia]]
+|-
+| 903 || [[Vanessa Martins]]
+|-
+| 902 || [[Tiago Jaqueta]], [[Ana Jaqueta]]
+|-
+| 901 || [[Joana Marques [w]]], [[Ana Galvão]], [[Inês Lopes Gonçalves]]
+|-
+| 900 || [[Joana Marques]], [[Ana Galvão]], [[Inês Lopes Gonçalves [w]]]
+|-
 | 899 || [[José Cid]]
 |-
 | 898 || [[Marial Leal]], [[FCT]]
@@ -218,7 +240,7 @@
 |-
 | 792 || [[Gustavo Santos]]
 |-
-| 791 || [[Gustavo Santos]]
+| 791 || [[Gustavo Santos [w]]]
 |-
 | 790 || [[Cristina Ferreira]]
 |-
