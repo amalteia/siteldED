@@ -2,6 +2,14 @@
 |+ Table Generated from input.tsv
 ! Number !! Names
 |-
+| 919 || [[Pedro Crispim {https://www.lovewithpepper.com/post/pedro-crispim-um-olhar-por-detr%C3%A1s-da-moda}]]
+|-
+| 918 || [[Centro Colombo]], [[Wok to Walk]], [[Jorge do Frango da Guia {https://www.youtube.com/watch?v=64xofXm4xPI}]], [[Loja Maxina {https://arquivos.rtp.pt/conteudos/incendio-em-lisboa-4/}]]
+|-
+| 917 || [[Liliana Aguiar]]
+|-
+| 916 || [[SIC Radical]], [[Rock in Rio]], [[Luisa Barbosa]], [[Luana do Bem]], [[Catarina Moreira {https://caras.pt/famosos/2024-08-04-catarina-moreira-e-possivel-sermos-o-que-queremos-e-concretizarmos-os-sonhos/}]], [[Maria Dominguez {https://www.famousbirthdays.com/people/maria-dominguez-miranda.html}]], [[Rita Carmaneiro]], [[Ricardo Mariano{}]]
+|-
 | 915 || [[Maria do Céu Santo {https://www.hospitaldaluz.pt/pt/encontre-um-medico/1480/maria-do-ceu-santo}]]
 |-
 | 914 || [[Sérgio Tavares{}]], [[Maria Vieira]]
