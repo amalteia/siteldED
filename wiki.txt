@@ -2,6 +2,10 @@
 |+ Table Generated from input.tsv
 ! Number !! Names
 |-
+| 914 || [[Sérgio Tavares{}]], [[Maria Vieira]]
+|-
+| 913 || [[Sérgio Tavares{}]], [[Maria Vieira]]
+|-
 | 912 || [[Ana Galvão]], [[Inês Lopes Gonçalves]], [[Sérgio Tavares{}]]
 |-
 | 911 || [[Mafalda Rodiles]], [[Gustavo Santos]]
