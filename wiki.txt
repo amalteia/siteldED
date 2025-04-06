@@ -2,9 +2,23 @@
 |+ Table Generated from input.tsv
 ! Number !! Names
 |-
+| 926 || [[Miguel Silva (Jingle Lee){https://www.instagram.com/micselva/}]], [[Cristina Ferreira]], [[José Eduardo Moniz]], [[João Montez]], [[Mónica Jardim]], [[Rita Pereira]], [[Tomás Meireles]], [[Susana Dias Ramos]], [[Sara Prata]]
+|-
+| 925 || [[TVI]], [[Festa de Verão da TVI]], [[Fanny Rodrigues]], [[José Carlos Pereira]], [[Isaac Alfaiate]], [[Susana Dias Ramos]], [[Rúben Rua]], [[Santiago Lagoá{}]], [[Sofia Vasconcelos]], [[Zé Lopes]], [[Miguel Flor de Lima{https://m.imdb.com/name/nm5200129/}]], [[CNN]], [[Pedro Benevides]], [[Ana Barbosa]]
+|-
+| 924 || [[Bruno de Carvalho]], [[Manuel Luís Goucha]], [[Liliana Almeida de Carvalho]]
+|-
+| 923 || [[Manuel Luís Goucha]], [[José Lopes]], [[Cristina Ferreira]]
+|-
+| 922 || [[Madalena Abecasis]], [[Nuno Sebastiao{}]]
+|-
+| 921 || [[Liliana Aguiar]], [[Francisco Nunes]]
+|-
+| 920 || [[Miguel Milhão]]
+|-
 | 919 || [[Pedro Crispim {https://www.lovewithpepper.com/post/pedro-crispim-um-olhar-por-detr%C3%A1s-da-moda}]]
 |-
-| 918 || [[Centro Colombo]], [[Wok to Walk]], [[Jorge do Frango da Guia {https://www.youtube.com/watch?v=64xofXm4xPI}]], [[Loja Maxina {https://arquivos.rtp.pt/conteudos/incendio-em-lisboa-4/}]]
+| 918 || [[Centro Colombo]], [[Wok to Walk{https://nl.wikipedia.org/wiki/Wok_to_Walk}]], [[Jorge do Frango da Guia {https://www.youtube.com/watch?v=64xofXm4xPI}]], [[Loja Maxina {https://arquivos.rtp.pt/conteudos/incendio-em-lisboa-4/}]]
 |-
 | 917 || [[Liliana Aguiar]]
 |-
@@ -24,9 +38,9 @@
 |-
 | 909 || [[Cristina Ferreira]]
 |-
-| 908 || [[Filipa Castro]], [[Léo Caeiro]], [[Duarte Siopa]], [[Ana Galvão]], [[Inês Lopes Gonçalves]]
+| 908 || [[Filipa Castro]], [[Léo Caeiro]], [[Duarte Siopa{https://www.instagram.com/duartesiopa/}]], [[Ana Galvão]], [[Inês Lopes Gonçalves]]
 |-
-| 907 || [[Hugo Strada]], [[Elma Aveiro {https://www.famousbirthdays.com/people/elma-aveiro.html}]]
+| 907 || [[Hugo Strada{https://www.instagram.com/hugostrada/}]], [[Elma Aveiro {https://www.famousbirthdays.com/people/elma-aveiro.html}]]
 |-
 | 906 || [[Big Brother]], [[Vitor Soares]], [[Amílcar Teixeira]], [[Léo Caeiro]], [[Duarte Siopa]], [[Flipa Castro]], [[Sónia Jesus]], [[Edmar Teixeira]]
 |-
@@ -164,7 +178,7 @@
 |-
 | 839 || [[Gala da TVI]], [[Cláudio Ramos]], [[Rúben Rua]], [[Manuel Luís Goucha]], [[Maria Cerqueira Gomes]], [[Maria Botelho Moniz]], [[Lurdes Baeta]], [[Miguel Gameiro]]
 |-
-| 838 || [[Gala da TVI]], [[Kelly Ribeiro Bailey]], [[Rosinha]], [[Mónica Sintra]], [[Rúben Rua]], [[Carlos Cunha]], [[Jingle Lee (Miguel Silva)]], [[José Cid]]
+| 838 || [[Gala da TVI]], [[Kelly Ribeiro Bailey]], [[Rosinha]], [[Mónica Sintra]], [[Rúben Rua]], [[Carlos Cunha]], [[Miguel Silva (Jingle Lee){https://www.instagram.com/micselva/}]], [[José Cid]]
 |-
 | 837 || [[Gala da TVI]], [[São José Lapa]], [[João Montez]], [[Rita Pereira]], [[José Lopes]]
 |-
@@ -244,7 +258,7 @@
 |-
 | 799 || [[Vanessa Martins]]
 |-
-| 798 || [[Diogo Faro]], [[Pedro Granger]], [[Peter Castro]], [[Mafalda Fernandes]], [[Pedro Ferreira Castro]], [[Mário Amaro]]
+| 798 || [[Diogo Faro{https://www.instagram.com/diogofaroidiota/}]], [[Pedro Granger]], [[Peter Castro]], [[Mafalda Fernandes]], [[Pedro Ferreira Castro]], [[Mário Amaro]]
 |-
 | 797 || [[Daniela Salles]]
 |-
@@ -268,7 +282,7 @@
 |-
 | 787 || [[Ricardo Teixeira]]
 |-
-| 786 || [[Separados pela Vida]], [[Tia Maya]]
+| 786 || [[Separados pela Vida]], [[Tia Maya {https://pt.wikipedia.org/wiki/Maya_(tar%C3%B3loga)}]]
 |-
 | 785 || [[Marcelo Rebelo de Sousa]], [[Duarte Siopa]], [[Mário Jardel]]
 |-
@@ -330,7 +344,7 @@
 |-
 | 756 || [[Manifestantes Negacionistas]], [[Covid-19]], [[Anabela Seabra (Désirat)]]
 |-
-| 755 || [[Big Brother]], [[Joana Schreyer]], [[Rafael Teixeira]], [[João Ligeiro]], [[Nuno Lopes]], [[Rui Baptista]], [[Rui Pinheiro]], [[Rui Pinheiro]], [[Maria da Conceição Santos]], [[Rita Santos]], [[Yeniffer Campos]], [[Débora Neves]]
+| 755 || [[Big Brother]], [[Joana Schreyer]], [[Rafael Teixeira]], [[João Ligeiro]], [[Nuno Lopes]], [[Rui Baptista{https://bigbrother.fandom.com/wiki/Rui_Baptista}]], [[Rui Pinheiro]], [[Rui Pinheiro]], [[Maria da Conceição Santos]], [[Rita Santos]], [[Yeniffer Campos]], [[Débora Neves]]
 |-
 | 754 || [[Big Brother]], [[Ana Barbosa]], [[Ana Morina]], [[Bruno D'Almeida]], [[Ana Soares]], [[Aurora Sousa]], [[Fábio Faísca]]
 |-
@@ -362,7 +376,7 @@
 |-
 | 740 || [[Isabel Costa]], [[Paulo Ferreira]]
 |-
-| 739 || [[Dolores Aveiro]], [[Catarina Raminhos]], [[Rita Ferro Alvim]], [[Rosa Amado]]
+| 739 || [[Dolores Aveiro{https://www.wikidata.org/wiki/Q56166583}]], [[Catarina Raminhos]], [[Rita Ferro Alvim]], [[Rosa Amado]]
 |-
 | 738 || [[Ana Rita Clara]]
 |-
@@ -370,7 +384,7 @@
 |-
 | 736 || [[Fátima Lopes]]
 |-
-| 735 || [[Carolina Patrocínio]], [[Ângela Silva]], [[Filipe Frois]], [[Agir]]
+| 735 || [[Rock In Rio]], [[Sic Caras]], [[Sic Mulher]], [[Carolina Patrocínio]], [[Pedro Crispim {https://www.imdb.com/name/nm2756820/}]]
 |-
 | 734 || [[Miguel Sousa Tavares]], [[Pedro Nuno Santos]]
 |-
@@ -532,9 +546,9 @@
 |-
 | 655 || [[Liliana Aguiar]], [[Covid-19]]
 |-
-| 654 || [[Windoh]]
+| 654 || [[Windoh{https://www.elitelisbon.com/en/windoh/}]]
 |-
-| 653 || [[Windoh]]
+| 653 || [[Windoh{https://www.elitelisbon.com/en/windoh/}]]
 |-
 | 652 || [[All Together Now]]
 |-
@@ -598,7 +612,7 @@
 |-
 | 622 || [[Joana Dias]]
 |-
-| 621 || [[Windoh]]
+| 621 || [[Windoh{https://www.elitelisbon.com/en/windoh/}]]
 |-
 | 620 || [[Médicos pela Verdade]], [[Margarida Oliveira]], [[Covid-19]]
 |-
@@ -630,7 +644,7 @@
 |-
 | 606 || [[Fátima Campos Ferreira]], [[Sérgio Conceição]]
 |-
-| 605 || [[2020]], [[Adriano Maranhão]], [[Lili Caneças]], [[Joacine Katar Moreira]], [[Wuant]], [[Fátima Campos Ferreira]], [[Cláudio Viana]], [[Hélder Teixeira]], [[Manuel Fernandes]], [[Rui Santos]], [[Cinha Jardim]], [[Rodrigues Guedes de Carvalho]], [[Sancha Trindade]]
+| 605 || [[2020]], [[Adriano Maranhão]], [[Lili Caneças]], [[Joacine Katar Moreira]], [[Wuant]], [[Fátima Campos Ferreira]], [[Cláudio Viana]], [[Hélder Teixeira]], [[Manuel Fernandes]], [[Rui Santos]], [[Cinha Jardim]], [[Rodrigo Guedes de Carvalho]], [[Sancha Trindade]]
 |-
 | 604 || [[2020]], [[Joana Marques]], [[Ana Galvão]], [[Cristina Ferreira]], [[Cláudio Ramos]], [[Maria Botelho Moniz]], [[Madonna]], [[Piruka]], [[Sporting]], [[Francisco Varandas]]
 |-
@@ -834,7 +848,7 @@
 |-
 | 504 || [[Lili Caneças]]
 |-
-| 503 || [[Rodrigues Guedes de Carvalho]]
+| 503 || [[Rodrigo Guedes de Carvalho]]
 |-
 | 502 || [[Nuno Graciano]]
 |-
@@ -844,15 +858,15 @@
 |-
 | 499 || [[Pe. Celestino Ferreira]]
 |-
-| 498 || [[SirKazzio]], [[Rodrigues Guedes de Carvalho]]
+| 498 || [[SirKazzio]], [[Rodrigo Guedes de Carvalho]]
 |-
 | 497 || [[Pedro Hipólito]]
 |-
 | 496 || [[Francisco George]]
 |-
-| 495 || [[Rodrigues Guedes de Carvalho]]
+| 495 || [[Rodrigo Guedes de Carvalho]]
 |-
-| 494 || [[Rodrigues Guedes de Carvalho]], [[Ana Galvão]]
+| 494 || [[Rodrigo Guedes de Carvalho]], [[Ana Galvão]]
 |-
 | 493 || [[Jorge Gustavo]]
 |-
@@ -902,7 +916,7 @@
 |-
 | 470 || [[Quintino Aires]], [[Leonor Poeiras]], [[Maria Cerqueira Gomes]], [[Xavier{}]]
 |-
-| 469 || [[José Peseiro]], [[Tiago Fernandes]], [[Marcel Keizer]], [[Leonel Fontes]], [[Programa Impulso Jovem]], [[Filipa Garnel]], [[Operação Stop do Fisco]], [[Julen Lopetegui]], [[Joacine Katar Moreira]], [[Ana Galvão]], [[Carla Rocha]], [[Joana Marques]]
+| 469 || [[José Peseiro]], [[Tiago Fernandes]], [[Marcel Keizer]], [[Leonel Fontes]], [[Programa Impulso Jovem]], [[Filipa Garnel]], [[Operação Stop do Fisco]], [[Julen Lopetegui]], [[Joacine Katar Moreira]], [[Ana Galvão]], [[Carla Rocha{https://rr.pt/artigo/124826/carla-rocha}]], [[Joana Marques]]
 |-
 | 468 || [[Chef Olivier]]
 |-
@@ -1044,7 +1058,7 @@
 |-
 | 399 || [[Maria das Dores]]
 |-
-| 398 || [[Globos de Ouro]], [[Cristiano Ronaldo]], [[Miguel Paixão]], [[Danie Ruah]], [[Sara Sampaio]], [[Carolina Deslandes]], [[Capitão Fausto]], [[Diogo Amaral]], [[Rodrigues Guedes de Carvalho]], [[Luciana Abreu]]
+| 398 || [[Globos de Ouro]], [[Cristiano Ronaldo]], [[Miguel Paixão]], [[Danie Ruah]], [[Sara Sampaio]], [[Carolina Deslandes]], [[Capitão Fausto]], [[Diogo Amaral]], [[Rodrigo Guedes de Carvalho]], [[Luciana Abreu]]
 |-
 | 397 || [[Globos de Ouro]], [[Cristina Ferreira]], [[João Rôlo]], [[Carolina Patrocínio]], [[Dona Elisa]], [[João Manzarra]]
 |-
@@ -1162,7 +1176,7 @@
 |-
 | 340 || [[Coimbra]], [[Ana Galvão]], [[Massamá]], [[Miguel Relvas]], [[Carro alegóricos]], [[Homens trajados]], [[João Luís Jesus]], [[Jogadoes do Académico]], [[Restaurante ”Zé Manel Dos Ossos”]], [[Sérgio Conceição]]
 |-
-| 339 || [[Nuno Markl]], [[José Cid]], [[Macaco]], [[Porto]], [[Francesinhas]], [[Saltos da Ponte]], [[Festa de São João do Porto]], [[Julen Lopetegui]]
+| 339 || [[Nuno Markl]], [[José Cid]], [[Macaco]], [[Porto]], [[Francesinha]], [[Saltos da Ponte]], [[Festa de São João do Porto]], [[Julen Lopetegui]]
 |-
 | 338 || [[Eleições Europeias]], [[PS]], [[Sandra Pereira]], [[Conan Osíris]], [[CDS]], [[Nuno Melo]], [[PSD]], [[PURP]], [[André Ventura]], [[CMTV]], [[Salvador Sobral]], [[PAN]], [[Ana Galvão]]
 |-
@@ -1230,7 +1244,7 @@
 |-
 | 306 || [[Rui Oliveira]], [[Cláudio Ramos]], [[Fernando Rocha (Marido de Maria Vieira)]]
 |-
-| 305 || [[Youtubers]], [[SirKazzio]]
+| 305 || [[Youtubers{}]], [[SirKazzio]]
 |-
 | 304 || [[Prós e Contras]], [[Fátima Campos Ferreira]], [[Visco Branco]], [[João Beles]], [[Pedro Choy]]
 |-
@@ -1312,7 +1326,7 @@
 |-
 | 265 || [[Perigos das redes sociais]], [[Fernando Pereira]]
 |-
-| 264 || [[Santana Lopes]], [[Gustavo Santos]], [[Nuno Graciano]], [[Xavier{}]], [[Daniel Leitão]], [[Ariana Grande]], [[Ana Galvão]], [[Tatuagens]], [[Ricardo Quaresma]]
+| 264 || [[Santana Lopes]], [[Gustavo Santos]], [[Nuno Graciano]], [[Xavier{}]], [[Daniel Leitão{https://www.instagram.com/danielhleitao/}]], [[Ariana Grande]], [[Ana Galvão]], [[Tatuagens]], [[Ricardo Quaresma]]
 |-
 | 263 || [[Joana Marques]], [[Joana Latino]], [[Guilherme Leite]], [[SIC]], [[Rodrigo Guedes de Carvalho]], [[SIC Notícias]], [[Bento Rodrigues]], [[Clara de Sousa]]
 |-
@@ -1344,7 +1358,7 @@
 |-
 | 249 || [[Amália Rodrigues]], [[Joana Marques]], [[Xi Jinping]], [[Reclusos do estabelecimento prisional de Lisboa]], [[Novela da Globo]], [[Penitenciária do estado do Maranhão]], [[Turistas em Lisboa]], [[Filas dos pastéis de Belém]], [[Trotinetes elétricas]], [[Tuk tuks]], [[Hippo-hippo Urra]], [[Hotel Ritz]], [[Avó Maria Estela]]
 |-
-| 248 || [[Manuel Cardoso]], [[Joana Marques]], [[Escola dos Youtubers]], [[Morangos com Açúcar]], [[Edmundo Vieira]], [[D'ZRT]], [[Maré Alta]], [[Malucos do Riso]], [[Barco do Amor]], [[Carlos Areia]], [[Lusíadas]], [[Thomas Edison]]
+| 248 || [[Manuel Cardoso]], [[Joana Marques]], [[Escola dos Youtubers{}]], [[Morangos com Açúcar]], [[Edmundo Vieira]], [[D'ZRT]], [[Maré Alta]], [[Malucos do Riso]], [[Barco do Amor]], [[Carlos Areia]], [[Lusíadas]], [[Thomas Edison]]
 |-
 | 247 || [[Festas de Natal]], [[Rosa Mota]], [[Joana Marques]], [[Cristiano Ronaldo]], [[Kathryn Mayorga]], [[The Voice]], [[Matias Damásio]], [[DJ Vibe]], [[Carl Cox]], [[O elenco do La Féria]], [[D.A.M.A]], [[Carolina Deslandes]], [[Diogo Piçarra]], [[Marco Horácio]], [[Óscar Branco]], [[José Freixo & Donaltim]], [[Picolé]], [[José Calado]], [[Marcelo Rebelo de Sousa]], [[Luís Oliveira{}]], [[Inês Lopes Gonçalves]], [[Ana Markl]]
 |-
@@ -1416,7 +1430,7 @@
 |-
 | 213 || [[Joana Marques]], [[Questionários escolares]], [[Victoria Beckham]], [[TV Guia]], [[Cláudio Ramos]]
 |-
-| 212 || [[Laura Figueiredo]], [[Luís Oliveira{}]], [[Joana Marques]], [[Daniel Leitão]], [[Xavier{}]], [[Youtubers]], [[Mães de Youtubers]]
+| 212 || [[Laura Figueiredo]], [[Luís Oliveira{}]], [[Joana Marques]], [[Daniel Leitão]], [[Xavier{}]], [[Youtubers{}]], [[Mães de Youtubers]]
 |-
 | 211 || [[André Ventura]], [[Tino de Rans]], [[Maria Helena]], [[CMTV]], [[Moita Flores]], [[Rui Rio]], [[Hernani Carvalho]], [[Fernando Mendes]], [[Jair Bolsonaro]], [[Joana Amaral Dias]], [[Correio da Manhã]], [[António Salazar]]
 |-
@@ -1442,9 +1456,9 @@
 |-
 | 200 || [[Praxes]], [[Alunos da Faculdade de Arquitectura]], [[Eduardo Souto Moura]], [[Álvaro Siza Vieira]], [[Alunos Instituto Piaget]]
 |-
-| 199 || [[Cristina Ferreira]], [[Cristiano Ronaldo]], [[José Mourinho]], [[SIC]], [[Rodrigues Guedes de Carvalho]], [[Elton John]], [[Feiras]], [[Xavier{}]], [[Filho da Cristina Ferreira]], [[Novelas da SIC]], [[Lady Diana]]
+| 199 || [[Cristina Ferreira]], [[Cristiano Ronaldo]], [[José Mourinho]], [[SIC]], [[Rodrigo Guedes de Carvalho]], [[Elton John]], [[Feiras]], [[Xavier{}]], [[Filho da Cristina Ferreira]], [[Novelas da SIC]], [[Lady Diana]]
 |-
-| 198 || [[Regresso às aulas]], [[Estudantes]], [[Luís Oliveira{}]], [[Inês Lopes Gonçalves]], [[Wuant]], [[Intermache]], [[Youtubers]], [[Stapples]], [[David Carreira]], [[Continente]], [[D8]], [[Diogo Piçarra]], [[Soraia Chaves]], [[Vadafone]], [[Cristina Ferreira]]
+| 198 || [[Regresso às aulas]], [[Estudantes]], [[Luís Oliveira{}]], [[Inês Lopes Gonçalves]], [[Wuant]], [[Intermache]], [[Youtubers{}]], [[Stapples]], [[David Carreira]], [[Continente]], [[D8]], [[Diogo Piçarra]], [[Soraia Chaves]], [[Vadafone]], [[Cristina Ferreira]]
 |-
 | 197 || [[José Pedro Gomes]], [[Sporting]], [[Carla Ferreira]], [[Frederico Varandas]]
 |-
@@ -1452,7 +1466,7 @@
 |-
 | 195 || [[Grupos de dietas paleo]]
 |-
-| 194 || [[Burlões]], [[Oprah Winfre]], [[Cristiano Ronaldo]], [[José Ferreira]]
+| 194 || [[Burlões]], [[Oprah Winfrey]], [[Cristiano Ronaldo]], [[José Ferreira]]
 |-
 | 193 || [[Frederico Varandas]], [[Cláudia Lopes]], [[Paulo Paiva dos Santos]], [[TVI]], [[Sporting]], [[Rodrigo Roquete]], [[Croquetes]], [[Gambrinus]], [[William Carvalho]], [[José Pina]], [[Benfica]], [[Bruno de Carvalho]], [[Jaime Marta Soares]]
 |-
@@ -1464,7 +1478,7 @@
 |-
 | 189 || [[João Catarré]], [[Ana Markl]], [[Morangos com Açúcar]]
 |-
-| 188 || [[Youtubers]], [[Luís Oliveira{}]], [[Rita Ferro Rodrigues]], [[Ana Markl]], [[Ana Galvão]], [[Luis Franco Bastos]], [[Joana Marques]], [[Jorge Jesus]]
+| 188 || [[Youtubers{}]], [[Luís Oliveira{}]], [[Rita Ferro Rodrigues]], [[Ana Markl]], [[Ana Galvão]], [[Luis Franco Bastos]], [[Joana Marques]], [[Jorge Jesus]]
 |-
 | 187 || [[Rita Pereira]], [[PNR]], [[Marie Le Pen]], [[David Carreira]], [[Ana Markl]], [[Santana Lopes]], [[Sofia Ribeiro]], [[Manuel Luís Goucha]], [[Zeca Afonso]], [[Sociedade Portuguesa de Autores]], [[Fernanda Serrano]], [[Miguel Sousa Tavares]], [[Sara Matos]], [[Oceana Basílio]], [[Cristina Ferreira]], [[Moussa Marega]], [[José Gomes Ferreira]], [[Marcelo Rebelo de Sousa]], [[Fernando Pimenta]], [[Vitor Espadinha]], [[Bruno de Carvalho]], [[Luís Filipe Vieira]], [[Cinha Jardim]], [[Pedro Lima]], [[Feijoada da Caras]], [[Agosto]]
 |-
