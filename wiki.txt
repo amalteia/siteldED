@@ -462,7 +462,7 @@
 |-
 | 697 || [[Mónica Sintra]], [[Diogo Infante]]
 |-
-| 696 || [[Sporting]], [[Gabriel Alves]], [[CNL]], [[Paulinho Coelho]], [[Pedro Barbosa]], [[Augusto Inácio]], [[Nuno Luz]], [[Rodrigo Guedes de Carvalho]], [[Eduardo Barroso]]
+| 696 || [[Sporting Clube de Portugal]], [[Gabriel Alves]], [[CNL]], [[Paulinho Coelho]], [[Pedro Barbosa]], [[Augusto Inácio]], [[Nuno Luz]], [[Rodrigo Guedes de Carvalho]], [[Eduardo Barroso]]
 |-
 | 695 || [[Sportinguistas sofredores]]
 |-
@@ -646,7 +646,7 @@
 |-
 | 605 || [[2020]], [[Adriano Maranhão]], [[Lili Caneças]], [[Joacine Katar Moreira]], [[Wuant]], [[Fátima Campos Ferreira]], [[Cláudio Viana]], [[Hélder Teixeira]], [[Manuel Fernandes]], [[Rui Santos]], [[Cinha Jardim]], [[Rodrigo Guedes de Carvalho]], [[Sancha Trindade]]
 |-
-| 604 || [[2020]], [[Joana Marques]], [[Ana Galvão]], [[Cristina Ferreira]], [[Cláudio Ramos]], [[Maria Botelho Moniz]], [[Madonna]], [[Piruka]], [[Sporting]], [[Francisco Varandas]]
+| 604 || [[2020]], [[Joana Marques]], [[Ana Galvão]], [[Cristina Ferreira]], [[Cláudio Ramos]], [[Maria Botelho Moniz]], [[Madonna]], [[Piruka]], [[Sporting Clube de Portugal]], [[Francisco Varandas]]
 |-
 | 603 || [[Neymar]]
 |-
@@ -956,7 +956,7 @@
 |-
 | 450 || [[Marcelo Rebelo de Sousa]], [[Mergulhadores do Novo Ano]]
 |-
-| 449 || [[Rui Pinto]], [[Iker Casillas]], [[Benfica]], [[Sporting]], [[Jorge Jesus]], [[João Félix]], [[Joacine Katar Moreira]], [[André Ventura]], [[João Cotrim de Figueiredo]], [[Azeredo Lopes]], [[José Cid]], [[Greta Thunberg]], [[Conan Osíris]], [[Filipa Garnel]], [[David Carreira]], [[Bruno de Carvalho]], [[Jessica Athaide]], [[Maria João Abreu]]
+| 449 || [[Rui Pinto]], [[Iker Casillas]], [[Benfica]], [[Sporting Clube de Portugal]], [[Jorge Jesus]], [[João Félix]], [[Joacine Katar Moreira]], [[André Ventura]], [[João Cotrim de Figueiredo]], [[Azeredo Lopes]], [[José Cid]], [[Greta Thunberg]], [[Conan Osíris]], [[Filipa Garnel]], [[David Carreira]], [[Bruno de Carvalho]], [[Jessica Athaide]], [[Maria João Abreu]]
 |-
 | 448 || [[O Preço Certo]], [[Fernando Mendes]], [[Luís Filipe Vieira]]
 |-
@@ -1094,7 +1094,7 @@
 |-
 | 381 || [[Carla Guimarães]]
 |-
-| 380 || [[Sporting]], [[Siniša Mihajlović]], [[José Peseiro]], [[Tiago Fernandes]], [[Marcel Keizer]], [[Frederico Varandas]], [[Julen Lopetegui]], [[Jorge Jesus]], [[Luiz Felipe Scolari]], [[Bruno Fernandes]], [[Manuel Machado]], [[Filipe Rocha]]
+| 380 || [[Sporting Clube de Portugal]], [[Siniša Mihajlović]], [[José Peseiro]], [[Tiago Fernandes]], [[Marcel Keizer]], [[Frederico Varandas]], [[Julen Lopetegui]], [[Jorge Jesus]], [[Luiz Felipe Scolari]], [[Bruno Fernandes]], [[Manuel Machado]], [[Filipe Rocha]]
 |-
 | 379 || [[Bruno Salgueiro]], [[Donald Trump]]
 |-
@@ -1214,7 +1214,7 @@
 |-
 | 321 || [[Joana Balaguer]]
 |-
-| 320 || [[Estoril Open]], [[Bruno Fernandes]], [[Sporting]], [[Bruno Pereirinha]], [[João Sousa]], [[Marcelo Rebelo de Sousa]], [[Espectadores do Estoril Open]], [[Miguel Gameiro]], [[José Avilez]], [[Duquesa de Cadaval]]
+| 320 || [[Estoril Open]], [[Bruno Fernandes]], [[Sporting Clube de Portugal]], [[Bruno Pereirinha]], [[João Sousa]], [[Marcelo Rebelo de Sousa]], [[Espectadores do Estoril Open]], [[Miguel Gameiro]], [[José Avilez]], [[Duquesa de Cadaval]]
 |-
 | 319 || [[Prós e Contras]], [[25 de Abril]], [[Fátima Campos Ferreira]], [[António Rolo Duarte]], [[Ana Galvão]]
 |-
@@ -1256,7 +1256,7 @@
 |-
 | 300 || [[Alexandra Borges]], [[Ana Leal]], [[TVI]], [[Raríssimas]], [[EMEL]], [[ePark]], [[Joana Marques]], [[Ana Galvão]], [[Shazam]], [[Zomato]], [[Glovo]], [[Muhammad Saeed al-Sahhaf]], [[Xavier{}]]
 |-
-| 299 || [[Sporting]], [[José Mourinho]], [[Tiago Fernandes]], [[João Ricardo Pateiro]], [[Roberto Jimémez Gago]], [[Joana Marques]], [[Paulinho (Paulo Gama)]]
+| 299 || [[Sporting Clube de Portugal]], [[José Mourinho]], [[Tiago Fernandes]], [[João Ricardo Pateiro]], [[Roberto Jimémez Gago]], [[Joana Marques]], [[Paulinho (Paulo Gama)]]
 |-
 | 298 || [[Madonna]], [[Basílio Horta]], [[Fernando Medina]], [[Joana Marques]]
 |-
@@ -1308,7 +1308,7 @@
 |-
 | 274 || [[Madonna]], [[Dino Santiago]], [[João Félix]], [[Celeste Rodrigues]], [[Simplex]], [[Alfândega]], [[EMEL]]
 |-
-| 273 || [[Bruno de Carvalho]], [[Jorge Jesus]], [[André Geraldes]], [[Sporting]], [[Afonso Henriques]], [[Oliveira Salazar]], [[Abel Xavier]], [[Conan Osíris]]
+| 273 || [[Bruno de Carvalho]], [[Jorge Jesus]], [[André Geraldes]], [[Sporting Clube de Portugal]], [[Afonso Henriques]], [[Oliveira Salazar]], [[Abel Xavier]], [[Conan Osíris]]
 |-
 | 272 || [[Pedro Lima]], [[Jornal 2]], [[Facebook]], [[Chimpanzé Gervásio]], [[CMTV]], [[João Fernando Ramos]], [[Carlos Areia]], [[Nós Os Ricos]], [[Ricardo Carriço]], [[Caixas de comentários]]
 |-
@@ -1386,7 +1386,7 @@
 |-
 | 235 || [[Bruno de Carvalho]], [[Alexandra Carvalho]], [[Alexandra Solnado]], [[Joana Marques]], [[Ana Markl]], [[Inês Lopes Gonçalves]], [[Manifestantes pró Bruno de Carvalho]], [[Frederico Varandas]]
 |-
-| 234 || [[Bruno de Carvalho]], [[Tribunal do Barreiro]], [[Manifestantes pró Bruno de Carvalho]], [[Joana Marques]], [[Manuel Luís Goucha]], [[CMTV]], [[Benfica]], [[Sporting]], [[Super Dragões]]
+| 234 || [[Bruno de Carvalho]], [[Tribunal do Barreiro]], [[Manifestantes pró Bruno de Carvalho]], [[Joana Marques]], [[Manuel Luís Goucha]], [[CMTV]], [[Benfica]], [[Sporting Clube de Portugal]], [[Super Dragões]]
 |-
 | 233 || [[Casados á primeira vista]], [[Eliana Voigt]], [[Dave Hacke]], [[Zara]], [[Graça Peralta]], [[José Luís Cardoso]]
 |-
@@ -1460,7 +1460,7 @@
 |-
 | 198 || [[Regresso às aulas]], [[Estudantes]], [[Luís Oliveira{}]], [[Inês Lopes Gonçalves]], [[Wuant]], [[Intermache]], [[Youtubers{}]], [[Stapples]], [[David Carreira]], [[Continente]], [[D8]], [[Diogo Piçarra]], [[Soraia Chaves]], [[Vadafone]], [[Cristina Ferreira]]
 |-
-| 197 || [[José Pedro Gomes]], [[Sporting]], [[Carla Ferreira]], [[Frederico Varandas]]
+| 197 || [[José Pedro Gomes]], [[Sporting Clube de Portugal]], [[Carla Ferreira]], [[Frederico Varandas]]
 |-
 | 196 || [[João César das Neves]], [[Grupos de dietas paleo]], [[Venezuela]]
 |-
@@ -1468,9 +1468,9 @@
 |-
 | 194 || [[Burlões]], [[Oprah Winfrey]], [[Cristiano Ronaldo]], [[José Ferreira]]
 |-
-| 193 || [[Frederico Varandas]], [[Cláudia Lopes]], [[Paulo Paiva dos Santos]], [[TVI]], [[Sporting]], [[Rodrigo Roquete]], [[Croquetes]], [[Gambrinus]], [[William Carvalho]], [[José Pina]], [[Benfica]], [[Bruno de Carvalho]], [[Jaime Marta Soares]]
+| 193 || [[Frederico Varandas]], [[Cláudia Lopes]], [[Paulo Paiva dos Santos]], [[TVI]], [[Sporting Clube de Portugal]], [[Rodrigo Roquete]], [[Croquetes]], [[Gambrinus]], [[William Carvalho]], [[José Pina]], [[Benfica]], [[Bruno de Carvalho]], [[Jaime Marta Soares]]
 |-
-| 192 || [[Sporting]], [[Pedro Madeira Rodrigues]], [[José Maria Ricciardi]], [[Rui Rego]], [[Paulo Paiva dos Santos]]
+| 192 || [[Sporting Clube de Portugal]], [[Pedro Madeira Rodrigues]], [[José Maria Ricciardi]], [[Rui Rego]], [[Paulo Paiva dos Santos]]
 |-
 | 191 || [[Dieta Paleo]], [[Luís Oliveira{}]], [[Inês Lopes Gonçalves]], [[Utilizadores da Bimby]], [[Grupos de Mães]], [[Grupos do Facebook]]
 |-
@@ -1482,7 +1482,7 @@
 |-
 | 187 || [[Rita Pereira]], [[PNR]], [[Marie Le Pen]], [[David Carreira]], [[Ana Markl]], [[Santana Lopes]], [[Sofia Ribeiro]], [[Manuel Luís Goucha]], [[Zeca Afonso]], [[Sociedade Portuguesa de Autores]], [[Fernanda Serrano]], [[Miguel Sousa Tavares]], [[Sara Matos]], [[Oceana Basílio]], [[Cristina Ferreira]], [[Moussa Marega]], [[José Gomes Ferreira]], [[Marcelo Rebelo de Sousa]], [[Fernando Pimenta]], [[Vitor Espadinha]], [[Bruno de Carvalho]], [[Luís Filipe Vieira]], [[Cinha Jardim]], [[Pedro Lima]], [[Feijoada da Caras]], [[Agosto]]
 |-
-| 186 || [[Cristiano Ronaldo]], [[SirKazzio]], [[Frederico Varandas]], [[Sporting]], [[Benfica]], [[José Maria Ricciardi]], [[Alexandre Cavaleri]], [[Azulejos de Alvalade]]
+| 186 || [[Cristiano Ronaldo]], [[SirKazzio]], [[Frederico Varandas]], [[Sporting Clube de Portugal]], [[Benfica]], [[José Maria Ricciardi]], [[Alexandre Cavaleri]], [[Azulejos de Alvalade]]
 |-
 | 185 || [[Joana Marques]], [[Donald Trump]], [[Dina Aguiar]]
 |-
