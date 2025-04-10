@@ -2,6 +2,14 @@
 |+ Table Generated from input.tsv
 ! Number !! Names
 |-
+| 934 || [[Sangue Oculto]], [[Sofia Alves]], [[Sara Matos]], [[Nuno Homem de Sá]], [[João Catarré]], [[João Jesus]], [[Virgílio Castelo]], [[António Pedro Cerdeira]]
+|-
+| 933 || [[José Rodrigues dos Santos]], [[Clara de Sousa]], [[Nuno Santos]], [[Manuel Luis GouchaJudite Sousa]], [[Duarte Siopa]], [[Ágata Rodrigues{https://www.novagente.pt/agata-rodrigues-apresentadora-da-cmtv-mostra-forma-fisica-de-biquini-no-dubai}]]
+|-
+| 932 || [[Gustavo Santos]]
+|-
+| 931 || [[Joana Amaral Dias]]
+|-
 | 930 || [[Sancha Trindade{https://sancha.co/sancha-co/}]]
 |-
 | 929 || [[Big Brother]], [[Joana Taful{https://bigbrother.fandom.com/wiki/Joana_Taful}]], [[Diana Lopes{https://bigbrother.fandom.com/wiki/Diana_Lopes}]]
