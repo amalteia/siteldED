@@ -2,6 +2,8 @@
 |+ Table Generated from input.tsv
 ! Number !! Names
 |-
+| 935 || [[Gustavo Santos]], [[Ana Galvão]]
+|-
 | 934 || [[Sangue Oculto]], [[Sofia Alves]], [[Sara Matos]], [[Nuno Homem de Sá]], [[João Catarré]], [[João Jesus]], [[Virgílio Castelo]], [[António Pedro Cerdeira]]
 |-
 | 933 || [[José Rodrigues dos Santos]], [[Clara de Sousa]], [[Nuno Santos]], [[Manuel Luis GouchaJudite Sousa]], [[Duarte Siopa]], [[Ágata Rodrigues{https://www.novagente.pt/agata-rodrigues-apresentadora-da-cmtv-mostra-forma-fisica-de-biquini-no-dubai}]]
