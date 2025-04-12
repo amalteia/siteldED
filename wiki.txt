@@ -1180,7 +1180,7 @@
 |-
 | 347 || [[José Castelo Branco]], [[Joana Marques]], [[Zezé Camarinha]], [[André Ventura]], [[Donald Trump]]
 |-
-| 346 || [[Lisboa]], [[Turistas]], [[Tuk Tuk]], [[Trotinetes elétricas]], [[Bicicletas da Uber]], [[Motas da Cooltra]], [[Motas da Glovo]], [[Segways]], [[Monociclos de artistas de circo]], [[HIPPOtrip]], [[Xavier{}]], [[Pastéis de Belém]], [[Ana Galvão]], [[Carla Rocha]]
+| 346 || [[Lisboa]], [[Turistas]], [[Tuk Tuk{https://pt.wikipedia.org/wiki/Autorriquix%C3%A1}]], [[Trotinetes elétricas]], [[Bicicletas da Uber]], [[Motas da Cooltra]], [[Motas da Glovo]], [[Segways]], [[Monociclos de artistas de circo]], [[HIPPOtrip]], [[Xavier{}]], [[Pastéis de Belém]], [[Ana Galvão]], [[Carla Rocha]]
 |-
 | 345 || [[Porto]], [[Carlos Tê]], [[Rui Veloso]], [[Sónia Araújo]], [[Maria Cerqueira Gomes]], [[Marta Leite de Castro]], [[Joana Teles]], [[Rute Marques]], [[Rute Rita]], [[Jorge Gabriel]], [[Rui Massena]], [[Pedro Tochas]], [[Vanda Stewart]], [[Maria José Valério]], [[José Eduardo Pinto da Costa]], [[Manuel Sobrinho Simões]], [[Rui Rio]], [[Rui Moreira]], [[Ricardo Trepa]], [[Rosa Mota]]
 |-
