@@ -2,6 +2,12 @@
 |+ Table Generated from input.tsv
 ! Number !! Names
 |-
+| 938 || [[João Paulo Sousa (apresentador)]]
+|-
+| 937 || [[Quinas de Ouro{https://www.fpf.pt/pt/Galeria/gallery/791}]], [[Carlos Manuel]], [[Ana Galvão]], [[Humberto Coelho]], [[Ricardo Quaresma]], [[Vasco Palmeirim]], [[Cristiano Ronaldo]]
+|-
+| 936 || [[Quinas de Ouro{https://www.fpf.pt/pt/Galeria/gallery/791}]], [[Ricardo Costa]], [[Carlos Manuel]], [[Joana Marques]], [[Pedro Proença]], [[Mário Narciso{https://en.wikipedia.org/wiki/M%C3%A1rio_Narciso}]], [[Francisca Nazareth]]
+|-
 | 935 || [[Gustavo Santos]], [[Ana Galvão]]
 |-
 | 934 || [[Sangue Oculto]], [[Sofia Alves]], [[Sara Matos]], [[Nuno Homem de Sá]], [[João Catarré]], [[João Jesus]], [[Virgílio Castelo]], [[António Pedro Cerdeira]]
