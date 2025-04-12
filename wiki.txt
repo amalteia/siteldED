@@ -2,6 +2,10 @@
 |+ Table Generated from input.tsv
 ! Number !! Names
 |-
+| 940 || [[Miguel Milhão]], [[Rui Neves{https://www.jornaldenegocios.pt/opiniao/autores/detalhe/rui__neves}]]
+|-
+| 939 || [[Miguel Milhão]]
+|-
 | 938 || [[João Paulo Sousa (apresentador)]]
 |-
 | 937 || [[Quinas de Ouro{https://www.fpf.pt/pt/Galeria/gallery/791}]], [[Carlos Manuel]], [[Ana Galvão]], [[Humberto Coelho]], [[Ricardo Quaresma]], [[Vasco Palmeirim]], [[Cristiano Ronaldo]]
