@@ -340,11 +340,11 @@
 |-
 | 772 || [[Jorge Kapinha]], [[Duarte Siopa]]
 |-
-| 771 || [[Globos de Ouro 2021]], [[Bárbara Tinoco]], [[Humberto Bernardo]], [[Carolina Deslandes]], [[Maria João Luís]], [[Rui Mendes]], [[Alexandra Lencastre]], [[Francisco Pinto Balsemão]], [[Augusto Seabra]], [[Luciana Abreu]], [[Júlia Pinheiro]]
+| 771 || [[Globos de Ouro (Portugal)]], [[Bárbara Tinoco]], [[Humberto Bernardo]], [[Carolina Deslandes]], [[Maria João Luís]], [[Rui Mendes]], [[Alexandra Lencastre]], [[Francisco Pinto Balsemão]], [[Augusto Seabra]], [[Luciana Abreu]], [[Júlia Pinheiro]]
 |-
-| 770 || [[Globos de Ouro 2021]], [[Francisco Pedro Balsemão]], [[Filomena Cautela]], [[Iva Lamarão]]
+| 770 || [[Globos de Ouro (Portugal)]], [[Francisco Pedro Balsemão]], [[Filomena Cautela]], [[Iva Lamarão]]
 |-
-| 769 || [[Globos de Ouro 2021]], [[Clara de Sousa]], [[Teresa Villaverde]], [[Barbara Pollastri]], [[José Fidalgo]], [[Cristina Ferreira]], [[João Baião]], [[Nuno Nogueira]], [[Fernando Mendes]], [[Ricardo Pereira]]
+| 769 || [[Globos de Ouro (Portugal)]], [[Clara de Sousa]], [[Teresa Villaverde]], [[Barbara Pollastri]], [[José Fidalgo]], [[Cristina Ferreira]], [[João Baião]], [[Nuno Nogueira]], [[Fernando Mendes]], [[Ricardo Pereira]]
 |-
 | 768 || [[Carlos do Paulo]]
 |-
@@ -1086,9 +1086,9 @@
 |-
 | 399 || [[Maria das Dores]]
 |-
-| 398 || [[Globos de Ouro]], [[Cristiano Ronaldo]], [[Miguel Paixão]], [[Danie Ruah]], [[Sara Sampaio]], [[Carolina Deslandes]], [[Capitão Fausto]], [[Diogo Amaral]], [[Rodrigo Guedes de Carvalho]], [[Luciana Abreu]]
+| 398 || [[Globos de Ouro (Portugal)]], [[Cristiano Ronaldo]], [[Miguel Paixão]], [[Danie Ruah]], [[Sara Sampaio]], [[Carolina Deslandes]], [[Capitão Fausto]], [[Diogo Amaral]], [[Rodrigo Guedes de Carvalho]], [[Luciana Abreu]]
 |-
-| 397 || [[Globos de Ouro]], [[Cristina Ferreira]], [[João Rôlo]], [[Carolina Patrocínio]], [[Dona Elisa]], [[João Manzarra]]
+| 397 || [[Globos de Ouro (Portugal)]], [[Cristina Ferreira]], [[João Rôlo]], [[Carolina Patrocínio]], [[Dona Elisa]], [[João Manzarra]]
 |-
 | 396 || [[Frederico Varandas]], [[Teresa Dimas]]
 |-
@@ -1326,7 +1326,7 @@
 |-
 | 279 || [[Manuel Luís Goucha]], [[Luciana Abreu]], [[Yannick Djaló]], [[Joana Marques]], [[Luiza Abreu]]
 |-
-| 278 || [[Óscares]], [[António Raminhos]], [[Sara Matos]], [[Carolina Patrocínio]], [[Tias da Joana Marques]], [[Plantel do Varzim]], [[Casa do Povo de Lavre]], [[Viggo Mortensen]], [[Willem Dafoe]], [[Melissa McCarthy]], [[Olivia Colman]], [[Adam Driver]], [[Lady Gaga]], [[Bob Dylan]], [[Marina de Tavira]], [[Leonardo Dicaprio]], [[Os Andrades]], [[Globos de Ouro]], [[Soraia Chaves]], [[Paulo Gonzo]], [[Santa Maria]], [[Delfins]], [[La La Land]]
+| 278 || [[Óscares]], [[António Raminhos]], [[Sara Matos]], [[Carolina Patrocínio]], [[Tias da Joana Marques]], [[Plantel do Varzim]], [[Casa do Povo de Lavre]], [[Viggo Mortensen]], [[Willem Dafoe]], [[Melissa McCarthy]], [[Olivia Colman]], [[Adam Driver]], [[Lady Gaga]], [[Bob Dylan]], [[Marina de Tavira]], [[Leonardo Dicaprio]], [[Os Andrades]], [[Globos de Ouro (Portugal)]], [[Soraia Chaves]], [[Paulo Gonzo]], [[Santa Maria]], [[Delfins]], [[La La Land]]
 |-
 | 277 || [[Carlos Ramalho]], [[Joana Marques]], [[Bloggers lifestyle]], [[Gorete Pimentel]], [[Enfermeira Vanda]], [[Greves de Fome]]
 |-
@@ -1626,7 +1626,7 @@
 |-
 | 129 || [[Bárbara Sofia Holanda Bandeira]], [[Rui Bandeira]]
 |-
-| 128 || [[Globos de Ouro]], [[Sofia Cerveira]], [[Ricardo Pereira]], [[Raquel Strada]], [[João Baião]], [[Cristiano Ronaldo]], [[Bárbara Guimarães]], [[Bárbara Bandeira]]
+| 128 || [[Globos de Ouro (Portugal)]], [[Sofia Cerveira]], [[Ricardo Pereira]], [[Raquel Strada]], [[João Baião]], [[Cristiano Ronaldo]], [[Bárbara Guimarães]], [[Bárbara Bandeira]]
 |-
 | 127 || [[Octávio Machado]], [[Manuel Ribeiro]], [[Eduardo Barroso]]
 |-
