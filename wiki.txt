@@ -2,6 +2,10 @@
 |+ Table Generated from input.tsv
 ! Number !! Names
 |-
+| 961 || [[Alexandre Santos{https://jorgefernandes.net/artistas/alexandre-santos}]]
+|-
+| 960 || [[Alexandre Santos{https://jorgefernandes.net/artistas/alexandre-santos}]]
+|-
 | 959 || [[Luís Forinho{https://cheganos.com/category/cheganos/cheganos-oficiais/luis-forinho/}]]
 |-
 | 958 || [[Luís Forinho{https://cheganos.com/category/cheganos/cheganos-oficiais/luis-forinho/}]]
