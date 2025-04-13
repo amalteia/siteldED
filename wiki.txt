@@ -2,6 +2,12 @@
 |+ Table Generated from input.tsv
 ! Number !! Names
 |-
+| 943 || [[Globos de Ouro{}]], [[João Catarré]], [[Sara Matos]], [[Carolina Patrocínio]], [[Hernâni Carvalho]], [[Ana Moura]], [[Anabela Moreira{https://www.imdb.com/name/nm1335025/}]], [[Miguel Cruz{https://www.imdb.com/name/nm10102858/}}]], [[Gabriela Barros]], [[Rita Rocha]], [[Ivo Lucas]]
+|-
+| 942 || [[Globos de Ouro{}]], [[Luciana Abreu]], [[Joana Marques]], [[SIC]], [[Rui Nabeiro]], [[Clara de Sousa]], [[Rodrigo Guedes de Carvalho]], [[Bárbara Guimarães]], [[César Mourão]], [[Luana Piovani]], [[José Figueiras]], [[Rui Reininho]], [[Francisco Pedro Balsemão{https://www.legal500.com/gc-powerlist/iberia-2016/francisco-pedro-balsemao/}]], [[Francisco Pinto Balsemão]]
+|-
+| 941 || [[Globos de Ouro{https://pt.wikipedia.org/wiki/Globos_de_Ouro_(Portugal)}]], [[Lourenço Ortigão]], [[Dânia Neto]], [[Manuel Luís Goucha]], [[Jessica Athayde]], [[Ana Moreira]], [[Maria João Bastos]], [[José Cid]], [[Miguel Costa{https://pt.wikipedia.org/wiki/Miguel_Costa_(ator)}]], [[Marco Paulo]], [[Sofia Cerveira]], [[Ana Marques]], [[Fátima Lopes (apresentadora)]], [[Bárbara Guimarães]], [[Carolina Patrocínio]], [[Iva Lamarão]]
+|-
 | 940 || [[Miguel Milhão]], [[Rui Neves{https://www.jornaldenegocios.pt/opiniao/autores/detalhe/rui__neves}]]
 |-
 | 939 || [[Miguel Milhão]]
