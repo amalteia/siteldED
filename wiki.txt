@@ -1358,7 +1358,7 @@
 |-
 | 263 || [[Joana Marques]], [[Joana Latino]], [[Guilherme Leite]], [[SIC]], [[Rodrigo Guedes de Carvalho]], [[SIC Notícias]], [[Bento Rodrigues]], [[Clara de Sousa]]
 |-
-| 262 || [[Joana Marques]], [[Ana Markl{}]], [[Luís Oliveira{https://img.bndlyr.com/slstbe4votfbw7yg/_assets/luis-oliveira-reframed.png?w=500}]], [[Inês Lopes Gonçalves]], [[José Nunes]], [[Antena 3]]
+| 262 || [[Joana Marques]], [[Ana Markl{}]], [[Luís Oliveira{https://img.bndlyr.com/slstbe4votfbw7yg/_assets/luis-oliveira-reframed.png?fit=cover&w=500}]], [[Inês Lopes Gonçalves]], [[José Nunes]], [[Antena 3]]
 |-
 | 261 || [[Joana Marques]], [[Frederico Varandas]], [[Lili Caneças]], [[Ana Markl{}]], [[Tiagovski]], [[Diogo Beja]], [[Inês Lopes Gonçalves]], [[Antena 3]], [[Jorge Botas]], [[José Nunes]], [[Ana Markl{}]], [[Riquita da Conceição]], [[José Sócrates]], [[António Freitas]], [[Camilo Lourenço]], [[Jorge Coelho]], [[Luís Oliveira{}]], [[Sr. Antunes]]
 |-
