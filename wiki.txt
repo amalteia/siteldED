@@ -2,6 +2,18 @@
 |+ Table Generated from input.tsv
 ! Number !! Names
 |-
+| 959 || [[Luís Forinho{https://cheganos.com/category/cheganos/cheganos-oficiais/luis-forinho/}]]
+|-
+| 958 || [[Luís Forinho{https://cheganos.com/category/cheganos/cheganos-oficiais/luis-forinho/}]]
+|-
+| 957 || [[Fábio Teles{https://www.thehandbook.com/influencer/fabio-teles/}]], [[Sérgio Tavares{}]], [[Sandra Felgueiras]], [[Isabel Alves{https://cinema.sapo.pt/tv/atualidade-tv/artigos/convidada-diz-a-julia-pinheiro-que-havera-zombies-em-2023-e-video-tornar-se-viral}]]
+|-
+| 956 || [[Laura Figueiredo{https://www.imdb.com/name/nm3056568/}]], [[Mickael Carreira]]
+|-
+| 955 || [[Laura Figueiredo{https://www.imdb.com/name/nm3056568/}]], [[Mickael Carreira]]
+|-
+| 954 || [[Susana Torres {https://www.wook.pt/autor/susana-torres/3762108}]]
+|-
 | 953 || [[Susana Torres {https://www.wook.pt/autor/susana-torres/3762108}]]
 |-
 | 952 || [[Gustavo Santos]], [[Sérgio Tavares{}]]
