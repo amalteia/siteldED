@@ -2,6 +2,8 @@
 |+ Table Generated from input.tsv
 ! Number !! Names
 |-
+| 950 || [[Fábio Teles{https://www.thehandbook.com/influencer/fabio-teles/}]]
+|-
 | 949 || [[Fábio Teles{https://www.thehandbook.com/influencer/fabio-teles/}]]
 |-
 | 948 || [[Sandra Felgueiras]], [[Pedro Mourinho{https://www.novagente.pt/pedro-mourinho-tem-novo-desafio-profissional-exclusivo}]]
