@@ -2,6 +2,12 @@
 |+ Table Generated from input.tsv
 ! Number !! Names
 |-
+| 953 || [[Susana Torres {https://www.wook.pt/autor/susana-torres/3762108}]]
+|-
+| 952 || [[Gustavo Santos]], [[Sérgio Tavares{}]]
+|-
+| 951 || [[Gustavo Santos]]
+|-
 | 950 || [[Fábio Teles{https://www.thehandbook.com/influencer/fabio-teles/}]]
 |-
 | 949 || [[Fábio Teles{https://www.thehandbook.com/influencer/fabio-teles/}]]
