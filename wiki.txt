@@ -2,6 +2,10 @@
 |+ Table Generated from input.tsv
 ! Number !! Names
 |-
+| 945 || [[Isabel Alves{https://cinema.sapo.pt/tv/atualidade-tv/artigos/convidada-diz-a-julia-pinheiro-que-havera-zombies-em-2023-e-video-tornar-se-viral}]]
+|-
+| 944 || [[Sérgio Tavares{}]]
+|-
 | 943 || [[Globos de Ouro{}]], [[João Catarré]], [[Sara Matos]], [[Carolina Patrocínio]], [[Hernâni Carvalho]], [[Ana Moura]], [[Anabela Moreira{https://www.imdb.com/name/nm1335025/}]], [[Miguel Cruz{https://www.imdb.com/name/nm10102858/}}]], [[Gabriela Barros]], [[Rita Rocha]], [[Ivo Lucas]]
 |-
 | 942 || [[Globos de Ouro{}]], [[Luciana Abreu]], [[Joana Marques]], [[SIC]], [[Rui Nabeiro]], [[Clara de Sousa]], [[Rodrigo Guedes de Carvalho]], [[Bárbara Guimarães]], [[César Mourão]], [[Luana Piovani]], [[José Figueiras]], [[Rui Reininho]], [[Francisco Pedro Balsemão{https://www.legal500.com/gc-powerlist/iberia-2016/francisco-pedro-balsemao/}]], [[Francisco Pinto Balsemão]]
