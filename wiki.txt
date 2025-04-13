@@ -2,6 +2,10 @@
 |+ Table Generated from input.tsv
 ! Number !! Names
 |-
+| 947 || [[Rita Pereira]], [[Joana Marques]], [[Cláudio Ramos]]
+|-
+| 946 || [[Isabel Alves{https://cinema.sapo.pt/tv/atualidade-tv/artigos/convidada-diz-a-julia-pinheiro-que-havera-zombies-em-2023-e-video-tornar-se-viral}]]
+|-
 | 945 || [[Isabel Alves{https://cinema.sapo.pt/tv/atualidade-tv/artigos/convidada-diz-a-julia-pinheiro-que-havera-zombies-em-2023-e-video-tornar-se-viral}]]
 |-
 | 944 || [[Sérgio Tavares{}]]
