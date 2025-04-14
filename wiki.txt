@@ -2,6 +2,16 @@
 |+ Table Generated from input.tsv
 ! Number !! Names
 |-
+| 979 || [[Isabel Figueira]], [[Nuno Luz{https://sicnoticias.pt/autores/2006-03-13-Nuno-Luz-05c66613}]]
+|-
+| 978 || [[Nuno Luz{https://sicnoticias.pt/autores/2006-03-13-Nuno-Luz-05c66613}]]
+|-
+| 977 || [[Nuno Pereira{https://sicnoticias.pt/autores/2018-12-11-Nuno-Pereira}]], [[Nuno Luz{https://sicnoticias.pt/autores/2006-03-13-Nuno-Luz-05c66613}]]
+|-
+| 976 || [[Paulo Futre]], [[Danny]]
+|-
+| 975 || [[Marta Gautier{https://www.wook.pt/autor/marta-gautier/2391}]]
+|-
 | 974 || [[Marta Gautier{https://www.wook.pt/autor/marta-gautier/2391}]]
 |-
 | 973 || [[Pedro Crispim{https://m.imdb.com/name/nm5604203/}]], [[Tiago Gonçalves{https://www.instagram.com/tiago.m.goncalves?igsh=MWdlbGwxenE3aTJyYw==}]]
