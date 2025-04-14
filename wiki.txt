@@ -2,6 +2,16 @@
 |+ Table Generated from input.tsv
 ! Number !! Names
 |-
+| 984 || [[Kátia Aveiro]], [[Elma Aveiro{}]], [[César Mourão]]
+|-
+| 983 || [[Leandro Portugal{https://bigbrother.fandom.com/wiki/Leandro}]], [[Vanda Leal Nunes{https://diariodistrito.sapo.pt/irma-de-leandro-arma-confusao-e-confronta-cristina-ferreira-acusando-o-canal-de-manipulacao/}]]
+|-
+| 982 || [[António Pedro Cerdeira]], [[Susana Silva{https://www.flash.pt/the-mag/detalhe/exclusivo-filha-mais-velha-de-susana-silva-conta-como-viu-a-mae-afundar-se-numa-relacao-toxica-com-antonio-pedro-cerdeira-e-fala-em-violencia-solidao-e-abandono}]]
+|-
+| 981 || [[António Pedro Cerdeira]], [[Susana Silva{https://www.flash.pt/the-mag/detalhe/exclusivo-filha-mais-velha-de-susana-silva-conta-como-viu-a-mae-afundar-se-numa-relacao-toxica-com-antonio-pedro-cerdeira-e-fala-em-violencia-solidao-e-abandono}]]
+|-
+| 980 || [[Pedro Soá{https://bigbrother.fandom.com/wiki/Pedro_So%C3%A1}]]
+|-
 | 979 || [[Isabel Figueira]], [[Nuno Luz{https://sicnoticias.pt/autores/2006-03-13-Nuno-Luz-05c66613}]]
 |-
 | 978 || [[Nuno Luz{https://sicnoticias.pt/autores/2006-03-13-Nuno-Luz-05c66613}]]
