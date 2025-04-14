@@ -2,6 +2,16 @@
 |+ Table Generated from input.tsv
 ! Number !! Names
 |-
+| 974 || [[Marta Gautier{https://www.wook.pt/autor/marta-gautier/2391}]]
+|-
+| 973 || [[Pedro Crispim{https://m.imdb.com/name/nm5604203/}]], [[Tiago Gonçalves{https://www.instagram.com/tiago.m.goncalves?igsh=MWdlbGwxenE3aTJyYw==}]]
+|-
+| 972 || [[Sara Lopes (Fada dos Bebés){}]]
+|-
+| 971 || [[Cristiano Ronaldo]], [[Cristina Ferreira]]
+|-
+| 970 || [[Luís Vilar{https://cnnportugal.iol.pt/perfil/luis-vilar/63e3b9ed0cf2c84d7fc6fbf2}]], [[Liliana Aguiar]]
+|-
 | 969 || [[Elma Aveiro {https://www.famousbirthdays.com/people/elma-aveiro.html}]], [[Manuel Luís Goucha]]
 |-
 | 968 || [[Ideal Maia{https://expresso.pt/podcasts/perguntar-nao-ofende/2022-11-07-Alice-Leonor-e-Ideal-ate-onde-tem-de-ir-o-ativismo-climatico-para-o-ouvirmos--f33bb3a5}]], [[Ativistas da Greve Climática Estudantil de Lisboa{https://greveclimaticalisboa.org/}]], [[Alice Gato{https://expresso.pt/podcasts/perguntar-nao-ofende/2022-11-07-Alice-Leonor-e-Ideal-ate-onde-tem-de-ir-o-ativismo-climatico-para-o-ouvirmos--f33bb3a5}]], [[Leonor Chicó{https://expresso.pt/podcasts/perguntar-nao-ofende/2022-11-07-Alice-Leonor-e-Ideal-ate-onde-tem-de-ir-o-ativismo-climatico-para-o-ouvirmos--f33bb3a5}]]
