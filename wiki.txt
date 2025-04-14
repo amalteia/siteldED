@@ -2,9 +2,9 @@
 |+ Table Generated from input.tsv
 ! Number !! Names
 |-
-| 963 || [[Crtistina Ferreira]]
+| 963 || [[Cristina Ferreira]]
 |-
-| 962 || [[Crtistina Ferreira]]
+| 962 || [[Cristina Ferreira]]
 |-
 | 961 || [[Alexandre Santos{https://jorgefernandes.net/artistas/alexandre-santos}]]
 |-
