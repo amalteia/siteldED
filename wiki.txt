@@ -1,5 +1,5 @@
 {|
-|+ Episódios do Extremamente Desagradável
+|
 ! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)
 |-
 | style='text-align:center;' | [https://youtu.be/z-x2TznXRH0 985] || [[Kátia Aveiro]], [[Elma Aveiro]], [[Pedro Henriques]], [[Georgina Rodríguez]], [[Fernando Mendes]], [[Diogo Luís]], [[Paulo Futre]], [[António Ribeiro Cristóvão]], [[Joaquim Rita]]
