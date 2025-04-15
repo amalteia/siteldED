@@ -1382,6 +1382,8 @@
 |-
 | style='text-align:center;' | 296 || [[Rosa Grilo]], [[Hernâni Carvalho]], [[Tia Maya]], [[Isaltino Morais]], [[André Ventura]], [[CMTV]], [[Joana Marques]], [[José Rodrigues dos Santos]], [[Alverca]], [[Correio da Manhã]]
 |-
+| style='text-align:center;' | 295 || [[Liliana Aguiar]], [[José Carlos Pereira]], [[José Gomes Ferreira (jornalista)]], [[Machismo]], [[Francisco Nunes]]
+|-
 | style='text-align:center;' | 294 || [[TVI]], [[Concorrentes do Começar do Zero]], [[Gêmeas Marta e Mariana]], [[Joana Marques]]
 |-
 | style='text-align:center;' | 293 || [[Dia do Pai]], [[Xavier]], [[Elton John]], [[David Furnish]], [[José Fidalgo]], [[Cristina Ferreira]], [[Iva Lamarão]], [[Manuel Luís Goucha]]
