@@ -16,6 +16,19 @@
                 .name a:hover { text-decoration: underline; }
             </style>
         </head>
+        <script>
+        function loadPreview(container) {
+        var isMobile = /Mobi|Android/i.test(navigator.userAgent);
+          const iframe = container.querySelector('.preview-iframe');
+          if (!iframe.src && !isMobile) {
+            iframe.src = iframe.getAttribute('data-src');
+          }
+        }
+        function unloadPreview(container) {
+          const iframe = container.querySelector('.preview-iframe');
+          iframe.src = '';
+        }
+        </script>
         <body>
             <header>
                 <h1>Lesados do Extremamente Desagradável</h1>
