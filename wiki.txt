@@ -1,6 +1,7 @@
-= Episódios do Extremamente Desagradável =
-{|
-! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+<div style='text-align:center;'>
+= Lista de entidades lesadas no Extremamente Desagradável por episódio =
+</div>
+{|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
 | style='text-align:center;' | [https://youtu.be/z-x2TznXRH0 985] || [[Kátia Aveiro]], [[Elma Aveiro]], [[Pedro Henriques]], [[Georgina Rodríguez]], [[Fernando Mendes]], [[Diogo Luís]], [[Paulo Futre]], [[António Ribeiro Cristóvão]], [[Joaquim Rita]]
 |-
 | style='text-align:center;' | [https://youtu.be/FYGikuBoA0c 984] || [[Kátia Aveiro]], [[Elma Aveiro]], [[César Mourão]]
