@@ -114,7 +114,7 @@
 |-
 | 929 || [[Big Brother{https://pt.wikipedia.org/wiki/Big_Brother_(Portugal)}]], [[Joana Taful{https://bigbrother.fandom.com/wiki/Joana_Taful}]], [[Diana Lopes{https://bigbrother.fandom.com/wiki/Diana_Lopes}]]
 |-
-| 928 || [[Big Brother{https://pt.wikipedia.org/wiki/Big_Brother_(Portugal)]], [[Rúben da Cruz{https://bigbrother.fandom.com/wiki/R%C3%BAben_da_Cruz}]], [[Rúben Boa Nova{https://bigbrother.fandom.com/wiki/R%C3%BAben_Boa_Nova}]], [[Tatiana Boa Nova{https://bigbrother.fandom.com/wiki/Tatiana_Boa_Nova}]], [[Ricardo Pereira{https://bigbrother.fandom.com/wiki/Ricardo_Pereira}]], [[Joana Schreyer{https://bigbrother.fandom.com/wiki/Joana_Schreyer}]], [[Miguel Vicente{https://bigbrother.fandom.com/wiki/Miguel_Vicente}]], [[Nuno Homem de Sá]], [[Frederica Lima{https://bigbrother.fandom.com/wiki/Frederica_Lima}]], [[Miro Vemba{https://bigbrother.fandom.com/wiki/Miro_Vemba}]], [[Ana Maia{https://bigbrother.fandom.com/wiki/Ana_Maia}]], [[Daniel Oliveira (Big Brother){https://bigbrother.fandom.com/wiki/Daniel_Oliveira}]], [[Catarina Severiano{https://bigbrother.fandom.com/wiki/Catarina_Severiano}]], [[Miguel Vicente{https://bigbrother.fandom.com/wiki/Miguel_Vicente}]], [[Mafalda Diamond{https://bigbrother.fandom.com/wiki/Mafalda_Diamond}]]
+| 928 || [[Big Brother{https://pt.wikipedia.org/wiki/Big_Brother_(Portugal)]], [[Rúben da Cruz{https://bigbrother.fandom.com/wiki/R%C3%BAben_da_Cruz}]], [[Rúben Boa Nova{https://bigbrother.fandom.com/wiki/R%C3%BAben_Boa_Nova}]], [[Tatiana Boa Nova{https://bigbrother.fandom.com/wiki/Tatiana_Boa_Nova}]], [[Ricardo Pereira{https://bigbrother.fandom.com/wiki/Ricardo_Pereira}]], [[Joana Schreyer{https://bigbrother.fandom.com/wiki/Joana_Schreyer}]], [[Miguel Vicente{https://bigbrother.fandom.com/wiki/Miguel_Vicente}]], [[Nuno Homem de Sá]], [[Frederica Lima{https://bigbrother.fandom.com/wiki/Frederica_Lima}]], [[Miro Vemba{https://bigbrother.fandom.com/wiki/Miro_Vemba}]], [[Ana Maia{https://bigbrother.fandom.com/wiki/Ana_Maia}]], [[Daniel Oliveira{https://bigbrother.fandom.com/wiki/Daniel_Oliveira}]], [[Catarina Severiano{https://bigbrother.fandom.com/wiki/Catarina_Severiano}]], [[Miguel Vicente{https://bigbrother.fandom.com/wiki/Miguel_Vicente}]], [[Mafalda Diamond{https://bigbrother.fandom.com/wiki/Mafalda_Diamond}]]
 |-
 | 927 || [[SIC]], [[Júlia Palha]], [[João Paulo Sousa (apresentador)]], [[Cláudia Borges]], [[Maria Dominguez{https://www.instagram.com/mariadominguezmiranda/}]], [[Sara Matos]], [[Andreia Rodrigues]], [[César Mourão]], [[João Paulo Sousa (apresentador)]], [[Paula Lobo Antunes]], [[Jorge Corrula]], [[José Raposo]], [[Beatriz Frazão]], [[Iva Lamarão]], [[Oceana Basílio]]
 |-
@@ -1094,7 +1094,7 @@
 |-
 | 439 || [[Suzana Garcia]]
 |-
-| 438 || [[Ângelo Rodrigues]], [[Revista Flash]], [[Maria João Abreu]], [[Daniel Oliveira]]
+| 438 || [[Ângelo Rodrigues]], [[Revista Flash]], [[Maria João Abreu]], [[Daniel Oliveira (apresentador)]]
 |-
 | 437 || [[Rui Rio]], [[Luís Montenegro]], [[Miguel Pinto Luz]]
 |-
@@ -1144,7 +1144,7 @@
 |-
 | 414 || [[Web Summit]], [[Paddy Cosgrave]], [[Fernando Medina]], [[Sara Sampaio]], [[António Costa]]
 |-
-| 413 || [[Joacine Katar Moreira]], [[André Ventura]], [[André Silva]], [[Daniel Oliveira]]
+| 413 || [[Joacine Katar Moreira]], [[André Ventura]], [[André Silva]], [[Daniel Oliveira (jornalista)]]
 |-
 | 412 || [[Halloween]], [[Dia de São Valentim]], [[Starbucks]], [[Alexandra Lencastre]], [[Sunny Delight]], [[Greta Thunberg]], [[Donald Trump]], [[Xavier{}]]
 |-
@@ -1158,7 +1158,7 @@
 |-
 | 407 || [[Patrícia Cândido]], [[Joana Marques]], [[Código da Alma]]
 |-
-| 406 || [[Marcelo Rebelo de Sousa]], [[Alta Definição]], [[Daniel Oliveira]], [[Cavaco Silva]], [[Donald Trump]]
+| 406 || [[Marcelo Rebelo de Sousa]], [[Alta Definição]], [[Daniel Oliveira (apresentador)]], [[Cavaco Silva]], [[Donald Trump]]
 |-
 | 405 || [[Chega]], [[André Ventura]], [[Humberto Bernardo]], [[Alentejanos]], [[Ciganos]]
 |-
