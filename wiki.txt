@@ -1,6 +1,6 @@
 {|
-|+ Table Generated from input.tsv
-! Number !! Names
+|+ Episódios do Extremamente Desagradável
+! Episódio !! Entidade(s) Lesada(s)
 |-
 | 985 || [[Kátia Aveiro]], [[Elma Aveiro]], [[Pedro Henriques]], [[Georgina Rodríguez]], [[Fernando Mendes]], [[Diogo Luís]], [[Paulo Futre]], [[António Ribeiro Cristóvão]], [[Joaquim Rita]]
 |-
