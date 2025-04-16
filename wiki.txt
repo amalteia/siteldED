@@ -2,6 +2,36 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1000 || [[Cristina Ferreira]], [[Ely]], [[Frederico Canto e Castro]]
+|-
+| style='text-align:center;' | 999 || [[Miguel Milhão]], [[Sancha Trindade]], [[Judite Sousa]], [[Madalena Abecasis]], [[Marta Gautier]], [[Carlos Areia]], [[Rosa Bela]], [[Tiago Paiva]], [[Carlos Costa]], [[Pedro Crispim]], [[Tiago Gonçalves]], [[Leandro Portugal]], [[Vanda Leal Nunes]], [[Adelaide Ferreira]], [[Elma Aveiro]], [[Maria Vieira]], [[Filomena Dias]], [[José Cid]]
+|-
+| style='text-align:center;' | 998 || [[Fábio Teles]], [[Sérgio Tavares]], [[Sandra Felgueiras]], [[Isabel Alves]]
+|-
+| style='text-align:center;' | 997 || [[Cristina Ferreira]]
+|-
+| style='text-align:center;' | 996 || [[Centro Colombo]], [[Wok to Walk]], [[Jorge do Frango da Guia]], [[Loja Maxina]]
+|-
+| style='text-align:center;' | 995 || [[Marco Paulo]]
+|-
+| style='text-align:center;' | 994 || [[Sérgio Tavares]], [[Maria Vieira]]
+|-
+| style='text-align:center;' | 993 || [[Joana Marques]], [[Ana Galvão]], [[Inês Lopes Gonçalves]]
+|-
+| style='text-align:center;' | 992 || [[Gala da TVI]], [[Kelly Ribeiro Bailey]], [[Rosinha]], [[Mónica Sintra]], [[Rúben Rua]], [[Carlos Cunha]], [[Miguel Silva (Jingle Lee)]], [[José Cid]]
+|-
+| style='text-align:center;' | 991 || [[Maria do Céu Santo]]
+|-
+| style='text-align:center;' | 990 || [[Sandra Felgueiras]], [[Cristina Real]], [[Carlos Carreira]]
+|-
+| style='text-align:center;' | 989 || [[Georgina Rodríguez]]
+|-
+| style='text-align:center;' | 988 || [[Filomena Dias]]
+|-
+| style='text-align:center;' | 987 || [[Filomena Dias]]
+|-
+| style='text-align:center;' | 986 || [[Ana Moura]]
+|-
 | style='text-align:center;' | 985 || [[Kátia Aveiro]], [[Elma Aveiro]], [[Pedro Henriques]], [[Georgina Rodríguez]], [[Fernando Mendes]], [[Diogo Luís]], [[Paulo Futre]], [[António Ribeiro Cristóvão]], [[Joaquim Rita]]
 |-
 | style='text-align:center;' | 984 || [[Kátia Aveiro]], [[Elma Aveiro]], [[César Mourão]]
