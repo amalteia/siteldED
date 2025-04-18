@@ -1,0 +1,57 @@
+        <!DOCTYPE html>
+        <html lang="pt">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Lesados do Extremamente Desagradável</title>
+            <style>
+                body { margin: 0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: linear-gradient(to right, #f8f9fa, #e0e0e0); color: #333; display: flex; flex-direction: column; align-items: center; padding: 40px 20px; }
+                header { text-align: center; margin-bottom: 40px; }
+                h1 { font-size: 3rem; margin: 0; color: #1f2937; }
+                h2 { font-size: 1.5rem; margin-top: 10px; color: #4b5563; }
+                .name-list { background-color: white; padding: 30px; border-radius: 16px; box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1); width: 100%; max-width: 600px; }
+                .name { font-size: 1.25rem; padding: 10px 0; border-bottom: 1px solid #e5e7eb; }
+                .name:last-child { border-bottom: none; }
+                .name a { color: #1d4ed8; text-decoration: none; }
+                .name a:hover { text-decoration: underline; }
+            </style>
+        </head>
+        <script>
+        function loadPreview(container) {
+        var isMobile = /Mobi|Android/i.test(navigator.userAgent);
+          const iframe = container.querySelector('.preview-iframe');
+          if (!iframe.src && !isMobile) {
+            iframe.src = iframe.getAttribute('data-src');
+          }
+        }
+        function unloadPreview(container) {
+          const iframe = container.querySelector('.preview-iframe');
+          iframe.src = '';
+        }
+        </script>
+        <body>
+            <header>
+                <h1>Lesados do Extremamente Desagradável</h1>
+                <h2>Episódio numero 0223&nbsp;<a href="https://www.rtp.pt/play/p4086/e371701/extremamente-desagradavel" target="_blank" style="color: inherit; text-decoration: none;">(ouvir)</a></h2>
+            </header>
+            <div class="name-list">
+                                    <div class="name">
+                                                    <a href="https://pt.wikipedia.org/wiki/Jair_Bolsonaro" target="_blank">Jair Bolsonaro</a>
+                                            </div>
+                                    <div class="name">
+                                                    <a href="https://pt.wikipedia.org/wiki/Ivete_Sangalo" target="_blank">Ivete Sangalo</a>
+                                            </div>
+                                    <div class="name">
+                                                    <a href="https://pt.wikipedia.org/wiki/Apoiantes_de_Bolsonaro" target="_blank">Apoiantes de Bolsonaro</a>
+                                            </div>
+                                    <div class="name">
+                                                    <a href="https://pt.wikipedia.org/wiki/Tiririca" target="_blank">Tiririca</a>
+                                            </div>
+                                    <div class="name">
+                                                    <a href="https://pt.wikipedia.org/wiki/Joana_Marques" target="_blank">Joana Marques</a>
+                                            </div>
+                            </div>
+            <p></p><div style='margin:20px; text-align: center;'><a href='/' style="color: inherit; text-decoration: none;">Top</a> | <a href='episodios.html' style="color: inherit; text-decoration: none;">Todos os episódios</a></div>
+        </body>
+        </html>
+        
