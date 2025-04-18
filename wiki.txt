@@ -2,6 +2,8 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1001 || [[Cristina Ferreira]], [[Joana Salgueiro]], [[Carlos Moedas]], [[Paulo Figueiredo]]
+|-
 | style='text-align:center;' | 1000 || [[Cristina Ferreira]], [[Ely]], [[Frederico Canto e Castro]]
 |-
 | style='text-align:center;' | 999 || [[Miguel Milhão]], [[Sancha Trindade]], [[Judite Sousa]], [[Madalena Abecasis]], [[Marta Gautier]], [[Carlos Areia]], [[Rosa Bela]], [[Tiago Paiva]], [[Carlos Costa]], [[Pedro Crispim]], [[Tiago Gonçalves]], [[Leandro Portugal]], [[Vanda Leal Nunes]], [[Adelaide Ferreira]], [[Elma Aveiro]], [[Maria Vieira]], [[Filomena Dias]], [[José Cid]]
