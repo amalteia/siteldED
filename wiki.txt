@@ -1498,7 +1498,7 @@
 |-
 | style='text-align:center;' | 270 || [[Emojis🥱🛺🦩🦧🧅🧄🦿🧆🪕🩸🤏]], [[Carla Rocha]]
 |-
-| style='text-align:center;' | 269 || [[Casados à Primeira Vista]], [[SIC]], [[O Carro do Amor]], [[Rui Veloso]], [[TVI]], [[Fátima Lopes (apresentadora)]], [[First Dates]], [[Ruben Rua]], [[Ljubomir Stanisic]], [[ASAE]], [[Quem Quer Casar Com o Meu Filho]]
+| style='text-align:center;' | 269 || [[Casados à Primeira Vista]], [[SIC]], [[O Carro do Amor]], [[Rui Veloso]], [[TVI]], [[Fátima Lopes (apresentadora)]], [[First Dates]], [[Rúben Rua]], [[Ljubomir Stanisic]], [[ASAE]], [[Quem Quer Casar Com o Meu Filho]]
 |-
 | style='text-align:center;' | 268 || [[Festas na Prisão]], [[Ricardo Salgado]], [[Camilo na Prisão]], [[Pedro Markl]]
 |-
@@ -2028,7 +2028,7 @@
 |-
 | style='text-align:center;' | 5 || [[D4rkFrame]], [[Windoh]], [[SirKazzio]], [[Nuno Agonia]], [[RicFazeres]], [[Tiagovski]], [[Wuant]]
 |-
-| style='text-align:center;' | 4 || [[Gustavo Santos]], [[Manuel Maria Carrilho]], [[José Sócrates]], [[Ana Rita Clara]], [[Nuno Espírito Santo]], [[Ruben Rua]], [[Aristóteles]]
+| style='text-align:center;' | 4 || [[Gustavo Santos]], [[Manuel Maria Carrilho]], [[José Sócrates]], [[Ana Rita Clara]], [[Nuno Espírito Santo]], [[Rúben Rua]], [[Aristóteles]]
 |-
 | style='text-align:center;' | 3 || [[Cristiano Ronaldo]], [[Elma Aveiro]], [[Cristiano Ronaldo dos Santos]], [[Ricardo Quaresma]], [[Fábio Coentrão]], [[Maxi Pereira]]
 |-
