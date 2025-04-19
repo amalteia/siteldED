@@ -4,7 +4,7 @@
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
 | style='text-align:center;' | 1017 || [[Belina Nunes]], [[Fernando Alvim]]
 |-
-| style='text-align:center;' | 1016 || [[Ângelo Rodrigues]], [[Iva Rodrigues]]
+| style='text-align:center;' | 1016 || [[Ângelo Rodrigues]], [[Iva Domingues]]
 |-
 | style='text-align:center;' | 1015 || [[Joana Cruz]], [[Alexandre Guimarães]]
 |-
