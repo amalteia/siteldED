@@ -2,6 +2,30 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1014 || [[Cristina Ferreira]], [[Felipa Garnel]], [[Rita Marrafa de Carvalho]]
+|-
+| style='text-align:center;' | 1013 || [[A Ex-periencia]], [[Sílvia e Paulo]], [[Sofia e José]], [[Maria Botelho Moniz]], [[Ana Sofia e João]], [[Emanuel Oliveira]]
+|-
+| style='text-align:center;' | 1012 || [[A Ex-periencia]], [[Sílvia e Paulo]]
+|-
+| style='text-align:center;' | 1011 || [[A Ex-periencia]], [[Sofia e José]], [[Vanessa e Diogo]], [[Sílvia]], [[Ana Sofia]]
+|-
+| style='text-align:center;' | 1010 || [[Covid-19]], [[Anabela Seabra (Désirat)]]
+|-
+| style='text-align:center;' | 1009 || [[Cristina Ferreira]], [[Manuel Luís Goucha]]
+|-
+| style='text-align:center;' | 1008 || [[Marco Paulo]], [[Ana Marques]], [[Herman José]], [[Lenita Gentil]]
+|-
+| style='text-align:center;' | 1007 || [[Lila Tiago]], [[Ary Zara]], [[Keyla Brasil]], [[Dusty Whistles]]
+|-
+| style='text-align:center;' | 1006 || [[Esperança Pereira]], [[Alexandre Monteiro]], [[]]
+|-
+| style='text-align:center;' | 1005 || [[Pedro Neves de Sousa]], [[Rúben Rua]]
+|-
+| style='text-align:center;' | 1004 || [[Alice Santos]]
+|-
+| style='text-align:center;' | 1003 || [[Alice Santos]]
+|-
 | style='text-align:center;' | 1002 || [[Cristina Ferreira]]
 |-
 | style='text-align:center;' | 1001 || [[Cristina Ferreira]], [[Joana Salgueiro]], [[Carlos Moedas]], [[Paulo Figueiredo]]
