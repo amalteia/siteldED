@@ -2,6 +2,12 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1017 || [[Belina Nunes]], [[Fernando Alvim]]
+|-
+| style='text-align:center;' | 1016 || [[Ângelo Rodrigues]], [[Iva Rodrigues]]
+|-
+| style='text-align:center;' | 1015 || [[Joana Cruz]], [[Alexandre Guimarães]]
+|-
 | style='text-align:center;' | 1014 || [[Cristina Ferreira]], [[Felipa Garnel]], [[Rita Marrafa de Carvalho]]
 |-
 | style='text-align:center;' | 1013 || [[A Ex-periencia]], [[Sílvia e Paulo]], [[Sofia e José]], [[Maria Botelho Moniz]], [[Ana Sofia e João]], [[Emanuel Oliveira]]
