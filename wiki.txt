@@ -2,6 +2,18 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1023 || [[TVI]], [[Gala TVI 30 anos]], [[Lurdes Baeta]], [[João Morais do Carmo]], [[Ana Sofia Cardoso]], [[João Fernando Ramos]], [[Rita Rodrigues]], [[Júlia Pinheiro]], [[José Alberto Carvalho]], [[Sandra Felgueiras]]
+|-
+| style='text-align:center;' | 1022 || [[TVI]], [[Gala TVI 30 anos]], [[Fernanda Serrano]], [[Rita Pereira]], [[Fernando Pires]], [[Tiago Teotónio Pereira]], [[São José Lapa]], [[José Fidalgo]], [[Cláudio Ramos]], [[Eduardo Madeira]], [[Manuel Marques]], [[Rúben Rua]], [[Maria Cerqueira Gomes]], [[Cristina Ferreira]], [[Marisa Cruz]], [[Joaquim Sousa Martins]], [[Paulo Futre]], [[Rui Santos (jornalista)]]
+|-
+| style='text-align:center;' | 1021 || [[TVI]], [[Gala TVI 30 anos]], [[José Lopes]], [[Rúben Rua]], [[Isaac Alfaiate]], [[Manuel Luís Goucha]], [[José Eduardo Moniz]], [[Cristina Ferreira]], [[Miguel Silva (Jingle Lee)]], [[Dalila Carmo]], [[Fernanda Serrano]], [[Ana Sofia Martins]], [[Toy]], [[Paulo Pires]], [[Raquel Matos Cruz]], [[Maria Cerqueira Gomes]], [[Idevor Mendonça]], [[Joana Diniz]], [[Sónia Jesus]], [[Mário Ferreira]]
+|-
+| style='text-align:center;' | 1020 || [[Lili Caneças]]
+|-
+| style='text-align:center;' | 1019 || [[Lili Caneças]]
+|-
+| style='text-align:center;' | 1018 || [[José Lopes]]
+|-
 | style='text-align:center;' | 1017 || [[Belina Nunes]], [[Fernando Alvim]]
 |-
 | style='text-align:center;' | 1016 || [[Ângelo Rodrigues]], [[Iva Domingues]]
