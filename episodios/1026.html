@@ -1,0 +1,61 @@
+        <!DOCTYPE html>
+        <html lang="pt">
+        <head><link rel="icon" href="/favicon.png" type="image/png" />
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Lesados do Extremamente Desagradável</title>
+            <style>
+                body { margin: 0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: linear-gradient(to right, #f8f9fa, #e0e0e0); color: #333; display: flex; flex-direction: column; align-items: center; padding: 40px 20px; }
+                header { text-align: center; margin-bottom: 40px; }
+                h1 { font-size: 3rem; margin: 0; color: #1f2937; }
+                h2 { font-size: 1.5rem; margin-top: 10px; color: #4b5563; }
+                .name-list { background-color: white; padding: 30px; border-radius: 16px; box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1); width: 100%; max-width: 600px; }
+                .name { font-size: 1.25rem; padding: 10px 0; border-bottom: 1px solid #e5e7eb; }
+                .name:last-child { border-bottom: none; }
+                .name a { color: #1d4ed8; text-decoration: none; }
+                .name a:hover { text-decoration: underline; }
+                .preview-iframe { display: none; position: absolute; top: 1.5em;  left: 0; width: 1000px; height: 400px; border: 0px solid #ccc; transform: scale(0.8); transform-origin: top left; z-index: 10;  pointer-events: none;}
+                .preview-container { position: relative; display: inline-block; }
+                .preview-container:hover .preview-iframe { display: block; }
+            </style>
+        </head>
+        <script>
+        function loadPreview(container) {
+        var isMobile = /Mobi|Android/i.test(navigator.userAgent);
+          const iframe = container.querySelector('.preview-iframe');
+          if (!iframe.src && !isMobile) {
+            iframe.src = iframe.getAttribute('data-src');
+          }
+        }
+        function unloadPreview(container) {
+          const iframe = container.querySelector('.preview-iframe');
+          iframe.src = '';
+        }
+        </script>
+        <body>
+            <header>
+                <h1>Lesados do Extremamente Desagradável</h1>
+                <h2>Episódio 1026&nbsp;<a href="https://youtu.be/Mgans9lY4ss" target="_blank" style="color: inherit; text-decoration: none;">(ouvir)</a></h2>
+            </header>
+            <div class="name-list">
+                                    <div class="name">
+                        <div class='preview-container' onmouseover='loadPreview(this)'><a href='https://www.imdb.com/title/tt26744794/' target='_blank'>O Triângulo</a><iframe class='preview-iframe' data-src='https://www.imdb.com/title/tt26744794/'></iframe></div>                    </div>
+                                    <div class="name">
+                        <div class='preview-container' onmouseover='loadPreview(this)'><a href='https://cusquices.com/o-triangulo-nuno-belchior-recebeu-informacoes-do-exterior-recebi-tres-informacoes/' target='_blank'>Nuno Belchior</a><iframe class='preview-iframe' data-src='https://cusquices.com/o-triangulo-nuno-belchior-recebeu-informacoes-do-exterior-recebi-tres-informacoes/'></iframe></div>                    </div>
+                                    <div class="name">
+                        <div class='preview-container' onmouseover='loadPreview(this)'><a href='https://tvi.iol.pt/otriangulo/perfil/samantha-lecathelinais/63fa4d330cf2cf9224fab7bc' target='_blank'>Samantha Lecathelinais</a><iframe class='preview-iframe' data-src='https://tvi.iol.pt/otriangulo/perfil/samantha-lecathelinais/63fa4d330cf2cf9224fab7bc'></iframe></div>                    </div>
+                                    <div class="name">
+                        <div class='preview-container' onmouseover='loadPreview(this)'><a href='https://tvi.iol.pt/otriangulo/perfil/andre-silveira/63f9f6d70cf2dce741acd382' target='_blank'>André Silveira</a><iframe class='preview-iframe' data-src='https://tvi.iol.pt/otriangulo/perfil/andre-silveira/63f9f6d70cf2dce741acd382'></iframe></div>                    </div>
+                                    <div class="name">
+                        <div class='preview-container' onmouseover='loadPreview(this)'><a href='https://tvi.iol.pt/otriangulo/perfil/dario-pinto/63fa1d290cf2dce741acd90b' target='_blank'>Dário Pinto</a><iframe class='preview-iframe' data-src='https://tvi.iol.pt/otriangulo/perfil/dario-pinto/63fa1d290cf2dce741acd90b'></iframe></div>                    </div>
+                                    <div class="name">
+                        <div class='preview-container' onmouseover='loadPreview(this)'><a href='https://tvi.iol.pt/otriangulo/perfil/ricardo-pacheco/63fa4a1d0cf2665294d750be' target='_blank'>Ricardo Pacheco</a><iframe class='preview-iframe' data-src='https://tvi.iol.pt/otriangulo/perfil/ricardo-pacheco/63fa4a1d0cf2665294d750be'></iframe></div>                    </div>
+                                    <div class="name">
+                        <div class='preview-container' onmouseover='loadPreview(this)'><a href='https://tvi.iol.pt/otriangulo/perfil/jessica-pereira/63fa2be20cf2dce741acdadf' target='_blank'>Jéssica Pereira</a><iframe class='preview-iframe' data-src='https://tvi.iol.pt/otriangulo/perfil/jessica-pereira/63fa2be20cf2dce741acdadf'></iframe></div>                    </div>
+                                    <div class="name">
+                        <div class='preview-container' onmouseover='loadPreview(this)'><a href='https://tvi.iol.pt/otriangulo/perfil/rafael-mota/63fa48370cf2dce741acde65' target='_blank'>Rafael Mota</a><iframe class='preview-iframe' data-src='https://tvi.iol.pt/otriangulo/perfil/rafael-mota/63fa48370cf2dce741acde65'></iframe></div>                    </div>
+                            </div>
+            <p></p><div style='margin:20px; text-align: center;'><a href='/top.html' style="color: inherit; text-decoration: none;">Top</a> | <a href='/episodios.html' style="color: inherit; text-decoration: none;">Todos os episódios</a></div>
+        </body>
+        </html>
+        

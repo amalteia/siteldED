@@ -2,6 +2,20 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1030 || [[Rui da Fonseca e Castro]], [[Maria Helena Costa]]
+|-
+| style='text-align:center;' | 1029 || [[Gustavo Santos]], [[Margarida Oliveira]], [[Sérgio Tavares]]
+|-
+| style='text-align:center;' | 1028 || [[Gustavo Santos]]
+|-
+| style='text-align:center;' | 1027 || [[O Triângulo]], [[Bárbara Silva]], [[Afonso Vaz]], [[Sebastião Bugalho]], [[Rosa Patrício]], [[Marina Pinto]], [[Soraia Conde]], [[Inácia Nunes]], [[Lara Moniz]], [[Lívia Ferreira]], [[Carolina Nunes]], [[Tiago Graça]], [[Mariana Duarte]]
+|-
+| style='text-align:center;' | 1026 || [[O Triângulo]], [[Nuno Belchior]], [[Samantha Lecathelinais]], [[André Silveira]], [[Dário Pinto]], [[Ricardo Pacheco]], [[Jéssica Pereira]], [[Rafael Mota]]
+|-
+| style='text-align:center;' | 1025 || [[O Triângulo]], [[Cristina Ferreira]], [[Brenda Pais]], [[Gonçalo Chaves]], [[Alice Santos]]
+|-
+| style='text-align:center;' | 1024 || [[TVI]], [[Gala TVI 30 anos]], [[Manuel Luís Goucha]], [[José Eduardo Moniz]], [[Cristina Ferreira]], [[Idevor Mendonça]], [[Joana Diniz]], [[Sónia Jesus]], [[Mário Ferreira]], [[Cláudio Ramos]], [[Rúben Rua]], [[Maria Cerqueira Gomes]], [[Ana Sofia Cardoso]], [[João Fernando Ramos]], [[Rita Rodrigues]], [[Sandra Felgueiras]], [[Pedro Benevides]]
+|-
 | style='text-align:center;' | 1023 || [[TVI]], [[Gala TVI 30 anos]], [[Lurdes Baeta]], [[João Morais do Carmo]], [[Ana Sofia Cardoso]], [[João Fernando Ramos]], [[Rita Rodrigues]], [[Júlia Pinheiro]], [[José Alberto Carvalho]], [[Sandra Felgueiras]]
 |-
 | style='text-align:center;' | 1022 || [[TVI]], [[Gala TVI 30 anos]], [[Fernanda Serrano]], [[Rita Pereira]], [[Fernando Pires]], [[Tiago Teotónio Pereira]], [[São José Lapa]], [[José Fidalgo]], [[Cláudio Ramos]], [[Eduardo Madeira]], [[Manuel Marques]], [[Rúben Rua]], [[Maria Cerqueira Gomes]], [[Cristina Ferreira]], [[Marisa Cruz]], [[Joaquim Sousa Martins]], [[Paulo Futre]], [[Rui Santos (jornalista)]]
