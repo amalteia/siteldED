@@ -2,7 +2,7 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
-| style='text-align:center;' | 1030 || [[Rui da Fonseca e Castro]], [[Maria Helena Costa]]
+| style='text-align:center;' | 1030 || [[Rui da Fonseca e Castro]], [[Maria Helena Costa]], [[Sérgio Tavares]]
 |-
 | style='text-align:center;' | 1029 || [[Gustavo Santos]], [[Margarida Oliveira]], [[Sérgio Tavares]]
 |-
@@ -16,7 +16,7 @@
 |-
 | style='text-align:center;' | 1024 || [[TVI]], [[Gala TVI 30 anos]], [[Manuel Luís Goucha]], [[José Eduardo Moniz]], [[Cristina Ferreira]], [[Idevor Mendonça]], [[Joana Diniz]], [[Sónia Jesus]], [[Mário Ferreira]], [[Cláudio Ramos]], [[Rúben Rua]], [[Maria Cerqueira Gomes]], [[Ana Sofia Cardoso]], [[João Fernando Ramos]], [[Rita Rodrigues]], [[Sandra Felgueiras]], [[Pedro Benevides]]
 |-
-| style='text-align:center;' | 1023 || [[TVI]], [[Gala TVI 30 anos]], [[Lurdes Baeta]], [[João Morais do Carmo]], [[Ana Sofia Cardoso]], [[João Fernando Ramos]], [[Rita Rodrigues]], [[Júlia Pinheiro]], [[José Alberto Carvalho]], [[Sandra Felgueiras]]
+| style='text-align:center;' | 1023 || [[TVI]], [[Gala TVI 30 anos]], [[Lurdes Baeta]], [[João Morais do Carmo]], [[Ana Sofia Cardoso]], [[João Fernando Ramos]], [[Rita Rodrigues]], [[Júlia Pinheiro]], [[José Alberto Carvalho]], [[Sandra Felgueiras]], [[Pedro Benevides]], [[Pedro Santos Guerreiro]]
 |-
 | style='text-align:center;' | 1022 || [[TVI]], [[Gala TVI 30 anos]], [[Fernanda Serrano]], [[Rita Pereira]], [[Fernando Pires]], [[Tiago Teotónio Pereira]], [[São José Lapa]], [[José Fidalgo]], [[Cláudio Ramos]], [[Eduardo Madeira]], [[Manuel Marques]], [[Rúben Rua]], [[Maria Cerqueira Gomes]], [[Cristina Ferreira]], [[Marisa Cruz]], [[Joaquim Sousa Martins]], [[Paulo Futre]], [[Rui Santos (jornalista)]]
 |-
@@ -122,7 +122,7 @@
 |-
 | style='text-align:center;' | 971 || [[Cristiano Ronaldo]], [[Cristina Ferreira]]
 |-
-| style='text-align:center;' | 970 || [[Luís Vilar]], [[Liliana Aguiar]]
+| style='text-align:center;' | 970 || [[Luís Vilar]], [[Liliana Aguiar]], [[Francisco Nunes]], [[Kátia Aveiro]]
 |-
 | style='text-align:center;' | 969 || [[Elma Aveiro]], [[Manuel Luís Goucha]]
 |-
@@ -156,7 +156,7 @@
 |-
 | style='text-align:center;' | 954 || [[Susana Torres]]
 |-
-| style='text-align:center;' | 953 || [[Susana Torres]]
+| style='text-align:center;' | 953 || [[Susana Torres]], [[Inês Lopes Gonçalves]]
 |-
 | style='text-align:center;' | 952 || [[Gustavo Santos]], [[Sérgio Tavares]]
 |-
@@ -186,7 +186,7 @@
 |-
 | style='text-align:center;' | 939 || [[Miguel Milhão]]
 |-
-| style='text-align:center;' | 938 || [[João Paulo Sousa (apresentador)]]
+| style='text-align:center;' | 938 || [[João Paulo Sousa]]
 |-
 | style='text-align:center;' | 937 || [[Quinas de Ouro]], [[Carlos Manuel]], [[Ana Galvão]], [[Humberto Coelho]], [[Ricardo Quaresma]], [[Vasco Palmeirim]], [[Cristiano Ronaldo]]
 |-
@@ -208,17 +208,17 @@
 |-
 | style='text-align:center;' | 928 || [[Big Brother]], [[Rúben Boa Nova]], [[Tatiana Boa Nova]], [[Ricardo Pereira]], [[Joana Schreyer]], [[Miguel Vicente]], [[Nuno Homem de Sá]], [[Frederica Lima]], [[Miro Vemba]], [[Ana Maia]], [[Daniel Oliveira]], [[Catarina Severiano]], [[Miguel Vicente]], [[Mafalda Diamond]]
 |-
-| style='text-align:center;' | 927 || [[SIC]], [[Júlia Palha]], [[João Paulo Sousa (apresentador)]], [[Cláudia Borges]], [[Maria Dominguez]], [[Sara Matos]], [[Andreia Rodrigues]], [[César Mourão]], [[João Paulo Sousa (apresentador)]], [[Paula Lobo Antunes]], [[Jorge Corrula]], [[José Raposo]], [[Beatriz Frazão]], [[Iva Lamarão]], [[Oceana Basílio]]
+| style='text-align:center;' | 927 || [[SIC]], [[Júlia Palha]], [[João Paulo Sousa]], [[Cláudia Borges]], [[Maria Dominguez]], [[Sara Matos]], [[Andreia Rodrigues]], [[César Mourão]], [[João Paulo Sousa]], [[Paula Lobo Antunes]], [[Jorge Corrula]], [[José Raposo]], [[Beatriz Frazão]], [[Iva Lamarão]], [[Oceana Basílio]]
 |-
 | style='text-align:center;' | 926 || [[Miguel Silva (Jingle Lee)]], [[Cristina Ferreira]], [[José Eduardo Moniz]], [[João Montez]], [[Mónica Jardim]], [[Rita Pereira]], [[Tomás Meireles]], [[Susana Dias Ramos]], [[Sara Prata]]
 |-
-| style='text-align:center;' | 925 || [[TVI]], [[Festa de Verão da TVI]], [[Fanny Rodrigues]], [[José Carlos Pereira]], [[Isaac Alfaiate]], [[Susana Dias Ramos]], [[Rúben Rua]], [[Santiago Lagoá]], [[Sofia Vasconcelos]], [[Zé Lopes]], [[Miguel Flor de Lima]], [[CNN]], [[Pedro Benevides]], [[Ana Barbosa]]
+| style='text-align:center;' | 925 || [[TVI]], [[Festa de Verão da TVI]], [[Fanny Rodrigues]], [[José Carlos Pereira]], [[Isaac Alfaiate]], [[Susana Dias Ramos]], [[Rúben Rua]], [[Santiago Lagoá]], [[Sofia Vasconcelos]], [[José Lopes]], [[Miguel Flor de Lima]], [[CNN]], [[Pedro Benevides]], [[Ana Barbosa]]
 |-
 | style='text-align:center;' | 924 || [[Bruno de Carvalho]], [[Manuel Luís Goucha]], [[Liliana Almeida de Carvalho]]
 |-
 | style='text-align:center;' | 923 || [[Manuel Luís Goucha]], [[José Lopes]], [[Cristina Ferreira]]
 |-
-| style='text-align:center;' | 922 || [[Madalena Abecasis]], [[Nuno Sebastiao]]
+| style='text-align:center;' | 922 || [[Madalena Abecasis]], [[Nuno Sebastião]]
 |-
 | style='text-align:center;' | 921 || [[Liliana Aguiar]], [[Francisco Nunes]]
 |-
@@ -316,7 +316,7 @@
 |-
 | style='text-align:center;' | 874 || [[Alexandra Solnado]]
 |-
-| style='text-align:center;' | 871 || [[Sandra Silva]]
+| style='text-align:center;' | 873 || [[Sandra Silva]]
 |-
 | style='text-align:center;' | 872 || [[Nuno Homem de Sá]]
 |-
@@ -380,7 +380,7 @@
 |-
 | style='text-align:center;' | 842 || [[Big Brother Famosos]], [[Fernando Semedo]], [[Bernardo Sousa]], [[Marie (Maria Manuela Pinheiro Gomes)]], [[Pedro Pico]], [[Sara Aleixo]], [[Bruna Gomes]], [[Mafalda Matos]], [[Miguel Azevedo]], [[Tanya (Tânia Lima)]]
 |-
-| style='text-align:center;' | 841 || [[Rui Fonseca e Castro]]
+| style='text-align:center;' | 841 || [[Rui da Fonseca e Castro]]
 |-
 | style='text-align:center;' | 840 || [[Bruno de Carvalho]]
 |-
@@ -520,11 +520,11 @@
 |-
 | style='text-align:center;' | 772 || [[Jorge Kapinha]], [[Duarte Siopa]]
 |-
-| style='text-align:center;' | 771 || [[Globos de Ouro (Portugal) 2021]], [[Bárbara Tinoco]], [[Humberto Bernardo]], [[Carolina Deslandes]], [[Maria João Luís]], [[Rui Mendes]], [[Alexandra Lencastre]], [[Francisco Pinto Balsemão]], [[Augusto Seabra]], [[Luciana Abreu]], [[Júlia Pinheiro]]
+| style='text-align:center;' | 771 || [[Globos de Ouro 2021]], [[Bárbara Tinoco]], [[Humberto Bernardo]], [[Carolina Deslandes]], [[Maria João Luís]], [[Rui Mendes]], [[Alexandra Lencastre]], [[Francisco Pinto Balsemão]], [[Augusto Seabra]], [[Luciana Abreu]], [[Júlia Pinheiro]]
 |-
-| style='text-align:center;' | 770 || [[Globos de Ouro (Portugal) 2021]], [[Francisco Pedro Balsemão]], [[Filomena Cautela]], [[Iva Lamarão]]
+| style='text-align:center;' | 770 || [[Globos de Ouro 2021]], [[Francisco Pedro Balsemão]], [[Filomena Cautela]], [[Iva Lamarão]]
 |-
-| style='text-align:center;' | 769 || [[Globos de Ouro (Portugal) 2021]], [[Clara de Sousa]], [[Teresa Villaverde]], [[Barbara Pollastri]], [[José Fidalgo]], [[Cristina Ferreira]], [[João Baião]], [[Nuno Nogueira]], [[Fernando Mendes]], [[Ricardo Pereira]]
+| style='text-align:center;' | 769 || [[Globos de Ouro 2021]], [[Clara de Sousa]], [[Teresa Villaverde]], [[Barbara Pollastri]], [[José Fidalgo]], [[Cristina Ferreira]], [[João Baião]], [[Nuno Nogueira]], [[Fernando Mendes]], [[Ricardo Pereira]]
 |-
 | style='text-align:center;' | 768 || [[Carlos do Paulo]]
 |-
@@ -562,7 +562,7 @@
 |-
 | style='text-align:center;' | 751 || [[Gustavo Santos]]
 |-
-| style='text-align:center;' | 750 || [[Rui Fonseca e Castro]], [[CMTV]]
+| style='text-align:center;' | 750 || [[Rui da Fonseca e Castro]], [[CMTV]]
 |-
 | style='text-align:center;' | 749 || [[Gustavo Santos]], [[Rúben Rua]]
 |-
@@ -644,11 +644,11 @@
 |-
 | style='text-align:center;' | 710 || [[Júlia Palha]], [[Estamos em Casa]]
 |-
-| style='text-align:center;' | 709 || [[José Gomes Ferreira]]
+| style='text-align:center;' | 709 || [[José Gomes Ferreira (jornalista)]]
 |-
 | style='text-align:center;' | 708 || [[Quem Quer Namorar Com o Agricultor]], [[José Luís Fernandes]]
 |-
-| style='text-align:center;' | 707 || [[José Gomes Ferreira]]
+| style='text-align:center;' | 707 || [[José Gomes Ferreira (jornalista)]]
 |-
 | style='text-align:center;' | 706 || [[Quem Quer Namorar com o Agricultor]], [[Andreia Rodrigues]], [[Aurélio Pinto]], [[Luís Feijão]], [[Tiago Belo]], [[Ana Palma]], [[Diogo Moreira]], [[José Luís Fernandes]]
 |-
@@ -662,7 +662,7 @@
 |-
 | style='text-align:center;' | 701 || [[Cristiano Ronaldo]]
 |-
-| style='text-align:center;' | 700 || [[Margarida Oliveira]], [[César Augusto Moniz]], [[Sérgio Tavares]], [[Rui Fonseca e Castro]]
+| style='text-align:center;' | 700 || [[Margarida Oliveira]], [[César Augusto Moniz]], [[Sérgio Tavares]], [[Rui da Fonseca e Castro]]
 |-
 | style='text-align:center;' | 699 || [[Toy]]
 |-
@@ -728,9 +728,9 @@
 |-
 | style='text-align:center;' | 668 || [[Porfírio e Silva]], [[Miguel Ribeiro]]
 |-
-| style='text-align:center;' | 667 || [[Rui Fonseca e Castro]]
+| style='text-align:center;' | 667 || [[Rui da Fonseca e Castro]]
 |-
-| style='text-align:center;' | 666 || [[Rui Fonseca e Castro]]
+| style='text-align:center;' | 666 || [[Rui da Fonseca e Castro]]
 |-
 | style='text-align:center;' | 665 || [[Joana Miranda]], [[Inês Gonçalves]]
 |-
@@ -1266,9 +1266,9 @@
 |-
 | style='text-align:center;' | 399 || [[Maria das Dores]]
 |-
-| style='text-align:center;' | 398 || [[Globos de Ouro (Portugal)]], [[Cristiano Ronaldo]], [[Miguel Paixão]], [[Danie Ruah]], [[Sara Sampaio]], [[Carolina Deslandes]], [[Capitão Fausto]], [[Diogo Amaral]], [[Rodrigo Guedes de Carvalho]], [[Luciana Abreu]]
+| style='text-align:center;' | 398 || [[Hélder Teixeira]], [[Big Brother]], [[Daniel  Monteiro]]
 |-
-| style='text-align:center;' | 397 || [[Globos de Ouro (Portugal)]], [[Cristina Ferreira]], [[João Rôlo]], [[Carolina Patrocínio]], [[Dona Elisa]], [[João Manzarra]]
+| style='text-align:center;' | 397 || [[Globos de Ouro]], [[Cristina Ferreira]], [[João Rôlo]], [[Carolina Patrocínio]], [[Dona Elisa]], [[João Manzarra]]
 |-
 | style='text-align:center;' | 396 || [[Frederico Varandas]], [[Teresa Dimas]]
 |-
@@ -1506,7 +1506,7 @@
 |-
 | style='text-align:center;' | 279 || [[Manuel Luís Goucha]], [[Luciana Abreu]], [[Yannick Djaló]], [[Joana Marques]], [[Luiza Abreu]]
 |-
-| style='text-align:center;' | 278 || [[Óscares]], [[António Raminhos]], [[Sara Matos]], [[Carolina Patrocínio]], [[Tias da Joana Marques]], [[Plantel do Varzim]], [[Casa do Povo de Lavre]], [[Viggo Mortensen]], [[Willem Dafoe]], [[Melissa McCarthy]], [[Olivia Colman]], [[Adam Driver]], [[Lady Gaga]], [[Bob Dylan]], [[Marina de Tavira]], [[Leonardo Dicaprio]], [[Os Andrades]], [[Globos de Ouro (Portugal)]], [[Soraia Chaves]], [[Paulo Gonzo]], [[Santa Maria]], [[Delfins]], [[La La Land]]
+| style='text-align:center;' | 278 || [[Óscares]], [[António Raminhos]], [[Sara Matos]], [[Carolina Patrocínio]], [[Tias da Joana Marques]], [[Plantel do Varzim]], [[Casa do Povo de Lavre]], [[Viggo Mortensen]], [[Willem Dafoe]], [[Melissa McCarthy]], [[Olivia Colman]], [[Adam Driver]], [[Lady Gaga]], [[Bob Dylan]], [[Marina de Tavira]], [[Leonardo Dicaprio]], [[Os Andrades]], [[Globos de Ouro]], [[Soraia Chaves]], [[Paulo Gonzo]], [[Santa Maria]], [[Delfins]], [[La La Land]]
 |-
 | style='text-align:center;' | 277 || [[Carlos Ramalho]], [[Joana Marques]], [[Bloggers lifestyle]], [[Gorete Pimentel]], [[Enfermeira Vanda]], [[Greves de Fome]]
 |-
@@ -1806,7 +1806,7 @@
 |-
 | style='text-align:center;' | 129 || [[Bárbara Sofia Holanda Bandeira]], [[Rui Bandeira]]
 |-
-| style='text-align:center;' | 128 || [[Globos de Ouro (Portugal)]], [[Sofia Cerveira]], [[Ricardo Pereira]], [[Raquel Strada]], [[João Baião]], [[Cristiano Ronaldo]], [[Bárbara Guimarães]], [[Bárbara Bandeira]]
+| style='text-align:center;' | 128 || [[Globos de Ouro]], [[Sofia Cerveira]], [[Ricardo Pereira]], [[Raquel Strada]], [[João Baião]], [[Cristiano Ronaldo]], [[Bárbara Guimarães]], [[Bárbara Bandeira]]
 |-
 | style='text-align:center;' | 127 || [[Octávio Machado]], [[Manuel Ribeiro]], [[Eduardo Barroso]]
 |-
