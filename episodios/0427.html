@@ -14,6 +14,8 @@
                 .name:last-child { border-bottom: none; }
                 .name a { color: #1d4ed8; text-decoration: none; }
                 .name a:hover { text-decoration: underline; }
+                .preview-iframe { display: none; position: absolute; top: 1.5em;  left: 0; width: 1000px; height: 600px; border: 0px solid #ccc; transform: scale(0.8); transform-origin: top left; z-index: 10;  pointer-events: none;}
+                .preview-container:hover .preview-iframe { display: block; }
             </style>
         </head>
         <script>
