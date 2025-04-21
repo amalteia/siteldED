@@ -2,6 +2,22 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1050 || [[Anabela Bastos]], [[]], [[Festival Nacional da Canção Infantil]]
+|-
+| style='text-align:center;' | 1049 || [[Cláudia Nayara]]
+|-
+| style='text-align:center;' | 1048 || [[Cláudia Nayara]], [[Cláudio Ramos]]
+|-
+| style='text-align:center;' | 1047 || [[Nelson Lisboa]]
+|-
+| style='text-align:center;' | 1046 || [[Bárbara Parada]], [[Cláudio Ramos]], [[Maria Botelho Moniz]], [[Miguel Vicente]]
+|-
+| style='text-align:center;' | 1045 || [[Hugo Strada]]
+|-
+| style='text-align:center;' | 1044 || [[Hugo Strada]]
+|-
+| style='text-align:center;' | 1043 || [[Luciana Abreu]]
+|-
 | style='text-align:center;' | 1042 || [[Ana Lourenço]], [[Bruno de Carvalho]], [[Liliana Almeida de Carvalho]]
 |-
 | style='text-align:center;' | 1041 || [[Yolanda Tati]], [[Rita Pereira]]
