@@ -2,6 +2,12 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1035 || [[Gisela Serrano]]
+|-
+| style='text-align:center;' | 1034 || [[Chef Olivier]]
+|-
+| style='text-align:center;' | 1033 || [[Chef Olivier]]
+|-
 | style='text-align:center;' | 1032 || [[Festival RTP da Canção 2023]], [[MoYah]], [[April Ivy]], [[Edmundo Inácio]], [[Inês Lopes Gonçalves]], [[The Happy Mess]], [[INÊS APENAS]], [[Quim Albergaria]], [[Pedro Ribeiro]], [[You Can't Win Charlie Brown]], [[Lara Li]], [[Teresinha Landeiro]], [[Voodoo Marmalade]], [[Maro]], [[Jorge Gabriel]], [[Sónia Araújo]]
 |-
 | style='text-align:center;' | 1031 || [[Susana Torres]]
@@ -12,7 +18,7 @@
 |-
 | style='text-align:center;' | 1028 || [[Gustavo Santos]]
 |-
-| style='text-align:center;' | 1027 || [[O Triângulo]], [[Bárbara Silva]], [[Afonso Vaz]], [[Rosa Patrício]], [[Marina Pinto]], [[Soraia Conde]], [[Inácia Nunes]], [[Lara Moniz]], [[Lívia Ferreira]], [[Carolina Nunes]], [[Tiago Graça]], [[Mariana Duarte]]
+| style='text-align:center;' | 1027 || [[O Triângulo]], [[Bárbara Silva]], [[Afonso Vaz]], [[Sebastião Bugalho]], [[Rosa Patrício]], [[Marina Pinto]], [[Soraia Conde]], [[Inácia Nunes]], [[Lara Moniz]], [[Lívia Ferreira]], [[Carolina Nunes]], [[Tiago Graça]], [[Mariana Duarte]]
 |-
 | style='text-align:center;' | 1026 || [[O Triângulo]], [[Nuno Belchior]], [[Samantha Lecathelinais]], [[André Silveira]], [[Dário Pinto]], [[Ricardo Pacheco]], [[Jéssica Pereira]], [[Rafael Mota]]
 |-
@@ -1130,7 +1136,7 @@
 |-
 | style='text-align:center;' | 469 || [[José Peseiro]], [[Tiago Fernandes]], [[Marcel Keizer]], [[Leonel Fontes]], [[Programa Impulso Jovem]], [[Filipa Garnel]], [[Operação Stop do Fisco]], [[Julen Lopetegui]], [[Joacine Katar Moreira]], [[Ana Galvão]], [[Carla Rocha]], [[Joana Marques]]
 |-
-| style='text-align:center;' | 468 || [[Chef Olivier]]
+| style='text-align:center;' | 468 || [[Chef Olivier}]]
 |-
 | style='text-align:center;' | 467 || [[Pessoas na vigília por Rui Pinto]], [[Joana Marques]], [[Joana Amaral Dias]]
 |-
@@ -2060,9 +2066,5 @@
 |-
 | style='text-align:center;' | 4 || [[Gustavo Santos]], [[Manuel Maria Carrilho]], [[José Sócrates]], [[Ana Rita Clara]], [[Nuno Espírito Santo]], [[Rúben Rua]], [[Aristóteles]]
 |-
-| style='text-align:center;' | 3 || [[Cristiano Ronaldo]], [[Elma Aveiro]], [[Cristiano Ronaldo dos Santos]], [[Ricardo Quaresma]], [[Fábio Coentrão]], [[Maxi Pereira]]
-|-
-| style='text-align:center;' | 2 || [[António Leitão Amaro]], [[Mariana Mortágua]], [[Inês Lopes Gonçalves]], [[Tânia Laranjo]], [[João Araújo]], [[Jorge Nuno Pinto da Costa]]
-|-
-| style='text-align:center;' | 1 || [[Websumit]], [[Judite Sousa]], [[Marcelo Rebelo de Sousa]], [[Salão Erótico]], [[Carla Ferreira]], [[Restaurante Canela]], [[Ljubomir Stanisic]], [[Manuel Canela]]
+| style='text-align:center;' | Alana, Sasha e Kauana || [[Cristiano Ronaldo]], [[Elma Aveiro]], [[Cristiano Ronaldo dos Santos]], [[Ricardo Quaresma]], [[Fábio Coentrão]], [[Maxi Pereira  https://www.rtp.pt/play/p4086/e315866/extremamente-desagradavel]]
 |}
