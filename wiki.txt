@@ -2,6 +2,10 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1032 || [[Festival RTP da Canção 2023]], [[MoYah]], [[April Ivy]], [[Edmundo Inácio]], [[Inês Lopes Gonçalves]], [[The Happy Mess]], [[INÊS APENAS]], [[Quim Albergaria]], [[Pedro Ribeiro]], [[You Can't Win Charlie Brown]], [[Lara Li]], [[Teresinha Landeiro]], [[Voodoo Marmalade]], [[Maro]], [[Jorge Gabriel]], [[Sónia Araújo]]
+|-
+| style='text-align:center;' | 1031 || [[Susana Torres]]
+|-
 | style='text-align:center;' | 1030 || [[Rui da Fonseca e Castro]], [[Maria Helena Costa]], [[Sérgio Tavares]]
 |-
 | style='text-align:center;' | 1029 || [[Gustavo Santos]], [[Margarida Oliveira]], [[Sérgio Tavares]]
