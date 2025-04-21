@@ -2,6 +2,24 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1059 || [[Noite das Estrelas]], [[Quintino Aires]], [[Adriano Silva Martins]], [[Tia Maya]]
+|-
+| style='text-align:center;' | 1058 || [[Noite das Estrelas]], [[Sónia Jesus]], [[Quintino Aires]], [[Liliana Aguiar]], [[Maria Cerqueira Gomes]]
+|-
+| style='text-align:center;' | 1057 || [[Play - Prémios da Música Portuguesa]], [[Filomena Cautela]], [[Ana Markl]], [[Joana Gama Freire]], [[Ana Moura]], [[Catarina Furtado]], [[Camané]], [[]]
+|-
+| style='text-align:center;' | 1056 || [[Ricardo de Sá]], [[Ana Pinto Ribeiro]]
+|-
+| style='text-align:center;' | 1055 || [[Luís Gomez]], [[Ana Rita Cavaco]]
+|-
+| style='text-align:center;' | 1054 || [[Alice Santos]], [[]]
+|-
+| style='text-align:center;' | 1053 || [[Cláudia Jacques]]
+|-
+| style='text-align:center;' | 1052 || [[José Cid]]
+|-
+| style='text-align:center;' | 1051 || [[Os Traidores]], [[Liliana Sequeira]], [[Cristiana Costa]], [[Luís Henrique Avellar]], [[Lara Fontes]], [[Álvaro Marinho]], [[Carla Pereira]], [[Sónia Patacão]], [[Júlio Ferreira]], [[António Borralho]], [[Maria de Fátima]], [[Daniela Ruah]]
+|-
 | style='text-align:center;' | 1050 || [[Anabela Bastos]], [[Festival Nacional da Canção Infantil]]
 |-
 | style='text-align:center;' | 1049 || [[Cláudia Nayara]]
