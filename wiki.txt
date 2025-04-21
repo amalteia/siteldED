@@ -32,7 +32,7 @@
 |-
 | style='text-align:center;' | 1028 || [[Gustavo Santos]]
 |-
-| style='text-align:center;' | 1027 || [[O Triângulo]], [[Bárbara Silva]], [[Afonso Vaz]], [[Sebastião Bugalho]], [[Rosa Patrício]], [[Marina Pinto]], [[Soraia Conde]], [[Inácia Nunes]], [[Lara Moniz]], [[Lívia Ferreira]], [[Carolina Nunes]], [[Tiago Graça]], [[Mariana Duarte]]
+| style='text-align:center;' | 1027 || [[O Triângulo]], [[Bárbara Silva]], [[Afonso Vaz]], [[Rosa Patrício]], [[Marina Pinto]], [[Soraia Conde]], [[Inácia Nunes]], [[Lara Moniz]], [[Lívia Ferreira]], [[Carolina Nunes]], [[Tiago Graça]], [[Mariana Duarte]]
 |-
 | style='text-align:center;' | 1026 || [[O Triângulo]], [[Nuno Belchior]], [[Samantha Lecathelinais]], [[André Silveira]], [[Dário Pinto]], [[Ricardo Pacheco]], [[Jéssica Pereira]], [[Rafael Mota]]
 |-
