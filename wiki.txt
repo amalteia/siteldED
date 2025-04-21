@@ -2,6 +2,20 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1042 || [[Ana Lourenço]], [[Bruno de Carvalho]], [[Liliana Almeida de Carvalho]]
+|-
+| style='text-align:center;' | 1041 || [[Yolanda Tati]], [[Rita Pereira]]
+|-
+| style='text-align:center;' | 1040 || [[Yolanda Tati]], [[Vanessa Martins]], [[Gilmário Vemba]], [[Mariana Mortágua]]
+|-
+| style='text-align:center;' | 1039 || [[Yolanda Tati]], [[Mariana Mortágua]], [[Ana Garcia Martins]], [[Keyla Brasil]], [[Vanessa Martins]]
+|-
+| style='text-align:center;' | 1038 || [[Yolanda Tati]], [[Liliana Filipa]]
+|-
+| style='text-align:center;' | 1037 || [[Cláudia Nayara]]
+|-
+| style='text-align:center;' | 1036 || [[Mário Augusto]], [[Sara Avelar]]
+|-
 | style='text-align:center;' | 1035 || [[Gisela Serrano]]
 |-
 | style='text-align:center;' | 1034 || [[Chef Olivier]]
