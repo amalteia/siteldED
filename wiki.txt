@@ -2,6 +2,48 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1080 || [[Rui Santos (jornalista)]]
+|-
+| style='text-align:center;' | 1079 || [[Cristina Ferreira]], [[Flávio Furtado]], [[Bruna Gomes]]
+|-
+| style='text-align:center;' | 1078 || [[Cristina Ferreira]], [[Flávio Furtado]], [[Bruna Gomes]]
+|-
+| style='text-align:center;' | 1077 || [[Prémios Sophia]], [[Margarida Vila-Nova]], [[Pedro Miguel Ribeiro]], [[Pedro Cabeleira]], [[Carlos Saboga]], [[Vicente Alves do Ó]]
+|-
+| style='text-align:center;' | 1076 || [[Manuel Pinto Coelho]]
+|-
+| style='text-align:center;' | 1075 || [[David Soares (David GYT)]], [[Manuel Pinto Coelho]]
+|-
+| style='text-align:center;' | 1074 || [[Rúben Rua]], [[Maria Helena Martins]]
+|-
+| style='text-align:center;' | 1073 || [[Anitta]]
+|-
+| style='text-align:center;' | 1072 || [[Windoh]]
+|-
+| style='text-align:center;' | 1071 || [[Patrícia Domingos]]
+|-
+| style='text-align:center;' | 1070 || [[Patrícia Domingos]]
+|-
+| style='text-align:center;' | 1069 || [[Windoh]]
+|-
+| style='text-align:center;' | 1068 || [[Windoh]]
+|-
+| style='text-align:center;' | 1067 || [[Cláudio Ramos]], [[Joana Dias]]
+|-
+| style='text-align:center;' | 1066 || [[Cláudio Ramos]], [[Joana Dias]]
+|-
+| style='text-align:center;' | 1065 || [[Pedro Soá]]
+|-
+| style='text-align:center;' | 1064 || [[Pedro Soá]]
+|-
+| style='text-align:center;' | 1063 || [[Yolanda Tati]], [[Clara Não]]
+|-
+| style='text-align:center;' | 1062 || [[Yolanda Tati]], [[Clara Não]]
+|-
+| style='text-align:center;' | 1061 || [[Tiago Paiva]], [[Jéssica Sousa]]
+|-
+| style='text-align:center;' | 1060 || [[Tiago Paiva]], [[Bernardo Blanco]], [[João Cotrim de Figueiredo]], [[Rodrigo Saraiva]], [[Windoh]]
+|-
 | style='text-align:center;' | 1059 || [[Noite das Estrelas]], [[Quintino Aires]], [[Adriano Silva Martins]], [[Tia Maya]]
 |-
 | style='text-align:center;' | 1058 || [[Noite das Estrelas]], [[Sónia Jesus]], [[Quintino Aires]], [[Liliana Aguiar]], [[Maria Cerqueira Gomes]]
