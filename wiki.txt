@@ -2,6 +2,24 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1089 || [[TVI Extra.Inês Simões]], [[Catarina Rito]], [[Flávio Furtado]], [[Bruno de Carvalho]], [[Helena Isabel]], [[Iker Casillas]]
+|-
+| style='text-align:center;' | 1088 || [[Cláudio Ramos]], [[Joana Dias]]
+|-
+| style='text-align:center;' | 1087 || [[Joana Amaral Dias]]
+|-
+| style='text-align:center;' | 1086 || [[Julia Pinheiro]], [[Paula]]
+|-
+| style='text-align:center;' | 1085 || [[Cristina Ferreira]]
+|-
+| style='text-align:center;' | 1084 || [[Gustavo Santos]], [[Sérgio Tavares]], [[Covid-19]], [[Mafalda Rodiles]]
+|-
+| style='text-align:center;' | 1083 || [[Sérgio Tavares]], [[Fernando Nobre]], [[Covid-19]]
+|-
+| style='text-align:center;' | 1082 || [[Casamento Marcado]], [[Ana Bento]], [[Fernando Rodrigues]], [[Ivo Silva]]
+|-
+| style='text-align:center;' | 1081 || [[Casamento Marcado]], [[Maria Cerqueira Gomes]], [[Joel Dias]], [[Patricia Teixeira]], [[Pedro Vieira]], [[Mikaela Övén]]
+|-
 | style='text-align:center;' | 1080 || [[Rui Santos (jornalista)]]
 |-
 | style='text-align:center;' | 1079 || [[Cristina Ferreira]], [[Flávio Furtado]], [[Bruna Gomes]]
