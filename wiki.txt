@@ -2,7 +2,7 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
-| style='text-align:center;' | 1089 || [[TVI Extra.Inês Simões]], [[Catarina Rito]], [[Flávio Furtado]], [[Bruno de Carvalho]], [[Helena Isabel]], [[Iker Casillas]]
+| style='text-align:center;' | 1089 || [[TVI Extra]], [[Inês Simões]], [[Catarina Rito]], [[Flávio Furtado]], [[Bruno de Carvalho]], [[Helena Isabel]], [[Iker Casillas]]
 |-
 | style='text-align:center;' | 1088 || [[Cláudio Ramos]], [[Joana Dias]]
 |-
