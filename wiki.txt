@@ -2,6 +2,24 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1109 || [[Zila Nair]]
+|-
+| style='text-align:center;' | 1108 || [[Zila Nair]]
+|-
+| style='text-align:center;' | 1107 || [[Casados no Paraíso]], [[Elsa Pimenta]], [[Nuno Queirós]]
+|-
+| style='text-align:center;' | 1106 || [[Casados no Paraíso]], [[Elsa Pimenta]], [[Nuno Queirós]]
+|-
+| style='text-align:center;' | 1105 || [[Casados no Paraíso]], [[Luís Santos]], [[Carina Lopes]], [[Joana Monteiro]], [[Daniel Abreu]], [[Cláudia Duarte]], [[Daniel Magalhães]], [[Sofia de Almeida]], [[Carlos Pereira]]
+|-
+| style='text-align:center;' | 1104 || [[TVI]], [[Cristina Ferreira]], [[José Eduardo Moniz]], [[Mario Ferreira]], [[Nuno Santos]], [[Idevor Mendonça]], [[Rodrigo Paganelli]], [[Paulo Pires]], [[Iva Domingues]], [[Marcos Pinto]], [[Cláudio Ramos]], [[Pedro Sousa]], [[Cátia Nobre]], [[Maria Cerqueira Gomes]], [[Alexandra Lencastre]]
+|-
+| style='text-align:center;' | 1103 || [[Amélia de Jesus]]
+|-
+| style='text-align:center;' | 1102 || [[Pedrito de Portugal]]
+|-
+| style='text-align:center;' | 1101 || [[TVI]], [[Cláudio Ramos]], [[Fernanda Serrano]], [[Alexandra Lencastre]], [[Idevor Mendonça]], [[Pedro Morais Leitão]], [[Margarida Corceiro]], [[Diogo Amaral]], [[Ana Brito e Cunha]], [[Francisco Maria Pereira (Kacha)]], [[José Eduardo Moniz]], [[Cristina Ferreira]], [[Miguel Sousa Tavares]], [[Alberto Rodrigues]], [[Paulo Pires]]
+|-
 | style='text-align:center;' | 1100 || [[TVI]], [[Cristina Ferreira]], [[José Eduardo Moniz]], [[Mario Ferreira]], [[Nuno Santos]], [[Idevor Mendonça]], [[Rodrigo Paganelli]], [[Rúben Rua]], [[Ana Sofia Martins]], [[Paulo Pires]], [[Iva Domingues]], [[Marcos Pinto]], [[Claudio Ramos]], [[Pedro Sousa]], [[Cátia Nobre]], [[Maria Cerqueira Gomes]]
 |-
 | style='text-align:center;' | 1099 || [[Cristina Ferreira]], [[Gustavo Santos]]
