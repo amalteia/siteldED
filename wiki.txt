@@ -2,6 +2,28 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1100 || [[TVI]], [[Cristina Ferreira]], [[José Eduardo Moniz]], [[Mario Ferreira]], [[Nuno Santos]], [[Idevor Mendonça]], [[Rodrigo Paganelli]], [[Rúben Rua]], [[Ana Sofia Martins]], [[Paulo Pires]], [[Iva Domingues]], [[Marcos Pinto]], [[Claudio Ramos]], [[Pedro Sousa]], [[Cátia Nobre]], [[Maria Cerqueira Gomes]]
+|-
+| style='text-align:center;' | 1099 || [[Cristina Ferreira]], [[Gustavo Santos]]
+|-
+| style='text-align:center;' | 1098 || [[TVI]], [[Festa de Verão da TVI]], [[Ana Marta Contente]], [[Cristina Ferreira]], [[Lili Caneças]], [[João Montez]], [[Diogo Infante]], [[Rúben Rua]], [[Rodrigo Paganelli]], [[Fanny Rodrigues]], [[José Lopes]], [[Elma Aveiro]], [[Mafalda Marafusta]], [[Abel Xavier]], [[Mafalda Castro]], [[Helena Ferro Gouveia]], [[Ana Sofia Cardoso]], [[Sandra Felgueiras]], [[Liliana Campos]], [[Fernanda Serrano]]
+|-
+| style='text-align:center;' | 1097 || [[Malditas Segundas-Feiras]], [[Manuel Moreira]]
+|-
+| style='text-align:center;' | 1096 || [[TVI]], [[Cristina Ferreira]], [[José Eduardo Moniz]], [[Mario Ferreira]], [[Nuno Santos]], [[Idevor Mendonça]], [[Rodrigo Paganelli]], [[Rúben Rua]], [[Ana Sofia Martins]], [[Paulo Pires]], [[Iva Domingues]], [[Marcos Pinto]], [[Cláudio Ramos]], [[Pedro Sousa]], [[Cátia Nobre]], [[Maria Cerqueira Gomes]]
+|-
+| style='text-align:center;' | 1095 || [[Helena Isabel]], [[Flávio Furtado]], [[Bruno de Carvalho]]
+|-
+| style='text-align:center;' | 1094 || [[Helena Isabel]], [[Cinha Jardim]], [[Flávio Furtado]], [[Bruno de Carvalho]]
+|-
+| style='text-align:center;' | 1093 || [[Cláudia Nayara]], [[Flávio Furtado]]
+|-
+| style='text-align:center;' | 1092 || [[Mariana Pacheco]], [[Syro]]
+|-
+| style='text-align:center;' | 1091 || [[TVI Extra]], [[Flávio Furtado]], [[Bruno de Carvalho]], [[Susana Silva]], [[Elma Aveiro]], [[Jorge Kapinha]], [[Rebeca (cantora)]], [[Cinha Jardim]], [[Cristina Caras Lindas]]
+|-
+| style='text-align:center;' | 1090 || [[TVI Extra]], [[Flávio Furtado]], [[Nuno Graciano]]
+|-
 | style='text-align:center;' | 1089 || [[TVI Extra]], [[Inês Simões]], [[Catarina Rito]], [[Flávio Furtado]], [[Bruno de Carvalho]], [[Helena Isabel]], [[Iker Casillas]]
 |-
 | style='text-align:center;' | 1088 || [[Cláudio Ramos]], [[Joana Dias]]
