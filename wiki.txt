@@ -2,6 +2,26 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1119 || [[Globos de Ouro]], [[Clara de Sousa]], [[Fernando Rocha]], [[Marco Horácio]], [[Carolina Loureiro]], [[João Reis]], [[Ruy de Carvalho]], [[Jorge Currula]], [[Francisco Pedro Balsemão]], [[Filipe Lá Féria]]
+|-
+| style='text-align:center;' | 1118 || [[Globos de Ouro]], [[Clara de Sousa]], [[Ângelo]], [[Isabel Valadeira]], [[Beatriz Batarda]], [[César Mourão]], [[Albano Gerônimo]], [[Garota Não]]
+|-
+| style='text-align:center;' | 1117 || [[Globos de Ouro]], [[Sofia Cerveira]], [[Ricardo Pereira]], [[Liliana Campos]], [[Herman José]], [[Maria Dominguez]], [[Andreia Rodrigues]], [[Carolina Patrocínio]], [[Bárbara Guimarães]], [[Bárbara Branco]], [[Diana Chaves]], [[Marco Paulo]], [[Júlia Palha]], [[Inês Aires Pereira]], [[James Arthur]], [[Sofia Ribeiro]], [[José Raposo]], [[Sónia Tavares]], [[João Manzarra]]
+|-
+| style='text-align:center;' | 1116 || [[Gonçalo Maya]]
+|-
+| style='text-align:center;' | 1115 || [[Gonçalo Maya]]
+|-
+| style='text-align:center;' | 1114 || [[Paulo Araújo (Dr. Milagres)]], [[Cristina Ferreira]]
+|-
+| style='text-align:center;' | 1113 || [[João Viola]]
+|-
+| style='text-align:center;' | 1112 || [[Escola Armunia Viola]]
+|-
+| style='text-align:center;' | 1111 || [[Afonso Gonçalves]]
+|-
+| style='text-align:center;' | 1110 || [[Faria Dias]], [[Tiago Paiva]]
+|-
 | style='text-align:center;' | 1109 || [[Zila Nair]]
 |-
 | style='text-align:center;' | 1108 || [[Zila Nair]]
