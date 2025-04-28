@@ -2,6 +2,26 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1129 || [[Isabel Silva]]
+|-
+| style='text-align:center;' | 1128 || [[Isabel Silva]]
+|-
+| style='text-align:center;' | 1127 || [[Io Appoloni]], [[Ljubomir Stanisic]]
+|-
+| style='text-align:center;' | 1126 || [[Susana Novais Santos]]
+|-
+| style='text-align:center;' | 1125 || [[Bernardo Gomes]], [[Rafael Alex]]
+|-
+| style='text-align:center;' | 1124 || [[Bernardo Gomes]], [[Rafael Alex]]
+|-
+| style='text-align:center;' | 1123 || [[Filipe Vilarinho]]
+|-
+| style='text-align:center;' | 1122 || [[Filipe Vilarinho]]
+|-
+| style='text-align:center;' | 1121 || [[Manuel Luís Goucha]], [[Rita Rodrigues]], [[Maria Cerqueira Gomes]], [[José Eduardo Moniz]], [[Afonso de Santa Maria de Bragança]]
+|-
+| style='text-align:center;' | 1120 || [[Manuel Luís Goucha]], [[Rita Rodrigues]], [[Bernardo Baraona]], [[Maria Cerqueira Gomes]], [[João Quinto]], [[Abel Chaves]]
+|-
 | style='text-align:center;' | 1119 || [[Globos de Ouro]], [[Clara de Sousa]], [[Fernando Rocha]], [[Marco Horácio]], [[Carolina Loureiro]], [[João Reis]], [[Ruy de Carvalho]], [[Jorge Currula]], [[Francisco Pedro Balsemão]], [[Filipe Lá Féria]]
 |-
 | style='text-align:center;' | 1118 || [[Globos de Ouro]], [[Clara de Sousa]], [[Ângelo]], [[Isabel Valadeira]], [[Beatriz Batarda]], [[César Mourão]], [[Albano Gerônimo]], [[Garota Não]]
