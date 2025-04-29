@@ -2,6 +2,26 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1139 || [[Fernando Madureira (macaco)]]
+|-
+| style='text-align:center;' | 1138 || [[Vera Kolodzig]]
+|-
+| style='text-align:center;' | 1137 || [[Vera Kolodzig]]
+|-
+| style='text-align:center;' | 1136 || [[Clara Não]]
+|-
+| style='text-align:center;' | 1135 || [[Clara Não]]
+|-
+| style='text-align:center;' | 1134 || [[Afonso Freitas]]
+|-
+| style='text-align:center;' | 1133 || [[Afonso Freitas]]
+|-
+| style='text-align:center;' | 1132 || [[Noémia Costa]], [[Ljubomir Stanisic]], [[Ana Garcia Martins]]
+|-
+| style='text-align:center;' | 1131 || [[Yolanda Tati]], [[Marco Turco]]
+|-
+| style='text-align:center;' | 1130 || [[Yolanda Tati]], [[Marco Turco]]
+|-
 | style='text-align:center;' | 1129 || [[Isabel Silva]]
 |-
 | style='text-align:center;' | 1128 || [[Isabel Silva]]
