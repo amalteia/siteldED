@@ -2,6 +2,26 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1159 || [[Gustavo Santos]], [[Mafalda Rodiles]]
+|-
+| style='text-align:center;' | 1158 || [[Beatriz Frazão]], [[Miguel Frazão]]
+|-
+| style='text-align:center;' | 1157 || [[Tia Maya]], [[Cláudio Ramos]], [[Cinha Jardim]], [[Gonçalo Quinaz]], [[José Lopes]], [[Cristina Ferreira]], [[Léo Caeiro]], [[Duarte Siopa]], [[Ana Marques]], [[José Figueiras]], [[Monica Sintra]], [[Filipa Torrinha Nunes]]
+|-
+| style='text-align:center;' | 1156 || [[Léo Caeiro]], [[Tia Maya]], [[Adriano Silva Martins]], [[Daniel Nascimento]], [[Liliana Campos]], [[Heitor Lourenço]], [[Gisela Serrano]], [[Hugo Mendes]], [[Filipa Castro]], [[Duarte Siopa]]
+|-
+| style='text-align:center;' | 1155 || [[Diogo Faro]], [[Joana Brito Silva]]
+|-
+| style='text-align:center;' | 1154 || [[Joana Mascarenhas]]
+|-
+| style='text-align:center;' | 1153 || [[Joana Mascarenhas]]
+|-
+| style='text-align:center;' | 1152 || [[Leo The Lion]]
+|-
+| style='text-align:center;' | 1151 || [[Marcos Pinto]]
+|-
+| style='text-align:center;' | 1150 || [[Joana Marques]], [[Wuant]]
+|-
 | style='text-align:center;' | 1149 || [[Bruno Mestre]], [[Sara Afonso]]
 |-
 | style='text-align:center;' | 1148 || [[Quinas de Ouro]], [[Cândido Costa]], [[Lourenço Ortigão]], [[Rúben Dias]], [[Andreia Sofia Matos]], [[Éder]], [[Fernando Gomes]], [[Paulo Futre]]
