@@ -2,6 +2,26 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1149 || [[Bruno Mestre]], [[Sara Afonso]]
+|-
+| style='text-align:center;' | 1148 || [[Quinas de Ouro]], [[Cândido Costa]], [[Lourenço Ortigão]], [[Rúben Dias]], [[Andreia Sofia Matos]], [[Éder]], [[Fernando Gomes]], [[Paulo Futre]]
+|-
+| style='text-align:center;' | 1147 || [[Mafalda de Castro]], [[Rui Simões]]
+|-
+| style='text-align:center;' | 1146 || [[Cristina Ferreira]]
+|-
+| style='text-align:center;' | 1145 || [[Ana Galvão]], [[Ovídio Rodrigues]]
+|-
+| style='text-align:center;' | 1144 || [[Marcio Miranda]], [[Michael Peter Salomon]], [[Henrique Braz]], [[Nuno Pires]], [[Rita de Miranda]], [[Lucas Valente]]
+|-
+| style='text-align:center;' | 1143 || [[ChatGPT]]
+|-
+| style='text-align:center;' | 1142 || [[SirKazzio]], [[Joana Marques]]
+|-
+| style='text-align:center;' | 1141 || [[SirKazzio]]
+|-
+| style='text-align:center;' | 1140 || [[Catarina Furtado]], [[Fernando Daniel]], [[Sara Correia]], [[A Garota Não]]
+|-
 | style='text-align:center;' | 1139 || [[Fernando Madureira (macaco)]]
 |-
 | style='text-align:center;' | 1138 || [[Vera Kolodzig]]
