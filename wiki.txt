@@ -2,6 +2,26 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1169 || [[Frederico Canto e Castro (Fred)]], [[Cristina Ferreira]]
+|-
+| style='text-align:center;' | 1168 || [[Cristina Ferreira]]
+|-
+| style='text-align:center;' | 1167 || [[Francisco Sá Pena]], [[Lara Moniz]]
+|-
+| style='text-align:center;' | 1166 || [[Cristina Ferreira]], [[Bruno Cabrerizo]], [[Alexandra Lencastre]], [[Ana Guiomar]], [[]]
+|-
+| style='text-align:center;' | 1165 || [[João Barbosa (Numeiro)]], [[Miguel Milhão]]
+|-
+| style='text-align:center;' | 1164 || [[João Barbosa (Numeiro)]], [[Marina Ferraz]], [[Alexandre Santos]], [[José Freitas]]
+|-
+| style='text-align:center;' | 1163 || [[João Barbosa (Numeiro)]]
+|-
+| style='text-align:center;' | 1162 || [[Maria Helena Martins]]
+|-
+| style='text-align:center;' | 1161 || [[Maria Helena Martins]], [[Ana Galvão]]
+|-
+| style='text-align:center;' | 1160 || [[Luciana Abreu]], [[Filipa Castro]], [[Mónica Sintra]], [[Jose Figueiras]], [[Filipa Torrinha Nunes]], [[Adriano Silva Martins]], [[Tia Maya]], [[]]
+|-
 | style='text-align:center;' | 1159 || [[Gustavo Santos]], [[Mafalda Rodiles]]
 |-
 | style='text-align:center;' | 1158 || [[Beatriz Frazão]], [[Miguel Frazão]]
