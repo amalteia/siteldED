@@ -2,6 +2,26 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1179 || [[Nuno Homem de Sá]]
+|-
+| style='text-align:center;' | 1178 || [[Rui Sinel de Cordes]]
+|-
+| style='text-align:center;' | 1177 || [[Rui Sinel de Cordes]]
+|-
+| style='text-align:center;' | 1176 || [[Rita Pereira]]
+|-
+| style='text-align:center;' | 1175 || [[Rita Pereira]]
+|-
+| style='text-align:center;' | 1174 || [[Era Uma Vez na Quinta]], [[Cristiana Graça]], [[Dani Salles]]
+|-
+| style='text-align:center;' | 1173 || [[Era Uma Vez na Quinta]], [[Goreti Neto]], [[Cátia Rochinha]], [[Mariline Moreira]], [[Pedro Vieira]], [[Francisco Soares (Xico)]], [[Ricardo Amorim]], [[António Costa]], [[Cristiana Graça]]
+|-
+| style='text-align:center;' | 1172 || [[Casados no Paraíso]], [[Nuno Queirós]], [[Elsa Pimenta]]
+|-
+| style='text-align:center;' | 1171 || [[Wuant]], [[Bárbara Norton de Matos]], [[Joana Marques]]
+|-
+| style='text-align:center;' | 1170 || [[Cláudio Ramos]], [[Cristina Ferreira]]
+|-
 | style='text-align:center;' | 1169 || [[Frederico Canto e Castro (Fred)]], [[Cristina Ferreira]]
 |-
 | style='text-align:center;' | 1168 || [[Cristina Ferreira]]
