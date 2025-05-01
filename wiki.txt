@@ -2,6 +2,14 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1189 || [[Mafalda Matos]]
+|-
+| style='text-align:center;' | 1188 || [[Nuno Homem de Sá]], [[Nádia Lopes]]
+|-
+| style='text-align:center;' | 1187 || [[Maria Helena Costa]]
+|-
+| style='text-align:center;' | 1186 || [[Rafaela Jacinto]], [[Diana Duarte]]
+|-
 | style='text-align:center;' | 1185 || [[José Malhoa (cantor)]]
 |-
 | style='text-align:center;' | 1184 || [[Brilha sem Filtros]], [[Carolina Monteverde]], [[Elsa]]
