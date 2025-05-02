@@ -2,6 +2,26 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1219 || [[Luciana Abreu]], [[Julio Fernandes]]
+|-
+| style='text-align:center;' | 1218 || [[Joana Amaral Dias]], [[Sérgio Tavares]], [[Bruno Fialho]]
+|-
+| style='text-align:center;' | 1217 || [[A Sentença]], [[Juíz Hélder Fráguas]], [[João Patrício]]
+|-
+| style='text-align:center;' | 1216 || [[A Sentença]], [[Juíz Hélder Fráguas]], [[João Patrício]]
+|-
+| style='text-align:center;' | 1215 || [[Leandro Portugal]]
+|-
+| style='text-align:center;' | 1214 || [[Delfim Monteiro]]
+|-
+| style='text-align:center;' | 1213 || [[Lara Moniz]], [[Daniela Dias]]
+|-
+| style='text-align:center;' | 1212 || [[Lara Moniz]]
+|-
+| style='text-align:center;' | 1211 || [[Inês Nunes]]
+|-
+| style='text-align:center;' | 1210 || [[Inês Nunes]]
+|-
 | style='text-align:center;' | 1209 || [[Lili Caneças]]
 |-
 | style='text-align:center;' | 1208 || [[Liliana Aguiar]]
