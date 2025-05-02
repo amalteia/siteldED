@@ -2,6 +2,46 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1209 || [[Lili Caneças]]
+|-
+| style='text-align:center;' | 1208 || [[Liliana Aguiar]]
+|-
+| style='text-align:center;' | 1207 || [[Liliana Aguiar]], [[Francisco Nunes]]
+|-
+| style='text-align:center;' | 1206 || [[Becas Lírio]], [[Joana Marques]], [[Cristina Ferreira]], [[Cláudia Cunha]], [[Cláudio Ramos]]
+|-
+| style='text-align:center;' | 1205 || [[Bruno Monteiro]]
+|-
+| style='text-align:center;' | 1204 || [[Nádia Lopes]], [[Nuno Homem de Sá]]
+|-
+| style='text-align:center;' | 1203 || [[José Castelo Branco]], [[José Gouveia]]
+|-
+| style='text-align:center;' | 1202 || [[Rita Pereira]], [[Sandra Felgueiras]]
+|-
+| style='text-align:center;' | 1201 || [[Carlos Peres Dias]], [[Luana Piovani]]
+|-
+| style='text-align:center;' | 1200 || [[Carlos Peres Dias]]
+|-
+| style='text-align:center;' | 1199 || [[Carlos Peres Dias]]
+|-
+| style='text-align:center;' | 1198 || [[Margarida Monteiro]]
+|-
+| style='text-align:center;' | 1197 || [[Luana Piovani]]
+|-
+| style='text-align:center;' | 1196 || [[Miguel Vicente]]
+|-
+| style='text-align:center;' | 1195 || [[TVI]], [[Gala TVI 31 anos]], [[Sandra Felgueiras]], [[Nuno Pardal]], [[Lurdes Baeta]], [[Inês Castelo Branco]], [[Pedro Sousa]], [[Fernanda Serrano]], [[Ana Sofia Cardoso]], [[Tony Carreira]], [[Pedro Teixeira]], [[Mafalda Castro]], [[Eduardo Madureira]], [[Paula Neves]], [[José Eduardo Moniz]], [[Manuel Luís Goucha]], [[Cristina Ferreira]], [[Miguel Vicente]]
+|-
+| style='text-align:center;' | 1194 || [[TVI]], [[Gala TVI 31 anos]], [[José Carlos Araújo]], [[João Fernando Ramos]], [[Pedro Nevides]], [[Vítor Bandarra]], [[Joaquim Sousa Martins]], [[Sandra Felgueiras]], [[Ana Sofia Cardoso]], [[Andreia Vale]], [[Pedro Carvalhas]], [[Raquel Matos Cruz]], [[José Alberto Carvalho]], [[Paulo Pires]], [[Mafalda Castro]]
+|-
+| style='text-align:center;' | 1193 || [[TVI]], [[Gala TVI 31 anos]], [[Lili Caneças]], [[José Eduardo Moniz]], [[Cristina Ferreira]], [[Pedro Carvalhas]], [[Inês Herédia]], [[Cláudio Ramos]], [[Raquel Matos Cruz]], [[Manuel Luís Goucha]], [[Rita Pereira]], [[Marisa Cruz]], [[Rodrigo Paganelli]], [[Mónica Jardim]], [[Eduardo Madeira]], [[Paula Neves]]
+|-
+| style='text-align:center;' | 1192 || [[TVI]], [[Gala TVI 31 anos]], [[João Montez]], [[Rita Pereira]], [[José Lopes]], [[Ana Sofia Cardoso]], [[Iva Domingues]], [[Mário Ferreira]], [[Paula Ferreira]], [[Ana Guiomar]], [[Matilde Reymão]], [[Inês Herédia]], [[Lili Caneças]], [[José Eduardo Moniz]], [[Cristina Ferreira]], [[Kelly Bailey (atriz)]], [[Nuno Santos]], [[Vítor Fonseca (Cifrão)]], [[Flávio Furtado]], [[Catarina Cardoso]], [[Rúben Rua]], [[Manuel Luís Goucha]], [[Cláudio Ramos]]
+|-
+| style='text-align:center;' | 1191 || [[Adriano Silva Martins]]
+|-
+| style='text-align:center;' | 1190 || [[Bruno de Carvalho]], [[Liliana Almeida de Carvalho]]
+|-
 | style='text-align:center;' | 1189 || [[Mafalda Matos]]
 |-
 | style='text-align:center;' | 1188 || [[Nuno Homem de Sá]], [[Nádia Lopes]]
