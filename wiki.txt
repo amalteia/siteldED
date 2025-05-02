@@ -2,6 +2,46 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1239 || [[Catarina Miranda]], [[Rosário Miranda]], [[Cláudio Ramos]]
+|-
+| style='text-align:center;' | 1238 || [[Catarina Miranda]], [[Bruno Savate]], [[Francisco Monteiro]]
+|-
+| style='text-align:center;' | 1237 || [[Bruno]]
+|-
+| style='text-align:center;' | 1236 || [[Maria da Luz]], [[Pedro Pico]]
+|-
+| style='text-align:center;' | 1235 || [[Maria da Luz]], [[Pedro Pico]]
+|-
+| style='text-align:center;' | 1234 || [[Pedro Pico]]
+|-
+| style='text-align:center;' | 1233 || [[Nuno Diniz]]
+|-
+| style='text-align:center;' | 1232 || [[Léo Caeiro]], [[José Castelo Branco]], [[Afonso Gonçalves]], [[André Rodrigues]]
+|-
+| style='text-align:center;' | 1231 || [[Duarte Siopa]], [[José Castelo Branco]], [[Roger Basile]]
+|-
+| style='text-align:center;' | 1230 || [[Vera Kolodzig]], [[Nuno Carvalho Mata]]
+|-
+| style='text-align:center;' | 1229 || [[André Trigo]], [[Lourenço Martins]], [[David Vieira]]
+|-
+| style='text-align:center;' | 1228 || [[André Trigo]], [[Lourenço Martins]], [[David Vieira]]
+|-
+| style='text-align:center;' | 1227 || [[Catarina Gaspar]], [[Filipa Teles]], [[Isabel Costa]]
+|-
+| style='text-align:center;' | 1226 || [[José Castelo Branco]], [[Cristina Ferreira]]
+|-
+| style='text-align:center;' | 1225 || [[Cristina Ferreira]]
+|-
+| style='text-align:center;' | 1224 || [[José Castelo Branco]], [[Abel Dias]]
+|-
+| style='text-align:center;' | 1223 || [[Tiagovski]]
+|-
+| style='text-align:center;' | 1222 || [[Leonor Santos]], [[Conceição Currito]]
+|-
+| style='text-align:center;' | 1221 || [[Leonor Santos]], [[Conceição Currito]]
+|-
+| style='text-align:center;' | 1220 || [[Larissa Teófilo]], [[Hugo Mendes]]
+|-
 | style='text-align:center;' | 1219 || [[Luciana Abreu]], [[Julio Fernandes]]
 |-
 | style='text-align:center;' | 1218 || [[Joana Amaral Dias]], [[Sérgio Tavares]], [[Bruno Fialho]]
