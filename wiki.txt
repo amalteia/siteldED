@@ -2,6 +2,26 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1249 || [[Andreia Guedes]], [[Filipe Peres (Pipas)]]
+|-
+| style='text-align:center;' | 1248 || [[Andreia Guedes]], [[Filipe Peres (Pipas)]]
+|-
+| style='text-align:center;' | 1247 || [[Sónia Tavares]]
+|-
+| style='text-align:center;' | 1246 || [[Tiago Graça]], [[Lara Moniz]]
+|-
+| style='text-align:center;' | 1245 || [[David Cristina]], [[Inês Fialho]]
+|-
+| style='text-align:center;' | 1244 || [[David Cristina]], [[Catarina Pimentel]]
+|-
+| style='text-align:center;' | 1243 || [[José Castelo Branco]]
+|-
+| style='text-align:center;' | 1242 || [[José Castelo Branco]], [[Tia Maya]], [[Marcela Fernandes]], [[José Gouveia]]
+|-
+| style='text-align:center;' | 1241 || [[Paula Margarido]]
+|-
+| style='text-align:center;' | 1240 || [[Carolina Amaral]]
+|-
 | style='text-align:center;' | 1239 || [[Catarina Miranda]], [[Rosário Miranda]], [[Cláudio Ramos]]
 |-
 | style='text-align:center;' | 1238 || [[Catarina Miranda]], [[Bruno Savate]], [[Francisco Monteiro]]
