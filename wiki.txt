@@ -2,6 +2,26 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1259 || [[Rafaela Granado]], [[Juíz Hélder Fráguas]], [[Rita Pereira]], [[João Montez]], [[Paulo Pires]], [[Olívia Ortiz]], [[Manuel Marques]]
+|-
+| style='text-align:center;' | 1258 || [[TVI]], [[Festa de Verão TVI 2024]], [[José Lopes]], [[Diogo Infante]], [[Mónica Jardim]], [[Marta Gil]], [[Rita Salema]], [[Renato Duarte]], [[Arlinda Mestre]], [[Joana Sobral]]
+|-
+| style='text-align:center;' | 1257 || [[Fanny Rodrigues]], [[Conceição Rodrigues]]
+|-
+| style='text-align:center;' | 1256 || [[Rita Mendes]], [[Mafalda Rodiles]], [[Liliana Aguiar]]
+|-
+| style='text-align:center;' | 1255 || [[Rita Mendes]]
+|-
+| style='text-align:center;' | 1254 || [[Marta Gautier]], [[Tiago Mellert]]
+|-
+| style='text-align:center;' | 1253 || [[Marta Gautier]], [[Tiago Mellert]]
+|-
+| style='text-align:center;' | 1252 || [[A Promessa (telenovela)]]
+|-
+| style='text-align:center;' | 1251 || [[Joana Machado Madeira]]
+|-
+| style='text-align:center;' | 1250 || [[João Barbosa (Numeiro)]], [[Miguel Milhão]]
+|-
 | style='text-align:center;' | 1249 || [[Andreia Guedes]], [[Filipe Peres (Pipas)]]
 |-
 | style='text-align:center;' | 1248 || [[Andreia Guedes]], [[Filipe Peres (Pipas)]]
