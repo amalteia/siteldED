@@ -188,7 +188,7 @@
 |-
 | style='text-align:center;' | 1167 || [[Francisco Sá Pena]], [[Lara Moniz]]
 |-
-| style='text-align:center;' | 1166 || [[Cristina Ferreira]], [[Bruno Cabrerizo]], [[Alexandra Lencastre]], [[Ana Guiomar]], [[]]
+| style='text-align:center;' | 1166 || [[Cristina Ferreira]], [[Bruno Cabrerizo]], [[Alexandra Lencastre]], [[Ana Guiomar]]
 |-
 | style='text-align:center;' | 1165 || [[João Barbosa (Numeiro)]], [[Miguel Milhão]]
 |-
@@ -200,7 +200,7 @@
 |-
 | style='text-align:center;' | 1161 || [[Maria Helena Martins]], [[Ana Galvão]]
 |-
-| style='text-align:center;' | 1160 || [[Luciana Abreu]], [[Filipa Castro]], [[Mónica Sintra]], [[Jose Figueiras]], [[Filipa Torrinha Nunes]], [[Adriano Silva Martins]], [[Tia Maya]], [[]]
+| style='text-align:center;' | 1160 || [[Luciana Abreu]], [[Filipa Castro]], [[Mónica Sintra]], [[Jose Figueiras]], [[Filipa Torrinha Nunes]], [[Adriano Silva Martins]], [[Tia Maya]]
 |-
 | style='text-align:center;' | 1159 || [[Gustavo Santos]], [[Mafalda Rodiles]]
 |-
@@ -406,13 +406,13 @@
 |-
 | style='text-align:center;' | 1058 || [[Noite das Estrelas]], [[Sónia Jesus]], [[Quintino Aires]], [[Liliana Aguiar]], [[Maria Cerqueira Gomes]]
 |-
-| style='text-align:center;' | 1057 || [[Play - Prémios da Música Portuguesa]], [[Filomena Cautela]], [[Ana Markl]], [[Joana Gama Freire]], [[Ana Moura]], [[Catarina Furtado]], [[Camané]], [[]]
+| style='text-align:center;' | 1057 || [[Play - Prémios da Música Portuguesa]], [[Filomena Cautela]], [[Ana Markl]], [[Joana Gama Freire]], [[Ana Moura]], [[Catarina Furtado]], [[Camané]]
 |-
 | style='text-align:center;' | 1056 || [[Ricardo de Sá]], [[Ana Pinto Ribeiro]]
 |-
 | style='text-align:center;' | 1055 || [[Luís Gomez]], [[Ana Rita Cavaco]]
 |-
-| style='text-align:center;' | 1054 || [[Alice Santos]], [[]]
+| style='text-align:center;' | 1054 || [[Alice Santos]]
 |-
 | style='text-align:center;' | 1053 || [[Cláudia Jacques]]
 |-
@@ -508,7 +508,7 @@
 |-
 | style='text-align:center;' | 1007 || [[Lila Tiago]], [[Ary Zara]], [[Keyla Brasil]], [[Dusty Whistles]]
 |-
-| style='text-align:center;' | 1006 || [[Esperança Pereira]], [[Alexandre Monteiro]], [[]]
+| style='text-align:center;' | 1006 || [[Esperança Pereira]], [[Alexandre Monteiro]]
 |-
 | style='text-align:center;' | 1005 || [[Pedro Neves de Sousa]], [[Rúben Rua]]
 |-
@@ -1794,7 +1794,7 @@
 |-
 | style='text-align:center;' | 364 || [[Cinha Jardim]], [[Alentejo]], [[Marco Paulo]], [[Anjos]], [[Rádio Campanário]], [[Ana Galvão]], [[Feijoada da Caras]]
 |-
-| style='text-align:center;' | 363 || [[Filipa Garnel]], [[Bruno de Carvalho]], [[Madonna]], [[Rita Pereira]], [[David Carreira]], [[Jorge Jesus]], [[Clã Abreu]], [[Luciana Abreu]], [[Dani Gonçalves]], [[ToyPraia de Leça]], [[]]
+| style='text-align:center;' | 363 || [[Filipa Garnel]], [[Bruno de Carvalho]], [[Madonna]], [[Rita Pereira]], [[David Carreira]], [[Jorge Jesus]], [[Clã Abreu]], [[Luciana Abreu]], [[Dani Gonçalves]], [[Toy]], [[Praia de Leça]]
 |-
 | style='text-align:center;' | 362 || [[Mercadona]], [[Ana Galvão]], [[Inauguração de lojas]], [[Primark]], [[IKEA de Alfragide]], [[Pingo Doce de Telheiras]], [[Spar]], [[Marrachinho]]
 |-
