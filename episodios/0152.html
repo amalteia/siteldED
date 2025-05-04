@@ -7,7 +7,31 @@
             <link href='https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap' rel='stylesheet'>
             <style>
                 html { overflow-y: scroll; }
-                body { margin: 0; font-family: 'Roboto', sans-serif; background-image: url('/legos.jpg'); background-size: cover; background-repeat: no-repeat; background-position: center center; _opacity: 0.5; _background: linear-gradient(to right, #f8f9fa, #e0e0e0); color: #333; display: flex; flex-direction: column; padding: 2px 20px; }
+        body {
+            margin: 0;
+            font-family: 'Roboto', sans-serif;
+            color: #333;
+            display: flex;
+            flex-direction: column;
+            padding: 2px 20px;
+        }
+
+        /* Background image layer */
+        body::before {
+            content: "";
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: url('/legos.jpg') no-repeat center center;
+            background-size: cover;
+            opacity: 0.5;
+            z-index: -1;
+            pointer-events: none;
+        }
+
+                _body { margin: 0; font-family: 'Roboto', sans-serif; background-image: url('/legos.jpg'); background-size: cover; background-repeat: no-repeat; background-position: center center; _opacity: 0.5; _background: linear-gradient(to right, #f8f9fa, #e0e0e0); color: #333; display: flex; flex-direction: column; padding: 2px 20px; }
                 header { text-align: center; margin-bottom: 40px; }
                 h1 { font-size: 3rem; margin: 0; color: #1f2937; }
                 h2 { font-size: 1.5rem; margin-top: 10px; color: #4b5563; }
@@ -38,7 +62,7 @@
         </script>
         <body>
             <center>
-                        <div class='timestamp'>Actualizado em: 2025-05-04 18:48:38</div>
+                        <div class='timestamp'>Actualizado em: 2025-05-04 18:54:48</div>
             <header>
                 &nbsp;<br>
                 <h1><a href="https://www.rtp.pt/play/p4086/e353349/extremamente-desagradavel" target="_blank" style="color: inherit; text-decoration: none;">O instagram de Fátima Lopes</a></h1>
