@@ -2,6 +2,26 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1269 || [[João Borges]], [[Sandra Silva]]
+|-
+| style='text-align:center;' | 1268 || [[Secret Story 8]], [[Diogo Afonso]], [[Renata Reis]], [[Rafael Almeida]], [[Patrícia Carvalho]], [[Ruben Silvestre]], [[Flávia Monteiro]], [[Maycon]]
+|-
+| style='text-align:center;' | 1267 || [[Kátia Aveiro]]
+|-
+| style='text-align:center;' | 1266 || [[Tia Maya]], [[Rui Oliveira]], [[Isaac Alfaiate]], [[Isabel Figueira]], [[Jéssica Antunes]], [[Rui Figueiredo]], [[André Costa]], [[Ricardo Martins Pereira (Arrumadinho)]], [[Marisa Caetano Antunes]], [[Débora Couceiro]]
+|-
+| style='text-align:center;' | 1265 || [[José Pedro Gomes]], [[Aldo Lima]], [[Henrique Correia]]
+|-
+| style='text-align:center;' | 1264 || [[Teresa Stichaner]], [[Carina]]
+|-
+| style='text-align:center;' | 1263 || [[Rita Pereira]], [[Cristina Ferreira]]
+|-
+| style='text-align:center;' | 1262 || [[Sofia Vasconcelos]], [[Rita Pereira]]
+|-
+| style='text-align:center;' | 1261 || [[Gustavo Santos]], [[Sérgio Tavares]], [[Mafalda Rodiles]]
+|-
+| style='text-align:center;' | 1260 || [[Gustavo Santos]], [[Sérgio Tavares]], [[Sandra Celas]]
+|-
 | style='text-align:center;' | 1259 || [[Rafaela Granado]], [[Juíz Hélder Fráguas]], [[Rita Pereira]], [[João Montez]], [[Paulo Pires]], [[Olívia Ortiz]], [[Manuel Marques]]
 |-
 | style='text-align:center;' | 1258 || [[TVI]], [[Festa de Verão TVI 2024]], [[José Lopes]], [[Diogo Infante]], [[Mónica Jardim]], [[Marta Gil]], [[Rita Salema]], [[Renato Duarte]], [[Arlinda Mestre]], [[Joana Sobral]]
