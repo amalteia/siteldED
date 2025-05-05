@@ -2,6 +2,24 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1299 || [[Lili Caneças]], [[Pedro Caneças]]
+|-
+| style='text-align:center;' | 1298 || [[Lili Caneças]], [[Rosa Amélia]], [[Simone de Oliveira]], [[Julia Pinheiro]]
+|-
+| style='text-align:center;' | 1297 || [[Sónia Costa]], [[Luis Maia]], [[Luis Sequeira]], [[José Cid]]
+|-
+| style='text-align:center;' | 1296 || [[Luciana Abreu]], [[Clemente (cantor)]], [[Fernando Correia Marques]], [[Nuno MIguel]], [[Cândido Pereira]], [[]], [[Daniel Martins]], [[João Fortes]], [[Manuel Luís Goucha]], [[Ana Marques]], [[Domingão]], [[João Baião]], [[Diana Chaves]], [[Tia Maya]], [[Julia Pinheiro]], [[Dona Ester]]
+|-
+| style='text-align:center;' | 1295 || [[Bárbara Marques]], [[Ana Balsemão]], [[Carina Pinheiro]], [[Andreia Moutinho]], [[Mariana Azevedo]], [[Cristiana Jesus]], [[Inês Ribeiro]], [[Cláudio Ramos]], [[Sara Tarita]], [[Catarina Gouveia]], [[Joana Gama]]
+|-
+| style='text-align:center;' | 1294 || [[Joana Amaral Dias]]
+|-
+| style='text-align:center;' | 1293 || [[Diogo Sena]]
+|-
+| style='text-align:center;' | 1292 || [[Diogo Sena]], [[Diogo Faro]]
+|-
+| style='text-align:center;' | 1291 || [[Sofia Novais de Paula]]
+|-
 | style='text-align:center;' | 1290 || [[Diogo Faro]]
 |-
 | style='text-align:center;' | 1289 || [[Diogo Faro]]
