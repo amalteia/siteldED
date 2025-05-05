@@ -2,6 +2,28 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1290 || [[Diogo Faro]]
+|-
+| style='text-align:center;' | 1289 || [[Diogo Faro]]
+|-
+| style='text-align:center;' | 1288 || [[José Gouveia]]
+|-
+| style='text-align:center;' | 1287 || [[Gustavo Santos]], [[Manuel Pinto Coelho]]
+|-
+| style='text-align:center;' | 1286 || [[Diogo Valente]]
+|-
+| style='text-align:center;' | 1285 || [[Catarina Miranda]]
+|-
+| style='text-align:center;' | 1284 || [[Catarina Miranda]], [[José Eduardo Moniz]]
+|-
+| style='text-align:center;' | 1283 || [[Pedro Caldeira Júnior]]
+|-
+| style='text-align:center;' | 1282 || [[Pedro Caldeira Júnior]]
+|-
+| style='text-align:center;' | 1281 || [[Tiago Paiva]]
+|-
+| style='text-align:center;' | 1280 || [[Topics Chat]], [[Tiago Paiva]]
+|-
 | style='text-align:center;' | 1279 || [[Globos de Ouro de 2024]], [[Sofia Ribeiro (atriz)]], [[Sofia Cerveira]], [[Pedro Abrunhosa]], [[The Ketchup Song (Aserejé)]], [[Albano Jerónimo]], [[Margarida Vila-Nova]], [[Guilherme Geirinhas]], [[Cândido Costa]], [[Paulo de Carvalho]], [[Bárbara Bandeira]], [[Ricardo Araújo Pereira]], [[Rodrigo Guedes de Carvalho]]
 |-
 | style='text-align:center;' | 1278 || [[Globos de Ouro de 2024]], [[João Canijo]], [[Augusto de Fraga]], [[Garota Não]], [[Manuel Luís Goucha]], [[Júlia Pinheiro]], [[João Baião]], [[Bárbara Branco]], [[José Mata]], [[Carolina Loureiro]], [[Sara Matos]], [[Soraia Chaves]], [[Andreia Rodrigues]]
