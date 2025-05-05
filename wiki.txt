@@ -2,6 +2,26 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1279 || [[Globos de Ouro de 2024]], [[Sofia Ribeiro (atriz)]], [[Sofia Cerveira]], [[Pedro Abrunhosa]], [[The Ketchup Song (Aserejé)]], [[Albano Jerónimo]], [[Margarida Vila-Nova]], [[Guilherme Geirinhas]], [[Cândido Costa]], [[Paulo de Carvalho]], [[Bárbara Bandeira]], [[Ricardo Araújo Pereira]], [[Rodrigo Guedes de Carvalho]]
+|-
+| style='text-align:center;' | 1278 || [[Globos de Ouro de 2024]], [[João Canijo]], [[Augusto de Fraga]], [[Garota Não]], [[Manuel Luís Goucha]], [[Júlia Pinheiro]], [[João Baião]], [[Bárbara Branco]], [[José Mata]], [[Carolina Loureiro]], [[Sara Matos]], [[Soraia Chaves]], [[Andreia Rodrigues]]
+|-
+| style='text-align:center;' | 1277 || [[Maria Cerqueira Gomes]], [[Kika Cerqueira Gomes]], [[Cristina Ferreira]], [[Cláudio Ramos]], [[Rúben Rua]], [[Cayetano Rivera Ordóñez]]
+|-
+| style='text-align:center;' | 1276 || [[Para Si]], [[Sandra Felgueiras]], [[Ângelo Rodrigues]], [[Ana Rita Clara]], [[Ana Galvão]]
+|-
+| style='text-align:center;' | 1275 || [[Para Si]], [[Ana Rita Clara]], [[Sandra Felgueiras]]
+|-
+| style='text-align:center;' | 1274 || [[Para Si]], [[Ana Rita Clara]], [[Manuel Cavaco]]
+|-
+| style='text-align:center;' | 1273 || [[Vanessa Martins]], [[Mafalda Rodrigues de Almeida]]
+|-
+| style='text-align:center;' | 1272 || [[Leandro Portugal]], [[Sónia Costa]], [[Sérgio Tavares]], [[Joana Marques]]
+|-
+| style='text-align:center;' | 1271 || [[Leandro Portugal]], [[Sónia Costa]], [[Sérgio Tavares]]
+|-
+| style='text-align:center;' | 1270 || [[João Borges]], [[Sandra Silva]]
+|-
 | style='text-align:center;' | 1269 || [[João Borges]], [[Sandra Silva]]
 |-
 | style='text-align:center;' | 1268 || [[Secret Story 8]], [[Diogo Afonso]], [[Renata Reis]], [[Rafael Almeida]], [[Patrícia Carvalho]], [[Ruben Silvestre]], [[Flávia Monteiro]], [[Maycon]]
