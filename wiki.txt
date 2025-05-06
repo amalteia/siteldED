@@ -2,6 +2,26 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1309 || [[Rita Piçarra]]
+|-
+| style='text-align:center;' | 1308 || [[Quinas de Ouro]], [[Vasco Palmeirim]], [[Cândido Costa]], [[Jorge Jesus]], [[Filipa Patão]], [[]], [[Carlos Godinho]], [[João Matos (jogador de futsal)]], [[Cristiano Ronaldo]]
+|-
+| style='text-align:center;' | 1307 || [[Gustavo Santos]]
+|-
+| style='text-align:center;' | 1306 || [[Gustavo Santos]], [[Filipe Vilarinho]]
+|-
+| style='text-align:center;' | 1305 || [[Cláudio Alegre]], [[Cristiana Jesus]]
+|-
+| style='text-align:center;' | 1304 || [[Carolina Ortigão]], [[Amílcar Ortigão]]
+|-
+| style='text-align:center;' | 1303 || [[Romilda Costa]]
+|-
+| style='text-align:center;' | 1302 || [[Romilda Costa]]
+|-
+| style='text-align:center;' | 1301 || [[Celso Lascasas]]
+|-
+| style='text-align:center;' | 1300 || [[Celso Lascasas]]
+|-
 | style='text-align:center;' | 1299 || [[Lili Caneças]], [[Pedro Caneças]]
 |-
 | style='text-align:center;' | 1298 || [[Lili Caneças]], [[Rosa Amélia]], [[Simone de Oliveira]], [[Julia Pinheiro]]
