@@ -4,7 +4,7 @@
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
 | style='text-align:center;' | 1309 || [[Rita Piçarra]]
 |-
-| style='text-align:center;' | 1308 || [[Quinas de Ouro]], [[Vasco Palmeirim]], [[Cândido Costa]], [[Jorge Jesus]], [[Filipa Patão]], [[]], [[Carlos Godinho]], [[João Matos (jogador de futsal)]], [[Cristiano Ronaldo]]
+| style='text-align:center;' | 1308 || [[Quinas de Ouro]], [[Vasco Palmeirim]], [[Cândido Costa]], [[Jorge Jesus]], [[Filipa Patão]], [[Maria Inês Pedroso]], [[Carlos Godinho]], [[João Matos (jogador de futsal)]], [[Cristiano Ronaldo]]
 |-
 | style='text-align:center;' | 1307 || [[Gustavo Santos]]
 |-
