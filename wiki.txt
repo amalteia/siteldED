@@ -64,7 +64,7 @@
 |-
 | style='text-align:center;' | 1279 || [[Globos de Ouro de 2024]], [[Sofia Ribeiro (atriz)]], [[Sofia Cerveira]], [[Pedro Abrunhosa]], [[The Ketchup Song (Aserejé)]], [[Albano Jerónimo]], [[Margarida Vila-Nova]], [[Guilherme Geirinhas]], [[Cândido Costa]], [[Paulo de Carvalho]], [[Bárbara Bandeira]], [[Ricardo Araújo Pereira]], [[Rodrigo Guedes de Carvalho]]
 |-
-| style='text-align:center;' | 1278 || [[Globos de Ouro de 2024]], [[João Canijo]], [[Augusto de Fraga]], [[Garota Não]], [[Manuel Luís Goucha]], [[Júlia Pinheiro]], [[João Baião]], [[Bárbara Branco]], [[José Mata]], [[Carolina Loureiro]], [[Sara Matos]], [[Soraia Chaves]], [[Andreia Rodrigues]]
+| style='text-align:center;' | 1278 || [[Globos de Ouro de 2024]], [[João Canijo]], [[Augusto de Fraga]], [[A Garota Não]], [[Manuel Luís Goucha]], [[Júlia Pinheiro]], [[João Baião]], [[Bárbara Branco]], [[José Mata]], [[Carolina Loureiro]], [[Sara Matos]], [[Soraia Chaves]], [[Andreia Rodrigues]]
 |-
 | style='text-align:center;' | 1277 || [[Maria Cerqueira Gomes]], [[Kika Cerqueira Gomes]], [[Cristina Ferreira]], [[Cláudio Ramos]], [[Rúben Rua]], [[Cayetano Rivera Ordóñez]]
 |-
@@ -384,7 +384,7 @@
 |-
 | style='text-align:center;' | 1119 || [[Globos de Ouro]], [[Clara de Sousa]], [[Fernando Rocha]], [[Marco Horácio]], [[Carolina Loureiro]], [[João Reis]], [[Ruy de Carvalho]], [[Jorge Currula]], [[Francisco Pedro Balsemão]], [[Filipe Lá Féria]]
 |-
-| style='text-align:center;' | 1118 || [[Globos de Ouro]], [[Clara de Sousa]], [[Ângelo]], [[Isabel Valadeira]], [[Beatriz Batarda]], [[César Mourão]], [[Albano Gerônimo]], [[Garota Não]]
+| style='text-align:center;' | 1118 || [[Globos de Ouro]], [[Clara de Sousa]], [[Ângelo]], [[Isabel Valadeira]], [[Beatriz Batarda]], [[César Mourão]], [[Albano Gerônimo]], [[A Garota Não]]
 |-
 | style='text-align:center;' | 1117 || [[Globos de Ouro]], [[Sofia Cerveira]], [[Ricardo Pereira]], [[Liliana Campos]], [[Herman José]], [[Maria Dominguez]], [[Andreia Rodrigues]], [[Carolina Patrocínio]], [[Bárbara Guimarães]], [[Bárbara Branco]], [[Diana Chaves]], [[Marco Paulo]], [[Júlia Palha]], [[Inês Aires Pereira]], [[James Arthur]], [[Sofia Ribeiro]], [[José Raposo]], [[Sónia Tavares]], [[João Manzarra]]
 |-
