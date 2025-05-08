@@ -754,7 +754,7 @@
 |-
 | style='text-align:center;' | 934 || [[Sangue Oculto]], [[Sofia Alves]], [[Sara Matos]], [[Nuno Homem de Sá]], [[João Catarré]], [[João Jesus]], [[Virgílio Castelo]], [[António Pedro Cerdeira]]
 |-
-| style='text-align:center;' | 933 || [[José Rodrigues dos Santos]], [[Clara de Sousa]], [[Nuno Santos]], [[Manuel Luis GouchaJudite Sousa]], [[Duarte Siopa]], [[Ágata Rodrigues]]
+| style='text-align:center;' | 933 || [[José Rodrigues dos Santos]], [[Clara de Sousa]], [[Nuno Santos]], [[Manuel Luis Goucha]], [[Judite Sousa]], [[Duarte Siopa]], [[Ágata Rodrigues]]
 |-
 | style='text-align:center;' | 932 || [[Gustavo Santos]]
 |-
@@ -858,7 +858,7 @@
 |-
 | style='text-align:center;' | 882 || [[Casados à Primeira Vista]], [[Tiago Jaqueta]], [[Dina Guedes]]
 |-
-| style='text-align:center;' | 881 || [[Mafalda Rodiles (Mafalda Pinto)]], [[Carina Caldeira]]
+| style='text-align:center;' | 881 || [[Mafalda Rodiles]], [[Carina Caldeira]]
 |-
 | style='text-align:center;' | 880 || [[Sebastião Bugalho]]
 |-
