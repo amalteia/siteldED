@@ -2,9 +2,9 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
-| style='text-align:center;' | 1403 || [[Gustavo Santos]]
+| style='text-align:center;' | 1404 || [[Gustavo Santos]], [[Tiago Paiva]]
 |-
-| style='text-align:center;' | 1402 || [[Sam The Kid]], [[Marco Neves]], [[Tomás Magalhães]]
+| style='text-align:center;' | 1403 || [[Sam The Kid]], [[Marco Neves]], [[Tomás Magalhães]]
 |-
 | style='text-align:center;' | 1402 || [[Sam The Kid]]
 |-
@@ -490,7 +490,7 @@
 |-
 | style='text-align:center;' | 1161 || [[Maria Helena Martins]], [[Ana Galvão]]
 |-
-| style='text-align:center;' | Esperança Pereira{https://mag.sapo.pt/tv/atualidade-tv/artigos/o-preco-certo-concorrente-emociona-se-e-momento-torna-se-viral},Alexandre Monteiro{https://www.presenca.pt/blogs/autores/alexandre-monteiro} || [[Luciana Abreu]], [[Filipa Castro]], [[Mónica Sintra]], [[Jose Figueiras]], [[Filipa Torrinha Nunes]], [[Adriano Silva Martins]], [[Tia Maya]]
+| style='text-align:center;' | 1160 || [[Luciana Abreu]], [[Filipa Castro]], [[Mónica Sintra]], [[Jose Figueiras]], [[Filipa Torrinha Nunes]], [[Adriano Silva Martins]], [[Tia Maya]]
 |-
 | style='text-align:center;' | 1159 || [[Gustavo Santos]], [[Mafalda Rodiles]]
 |-
@@ -618,7 +618,7 @@
 |-
 | style='text-align:center;' | 1097 || [[Malditas Segundas-Feiras]], [[Manuel Moreira]]
 |-
-| style='text-align:center;' | 1096 || [[TVI]], [[Cristina Ferreira]], [[José Eduardo Moniz]], [[Mario Ferreira]], [[Nuno Santos]], [[Idevor Mendonça]], [[Rodrigo Paganelli]], [[Rúben Rua]], [[Ana Sofia Martins]], [[Paulo Pires]], [[Iva Domingues]], [[Marcos Pinto]], [[Cláudio Ramos]], [[Pedro Sousa]], [[Cátia Nobre]], [[Maria Cerqueira Gomes]]
+| style='text-align:center;' | 1096 || [[Cláudio Viana]]
 |-
 | style='text-align:center;' | 1095 || [[Helena Isabel]], [[Flávio Furtado]], [[Bruno de Carvalho]]
 |-
@@ -1600,7 +1600,7 @@
 |-
 | style='text-align:center;' | 606 || [[Fátima Campos Ferreira]], [[Sérgio Conceição]]
 |-
-| style='text-align:center;' | 605 || [[2020]], [[Adriano Maranhão]], [[Lili Caneças]], [[Joacine Katar Moreira]], [[Wuant]], [[Fátima Campos Ferreira]], [[Cláudio Viana]], [[Hélder Teixeira]], [[Manuel Fernandes]], [[Rui Santos]], [[Cinha Jardim]], [[Rodrigo Guedes de Carvalho]], [[Sancha Trindade]]
+| style='text-align:center;' | 605 || [[Adriano Maranhão]], [[Lili Caneças]], [[Joacine Katar Moreira]], [[Wuant]], [[Fátima Campos Ferreira]], [[Cláudio Viana]], [[Hélder Teixeira]], [[Manuel Fernandes]], [[Rui Santos]], [[Cinha Jardim]], [[Rodrigo Guedes de Carvalho]], [[Sancha Trindade]]
 |-
 | style='text-align:center;' | 604 || [[2020]], [[Joana Marques]], [[Ana Galvão]], [[Cristina Ferreira]], [[Cláudio Ramos]], [[Maria Botelho Moniz]], [[Madonna]], [[Piruka]], [[Sporting Clube de Portugal]], [[Francisco Varandas]]
 |-
