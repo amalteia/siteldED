@@ -2,6 +2,106 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1359 || [[Gustavo Santos]], [[Sérgio Tavares]]
+|-
+| style='text-align:center;' | 1358 || [[Gustavo Santos]], [[David Araújo]]
+|-
+| style='text-align:center;' | 1357 || [[Ângelo Rodrigues]], [[Ricardo Azedo]], [[Rui Oliveira]], [[Duarte Siopa]], [[Teresa Guilherme]], [[José Carlos Castro]], [[Tia Maya]]
+|-
+| style='text-align:center;' | 1356 || [[Ângelo Rodrigues]], [[Tia Maya]], [[Humberto Simões]], [[Patricia Marques Rodrigues]], [[Daniel Nascimento]], [[Ricardo Azedo]], [[José Gouveia]], [[Rui Figueiredo]], [[Duarte Siopa]], [[Rui Oliveira]]
+|-
+| style='text-align:center;' | 1355 || [[João Barbosa (Numeiro)]], [[Tiago Paiva]], [[Windoh]]
+|-
+| style='text-align:center;' | 1354 || [[Cristina Ferreira]]
+|-
+| style='text-align:center;' | 1353 || [[João Barbosa (Numeiro)]], [[Tiago Paiva]]
+|-
+| style='text-align:center;' | 1352 || [[Tiago Paiva]], [[Topics Chat]], [[Catarina Varela (catarina4funn)]]
+|-
+| style='text-align:center;' | 1351 || [[Bruno Nogueira]], [[João Vicente de Castro]]
+|-
+| style='text-align:center;' | 1350 || [[Bruno Nogueira]], [[Jorge]]
+|-
+| style='text-align:center;' | 1349 || [[Celso Lascasas]], [[Fernando Pimenta]], [[Fred Canto e Castro]], [[Fernando Daniel]]
+|-
+| style='text-align:center;' | 1348 || [[Celso Lascasas]], [[Diana Lascasas]]
+|-
+| style='text-align:center;' | 1347 || [[Joana Amaral Dias]]
+|-
+| style='text-align:center;' | 1346 || [[José Cid]]
+|-
+| style='text-align:center;' | 1345 || [[José Cid]]
+|-
+| style='text-align:center;' | 1344 || [[Os Anjos (dupla musical)]], [[Joana Marques]], [[Juíz Hélder Fráguas]]
+|-
+| style='text-align:center;' | 1343 || [[Cristina Ferreira]], [[Joana Dias]], [[Cláudio Ramos]], [[Sara (Sereia do Tarot)]]
+|-
+| style='text-align:center;' | 1342 || [[Para Si]], [[Ana Rita Clara]], [[Manuel Cavaco]]
+|-
+| style='text-align:center;' | 1341 || [[Sónia Costa]], [[Luis Maia]], [[Luis Sequeira]], [[José Cid]]
+|-
+| style='text-align:center;' | 1340 || [[Diogo Faro]]
+|-
+| style='text-align:center;' | 1339 || [[Bruno]]
+|-
+| style='text-align:center;' | 1338 || [[Liliana Aguiar]]
+|-
+| style='text-align:center;' | 1337 || [[Lara Moniz]], [[Daniela Dias]]
+|-
+| style='text-align:center;' | 1336 || [[José Castelo Branco]]
+|-
+| style='text-align:center;' | 1335 || [[Maria da Luz]]
+|-
+| style='text-align:center;' | 1334 || [[Luana Piovani]]
+|-
+| style='text-align:center;' | 1333 || [[Brilha sem Filtros]], [[Carolina Monteverde]], [[Elsa]]
+|-
+| style='text-align:center;' | 1332 || [[Rita Pereira]], [[Sandra Felgueiras]]
+|-
+| style='text-align:center;' | 1331 || [[Casados no Paraíso]], [[Nuno Queirós]], [[Elsa Pimenta]]
+|-
+| style='text-align:center;' | 1330 || [[Wuant]], [[Bárbara Norton de Matos]], [[Joana Marques]]
+|-
+| style='text-align:center;' | 1329 || [[Rúben Rua]], [[Maria Cerqueira Gomes]], [[Lili Caneças]], [[Fernanda Serrano]], [[David Carreira]]
+|-
+| style='text-align:center;' | 1328 || [[Rúben Rua]], [[Maria Cerqueira Gomes]], [[Jorge Guerreiro]], [[Paulo Batista]], [[Gonçalo Quinaz]], [[Dalila Carmo]]
+|-
+| style='text-align:center;' | 1327 || [[Jorge Kapinha]], [[Mafalda Teixeira]], [[Ana Rita Clara]]
+|-
+| style='text-align:center;' | 1326 || [[Santiago Lagoá]], [[Pedro Guedes]]
+|-
+| style='text-align:center;' | 1325 || [[Santiago Lagoá]], [[Pedro Guedes]]
+|-
+| style='text-align:center;' | 1324 || [[André Manuel Vaz]], [[Alexandre Faria]], [[Ágata]], [[Élvio Santiago]]
+|-
+| style='text-align:center;' | 1323 || [[André Manuel Vaz]], [[Milene Martins]]
+|-
+| style='text-align:center;' | 1322 || [[Milene Martins]], [[Daniel Godinho]], [[Diogo Rego]]
+|-
+| style='text-align:center;' | 1321 || [[Ágata]], [[Élvio Santiago]]
+|-
+| style='text-align:center;' | 1320 || [[Xana Nunes]], [[Vera Kolodzig]]
+|-
+| style='text-align:center;' | 1319 || [[Windoh]]
+|-
+| style='text-align:center;' | 1318 || [[Zé Castro]]
+|-
+| style='text-align:center;' | 1317 || [[Débora Monteiro (médica)]]
+|-
+| style='text-align:center;' | 1316 || [[Léo Caeiro]]
+|-
+| style='text-align:center;' | 1315 || [[Léo Caeiro]]
+|-
+| style='text-align:center;' | 1314 || [[Ana Garcia Martins]], [[Léo Caeiro]], [[David Cristina]], [[Liliana Oliveira]], [[Ágata Rodrigues]], [[Tia Maya]], [[Ana Galvão]]
+|-
+| style='text-align:center;' | 1313 || [[Flávio Teixeira]]
+|-
+| style='text-align:center;' | 1312 || [[Inês Lopes Gonçalves]], [[Ljubomir Stanisic]], [[Marisa Cruz]], [[Sofia Ribeiro]], [[Bárbara Guimarães]], [[Miguel Costa]], [[António Pedro Cerdeira]]
+|-
+| style='text-align:center;' | 1311 || [[Daniel Leitão]], [[Miguel Costa]], [[Sofia Arruda]], [[Marisa Cruz]], [[Sofia Ribeiro (atriz)]], [[Joana Marques]], [[Marco Costa]]
+|-
+| style='text-align:center;' | 1310 || [[Rita Piçarra]]
+|-
 | style='text-align:center;' | 1309 || [[Rita Piçarra]]
 |-
 | style='text-align:center;' | 1308 || [[Quinas de Ouro]], [[Vasco Palmeirim]], [[Cândido Costa]], [[Jorge Jesus]], [[Filipa Patão]], [[Maria Inês Pedroso]], [[Carlos Godinho]], [[João Matos (jogador de futsal)]], [[Cristiano Ronaldo]]
