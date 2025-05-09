@@ -2,6 +2,96 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1403 || [[Gustavo Santos]]
+|-
+| style='text-align:center;' | 1402 || [[Sam The Kid]], [[Marco Neves]], [[Tomás Magalhães]]
+|-
+| style='text-align:center;' | 1402 || [[Sam The Kid]]
+|-
+| style='text-align:center;' | 1401 || [[Cláudia Jacques]]
+|-
+| style='text-align:center;' | 1400 || [[Casados à Primeira Vista]], [[Domingos José]], [[Isa Moreira]]
+|-
+| style='text-align:center;' | 1399 || [[Casados à Primeira Vista]], [[Domingos José]], [[Isa Moreira]]
+|-
+| style='text-align:center;' | 1398 || [[Casados à Primeira Vista]], [[Milene Sofia]], [[Rúben Teixeira]], [[Domingos José]], [[Isa Moreira]]
+|-
+| style='text-align:center;' | 1397 || [[Rui Sinel de Cordes]]
+|-
+| style='text-align:center;' | 1396 || [[Rui Sinel de Cordes]]
+|-
+| style='text-align:center;' | 1395 || [[Rui Sinel de Cordes]]
+|-
+| style='text-align:center;' | 1394 || [[Helena Coelho]], [[André Costa]]
+|-
+| style='text-align:center;' | 1393 || [[Dany Lisbon]]
+|-
+| style='text-align:center;' | 1392 || [[Dany Lisbon]]
+|-
+| style='text-align:center;' | 1391 || [[Luana Piovani]]
+|-
+| style='text-align:center;' | 1390 || [[Inês Gutierrez]], [[João Montez]]
+|-
+| style='text-align:center;' | 1389 || [[David Motta]], [[Maria das Dores]], [[Ticas Graciosa]]
+|-
+| style='text-align:center;' | 1388 || [[Festival RTP da Canção 2025]], [[Fernando Daniel]], [[NAPA]], [[Capital da Bulgária]], [[Peculiar]], [[Inês Marques Lucas]], [[JOSH]], [[Rita Sampaio]], [[HENKA]], [[Emmy Curl]]
+|-
+| style='text-align:center;' | 1387 || [[Festival RTP da Canção 2025]], [[Jorge Gabriel]], [[José Carlos Malato]], [[Wandson Lisboa]], [[Alexandre Guimarães]], [[Ana Galvão]], [[Xico Gaiato]], [[Joana Negrão]], [[Rita Sampaio]], [[Luca Argel]], [[Jéssica Pina]], [[Diana Vilarinho]], [[Fernando Daniel]], [[Emmy Curl]], [[Catarina Maia]], [[Inês Marques Lucas]], [[Bombazine]]
+|-
+| style='text-align:center;' | 1386 || [[Inês Lopes Gonçalves]], [[Nemanus]], [[Santiago Lagoá]]
+|-
+| style='text-align:center;' | 1385 || [[Nemanus]], [[Santiago Lagoá]]
+|-
+| style='text-align:center;' | 1384 || [[Ana Rita Clara]], [[Henrique Feist]], [[Óscar Romero]]
+|-
+| style='text-align:center;' | 1383 || [[Martin Torres]], [[Putin]], [[Donald Trump]], [[Inês Lopes Gonçalves]], [[Brian Jonhson]], [[Joana Marques]]
+|-
+| style='text-align:center;' | 1382 || [[Martin Torres]], [[Ecstatic Dance]], [[Ana Markl]], [[Bolonhesa de tofu]], [[James Bond 007]], [[Dieta Paleo]]
+|-
+| style='text-align:center;' | 1381 || [[A Tatuadora da alma]], [[Sofia Dinis]], [[Ricardo Campanhã]], [[Cláudio Almeida]], [[Hernâni Carvalho]], [[Jornal Observador]]
+|-
+| style='text-align:center;' | 1380 || [[A Hora da Verdade]], [[Cláudio Almeida]], [[A Tatuadora da alma]], [[Sofia Dinis]], [[Ana Galvão]], [[Tiago Grila]], [[Alerta Estupidez]], [[Maria Botelho Moniz]], [[Jornal Observador]]
+|-
+| style='text-align:center;' | 1379 || [[TVI]], [[Gala da TVI 32 anos]], [[Cristina Ferreira]], [[João Catarré]], [[Helder Agapito]], [[Cristiano Ronaldo]], [[Ricardo Esgaio]], [[Dalila Carmo]], [[José Condessa]], [[Morangos com Açúcar]], [[Pedro Teixeira]], [[Rita Pereira]], [[Margarida Corceiro]], [[José Cid]], [[Maria Cerqueira Gomes]], [[Mário Ferreira]]
+|-
+| style='text-align:center;' | 1378 || [[TVI]], [[Gala da TVI 32 anos]], [[José Eduardo Moniz]], [[Lili Caneças]], [[Alexandra Lencastre]], [[Manuel Luís Goucha]], [[Dalila Carmo]], [[João Fernandes Santos]], [[Ana Galvão]], [[Mário Ferreira]], [[Cláudio Ramos]], [[Cristina Ferreira]], [[Fernanda Serrano]], [[Paulo Pires]], [[Marco Delgado]], [[Nuno Homem de Sá]]
+|-
+| style='text-align:center;' | 1377 || [[TVI]], [[Gala da TVI 32 anos]], [[Manuel Luís Goucha]], [[Mafalda Castro]], [[Rita Pereira]], [[João Moreira]], [[José Lopes]], [[Cristina Ferreira]], [[Pedro Morais Leitão]], [[Mário Ferreira]], [[Idevor Mendonça]], [[Henrique Gouveia e Melo]], [[Luís Marques Mendes]], [[Ruy de Carvalho]], [[Rafaela Granado]], [[Bárbara Parada]]
+|-
+| style='text-align:center;' | 1376 || [[Tiago Guimarães]]
+|-
+| style='text-align:center;' | 1375 || [[João Moreira]], [[António Cerca Martins]], [[Pode Alguém Ser Quem Não é (podcast)]]
+|-
+| style='text-align:center;' | 1374 || [[Yolanda Tati]], [[Fly Podcast]]
+|-
+| style='text-align:center;' | 1373 || [[Tiago Grila]], [[Carolina Napoleão]]
+|-
+| style='text-align:center;' | 1372 || [[Tiago Grila]]
+|-
+| style='text-align:center;' | 1371 || [[Mia Fernandes]], [[Bruna Magalhães]], [[Tânia Líbano]], [[Fernando Alvim]]
+|-
+| style='text-align:center;' | 1370 || [[Hélder Tavares]], [[Leandra Filipa]], [[José Lopes]], [[Paula Ventura]], [[Ana Galvão]]
+|-
+| style='text-align:center;' | 1369 || [[Mia Fernandes]], [[Bruna Magalhães]], [[Más Influências (podcast)]]
+|-
+| style='text-align:center;' | 1368 || [[Mia Fernandes]], [[Bruna Magalhães]], [[Más Influências (podcast)]]
+|-
+| style='text-align:center;' | 1367 || [[Ana Galvão]], [[Daniel Oliveira (apresentador)]]
+|-
+| style='text-align:center;' | 1366 || [[Raquel Janeiro]], [[Miguel Mimoso]]
+|-
+| style='text-align:center;' | 1365 || [[Iris Soares]]
+|-
+| style='text-align:center;' | 1364 || [[Cristina Ferreira]]
+|-
+| style='text-align:center;' | 1363 || [[Cristina Ferreira]], [[José Pacheco Pereira]], [[Antonio Pinto Pereira]], [[Susana Garcia]], [[Joana Amaral Dias]], [[Joana Barros]], [[Dona Amelia]], [[André Carvalho Ramos]], [[Ruben Amorim]]
+|-
+| style='text-align:center;' | 1362 || [[Teresa Stichaner]], [[Manuel Luís Goucha]], [[Ana Galvão]]
+|-
+| style='text-align:center;' | 1361 || [[Pedro Teixeira da Mota]], [[Carlos Coutinho Vilhena]], [[Joana Marques]]
+|-
+| style='text-align:center;' | 1360 || [[Pedro Teixeira da Mota]], [[Carlos Coutinho Vilhena]], [[Pedro Granger]], [[Sérgio Rossi]], [[Joana Marques]], [[Sofia Barbosa]]
+|-
 | style='text-align:center;' | 1359 || [[Gustavo Santos]], [[Sérgio Tavares]]
 |-
 | style='text-align:center;' | 1358 || [[Gustavo Santos]], [[David Araújo]]
@@ -160,7 +250,7 @@
 |-
 | style='text-align:center;' | 1281 || [[Tiago Paiva]]
 |-
-| style='text-align:center;' | 1280 || [[Topics Chat]], [[Tiago Paiva]]
+| style='text-align:center;' | 1280 || [[Topics Chat]], [[Tiago Paiva]], [[Samuel Santos (Samuel Massas)]], [[Ana Barbosa]], [[Ângelo Rodrigues]]
 |-
 | style='text-align:center;' | 1279 || [[Globos de Ouro de 2024]], [[Sofia Ribeiro (atriz)]], [[Sofia Cerveira]], [[Pedro Abrunhosa]], [[The Ketchup Song (Aserejé)]], [[Albano Jerónimo]], [[Margarida Vila-Nova]], [[Guilherme Geirinhas]], [[Cândido Costa]], [[Paulo de Carvalho]], [[Bárbara Bandeira]], [[Ricardo Araújo Pereira]], [[Rodrigo Guedes de Carvalho]]
 |-
@@ -400,7 +490,7 @@
 |-
 | style='text-align:center;' | 1161 || [[Maria Helena Martins]], [[Ana Galvão]]
 |-
-| style='text-align:center;' | 1160 || [[Luciana Abreu]], [[Filipa Castro]], [[Mónica Sintra]], [[Jose Figueiras]], [[Filipa Torrinha Nunes]], [[Adriano Silva Martins]], [[Tia Maya]]
+| style='text-align:center;' | Esperança Pereira{https://mag.sapo.pt/tv/atualidade-tv/artigos/o-preco-certo-concorrente-emociona-se-e-momento-torna-se-viral},Alexandre Monteiro{https://www.presenca.pt/blogs/autores/alexandre-monteiro} || [[Luciana Abreu]], [[Filipa Castro]], [[Mónica Sintra]], [[Jose Figueiras]], [[Filipa Torrinha Nunes]], [[Adriano Silva Martins]], [[Tia Maya]]
 |-
 | style='text-align:center;' | 1159 || [[Gustavo Santos]], [[Mafalda Rodiles]]
 |-
@@ -486,7 +576,7 @@
 |-
 | style='text-align:center;' | 1118 || [[Globos de Ouro]], [[Clara de Sousa]], [[Ângelo]], [[Isabel Valadeira]], [[Beatriz Batarda]], [[César Mourão]], [[Albano Gerônimo]], [[A Garota Não]]
 |-
-| style='text-align:center;' | 1117 || [[Globos de Ouro]], [[Sofia Cerveira]], [[Ricardo Pereira]], [[Liliana Campos]], [[Herman José]], [[Maria Dominguez]], [[Andreia Rodrigues]], [[Carolina Patrocínio]], [[Bárbara Guimarães]], [[Bárbara Branco]], [[Diana Chaves]], [[Marco Paulo]], [[Júlia Palha]], [[Inês Aires Pereira]], [[James Arthur]], [[Sofia Ribeiro]], [[José Raposo]], [[Sónia Tavares]], [[João Manzarra]]
+| style='text-align:center;' | 1117 || [[Globos de Ouro]], [[Sofia Cerveira]], [[Ricardo Pereira]], [[Liliana Campos]], [[Herman José]], [[Maria Dominguez]], [[Andreia Rodrigues]], [[Carolina Patrocínio]], [[Bárbara Guimarães]], [[Bárbara Branco]], [[Diana Chaves]], [[Marco Paulo]], [[Júlia Palha]], [[Inês Aires Pereira]], [[James Arthur]], [[Sofia Ribeiro (atriz)]], [[José Raposo]], [[Sónia Tavares]], [[João Manzarra]]
 |-
 | style='text-align:center;' | 1116 || [[Gonçalo Maya]]
 |-
@@ -520,7 +610,7 @@
 |-
 | style='text-align:center;' | 1101 || [[TVI]], [[Cláudio Ramos]], [[Fernanda Serrano]], [[Alexandra Lencastre]], [[Idevor Mendonça]], [[Pedro Morais Leitão]], [[Margarida Corceiro]], [[Diogo Amaral]], [[Ana Brito e Cunha]], [[Francisco Maria Pereira (Kacha)]], [[José Eduardo Moniz]], [[Cristina Ferreira]], [[Miguel Sousa Tavares]], [[Alberto Rodrigues]], [[Paulo Pires]]
 |-
-| style='text-align:center;' | 1100 || [[TVI]], [[Cristina Ferreira]], [[José Eduardo Moniz]], [[Mario Ferreira]], [[Nuno Santos]], [[Idevor Mendonça]], [[Rodrigo Paganelli]], [[Rúben Rua]], [[Ana Sofia Martins]], [[Paulo Pires]], [[Iva Domingues]], [[Marcos Pinto]], [[Claudio Ramos]], [[Pedro Sousa]], [[Cátia Nobre]], [[Maria Cerqueira Gomes]]
+| style='text-align:center;' | 1100 || [[TVI]], [[Cristina Ferreira]], [[José Eduardo Moniz]], [[Mario Ferreira]], [[Nuno Santos]], [[Idevor Mendonça]], [[Rodrigo Paganelli]], [[Rúben Rua]], [[Ana Sofia Martins]], [[Paulo Pires]], [[Iva Domingues]], [[Marcos Pinto]], [[Cláudio Ramos]], [[Pedro Sousa]], [[Cátia Nobre]], [[Maria Cerqueira Gomes]]
 |-
 | style='text-align:center;' | 1099 || [[Cristina Ferreira]], [[Gustavo Santos]]
 |-
@@ -720,7 +810,7 @@
 |-
 | style='text-align:center;' | 1001 || [[Cristina Ferreira]], [[Joana Salgueiro]], [[Carlos Moedas]], [[Paulo Figueiredo]]
 |-
-| style='text-align:center;' | 1000 || [[Cristina Ferreira]], [[Ely]], [[Frederico Canto e Castro]]
+| style='text-align:center;' | 1000 || [[Cristina Ferreira]], [[Ely]], [[Frederico Canto e Castro (Fred)]]
 |-
 | style='text-align:center;' | 999 || [[Miguel Milhão]], [[Sancha Trindade]], [[Judite Sousa]], [[Madalena Abecasis]], [[Marta Gautier]], [[Carlos Areia]], [[Rosa Bela]], [[Tiago Paiva]], [[Carlos Costa]], [[Pedro Crispim]], [[Tiago Gonçalves]], [[Leandro Portugal]], [[Vanda Leal Nunes]], [[Adelaide Ferreira]], [[Elma Aveiro]], [[Maria Vieira]], [[Filomena Dias]], [[José Cid]]
 |-
@@ -816,9 +906,9 @@
 |-
 | style='text-align:center;' | 953 || [[Susana Torres]], [[Inês Lopes Gonçalves]]
 |-
-| style='text-align:center;' | 952 || [[Gustavo Santos]], [[Sérgio Tavares]]
+| style='text-align:center;' | 952 || [[Gustavo Santos]], [[Sérgio Tavares]], [[Covid-19]]
 |-
-| style='text-align:center;' | 951 || [[Gustavo Santos]]
+| style='text-align:center;' | 951 || [[Gustavo Santos]], [[Covid-19]]
 |-
 | style='text-align:center;' | 950 || [[Fábio Teles]]
 |-
@@ -832,7 +922,7 @@
 |-
 | style='text-align:center;' | 945 || [[Isabel Alves]]
 |-
-| style='text-align:center;' | 944 || [[Sérgio Tavares]]
+| style='text-align:center;' | 944 || [[Sérgio Tavares]], [[Covid-19]]
 |-
 | style='text-align:center;' | 943 || [[Globos de Ouro]], [[João Catarré]], [[Sara Matos]], [[Carolina Patrocínio]], [[Hernâni Carvalho]], [[Ana Moura]], [[Anabela Moreira]], [[Miguel Cruz]], [[Gabriela Barros]], [[Rita Rocha]], [[Ivo Lucas]]
 |-
@@ -958,7 +1048,7 @@
 |-
 | style='text-align:center;' | 882 || [[Casados à Primeira Vista]], [[Tiago Jaqueta]], [[Dina Guedes]]
 |-
-| style='text-align:center;' | 881 || [[Mafalda Rodiles]], [[Carina Caldeira]]
+| style='text-align:center;' | 881 || [[Mafalda Rodiles (Mafalda Pinto)]], [[Carina Caldeira]]
 |-
 | style='text-align:center;' | 880 || [[Sebastião Bugalho]]
 |-
@@ -998,7 +1088,7 @@
 |-
 | style='text-align:center;' | 862 || [[Catarina Furtado]], [[Mário Augusto]], [[Vanessa Oliveira]], [[Paixão da Costa]], [[Luís Filipe Borges]], [[Bruno Gascon]]
 |-
-| style='text-align:center;' | 861 || [[Helder Tavares]]
+| style='text-align:center;' | 861 || [[Hélder Tavares]]
 |-
 | style='text-align:center;' | 860 || [[Casados à Primeira Vista]], [[João Pires]], [[Dulce Pimenta]]
 |-
@@ -1350,7 +1440,7 @@
 |-
 | style='text-align:center;' | 686 || [[Raquel Varela]]
 |-
-| style='text-align:center;' | 685 || [[Kapinha]]
+| style='text-align:center;' | 685 || [[Jorge Kapinha]]
 |-
 | style='text-align:center;' | 684 || [[Kapinha]]
 |-
@@ -2014,7 +2104,7 @@
 |-
 | style='text-align:center;' | 354 || [[Reportagens de Verão]]
 |-
-| style='text-align:center;' | 353 || [[Frederico Canto e Castro]]
+| style='text-align:center;' | 353 || [[Frederico Canto e Castro (Fred)]]
 |-
 | style='text-align:center;' | 352 || [[Inês Simões]], [[Joana Marques]]
 |-
@@ -2346,7 +2436,7 @@
 |-
 | style='text-align:center;' | 188 || [[Youtubers]], [[Luís Oliveira]], [[Rita Ferro Rodrigues]], [[Ana Markl]], [[Ana Galvão]], [[Luis Franco Bastos]], [[Joana Marques]], [[Jorge Jesus]]
 |-
-| style='text-align:center;' | 187 || [[Rita Pereira]], [[PNR]], [[Marie Le Pen]], [[David Carreira]], [[Ana Markl]], [[Santana Lopes]], [[Sofia Ribeiro]], [[Manuel Luís Goucha]], [[Zeca Afonso]], [[Sociedade Portuguesa de Autores]], [[Fernanda Serrano]], [[Miguel Sousa Tavares]], [[Sara Matos]], [[Oceana Basílio]], [[Cristina Ferreira]], [[Moussa Marega]], [[José Gomes Ferreira]], [[Marcelo Rebelo de Sousa]], [[Fernando Pimenta]], [[Vitor Espadinha]], [[Bruno de Carvalho]], [[Luís Filipe Vieira]], [[Cinha Jardim]], [[Pedro Lima]], [[Feijoada da Caras]], [[Agosto]]
+| style='text-align:center;' | 187 || [[Rita Pereira]], [[PNR]], [[Marie Le Pen]], [[David Carreira]], [[Ana Markl]], [[Santana Lopes]], [[Sofia Ribeiro (atriz)]], [[Manuel Luís Goucha]], [[Zeca Afonso]], [[Sociedade Portuguesa de Autores]], [[Fernanda Serrano]], [[Miguel Sousa Tavares]], [[Sara Matos]], [[Oceana Basílio]], [[Cristina Ferreira]], [[Moussa Marega]], [[José Gomes Ferreira]], [[Marcelo Rebelo de Sousa]], [[Fernando Pimenta]], [[Vitor Espadinha]], [[Bruno de Carvalho]], [[Luís Filipe Vieira]], [[Cinha Jardim]], [[Pedro Lima]], [[Feijoada da Caras]], [[Agosto]]
 |-
 | style='text-align:center;' | 186 || [[Cristiano Ronaldo]], [[SirKazzio]], [[Frederico Varandas]], [[Sporting Clube de Portugal]], [[Benfica]], [[José Maria Ricciardi]], [[Alexandre Cavaleri]], [[Azulejos de Alvalade]]
 |-
