@@ -2140,7 +2140,7 @@
 |-
 | style='text-align:center;' | 336 || [[O Chef é Você]], [[Manuel Luís Goucha]], [[Maria Cerqueira Gomes]], [[Ana Galvão]], [[Chef Olivier]], [[Chef Sofia]], [[Margarida Rebelo Pinto]], [[Rita Pereira]], [[Miguel Sousa Tavares]]
 |-
-| style='text-align:center;' | 335 || [[Wendel]], [[Ricardo Quaresma]], [[Cristiano Ronaldo]], [[Éder Militão]], [[Luisão]], [[Maurício]], [[Javier Saviola]], [[Maniche]], [[Zlatko Zahovič]], [[Leandro Machado]], [[Ionuţ Cristian Săpunaru]], [[Fábio Coentrão]], [[Gabriel Barbosa]], [[Héctor Herrera]], [[Miguel Monteiro]], [[Rúben Semedo]], [[Walter]], [[Joana Marques]]
+| style='text-align:center;' | 335 || [[Wendel]], [[Ricardo Quaresma]], [[Cristiano Ronaldo]], [[Éder Militão]], [[Luisão (futebolista)]], [[Maurício]], [[Javier Saviola]], [[Maniche]], [[Zlatko Zahovič]], [[Leandro Machado]], [[Ionuţ Cristian Săpunaru]], [[Fábio Coentrão]], [[Gabriel Barbosa]], [[Héctor Herrera]], [[Miguel Monteiro]], [[Rúben Semedo]], [[Walter]], [[Joana Marques]]
 |-
 | style='text-align:center;' | 334 || [[Gelados Magnum]], [[Zezé Camarinha]], [[Lili Caneças]], [[Unilever]]
 |-
@@ -2394,7 +2394,7 @@
 |-
 | style='text-align:center;' | 209 || [[Joana Marques]], [[Pedro Dias]], [[Abdessalam Tazi]], [[Prisioneiros Vegan]], [[Cadeia de Monsanto]], [[Vale e Azevedo]], [[José Sócrates]], [[Isaltino Morais]], [[Prisão da Carregueira]]
 |-
-| style='text-align:center;' | 208 || [[5 de Outubro]], [[Joana Marques]], [[Luís Oliveira]], [[Rui Rio]], [[Santana Lopes]], [[Judite Sousa]], [[Luísa Trindade]], [[Protestos em lírico]], [[Bancário de Vizeu]], [[Expofacic]], [[Mickael Carreira]], [[José Peseiro]], [[Luisão]], [[Marcelo Rebelo de Sousa]], [[Cavaco Silva]]
+| style='text-align:center;' | 208 || [[5 de Outubro]], [[Joana Marques]], [[Luís Oliveira]], [[Rui Rio]], [[Santana Lopes]], [[Judite Sousa]], [[Luísa Trindade]], [[Protestos em lírico]], [[Bancário de Vizeu]], [[Expofacic]], [[Mickael Carreira]], [[José Peseiro]], [[Luisão (futebolista)]], [[Marcelo Rebelo de Sousa]], [[Cavaco Silva]]
 |-
 | style='text-align:center;' | 207 || [[Cristiano Ronaldo]], [[Octávio Machado]], [[Kátia Aveiro]], [[José Pereira]], [[Maria Leonor Ferreira]], [[Maria Silvia]], [[Sérgio Santos]], [[JN]], [[Eusébio]], [[Fernando Peyroteo]]
 |-
