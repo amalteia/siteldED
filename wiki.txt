@@ -96,9 +96,9 @@
 |-
 | style='text-align:center;' | 1358 || [[Gustavo Santos]], [[David Araújo]]
 |-
-| style='text-align:center;' | 1357 || [[Ângelo Rodrigues]], [[Ricardo Azedo]], [[Rui Oliveira]], [[Duarte Siopa]], [[Teresa Guilherme]], [[José Carlos Castro]], [[Tia Maya]]
+| style='text-align:center;' | 1357 || [[Ângelo Rodrigues]], [[Ricardo Azedo]], [[Rui Oliveira]], [[Duarte Siopa]], [[Teresa Guilherme]], [[José Carlos Castro]], [[Maya (taróloga)]]
 |-
-| style='text-align:center;' | 1356 || [[Ângelo Rodrigues]], [[Tia Maya]], [[Humberto Simões]], [[Patricia Marques Rodrigues]], [[Daniel Nascimento]], [[Ricardo Azedo]], [[José Gouveia]], [[Rui Figueiredo]], [[Duarte Siopa]], [[Rui Oliveira]]
+| style='text-align:center;' | 1356 || [[Ângelo Rodrigues]], [[Maya (taróloga)]], [[Humberto Simões]], [[Patricia Marques Rodrigues]], [[Daniel Nascimento]], [[Ricardo Azedo]], [[José Gouveia]], [[Rui Figueiredo]], [[Duarte Siopa]], [[Rui Oliveira]]
 |-
 | style='text-align:center;' | 1355 || [[João Barbosa (Numeiro)]], [[Tiago Paiva]], [[Windoh]]
 |-
@@ -182,7 +182,7 @@
 |-
 | style='text-align:center;' | 1315 || [[Léo Caeiro]]
 |-
-| style='text-align:center;' | 1314 || [[Ana Garcia Martins]], [[Léo Caeiro]], [[David Cristina]], [[Liliana Oliveira]], [[Ágata Rodrigues]], [[Tia Maya]], [[Ana Galvão]]
+| style='text-align:center;' | 1314 || [[Ana Garcia Martins]], [[Léo Caeiro]], [[David Cristina]], [[Liliana Oliveira]], [[Ágata Rodrigues]], [[Maya (taróloga)]], [[Ana Galvão]]
 |-
 | style='text-align:center;' | 1313 || [[Flávio Teixeira]]
 |-
@@ -218,7 +218,7 @@
 |-
 | style='text-align:center;' | 1297 || [[Sónia Costa]], [[Luis Maia]], [[Luis Sequeira]], [[José Cid]]
 |-
-| style='text-align:center;' | 1296 || [[Luciana Abreu]], [[Clemente (cantor)]], [[Fernando Correia Marques]], [[Nuno Miguel]], [[Cândido Pereira]], [[Daniel Martins]], [[João Fortes]], [[Manuel Luís Goucha]], [[Ana Marques]], [[Domingão]], [[João Baião]], [[Diana Chaves]], [[Tia Maya]], [[Julia Pinheiro]], [[Dona Ester]]
+| style='text-align:center;' | 1296 || [[Luciana Abreu]], [[Clemente (cantor)]], [[Fernando Correia Marques]], [[Nuno Miguel]], [[Cândido Pereira]], [[Daniel Martins]], [[João Fortes]], [[Manuel Luís Goucha]], [[Ana Marques]], [[Domingão]], [[João Baião]], [[Diana Chaves]], [[Maya (taróloga)]], [[Julia Pinheiro]], [[Dona Ester]]
 |-
 | style='text-align:center;' | 1295 || [[Bárbara Marques]], [[Ana Balsemão]], [[Carina Pinheiro]], [[Andreia Moutinho]], [[Mariana Azevedo]], [[Cristiana Jesus]], [[Inês Ribeiro]], [[Cláudio Ramos]], [[Sara Tarita]], [[Catarina Gouveia]], [[Joana Gama]]
 |-
@@ -278,7 +278,7 @@
 |-
 | style='text-align:center;' | 1267 || [[Kátia Aveiro]]
 |-
-| style='text-align:center;' | 1266 || [[Tia Maya]], [[Rui Oliveira]], [[Isaac Alfaiate]], [[Isabel Figueira]], [[Jéssica Antunes]], [[Rui Figueiredo]], [[André Costa]], [[Ricardo Martins Pereira (Arrumadinho)]], [[Marisa Caetano Antunes]], [[Débora Couceiro]]
+| style='text-align:center;' | 1266 || [[Maya (taróloga)]], [[Rui Oliveira]], [[Isaac Alfaiate]], [[Isabel Figueira]], [[Jéssica Antunes]], [[Rui Figueiredo]], [[André Costa]], [[Ricardo Martins Pereira (Arrumadinho)]], [[Marisa Caetano Antunes]], [[Débora Couceiro]]
 |-
 | style='text-align:center;' | 1265 || [[José Pedro Gomes]], [[Aldo Lima]], [[Henrique Correia]]
 |-
@@ -326,7 +326,7 @@
 |-
 | style='text-align:center;' | 1243 || [[José Castelo Branco]]
 |-
-| style='text-align:center;' | 1242 || [[José Castelo Branco]], [[Tia Maya]], [[Marcela Fernandes]], [[José Gouveia]]
+| style='text-align:center;' | 1242 || [[José Castelo Branco]], [[Maya (taróloga)]], [[Marcela Fernandes]], [[José Gouveia]]
 |-
 | style='text-align:center;' | 1241 || [[Paula Margarido]]
 |-
@@ -490,15 +490,15 @@
 |-
 | style='text-align:center;' | 1161 || [[Maria Helena Martins]], [[Ana Galvão]]
 |-
-| style='text-align:center;' | 1160 || [[Luciana Abreu]], [[Filipa Castro]], [[Mónica Sintra]], [[Jose Figueiras]], [[Filipa Torrinha Nunes]], [[Adriano Silva Martins]], [[Tia Maya]]
+| style='text-align:center;' | 1160 || [[Luciana Abreu]], [[Filipa Castro]], [[Mónica Sintra]], [[Jose Figueiras]], [[Filipa Torrinha Nunes]], [[Adriano Silva Martins]], [[Maya (taróloga)]]
 |-
 | style='text-align:center;' | 1159 || [[Gustavo Santos]], [[Mafalda Rodiles]]
 |-
 | style='text-align:center;' | 1158 || [[Beatriz Frazão]], [[Miguel Frazão]]
 |-
-| style='text-align:center;' | 1157 || [[Tia Maya]], [[Cláudio Ramos]], [[Cinha Jardim]], [[Gonçalo Quinaz]], [[José Lopes]], [[Cristina Ferreira]], [[Léo Caeiro]], [[Duarte Siopa]], [[Ana Marques]], [[José Figueiras]], [[Monica Sintra]], [[Filipa Torrinha Nunes]]
+| style='text-align:center;' | 1157 || [[Maya (taróloga)]], [[Cláudio Ramos]], [[Cinha Jardim]], [[Gonçalo Quinaz]], [[José Lopes]], [[Cristina Ferreira]], [[Léo Caeiro]], [[Duarte Siopa]], [[Ana Marques]], [[José Figueiras]], [[Monica Sintra]], [[Filipa Torrinha Nunes]]
 |-
-| style='text-align:center;' | 1156 || [[Léo Caeiro]], [[Tia Maya]], [[Adriano Silva Martins]], [[Daniel Nascimento]], [[Liliana Campos]], [[Heitor Lourenço]], [[Gisela Serrano]], [[Hugo Mendes]], [[Filipa Castro]], [[Duarte Siopa]]
+| style='text-align:center;' | 1156 || [[Léo Caeiro]], [[Maya (taróloga)]], [[Adriano Silva Martins]], [[Daniel Nascimento]], [[Liliana Campos]], [[Heitor Lourenço]], [[Gisela Serrano]], [[Hugo Mendes]], [[Filipa Castro]], [[Duarte Siopa]]
 |-
 | style='text-align:center;' | 1155 || [[Diogo Faro]], [[Joana Brito Silva]]
 |-
@@ -692,7 +692,7 @@
 |-
 | style='text-align:center;' | 1060 || [[Tiago Paiva]], [[Bernardo Blanco]], [[João Cotrim de Figueiredo]], [[Rodrigo Saraiva]], [[Windoh]]
 |-
-| style='text-align:center;' | 1059 || [[Noite das Estrelas]], [[Quintino Aires]], [[Adriano Silva Martins]], [[Tia Maya]]
+| style='text-align:center;' | 1059 || [[Noite das Estrelas]], [[Quintino Aires]], [[Adriano Silva Martins]], [[Maya (taróloga)]]
 |-
 | style='text-align:center;' | 1058 || [[Noite das Estrelas]], [[Sónia Jesus]], [[Quintino Aires]], [[Liliana Aguiar]], [[Maria Cerqueira Gomes]]
 |-
@@ -1238,7 +1238,7 @@
 |-
 | style='text-align:center;' | 787 || [[Ricardo Teixeira]]
 |-
-| style='text-align:center;' | 786 || [[Separados pela Vida]], [[Tia Maya]]
+| style='text-align:center;' | 786 || [[Separados pela Vida]], [[Maya (taróloga)]]
 |-
 | style='text-align:center;' | 785 || [[Marcelo Rebelo de Sousa]], [[Duarte Siopa]], [[Mário Jardel]]
 |-
@@ -1756,7 +1756,7 @@
 |-
 | style='text-align:center;' | 528 || [[Frederico Varandas]], [[Luís Filipe Vieira]], [[Jorge Nuno Pinto da Costa]]
 |-
-| style='text-align:center;' | 527 || [[Tia Maya]], [[Covid-19]]
+| style='text-align:center;' | 527 || [[Maya (taróloga)]], [[Covid-19]]
 |-
 | style='text-align:center;' | 526 || [[Fake News]], [[Polígrafo]], [[Covid-19]], [[Camilo Lourenço]]
 |-
@@ -2020,7 +2020,7 @@
 |-
 | style='text-align:center;' | 396 || [[Frederico Varandas]], [[Teresa Dimas]]
 |-
-| style='text-align:center;' | 395 || [[Toy]], [[Casamento do Toy]], [[Tia Maya]], [[Jesualdo Ferreira]], [[CMTV]]
+| style='text-align:center;' | 395 || [[Toy]], [[Casamento do Toy]], [[Maya (taróloga)]], [[Jesualdo Ferreira]], [[CMTV]]
 |-
 | style='text-align:center;' | 394 || [[Bruno Gonçalves]], [[Ana Martins]]
 |-
@@ -2036,7 +2036,7 @@
 |-
 | style='text-align:center;' | 388 || [[Luciana Abreu]]
 |-
-| style='text-align:center;' | 387 || [[Toy]], [[Casamento do Toy]], [[Tia Maya]]
+| style='text-align:center;' | 387 || [[Toy]], [[Casamento do Toy]], [[Maya (taróloga)]]
 |-
 | style='text-align:center;' | 386 || [[Problemas familiares]], [[Joana Amaral Dias]]
 |-
@@ -2088,7 +2088,7 @@
 |-
 | style='text-align:center;' | 362 || [[Mercadona]], [[Ana Galvão]], [[Inauguração de lojas]], [[Primark]], [[IKEA de Alfragide]], [[Pingo Doce de Telheiras]], [[Spar]], [[Marrachinho]]
 |-
-| style='text-align:center;' | 361 || [[Fabiano de Abreu]], [[Ana Galvão]], [[Tia Maya]], [[Nuno Eiró]], [[CMTV]], [[Joana Marques]], [[Irmãos Guedes]]
+| style='text-align:center;' | 361 || [[Fabiano de Abreu]], [[Ana Galvão]], [[Maya (taróloga)]], [[Nuno Eiró]], [[CMTV]], [[Joana Marques]], [[Irmãos Guedes]]
 |-
 | style='text-align:center;' | 360 || [[CMTV]], [[Condutores alcoolizados]]
 |-
@@ -2176,7 +2176,7 @@
 |-
 | style='text-align:center;' | 318 || [[Fábio]], [[Concorrentes do Começar do Zero]], [[Gustavo Santos]]
 |-
-| style='text-align:center;' | 317 || [[Protestantes]], [[António Costa]], [[Extinction Rebellion]], [[Tia Maya]], [[CMTV]], [[Nuno Eiró]], [[Cristina Ferreira]], [[António Mexia]], [[Ana Galvão]]
+| style='text-align:center;' | 317 || [[Protestantes]], [[António Costa]], [[Extinction Rebellion]], [[Maya (taróloga)]], [[CMTV]], [[Nuno Eiró]], [[Cristina Ferreira]], [[António Mexia]], [[Ana Galvão]]
 |-
 | style='text-align:center;' | 316 || [[Sónia Tavares]]
 |-
@@ -2218,7 +2218,7 @@
 |-
 | style='text-align:center;' | 297 || [[Jogos de apuramento]], [[Cristiano Ronaldo]], [[Éder]], [[Fernando Santos]], [[Rui Santos]]
 |-
-| style='text-align:center;' | 296 || [[Rosa Grilo]], [[Hernâni Carvalho]], [[Tia Maya]], [[Isaltino Morais]], [[André Ventura]], [[CMTV]], [[Joana Marques]], [[José Rodrigues dos Santos]], [[Alverca]], [[Correio da Manhã]]
+| style='text-align:center;' | 296 || [[Rosa Grilo]], [[Hernâni Carvalho]], [[Maya (taróloga)]], [[Isaltino Morais]], [[André Ventura]], [[CMTV]], [[Joana Marques]], [[José Rodrigues dos Santos]], [[Alverca]], [[Correio da Manhã]]
 |-
 | style='text-align:center;' | 295 || [[Liliana Aguiar]], [[José Carlos Pereira]], [[José Gomes Ferreira (jornalista)]], [[Machismo]], [[Francisco Nunes]]
 |-
@@ -2390,7 +2390,7 @@
 |-
 | style='text-align:center;' | 211 || [[André Ventura]], [[Tino de Rans]], [[Maria Helena]], [[CMTV]], [[Moita Flores]], [[Rui Rio]], [[Hernani Carvalho]], [[Fernando Mendes]], [[Jair Bolsonaro]], [[Joana Amaral Dias]], [[Correio da Manhã]], [[António Salazar]]
 |-
-| style='text-align:center;' | 210 || [[Cristiano Ronaldo]], [[Kátia Aveiro]], [[Dolores Aveiro]], [[Tia Maya]], [[Filipa Castro]], [[Marcelo Rebelo de Sousa]], [[José Peseiro]], [[Judite Sousa]], [[Vitor Gonçalves]], [[Maria do Céu Santos]], [[Fernando Seara]]
+| style='text-align:center;' | 210 || [[Cristiano Ronaldo]], [[Kátia Aveiro]], [[Dolores Aveiro]], [[Maya (taróloga)]], [[Filipa Castro]], [[Marcelo Rebelo de Sousa]], [[José Peseiro]], [[Judite Sousa]], [[Vitor Gonçalves]], [[Maria do Céu Santos]], [[Fernando Seara]]
 |-
 | style='text-align:center;' | 209 || [[Joana Marques]], [[Pedro Dias]], [[Abdessalam Tazi]], [[Prisioneiros Vegan]], [[Cadeia de Monsanto]], [[Vale e Azevedo]], [[José Sócrates]], [[Isaltino Morais]], [[Prisão da Carregueira]]
 |-
@@ -2736,7 +2736,7 @@
 |-
 | style='text-align:center;' | 38 || [[Joana Marques]], [[Uber]]
 |-
-| style='text-align:center;' | 37 || [[Paulo Cardoso]], [[Tia Maya]], [[Maria Helena]]
+| style='text-align:center;' | 37 || [[Paulo Cardoso]], [[Maya (taróloga)]], [[Maria Helena]]
 |-
 | style='text-align:center;' | 36 || [[Mergulhadores do Novo Ano]]
 |-
@@ -2808,5 +2808,5 @@
 |-
 | style='text-align:center;' | 2 || [[António Leitão Amaro]], [[Mariana Mortágua]], [[Inês Lopes Gonçalves]], [[Tânia Laranjo]], [[João Araújo]], [[Jorge Nuno Pinto da Costa]]
 |-
-| style='text-align:center;' | 1 || [[Web Summit]], [[Judite Sousa]], [[Marcelo Rebelo de Sousa]], [[Salão Erótico]], [[Carla Ferreira]], [[Restaurante Canela]], [[Ljubomir Stanisic]], [[Manuel Canela]]
+| style='text-align:center;' | 1 || [[Websumit]], [[Judite Sousa]], [[Marcelo Rebelo de Sousa]], [[Salão Erótico]], [[Carla Ferreira]], [[Restaurante Canela]], [[Ljubomir Stanisic]], [[Manuel Canela]]
 |}
