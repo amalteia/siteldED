@@ -2,6 +2,8 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1405 || [[Gustavo Santos]]
+|-
 | style='text-align:center;' | 1404 || [[Gustavo Santos]], [[Tiago Paiva]]
 |-
 | style='text-align:center;' | 1403 || [[Sam The Kid]], [[Marco Neves]], [[Tomás Magalhães]]
