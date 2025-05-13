@@ -2,7 +2,7 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
-| style='text-align:center;' | 1406 || [[José Castelo Branco]], [[Tânia Laranjo]], [[José Carlos Castro]], [[Joana Marques]], [[João Barbosa (Numeiro)]]
+| style='text-align:center;' | Os reacts de José Castelo Branco || [[José Castelo Branco]], [[Tânia Laranjo]], [[José Carlos Castro]], [[Joana Marques]], [[João Barbosa (Numeiro)]]
 |-
 | style='text-align:center;' | 1405 || [[Gustavo Santos]]
 |-
