@@ -2338,11 +2338,11 @@
 |-
 | style='text-align:center;' | 240 || [[Touradas]], [[Manuel Alegre]], [[Joana Marques]], [[Hélder Milheiro]], [[Prós e Contras]], [[Inês Lopes Gonçalves]], [[Cristina Ferreira]]
 |-
-| style='text-align:center;' | 239 || [[JN]], [[Bidés]], [[Marcel Duchamp]], [[Sara Sampaio]], [[Xavier]], [[IRA]], [[Minuto Verde]], [[Caixas de comentários]], [[Apoiantes de Bolsonaro]], [[Joana Marques]], [[Ana Markl]], [[Touradas]]
+| style='text-align:center;' | 239 || [[JN]], [[Bidés]], [[Marcel Duchamp]], [[Sara Sampaio]], [[Xavier]], [[Intervenção e Resgate Animal]], [[Minuto Verde]], [[Caixas de comentários]], [[Apoiantes de Bolsonaro]], [[Joana Marques]], [[Ana Markl]], [[Touradas]]
 |-
 | style='text-align:center;' | 238 || [[Octávio Machado]], [[Backstreet Boys]], [[Joana Marques]], [[BES]], [[Xavier]], [[Nickelback]], [[Anjos]], [[Milénio]], [[Brian Littrell]], [[AJ McLean]], [[Nick Carter]], [[Howie Dorough]], [[Kevin Richardson]], [[Zezé Di Camargo & Luciano]]
 |-
-| style='text-align:center;' | 237 || [[IRA]], [[TVI]], [[Ana Leal]], [[Cristiano Ronaldo]], [[Cristina Rodrigues]], [[André Silva]], [[Gustavo Santos]], [[Biodanza]], [[Hernâni Carvalho]], [[Manuel Alegre]]
+| style='text-align:center;' | 237 || [[Intervenção e Resgate Animal]], [[TVI]], [[Ana Leal]], [[Cristiano Ronaldo]], [[Cristina Rodrigues]], [[André Silva]], [[Gustavo Santos]], [[Biodanza]], [[Hernâni Carvalho]], [[Manuel Alegre]]
 |-
 | style='text-align:center;' | 236 || [[Joana Marques]], [[Sara Sampaio]], [[Nelly Furtado]], [[BPI]], [[Oliveira e Costa]], [[Quilo]], [[Ana Markl]]
 |-
