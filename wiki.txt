@@ -2318,7 +2318,7 @@
 |-
 | style='text-align:center;' | 250 || [[Jorge Jesus]], [[Frederico Varandas]]
 |-
-| style='text-align:center;' | 249 || [[Amália Rodrigues]], [[Joana Marques]], [[Xi Jinping]], [[Reclusos do estabelecimento prisional de Lisboa]], [[Novela da Globo]], [[Penitenciária do estado do Maranhão]], [[Turistas em Lisboa]], [[Filas dos pastéis de Belém]], [[Trotinetes elétricas]], [[Tuk tuk]], [[Hippo-hippo Urra]], [[Hotel Ritz]], [[Avó Maria Estela]]
+| style='text-align:center;' | 249 || [[Amália Rodrigues]], [[Joana Marques]], [[Xi Jinping]], [[Reclusos do estabelecimento prisional de Lisboa]], [[Novela da Globo]], [[Penitenciária do estado do Maranhão]], [[Turistas em Lisboa]], [[Filas dos pastéis de Belém]], [[Trotinetes elétricas]], [[Tuk Tuk]], [[Hippo-hippo Urra]], [[Hotel Ritz]], [[Avó Maria Estela]]
 |-
 | style='text-align:center;' | 248 || [[Manuel Cardoso]], [[Joana Marques]], [[Escola dos Youtubers]], [[Morangos com Açúcar]], [[Edmundo Vieira]], [[D'ZRT]], [[Maré Alta]], [[Malucos do Riso]], [[Barco do Amor]], [[Carlos Areia]], [[Lusíadas]], [[Thomas Edison]]
 |-
