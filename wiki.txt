@@ -2088,7 +2088,7 @@
 |-
 | style='text-align:center;' | 365 || [[Jair Bolsonaro]], [[Joana Marques]], [[Taxista Máximo]]
 |-
-| style='text-align:center;' | 364 || [[Cinha Jardim]], [[Alentejo]], [[Marco Paulo]], [[Anjos]], [[Rádio Campanário]], [[Ana Galvão]], [[Feijoada da Caras]]
+| style='text-align:center;' | 364 || [[Cinha Jardim]], [[Alentejo]], [[Marco Paulo]], [[Os Anjos (dupla musical)]], [[Rádio Campanário]], [[Ana Galvão]], [[Feijoada da Caras]]
 |-
 | style='text-align:center;' | 363 || [[Filipa Garnel]], [[Bruno de Carvalho]], [[Madonna]], [[Rita Pereira]], [[David Carreira]], [[Jorge Jesus]], [[Clã Abreu]], [[Luciana Abreu]], [[Dani Gonçalves]], [[Toy]], [[Praia de Leça]]
 |-
@@ -2340,7 +2340,7 @@
 |-
 | style='text-align:center;' | 239 || [[JN]], [[Bidés]], [[Marcel Duchamp]], [[Sara Sampaio]], [[Xavier]], [[Intervenção e Resgate Animal]], [[Minuto Verde]], [[Caixas de comentários]], [[Apoiantes de Bolsonaro]], [[Joana Marques]], [[Ana Markl]], [[Touradas]]
 |-
-| style='text-align:center;' | 238 || [[Octávio Machado]], [[Backstreet Boys]], [[Joana Marques]], [[BES]], [[Xavier]], [[Nickelback]], [[Anjos]], [[Milénio]], [[Brian Littrell]], [[AJ McLean]], [[Nick Carter]], [[Howie Dorough]], [[Kevin Richardson]], [[Zezé Di Camargo & Luciano]]
+| style='text-align:center;' | 238 || [[Octávio Machado]], [[Backstreet Boys]], [[Joana Marques]], [[BES]], [[Xavier]], [[Nickelback]], [[Os Anjos (dupla musical)]], [[Milénio]], [[Brian Littrell]], [[AJ McLean]], [[Nick Carter]], [[Howie Dorough]], [[Kevin Richardson]], [[Zezé Di Camargo & Luciano]]
 |-
 | style='text-align:center;' | 237 || [[Intervenção e Resgate Animal]], [[TVI]], [[Ana Leal]], [[Cristiano Ronaldo]], [[Cristina Rodrigues]], [[André Silva]], [[Gustavo Santos]], [[Biodanza]], [[Hernâni Carvalho]], [[Manuel Alegre]]
 |-
