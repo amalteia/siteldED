@@ -2,6 +2,8 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1408 || [[David Araújo]], [[Sephora Araújo]], [[Wendell Carvalho]]
+|-
 | style='text-align:center;' | 1407 || [[Pedro Cardoso]], [[Fernando Vaz]]
 |-
 | style='text-align:center;' | 1406 || [[José Castelo Branco]], [[CMTV]], [[Tânia Laranjo]], [[José Carlos Castro]], [[Joana Marques]], [[João Barbosa (Numeiro)]]
