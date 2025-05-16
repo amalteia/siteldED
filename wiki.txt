@@ -2558,7 +2558,7 @@
 |-
 | style='text-align:center;' | 132 || [[Mind da gap]], [[Museu das Descobertas]], [[Museu do Queijo]], [[Museu da Batafrita]], [[Éder]]
 |-
-| style='text-align:center;' | 131 || [[Dom Duarte Nuno de Bragança]]
+| style='text-align:center;' | 131 || [[Duarte Pio de Bragança]]
 |-
 | style='text-align:center;' | 130 || [[Academia de Alcochete]], [[Maria João Mata]], [[Nuno Loureiro Coelho]], [[Causídico de Alfama]], [[Bruno de Carvalho]]
 |-
