@@ -432,7 +432,7 @@
 |-
 | style='text-align:center;' | 1196 || [[Miguel Vicente]]
 |-
-| style='text-align:center;' | 1195 || [[TVI]], [[Gala TVI 31 anos]], [[Sandra Felgueiras]], [[Nuno Pardal]], [[Lurdes Baeta]], [[Inês Castelo Branco]], [[Pedro Sousa]], [[Fernanda Serrano]], [[Ana Sofia Cardoso]], [[Tony Carreira]], [[Pedro Teixeira]], [[Mafalda Castro]], [[Eduardo Madureira]], [[Paula Neves]], [[José Eduardo Moniz]], [[Manuel Luís Goucha]], [[Cristina Ferreira]], [[Miguel Vicente]]
+| style='text-align:center;' | 1195 || [[TVI]], [[Gala TVI 31 anos]], [[Sandra Felgueiras]], [[Nuno Pardal]], [[Lurdes Baeta]], [[Inês Castelo Branco]], [[Pedro Sousa]], [[Fernanda Serrano]], [[Ana Sofia Cardoso]], [[Tony Carreira]], [[Pedro Teixeira (ator)]], [[Mafalda Castro]], [[Eduardo Madureira]], [[Paula Neves]], [[José Eduardo Moniz]], [[Manuel Luís Goucha]], [[Cristina Ferreira]], [[Miguel Vicente]]
 |-
 | style='text-align:center;' | 1194 || [[TVI]], [[Gala TVI 31 anos]], [[José Carlos Araújo]], [[João Fernando Ramos]], [[Pedro Nevides]], [[Vítor Bandarra]], [[Joaquim Sousa Martins]], [[Sandra Felgueiras]], [[Ana Sofia Cardoso]], [[Andreia Vale]], [[Pedro Carvalhas]], [[Raquel Matos Cruz]], [[José Alberto Carvalho]], [[Paulo Pires]], [[Mafalda Castro]]
 |-
@@ -1334,7 +1334,7 @@
 |-
 | style='text-align:center;' | 745 || [[Sandra Silvério]], [[Joana Amaral Dias]]
 |-
-| style='text-align:center;' | 744 || [[Agnes Arabela]], [[Catarina Furtado]], [[Pedro Barroso]], [[Rita Pereira]], [[Claudia Isabel]], [[Patricia Pontes]], [[Cristina Ferreira]], [[Rui Pedro Bras]], [[Fernando Seara]], [[Sandra Celas]]
+| style='text-align:center;' | 744 || [[Agnes Arabela]], [[Catarina Furtado]], [[Pedro Barroso]], [[Rita Pereira]], [[Claudisabel]], [[Patricia Pontes]], [[Cristina Ferreira]], [[Rui Pedro Bras]], [[Fernando Seara]], [[Sandra Celas]]
 |-
 | style='text-align:center;' | 743 || [[Luciana Abreu]]
 |-
@@ -1366,9 +1366,9 @@
 |-
 | style='text-align:center;' | 729 || [[Pedro Guerra]], [[Octávio Lopes]], [[Luís Filipe Vieira]]
 |-
-| style='text-align:center;' | 728 || [[Agnes Arabela]], [[Catarina Furtado]], [[Pedro Barroso]], [[Rita Pereira]], [[Cláudia Isabel]]
+| style='text-align:center;' | 728 || [[Cláudia Sousa]], [[Diogo Nasser]], [[Jorge Santos]], [[Ide Souza]]
 |-
-| style='text-align:center;' | 727 || [[O Amor Acontece]], [[Maria Cerqueira Gomes]], [[Catarina Mendes]], [[Tiago Falcão]]
+| style='text-align:center;' | 727 || [[O Amor Acontece (reality show)]], [[Jorge Santos]], [[Margarida Cerqueira Gomes]], [[Pedro Teixeira (ator)]], [[Catarina Mendes]], [[Tiago Falcão]]
 |-
 | style='text-align:center;' | 726 || [[Becas Lírio]], [[Joana Marques]]
 |-
@@ -1538,7 +1538,7 @@
 |-
 | style='text-align:center;' | 643 || [[TVI]], [[Rita Pereira]], [[Cristina Ferreira]], [[Marisa Cruz]], [[Rita Pereira]], [[Pedro Moutinho]], [[Pedro Abrunhosa]], [[Susana Pinto]]
 |-
-| style='text-align:center;' | 642 || [[TVI]], [[Maria Botelho Moniz]], [[Lurdes Baeta]], [[Rita Pereira]], [[Manuel Luís Goucha]], [[Cláudio Ramos]], [[Ana Garcia Martins]], [[Pedro Teixeira]]
+| style='text-align:center;' | 642 || [[TVI]], [[Maria Botelho Moniz]], [[Lurdes Baeta]], [[Rita Pereira]], [[Manuel Luís Goucha]], [[Cláudio Ramos]], [[Ana Garcia Martins]], [[Pedro Teixeira (ator)]]
 |-
 | style='text-align:center;' | 641 || [[João Loureiro]]
 |-
