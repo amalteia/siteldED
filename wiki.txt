@@ -2,6 +2,8 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1412 || [[Amélia de Jesus]], [[Tânia Laranjo]]
+|-
 | style='text-align:center;' | 1411 || [[Mizzy Miles]], [[Nenny]]
 |-
 | style='text-align:center;' | 1410 || [[Rui de Figueiredo Marcos]], [[Marcelo Rebelo de Sousa]]
