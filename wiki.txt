@@ -2,6 +2,8 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1413 || [[Lourenço Amaral]], [[Nelson Galhofo]]
+|-
 | style='text-align:center;' | 1412 || [[Amélia de Jesus]], [[Tânia Laranjo]], [[Cristina Ferreira]], [[Cláudio Ramos]], [[Cinha Jardim]]
 |-
 | style='text-align:center;' | 1411 || [[Mizzy Miles]], [[Nenny]]
