@@ -2,6 +2,8 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1415 || [[Liliana Aguiar]], [[Francisco Nunes]]
+|-
 | style='text-align:center;' | 1414 || [[Domingos José]]
 |-
 | style='text-align:center;' | 1413 || [[Lourenço Amaral]], [[Nelson Galhofo]]
