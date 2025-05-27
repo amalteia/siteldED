@@ -2,6 +2,8 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1416 || [[Liliana Filipa]], [[Daniel Gregório]]
+|-
 | style='text-align:center;' | 1415 || [[Liliana Aguiar]], [[Francisco Nunes]]
 |-
 | style='text-align:center;' | 1414 || [[Domingos José]]
