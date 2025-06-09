@@ -2,6 +2,8 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1422 || [[Mia Relógio]], [[Ana Galvão]]
+|-
 | style='text-align:center;' | 1421 || [[Gustavo Santos]], [[Manuel Pinto Coelho]], [[Mário Caetano]]
 |-
 | style='text-align:center;' | 1420 || [[Carolina Patrocínio]], [[Gonçalo Uva]]
