@@ -2,7 +2,9 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
-| style='text-align:center;' | 1423 || [[Maria Rodrigues]], [[Glória Dias]]
+| style='text-align:center;' | 1424 || [[Mariana Ribeiro]], [[Ines Prata]], [[Mariana Azevedo]]
+|-
+| style='text-align:center;' | 1423 || [[Mariana Ribeiro]], [[Maria Rodrigues]], [[Glória Dias]]
 |-
 | style='text-align:center;' | 1422 || [[Mia Relógio]], [[Ana Galvão]]
 |-
