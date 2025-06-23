@@ -2,6 +2,8 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1427 || [[António Conde (Demo)]], [[Tiago Paiva]]
+|-
 | style='text-align:center;' | 1426 || [[Alfredo Côrte-Real]], [[Alexandre Faria]]
 |-
 | style='text-align:center;' | 1425 || [[Romilda Costa]], [[Sónia Quim Costa]]
