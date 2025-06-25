@@ -2,6 +2,8 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1429 || [[Duarte Litério]], [[Miguel Maximiano]]
+|-
 | style='text-align:center;' | 1428 || [[António Conde (Demo)]], [[Tiago Paiva]]
 |-
 | style='text-align:center;' | 1427 || [[António Conde (Demo)]], [[Tiago Paiva]]
