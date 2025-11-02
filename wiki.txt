@@ -2,6 +2,8 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1432 || [[João Barbosa (Numeiro)]], [[Windoh]]
+|-
 | style='text-align:center;' | 1431 || [[Maria Madalena Mateus]], [[Pedro Sturken]]
 |-
 | style='text-align:center;' | 1430 || [[Joaquim Ribeiro]]
