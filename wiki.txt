@@ -4,6 +4,8 @@
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
 | style='text-align:center;' | 1433 || [[Salvador Marquinha]]
 |-
+| style='text-align:center;' | 1433 || [[Salvador Marquinha]]
+|-
 | style='text-align:center;' | 1432 || [[João Barbosa (Numeiro)]], [[Windoh]]
 |-
 | style='text-align:center;' | 1431 || [[Maria Madalena Mateus]], [[Pedro Sturken]]
