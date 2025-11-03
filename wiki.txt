@@ -2,6 +2,10 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1439 || [[Miguel Milhão]], [[Francisco Monteiro]], [[Francisco Soares (Kiko is Hot)]], [[Adriano Silva Martins]], [[Cláudia Jacques]], [[António Leal e Silva]]
+|-
+| style='text-align:center;' | 1438 || [[Rebeca Caldeira]]
+|-
 | style='text-align:center;' | 1437 || [[Rebeca Caldeira]]
 |-
 | style='text-align:center;' | 1436 || [[João Barbosa (Numeiro)]]
