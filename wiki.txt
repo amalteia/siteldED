@@ -2,6 +2,12 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1442 || [[Wilson Teixeira]], [[Bruno Mestre]], [[Bruno de Carvalho]], [[Cristina Ferreira]]
+|-
+| style='text-align:center;' | 1441 || [[Susana Vieira]]
+|-
+| style='text-align:center;' | 1440 || [[Ruivo Oliboil]]
+|-
 | style='text-align:center;' | 1439 || [[Miguel Milhão]], [[Francisco Monteiro]], [[Francisco Soares (Kiko is Hot)]], [[Adriano Silva Martins]], [[Cláudia Jacques]], [[António Leal e Silva]]
 |-
 | style='text-align:center;' | 1438 || [[Rebeca Caldeira]]
