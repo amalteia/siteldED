@@ -2,6 +2,22 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1450 || [[Mariana Cardoso]], [[Andreia Rodrigues]], [[Carolina Patrocínio]], [[Clara de Sousa]], [[Laura Pausini]], [[Cláudia Borges]], [[Isabela Valadeiro]], [[Jorge Corrula]], [[Joana Santos]], [[Conceição Lino]], [[Júlio Isidro]]
+|-
+| style='text-align:center;' | 1449 || [[Tito Garrido]]
+|-
+| style='text-align:center;' | 1448 || [[Maria Henrique]]
+|-
+| style='text-align:center;' | 1447 || [[Paulo Silver]]
+|-
+| style='text-align:center;' | 1446 || [[Catarina Miranda]]
+|-
+| style='text-align:center;' | 1445 || [[Gustavo Santos]]
+|-
+| style='text-align:center;' | 1444 || [[Gustavo Santos]]
+|-
+| style='text-align:center;' | 1443 || [[Maria Maia]]
+|-
 | style='text-align:center;' | 1442 || [[Wilson Teixeira]], [[Bruno Mestre]], [[Bruno de Carvalho]], [[Cristina Ferreira]]
 |-
 | style='text-align:center;' | 1441 || [[Susana Vieira]]
