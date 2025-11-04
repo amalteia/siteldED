@@ -2,6 +2,8 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1451 || [[Herman José]], [[Diana Chaves]], [[Ricardo Pereira]], [[Vanessa Giácomo]], [[Jorge Corrula]], [[João Pedro Vaz]], [[Marco Martins]], [[Joana Alvarenga]], [[Xavier]], [[Diana Ginja]], [[Patrícia Tavares]], [[Custódia Galego]], [[Ricardo Pereira]]
+|-
 | style='text-align:center;' | 1450 || [[Mariana Cardoso]], [[Andreia Rodrigues]], [[Carolina Patrocínio]], [[Clara de Sousa]], [[Laura Pausini]], [[Cláudia Borges]], [[Isabela Valadeiro]], [[Jorge Corrula]], [[Joana Santos]], [[Conceição Lino]], [[Júlio Isidro]]
 |-
 | style='text-align:center;' | 1449 || [[Tito Garrido]]
