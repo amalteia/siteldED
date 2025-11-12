@@ -2,6 +2,16 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1456 || [[Vânia Sá]], [[Rafael Maia]], [[Vanessa Martins]]
+|-
+| style='text-align:center;' | 1455 || [[Andreia Sousa Viegas]]
+|-
+| style='text-align:center;' | 1454 || [[Miguel Milhão]], [[Andreia Sousa Viegas]], [[Raul Minh'alma]]
+|-
+| style='text-align:center;' | 1453 || [[Miguel Milhão]], [[Ana Isabel]], [[Laura Mostradinha]], [[Andreia Sousa Viegas]], [[Raul Minh'alma]]
+|-
+| style='text-align:center;' | 1452 || [[Joana Marques]], [[Leo Caeiro]], [[Helena Isabel]], [[Ana Garcia Martins]], [[Gustavo Santos]], [[Rui Figueiredo]], [[Filipa Castro]], [[Cristina Ferreira]]
+|-
 | style='text-align:center;' | 1451 || [[Herman José]], [[Diana Chaves]], [[Ricardo Pereira]], [[Vanessa Giácomo]], [[Jorge Corrula]], [[João Pedro Vaz]], [[Marco Martins]], [[Joana Alvarenga]], [[Xavier]], [[Diana Ginja]], [[Patrícia Tavares]], [[Custódia Galego]], [[Ricardo Pereira]]
 |-
 | style='text-align:center;' | 1450 || [[Mariana Cardoso]], [[Andreia Rodrigues]], [[Carolina Patrocínio]], [[Clara de Sousa]], [[Laura Pausini]], [[Cláudia Borges]], [[Isabela Valadeiro]], [[Jorge Corrula]], [[Joana Santos]], [[Conceição Lino]], [[Júlio Isidro]]
