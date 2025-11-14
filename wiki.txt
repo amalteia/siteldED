@@ -2,6 +2,12 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1459 || [[Diogo Morgado]], [[Carlos Areia]]
+|-
+| style='text-align:center;' | 1458 || [[Pedro Pinto]]
+|-
+| style='text-align:center;' | 1457 || [[Pedro Proença]], [[Artur Jorge]], [[Pedro Pinto]], [[Catarina Furtado]], [[Vitinha]], [[Gonçalo Ramos]], [[Marcelo Rebelo de Sousa]], [[Cristiano Ronaldo]], [[Jorge Andrade]], [[Pepe (futebolista)]], [[Ricardo Quaresma]]
+|-
 | style='text-align:center;' | 1456 || [[Vânia Sá]], [[Rafael Maia]], [[Vanessa Martins]]
 |-
 | style='text-align:center;' | 1455 || [[Andreia Sousa Viegas]]
