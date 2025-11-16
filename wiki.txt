@@ -64,7 +64,7 @@
 |-
 | style='text-align:center;' | 1453 || [[Miguel Milhão]], [[Ana Isabel]], [[Laura Mostradinha]], [[Andreia Sousa Viegas]], [[Raul Minh'alma]]
 |-
-| style='text-align:center;' | 1452 || [[Joana Marques]], [[Leo Caeiro]], [[Helena Isabel]], [[Ana Garcia Martins]], [[Gustavo Santos]], [[Rui Figueiredo]], [[Filipa Castro]], [[Cristina Ferreira]]
+| style='text-align:center;' | 1452 || [[Joana Marques]], [[Léo Caeiro]], [[Helena Isabel]], [[Ana Garcia Martins]], [[Gustavo Santos]], [[Rui Figueiredo]], [[Filipa Castro]], [[Cristina Ferreira]]
 |-
 | style='text-align:center;' | 1451 || [[Herman José]], [[Diana Chaves]], [[Ricardo Pereira]], [[Vanessa Giácomo]], [[Jorge Corrula]], [[João Pedro Vaz]], [[Marco Martins]], [[Joana Alvarenga]], [[Xavier]], [[Diana Ginja]], [[Patrícia Tavares]], [[Custódia Galego]], [[Ricardo Pereira]]
 |-
@@ -234,7 +234,7 @@
 |-
 | style='text-align:center;' | 1368 || [[Mia Fernandes]], [[Bruna Magalhães]], [[Más Influências (podcast)]]
 |-
-| style='text-align:center;' | 1367 || [[Ana Galvão]], [[Daniel Oliveira (apresentador)]]
+| style='text-align:center;' | 1367 || [[Francisco Pinto Balsemão]], [[Isaltino Morais]], [[Maria João Avillez]], [[Henrique Torres Pereira]], [[José Manuel Mestre]], [[Daniel Oliveira (apresentador)]], [[João Baião]]
 |-
 | style='text-align:center;' | 1366 || [[Raquel Janeiro]], [[Miguel Mimoso]]
 |-
@@ -578,7 +578,7 @@
 |-
 | style='text-align:center;' | 1196 || [[Miguel Vicente]]
 |-
-| style='text-align:center;' | 1195 || [[TVI]], [[Gala TVI 31 anos]], [[Sandra Felgueiras]], [[Nuno Pardal]], [[Lurdes Baeta]], [[Inês Castelo Branco]], [[Pedro Sousa]], [[Fernanda Serrano]], [[Ana Sofia Cardoso]], [[Tony Carreira]], [[Pedro Teixeira (ator)]], [[Mafalda Castro]], [[Eduardo Madureira]], [[Paula Neves]], [[José Eduardo Moniz]], [[Manuel Luís Goucha]], [[Cristina Ferreira]], [[Miguel Vicente]]
+| style='text-align:center;' | 1195 || [[TVI]], [[Gala TVI 31 anos]], [[Sandra Felgueiras]], [[Nuno Pardal]], [[Lurdes Baeta]], [[Inês Castelo Branco]], [[Pedro Sousa]], [[Fernanda Serrano]], [[Ana Sofia Cardoso]], [[Tony Carreira]], [[Pedro Teixeira]], [[Mafalda Castro]], [[Eduardo Madureira]], [[Paula Neves]], [[José Eduardo Moniz]], [[Manuel Luís Goucha]], [[Cristina Ferreira]], [[Miguel Vicente]]
 |-
 | style='text-align:center;' | 1194 || [[TVI]], [[Gala TVI 31 anos]], [[José Carlos Araújo]], [[João Fernando Ramos]], [[Pedro Nevides]], [[Vítor Bandarra]], [[Joaquim Sousa Martins]], [[Sandra Felgueiras]], [[Ana Sofia Cardoso]], [[Andreia Vale]], [[Pedro Carvalhas]], [[Raquel Matos Cruz]], [[José Alberto Carvalho]], [[Paulo Pires]], [[Mafalda Castro]]
 |-
@@ -1192,7 +1192,7 @@
 |-
 | style='text-align:center;' | 889 || [[Judite Sousa]]
 |-
-| style='text-align:center;' | 888 || [[Carolina Torres]], [[Play - Prémios da Música Portuguesa]], [[Bárbara Guimarães]], [[Gustavo Carona]], [[EU.CLIDES]], [[Cláudia Pascoal]], [[Leonor Dias]]
+| style='text-align:center;' | 888 || [[Carolina Torres]], [[Play - Prémios da Música Portuguesa]], [[Bárbara Guimarães]], [[Gustavo Carona]], [[Euclides Gomes (EU.CLIDES)]], [[Cláudia Pascoal]], [[Leonor Dias]]
 |-
 | style='text-align:center;' | 887 || [[Filomena Cautela]], [[Play - Prémios da Música Portuguesa]]
 |-
@@ -1480,7 +1480,7 @@
 |-
 | style='text-align:center;' | 745 || [[Sandra Silvério]], [[Joana Amaral Dias]]
 |-
-| style='text-align:center;' | 744 || [[Agnes Arabela]], [[Catarina Furtado]], [[Pedro Barroso]], [[Rita Pereira]], [[Claudisabel]], [[Patricia Pontes]], [[Cristina Ferreira]], [[Rui Pedro Bras]], [[Fernando Seara]], [[Sandra Celas]]
+| style='text-align:center;' | 744 || [[Agnes Arabela]], [[Catarina Furtado]], [[Pedro Barroso]], [[Rita Pereira]], [[Claudia Isabel]], [[Patricia Pontes]], [[Cristina Ferreira]], [[Rui Pedro Bras]], [[Fernando Seara]], [[Sandra Celas]]
 |-
 | style='text-align:center;' | 743 || [[Luciana Abreu]]
 |-
@@ -1512,9 +1512,9 @@
 |-
 | style='text-align:center;' | 729 || [[Pedro Guerra]], [[Octávio Lopes]], [[Luís Filipe Vieira]]
 |-
-| style='text-align:center;' | 728 || [[Cláudia Sousa]], [[Diogo Nasser]], [[Jorge Santos]], [[Ide Souza]]
+| style='text-align:center;' | 728 || [[Agnes Arabela]], [[Catarina Furtado]], [[Pedro Barroso]], [[Rita Pereira]], [[Cláudia Isabel]]
 |-
-| style='text-align:center;' | 727 || [[O Amor Acontece (reality show)]], [[Jorge Santos]], [[Margarida Cerqueira Gomes]], [[Pedro Teixeira (ator)]], [[Catarina Mendes]], [[Tiago Falcão]]
+| style='text-align:center;' | 727 || [[O Amor Acontece]], [[Maria Cerqueira Gomes]], [[Catarina Mendes]], [[Tiago Falcão]]
 |-
 | style='text-align:center;' | 726 || [[Becas Lírio]], [[Joana Marques]]
 |-
@@ -1684,7 +1684,7 @@
 |-
 | style='text-align:center;' | 643 || [[TVI]], [[Rita Pereira]], [[Cristina Ferreira]], [[Marisa Cruz]], [[Rita Pereira]], [[Pedro Moutinho]], [[Pedro Abrunhosa]], [[Susana Pinto]]
 |-
-| style='text-align:center;' | 642 || [[TVI]], [[Maria Botelho Moniz]], [[Lurdes Baeta]], [[Rita Pereira]], [[Manuel Luís Goucha]], [[Cláudio Ramos]], [[Ana Garcia Martins]], [[Pedro Teixeira (ator)]]
+| style='text-align:center;' | 642 || [[TVI]], [[Maria Botelho Moniz]], [[Lurdes Baeta]], [[Rita Pereira]], [[Manuel Luís Goucha]], [[Cláudio Ramos]], [[Ana Garcia Martins]], [[Pedro Teixeira]]
 |-
 | style='text-align:center;' | 641 || [[João Loureiro]]
 |-
@@ -2240,7 +2240,7 @@
 |-
 | style='text-align:center;' | 365 || [[Jair Bolsonaro]], [[Joana Marques]], [[Taxista Máximo]]
 |-
-| style='text-align:center;' | 364 || [[Cinha Jardim]], [[Alentejo]], [[Marco Paulo]], [[Os Anjos (dupla musical)]], [[Rádio Campanário]], [[Ana Galvão]], [[Feijoada da Caras]]
+| style='text-align:center;' | 364 || [[Cinha Jardim]], [[Alentejo]], [[Marco Paulo]], [[Anjos]], [[Rádio Campanário]], [[Ana Galvão]], [[Feijoada da Caras]]
 |-
 | style='text-align:center;' | 363 || [[Filipa Garnel]], [[Bruno de Carvalho]], [[Madonna]], [[Rita Pereira]], [[David Carreira]], [[Jorge Jesus]], [[Clã Abreu]], [[Luciana Abreu]], [[Dani Gonçalves]], [[Toy]], [[Praia de Leça]]
 |-
@@ -2388,7 +2388,7 @@
 |-
 | style='text-align:center;' | 291 || [[Youtubers Brasileiros em Portugal]], [[BBC Vida Selvagem]], [[O Preço Certo]]
 |-
-| style='text-align:center;' | 290 || [[TVI]], [[SIC]], [[Quem Quer Namorar com o Agricultor]], [[Quem Quer Casar com o Meu Filho]], [[Andrea Rodrigues]], [[Ivo Pires]], [[Fila da Loja do Cidadao das Laranjeiras]], [[João Menezes]], [[Luís Capoulas Santos]]
+| style='text-align:center;' | 290 || [[TVI]], [[SIC]], [[Quem Quer Namorar Com o Agricultor]], [[Quem Quer Casar com o Meu Filho]], [[Andrea Rodrigues]], [[Ivo Pires]], [[Fila da Loja do Cidadao das Laranjeiras]], [[João Menezes]], [[Luís Capoulas Santos]]
 |-
 | style='text-align:center;' | 289 || [[Quem Quer Casar com o Meu Filho]], [[TVI]], [[Leonor Poeiras]], [[Mães]], [[Fábio]]
 |-
@@ -2430,7 +2430,7 @@
 |-
 | style='text-align:center;' | 270 || [[Emojis🥱🛺🦩🦧🧅🧄🦿🧆🪕🩸🤏]], [[Carla Rocha]]
 |-
-| style='text-align:center;' | 269 || [[Casados à Primeira Vista]], [[SIC]], [[O Carro do Amor]], [[Rui Veloso]], [[TVI]], [[Fátima Lopes (apresentadora)]], [[First Dates]], [[Rúben Rua]], [[Ljubomir Stanisic]], [[ASAE]], [[Quem Quer Casar com o Meu Filho]]
+| style='text-align:center;' | 269 || [[Casados à Primeira Vista]], [[SIC]], [[O Carro do Amor]], [[Rui Veloso]], [[TVI]], [[Fátima Lopes (apresentadora)]], [[First Dates]], [[Rúben Rua]], [[Ljubomir Stanisic]], [[ASAE]], [[Quem Quer Casar Com o Meu Filho]]
 |-
 | style='text-align:center;' | 268 || [[Festas na Prisão]], [[Ricardo Salgado]], [[Camilo na Prisão]], [[Pedro Markl]]
 |-
@@ -2492,7 +2492,7 @@
 |-
 | style='text-align:center;' | 239 || [[JN]], [[Bidés]], [[Marcel Duchamp]], [[Sara Sampaio]], [[Xavier]], [[Intervenção e Resgate Animal]], [[Minuto Verde]], [[Caixas de comentários]], [[Apoiantes de Bolsonaro]], [[Joana Marques]], [[Ana Markl]], [[Touradas]]
 |-
-| style='text-align:center;' | 238 || [[Octávio Machado]], [[Backstreet Boys]], [[Joana Marques]], [[BES]], [[Xavier]], [[Nickelback]], [[Os Anjos (dupla musical)]], [[Milénio]], [[Brian Littrell]], [[AJ McLean]], [[Nick Carter]], [[Howie Dorough]], [[Kevin Richardson]], [[Zezé Di Camargo & Luciano]]
+| style='text-align:center;' | 238 || [[Octávio Machado]], [[Backstreet Boys]], [[Joana Marques]], [[BES]], [[Xavier]], [[Nickelback]], [[Anjos]], [[Milénio]], [[Brian Littrell]], [[AJ McLean]], [[Nick Carter]], [[Howie Dorough]], [[Kevin Richardson]], [[Zezé Di Camargo & Luciano]]
 |-
 | style='text-align:center;' | 237 || [[Intervenção e Resgate Animal]], [[TVI]], [[Ana Leal]], [[Cristiano Ronaldo]], [[Cristina Rodrigues]], [[André Silva]], [[Gustavo Santos]], [[Biodanza]], [[Hernâni Carvalho]], [[Manuel Alegre]]
 |-
@@ -2502,7 +2502,7 @@
 |-
 | style='text-align:center;' | 234 || [[Bruno de Carvalho]], [[Tribunal do Barreiro]], [[Manifestantes pró Bruno de Carvalho]], [[Joana Marques]], [[Manuel Luís Goucha]], [[CMTV]], [[Benfica]], [[Sporting Clube de Portugal]], [[Super Dragões]]
 |-
-| style='text-align:center;' | 233 || [[Casados à Primeira Vista]], [[Eliana Voigt]], [[Dave Hacke]], [[Zara]], [[Graça Peralta]], [[José Luís Cardoso]]
+| style='text-align:center;' | 233 || [[Casados à Primeira Vista (1.ª temporada)]], [[Eliana Voigt]], [[Dave Hacke]], [[Zara]], [[Graça Peralta]], [[José Luís Cardoso]]
 |-
 | style='text-align:center;' | 232 || [[José Silvano]], [[Ana Markl]], [[Emília Cerqueira]], [[Álvaro Castello-Branco]], [[Ângela Guerra]], [[Eurídice Pereira]], [[Fanny Rodrigues]], [[Bernardina Brito]], [[Mário Centeno]], [[Rui Rio]], [[Joana Marques]], [[Rui Vitória]], [[Minhotos Marotos]], [[Judite Sousa]]
 |-
@@ -2706,7 +2706,7 @@
 |-
 | style='text-align:center;' | 132 || [[Mind da gap]], [[Museu das Descobertas]], [[Museu do Queijo]], [[Museu da Batafrita]], [[Éder]]
 |-
-| style='text-align:center;' | 131 || [[Duarte Pio de Bragança]]
+| style='text-align:center;' | 131 || [[Dom Duarte Nuno de Bragança]]
 |-
 | style='text-align:center;' | 130 || [[Academia de Alcochete]], [[Maria João Mata]], [[Nuno Loureiro Coelho]], [[Causídico de Alfama]], [[Bruno de Carvalho]]
 |-
