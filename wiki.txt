@@ -2,6 +2,28 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1470 || [[Francisco Pinto Balsemão]], [[Isaltino Morais]], [[Maria João Avillez]], [[Henrique Torres Pereira]], [[José Manuel Mestre]], [[Daniel Oliveira (apresentador)]], [[João Baião]], [[Maya (taróloga)]], [[Rui Figueiredo]], [[Liliana Campos]], [[Inês de Oliveira Martins]], [[José Gomes Ferreira]]
+|-
+| style='text-align:center;' | 1469 || [[Francisco Pinto Balsemão]], [[Rui Zink]], [[Bernardo Ferrão]], [[Rui Moreira]], [[Manuela Ramalho Eanes]], [[César Mourão]], [[Maria João Ruela]], [[Fátima Lopes (apresentadora)]], [[Rodrigo Guedes de Carvalho]], [[Henrique Raposo]], [[Nilton]]
+|-
+| style='text-align:center;' | 1468 || [[Raquel Barros]]
+|-
+| style='text-align:center;' | 1467 || [[Betty Grafenstein]], [[Luciana Lima]], [[Alexandre Guerreiro]], [[Daniel Nascimento]]
+|-
+| style='text-align:center;' | 1466 || [[Paulo Parreira]]
+|-
+| style='text-align:center;' | 1465 || [[Maria Vieira]]
+|-
+| style='text-align:center;' | 1464 || [[Maria Vieira]], [[Filipe Vilarinho]]
+|-
+| style='text-align:center;' | 1463 || [[Bernado Costa]], [[Rita Rodrigues Castro]]
+|-
+| style='text-align:center;' | 1462 || [[Chef Olivier]], [[Rita Pereira]], [[Cláudia Vieira]], [[Liliana Santos]], [[Diogo Morgado]]
+|-
+| style='text-align:center;' | 1461 || [[Chef Olivier]]
+|-
+| style='text-align:center;' | 1460 || [[Ana Arrebentinha]]
+|-
 | style='text-align:center;' | 1459 || [[Diogo Morgado]], [[Carlos Areia]]
 |-
 | style='text-align:center;' | 1458 || [[Pedro Pinto]]
