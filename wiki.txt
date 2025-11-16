@@ -2,6 +2,32 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1483 || [[Daniel Gregório]], [[Liliana Filipa]], [[Paulo Fragoso]], [[Daniel Leitão]], [[Léo Caeiro]], [[Bruno Gregório]]
+|-
+| style='text-align:center;' | 1482 || [[Beatriz Nogueira]], [[Tiago Paiva]]
+|-
+| style='text-align:center;' | 1481 || [[Beatriz Nogueira]], [[Tiago Paiva]]
+|-
+| style='text-align:center;' | 1480 || [[Cristiano Ronaldo]], [[Piers Morgan]]
+|-
+| style='text-align:center;' | 1479 || [[Cristiano Ronaldo]], [[Piers Morgan]]
+|-
+| style='text-align:center;' | 1478 || [[Carlos Nunes (Zorlak)]]
+|-
+| style='text-align:center;' | 1477 || [[Carlos Nunes (Zorlak)]]
+|-
+| style='text-align:center;' | 1476 || [[Belito Campos]], [[João Baião]], [[Diana Chaves]]
+|-
+| style='text-align:center;' | 1475 || [[Toy]]
+|-
+| style='text-align:center;' | 1474 || [[Fred Canto e Castro]], [[Isabel Silva]]
+|-
+| style='text-align:center;' | 1473 || [[A minha Mãe com o teu Pai]], [[Júlia Pinheiro]], [[Simone e Daniela]], [[Mário e Gabriela]], [[Elsa e Enzo]], [[Valter e Daniel.]]
+|-
+| style='text-align:center;' | 1472 || [[Benedita Pereira]], [[José Fidalgo]], [[Maria João Costa]], [[António Capelo]], [[Rita Pereira]], [[João Catarré]]
+|-
+| style='text-align:center;' | 1471 || [[João Catarré]], [[José Wallenstein]], [[Benedita Pereira]], [[Rita Pereira]], [[Custódia Gallego]], [[José Fidalgo]]
+|-
 | style='text-align:center;' | 1470 || [[Francisco Pinto Balsemão]], [[Isaltino Morais]], [[Maria João Avillez]], [[Henrique Torres Pereira]], [[José Manuel Mestre]], [[Daniel Oliveira (apresentador)]], [[João Baião]], [[Maya (taróloga)]], [[Rui Figueiredo]], [[Liliana Campos]], [[Inês de Oliveira Martins]], [[José Gomes Ferreira]]
 |-
 | style='text-align:center;' | 1469 || [[Francisco Pinto Balsemão]], [[Rui Zink]], [[Bernardo Ferrão]], [[Rui Moreira]], [[Manuela Ramalho Eanes]], [[César Mourão]], [[Maria João Ruela]], [[Fátima Lopes (apresentadora)]], [[Rodrigo Guedes de Carvalho]], [[Henrique Raposo]], [[Nilton]]
