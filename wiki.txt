@@ -2,7 +2,7 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
-| style='text-align:center;' | 1485 || [[Cristina Ferreira]], [[Bruno Savate]], [[Joana Marques]], [[Maya (taróloga)]], [[]]
+| style='text-align:center;' | 1485 || [[Cristina Ferreira]], [[Bruno Savate]], [[Joana Marques]], [[Maya (taróloga)]]
 |-
 | style='text-align:center;' | 1484 || [[Daniel Gregório]], [[Liliana Filipa]], [[Cinha Jardim]], [[Teresa Guilherme]], [[Adriano Silva Martins]], [[Pedro Capitão]], [[Joana Marques]]
 |-
