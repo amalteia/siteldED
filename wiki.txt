@@ -2,6 +2,8 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1487 || [[Maria da Conceição Zagalo]]
+|-
 | style='text-align:center;' | 1486 || [[Cristina Ferreira]], [[Bruno Savate]]
 |-
 | style='text-align:center;' | 1485 || [[Cristina Ferreira]], [[Bruno Savate]], [[Joana Marques]], [[Maya (taróloga)]]
