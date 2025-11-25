@@ -2,6 +2,8 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1489 || [[Cristiano Ronaldo]], [[Tânia Laranjo]], [[Vitor Pinto]], [[Rui Santos]], [[Paulo Andrade]], [[Paulo Catarro]], [[Diamantino Miranda]], [[Pedro Sousa]]
+|-
 | style='text-align:center;' | 1488 || [[Cristina Ferreira]], [[Cristiano Ronaldo]], [[Paulo Batista]], [[Rui Figueiredo]], [[Jéssica Antunes]], [[Sílvia Botelho]]
 |-
 | style='text-align:center;' | 1487 || [[Maria da Conceição Zagalo]]
