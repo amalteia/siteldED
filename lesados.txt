@@ -11,7 +11,7 @@ Cláudio Ramos,35
 Inês Lopes Gonçalves,35
 Cristiano Ronaldo,33
 Manuel Luís Goucha,31
-CMTV,27
+CMTV,30
 Xavier,26
 Maria Cerqueira Gomes,24
 Rúben Rua,24
@@ -371,6 +371,7 @@ Nuno Pereira,3
 O Preço Certo,3
 O Triângulo,3
 PAN,3
+Paulo Battista,3
 Pedro Benevides,3
 Pedro Henriques,3
 Pedro Hipólito,3
@@ -670,8 +671,6 @@ Patrícia Carvalho,2
 Patrícia Domingos,2
 Paula Bobone,2
 Paula Lobo Antunes,2
-Paulo Batista,2
-Paulo Battista,2
 Paulo Cardoso,2
 Paulo Gonzo,2
 Paulo Paiva dos Santos,2
@@ -2036,6 +2035,7 @@ Paulinho (Paulo Gama),1
 Paulinho Coelho,1
 Paulo Andrade,1
 Paulo Araújo (Dr. Milagres),1
+Paulo Batista,1
 Paulo Bento,1
 Paulo Borges,1
 Paulo Catarro,1
