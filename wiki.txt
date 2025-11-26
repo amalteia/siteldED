@@ -2,6 +2,8 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1490 || [[Nuno Markl]], [[Maya (taróloga)]], [[Joana Ricardo Silva]], [[Ana Barbosa]], [[Paulo Battista]], [[Gustavo Santos]]
+|-
 | style='text-align:center;' | 1489 || [[Cristiano Ronaldo]], [[Tânia Laranjo]], [[Vitor Pinto]], [[Rui Santos (jornalista)]], [[Paulo Andrade]], [[Paulo Catarro]], [[Diamantino Miranda]], [[Pedro Sousa]]
 |-
 | style='text-align:center;' | 1488 || [[Cristina Ferreira]], [[Cristiano Ronaldo]], [[Paulo Batista]], [[Rui Figueiredo]], [[Jéssica Antunes]], [[Sílvia Botelho]]
