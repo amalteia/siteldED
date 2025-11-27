@@ -5,7 +5,7 @@ Gustavo Santos,42,@o_homem_da_terra
 Ana Markl,40,
 TVI,39,
 Covid-19,38,
-Bruno de Carvalho,37,
+Bruno de Carvalho,37,@bruno_de_carvalho_oficial
 Rita Pereira,36,
 Cláudio Ramos,35,
 Inês Lopes Gonçalves,35,
