@@ -1,42 +1,42 @@
-Joana Marques,125,
-Cristina Ferreira,82,
-Ana Galvão,50,
-Gustavo Santos,42,
+Joana Marques,125,@peter_thecaptain
+Cristina Ferreira,82,@silvia7botelho
+Ana Galvão,50,@miarelogio
+Gustavo Santos,42,@joanaricardosilva
 Ana Markl,40,
 TVI,39,
 Covid-19,38,
-Bruno de Carvalho,37,
-Rita Pereira,36,
-Cláudio Ramos,35,
-Inês Lopes Gonçalves,35,
-Cristiano Ronaldo,33,
+Bruno de Carvalho,37,@misterwilsonteixeira
+Rita Pereira,36,@claudiavieiraoficial
+Cláudio Ramos,35,@andreiamoutinho
+Inês Lopes Gonçalves,35,@martintorresgains
+Cristiano Ronaldo,33,@ruisantosoficia
 Manuel Luís Goucha,31,
-CMTV,30,
-Xavier,26,
+CMTV,30,@joanaricardosilva
+Xavier,26,@danielhleitao
 Maria Cerqueira Gomes,24,
-Rúben Rua,24,
-José Cid,23,
+Rúben Rua,24,@micselva
+José Cid,23,@tiago.m.goncalves
 Luciana Abreu,22,
-Maya (taróloga),22,
-Marcelo Rebelo de Sousa,21,
+Maya (taróloga),22,@joanaricardosilva
+Marcelo Rebelo de Sousa,21,@pxpinto
 Sérgio Tavares,21,
 Lili Caneças,20,
 Joana Amaral Dias,18,
 Jorge Jesus,18,
 Luís Oliveira,18,
 André Ventura,17,
-Tiago Paiva,17,
+Tiago Paiva,17,@beatrizngr
 Alexandra Lencastre,15,
 Big Brother,15,
-José Eduardo Moniz,15,
-Maria Vieira,15,
+José Eduardo Moniz,15,@micselva
+Maria Vieira,15,@filipemvilarinho
 Fátima Campos Ferreira,14,
 José Sócrates,14,
 Sandra Felgueiras,14,
-Carolina Patrocínio,13,
-Catarina Furtado,13,
+Carolina Patrocínio,13,@marianacardosopt
+Catarina Furtado,13,@pxpinto
 José Castelo Branco,13,
-Donald Trump,12,
+Donald Trump,12,@martintorresgains
 Duarte Siopa,12,@duartesiopa
 João Barbosa (Numeiro),12,
 Ljubomir Stanisic,12,
@@ -45,24 +45,24 @@ Sporting Clube de Portugal,12,
 Casados à Primeira Vista,11,
 David Carreira,11,
 Frederico Varandas,11,
-José Lopes,11,
-Judite Sousa,11,
+José Lopes,11,@leandra.filipa
+Judite Sousa,11,@tiago.m.goncalves
 Liliana Aguiar,11,
-Léo Caeiro,11,@leocaeirooficial
+Léo Caeiro,11,@paulofragosooficial
 Marco Paulo,11,
-Rodrigo Guedes de Carvalho,11,
+Rodrigo Guedes de Carvalho,11,@rui.zink
 Windoh,11,
-Wuant,11,
-Ana Garcia Martins,10,
+Wuant,11,@joliveira10_
+Ana Garcia Martins,10,@leocaeirooficial
 António Costa,10,
 Fernanda Serrano,10,
-João Baião,10,
+João Baião,10,@belitocamposoficial
 Kátia Aveiro,10,
-Miguel Milhão,10,
+Miguel Milhão,10,@raulminhalma
 Miguel Sousa Tavares,10,
-SIC,10,
-Cinha Jardim,9,
-Clara de Sousa,9,
+SIC,10,@mariadominguezmiranda
+Cinha Jardim,9,@peter_thecaptain
+Clara de Sousa,9,@marianacardosopt
 Flávio Furtado,9,
 Globos de Ouro,9,
 Júlia Pinheiro,9,
@@ -71,29 +71,29 @@ Paulo Futre,9,
 Rui Sinel de Cordes,9,
 SirKazzio,9,
 Toy,9,
-Vanessa Martins,9,
+Vanessa Martins,9,@theonlyrafaelmaia
 Yolanda Tati,9,
 Ana Rita Clara,8,
-Daniel Leitão,8,@danielhleitao
+Daniel Leitão,8,@paulofragosooficial
 Diogo Faro,8,@diogofaroidiota
-Elma Aveiro,8,
+Elma Aveiro,8,@tiago.m.goncalves
 Filipa Garnel,8,
 Hugo Strada,8,@hugostrada
 Joacine Katar Moreira,8,
 Joana Dias,8,
-João Montez,8,
-Leandro Portugal,8,
+João Montez,8,@_inesgutierrez
+Leandro Portugal,8,@tiago.m.goncalves
 Luís Filipe Vieira,8,
-Nuno Graciano,8,
+Nuno Graciano,8,@danielhleitao
 Rui Rio,8,
 Sónia Costa,8,
-Adriano Silva Martins,7,
+Adriano Silva Martins,7,@peter_thecaptain
 Ana Malhoa,7,
 Ana Sofia Cardoso,7,
 André Silva,7,
 Bárbara Bandeira,7,
 Bárbara Guimarães,7,
-Diana Chaves,7,
+Diana Chaves,7,@belitocamposoficial
 Dolores Aveiro,7,
 Fanny Rodrigues,7,
 Festival da Eurovisão,7,
@@ -101,26 +101,26 @@ Filomena Cautela,7,
 Herman José,7,
 Iva Domingues,7,
 João Catarré,7,
-Liliana Campos,7,
+Liliana Campos,7,@hltpereira
 Maria Botelho Moniz,7,
 Maria Leal,7,
 Nuno Homem de Sá,7,
 Nuno Luz,7,
 Paulo Pires,7,
 Ricardo Pereira,7,
-Ricardo Quaresma,7,
+Ricardo Quaresma,7,@pxpinto
 Rita Ferro Rodrigues,7,
 Ágata,7,
 Ana Marques,6,
 Assunção Cristas,6,
 Carla Rocha,6,
-Carlos Areia,6,
-Chef Olivier,6,
+Carlos Areia,6,@tiago.m.goncalves
+Chef Olivier,6,@claudiavieiraoficial
 Cláudia Nayara,6,
 Diogo Piçarra,6,
 Fernando Medina,6,
 Festival da Canção,6,
-Fátima Lopes (apresentadora),6,
+Fátima Lopes (apresentadora),6,@rui.zink
 Hernâni Carvalho,6,
 Hélder Teixeira,6,
 Idevor Mendonça,6,
@@ -129,30 +129,30 @@ José Rodrigues dos Santos,6,
 Lara Moniz,6,
 Luana Piovani,6,
 Mário Ferreira,6,
-Mónica Jardim,6,
+Mónica Jardim,6,@micselva
 Rui Oliveira,6,
 Rui Veloso,6,
 Rui da Fonseca e Castro,6,
 Salvador Sobral,6,
-Santana Lopes,6,
-Sara Matos,6,
-Teresa Guilherme,6,
+Santana Lopes,6,@danielhleitao
+Sara Matos,6,@mariadominguezmiranda
+Teresa Guilherme,6,@peter_thecaptain
 Touradas,6,
 Ângelo Rodrigues,6,
 Alexandre Santos,5,
-Andreia Rodrigues,5,@andreiarodriguesoficial
+Andreia Rodrigues,5,@marianacardosopt
 António Pedro Cerdeira,5,
 Carolina Deslandes,5,
-Casados no Paraíso,5,
+Casados no Paraíso,5,@nunoqueiroz_zome
 Catarina Miranda,5,
 Conan Osíris,5,
 Correio da Manhã,5,
-César Mourão,5,
+César Mourão,5,@rui.zink
 Fernando Mendes,5,
 Fernando Rocha (Marido de Maria Vieira),5,
-Filipa Castro,5,
+Filipa Castro,5,@leocaeirooficial
 Francisco Nunes,5,
-Francisco Pinto Balsemão,5,
+Francisco Pinto Balsemão,5,@hltpereira
 Georgina Rodríguez,5,
 Inês Herédia,5,
 Jair Bolsonaro,5,
@@ -161,32 +161,32 @@ Jorge Kapinha,5,
 José Carlos Malato,5,
 José Fidalgo,5,
 Julen Lopetegui,5,
-Liliana Filipa,5,
+Liliana Filipa,5,@peter_thecaptain
 Mafalda Castro,5,
 Mafalda Rodiles,5,
 Manuel Pinto Coelho,5,
 Marisa Cruz,5,
-Marta Gautier,5,
+Marta Gautier,5,@tiago.m.goncalves
 Miguel Vicente,5,
 Morangos com Açúcar,5,
 Paula Neves,5,
 Pedro Soá,5,
 Play - Prémios da Música Portuguesa,5,
 Quintino Aires,5,
-Rui Figueiredo,5,@rui_figueiredo
+Rui Figueiredo,5,@silvia7botelho
 Rui Santos,5,
-Sancha Trindade,5,
+Sancha Trindade,5,@tiago.m.goncalves
 Sandra Silva,5,
 Santiago Lagoá,5,
 Sofia Ribeiro (atriz),5,
 Sónia Araújo,5,
 Sónia Jesus,5,
-Tiago Grila,5,
+Tiago Grila,5,@carolina_napoleao
 Tiagovski,5,
 Academia de Alcochete,4,
 Alexandra Solnado,4,
 Alice Santos,4,
-Ana Barbosa,4,@capitan_barb
+Ana Barbosa,4,@joanaricardosilva
 Ana Leal,4,
 Anabela Seabra (Désirat),4,
 Benfica,4,
@@ -197,25 +197,25 @@ Celso Lascasas,4,
 Clara Não,4,
 Cláudia Vieira,4,@claudiavieiraoficial
 Dalila Carmo,4,
-Daniel Gregório,4,
-Daniel Oliveira (apresentador),4,
+Daniel Gregório,4,@peter_thecaptain
+Daniel Oliveira (apresentador),4,@hltpereira
 David Araújo,4,@davidaraujobb
 Domingos José,4,
-Elsa Pimenta,4,
+Elsa Pimenta,4,@nunoqueiroz_zome
 Fernando Daniel,4,
 Francisco Rodrigues dos Santos (Chicão),4,
 Fábio Teles,4,
 Gala TVI 30 anos,4,
 Gala TVI 31 anos,4,
-Gala da TVI,4,
+Gala da TVI,4,@micselva
 Gisela Serrano,4,
 Greta Thunberg,4,
-Helena Isabel,4,
+Helena Isabel,4,@leocaeirooficial
 Inês Simões,4,
 Isabel Alves,4,
 Isabel Silva,4,
-Isaltino Morais,4,
-Iva Lamarão,4,
+Isaltino Morais,4,@hltpereira
+Iva Lamarão,4,@mariadominguezmiranda
 Joana Latino,4,
 Jorge Gabriel,4,
 José Gouveia,4,
@@ -223,13 +223,13 @@ José Mourinho,4,
 José Peseiro,4,
 João Fernando Ramos,4,
 Juíz Hélder Fráguas,4,
-Kelly Bailey (atriz),4,
+Kelly Bailey (atriz),4,@micselva
 Leonor Poeiras,4,
 Lurdes Baeta,4,
 Margarida Oliveira,4,
 Miguel Relvas,4,
 Miguel Silva (Jingle Lee),4,@micselva
-Mónica Sintra,4,
+Mónica Sintra,4,@micselva
 Nuno Eiró,4,
 Nuno Queirós,4,@nunoqueiroz_zome
 Nuno Santos,4,
@@ -237,11 +237,11 @@ Octávio Machado,4,
 Para Si,4,
 Pedro Abrunhosa,4,
 Pedro Barroso,4,
-Pedro Crispim,4,
-Pedro Granger,4,
+Pedro Crispim,4,@tiago.m.goncalves
+Pedro Granger,4,@pedrotmota
 Pedro Pico,4,
 Pedro Pinto,4,@pxpinto
-Pedro Sousa,4,
+Pedro Sousa,4,@ruisantosoficia
 Pedro Teixeira,4,
 Quem Quer Casar com o Meu Filho,4,
 Quimbé,4,
@@ -256,7 +256,7 @@ Suzana Garcia,4,
 Sérgio Conceição,4,
 Sónia Tavares,4,
 Tiago Jaqueta,4,
-Tânia Laranjo,4,
+Tânia Laranjo,4,@ruisantosoficia
 Vera Kolodzig,4,
 Youtubers,4,
 Ágata Rodrigues,4,
@@ -264,40 +264,40 @@ Youtubers,4,
 A Ex-periencia,3,
 A Garota Não,3,
 Abel Xavier,3,
-Adelaide Ferreira,3,
+Adelaide Ferreira,3,@tiago.m.goncalves
 Ana Moura,3,
 Ana Sofia,3,
 Ana Sofia Martins,3,
-Andreia Sousa Viegas,3,@andreiadesousaviegas
+Andreia Sousa Viegas,3,@raulminhalma
 Augusto Inácio,3,
 Backstreet Boys,3,
 Becas Lírio,3,
 Bento Rodrigues,3,
 Brilha sem Filtros,3,
 Bruna Gomes,3,
-Bruna Magalhães,3,@abrunamagalhaes
+Bruna Magalhães,3,@miafernandesr
 Bruno Savate,3,
 Carlos Peres Dias,3,
 Carolina Monteverde,3,
 Casa dos Segredos,3,
 Casamentos de Santo António,3,
-Catarina Gouveia,3,
+Catarina Gouveia,3,@andreiamoutinho
 Cavaco Silva,3,
 Chega,3,
-Cláudia Jacques,3,
+Cláudia Jacques,3,@kikoishot
 Cláudia Pascoal,3,
 Cláudio André,3,
 Cláudio Viana,3,
-Conceição Lino,3,@conceicaolino_oficial
+Conceição Lino,3,@marianacardosopt
 Cátia Palhinha,3,
 Cândido Costa,3,
 D.A.M.A,3,
-Daniel Nascimento,3,@danielnascimento0
+Daniel Nascimento,3,@eulimaprivs
 Daniela Ruah,3,
 David Cristina,3,
 Dina Guedes,3,
 Diogo Infante,3,
-Diogo Morgado,3,
+Diogo Morgado,3,@claudiavieiraoficial
 Eduardo Barroso,3,
 Eduardo Madeira,3,
 Eliana Voigt,3,
@@ -312,7 +312,7 @@ Fernando Pereira,3,
 Fernando Seara,3,
 Festa de Verão da TVI,3,
 Filipe Vilarinho,3,
-Filomena Dias,3,
+Filomena Dias,3,@tiago.m.goncalves
 Francisco Maria Pereira (Kacha),3,
 Francisco Menezes,3,
 Francisco Pedro Balsemão,3,
@@ -331,7 +331,7 @@ Isabel Figueira,3,
 JN,3,
 Joana Teles,3,
 Joana Vasconcelos,3,
-Jorge Corrula,3,
+Jorge Corrula,3,@marianacardosopt
 Jorge Nuno Pinto da Costa,3,
 José Calado,3,
 José Figueiras,3,
@@ -342,10 +342,10 @@ João Beles,3,
 João Cotrim de Figueiredo,3,
 João Félix,3,
 João Manzarra,3,
-João Paulo Sousa,3,
+João Paulo Sousa,3,@mariadominguezmiranda
 João Seabra,3,
 Julia Pinheiro,3,
-Júlia Palha,3,
+Júlia Palha,3,@mariadominguezmiranda
 Laura Figueiredo,3,
 Leonor Santos,3,
 Liliana Almeida de Carvalho,3,
@@ -366,12 +366,12 @@ Mia Fernandes,3,@miafernandesr
 Mickael Carreira,3,
 Miguel Costa,3,
 Mário Augusto,3,
-Nuno Markl,3,
+Nuno Markl,3,@joanaricardosilva
 Nuno Pereira,3,
 O Preço Certo,3,
 O Triângulo,3,
 PAN,3,
-Paulo Battista,3,
+Paulo Battista,3,@joanaricardosilva
 Pedro Benevides,3,
 Pedro Henriques,3,
 Pedro Hipólito,3,
@@ -382,7 +382,7 @@ Raul Minh'alma,3,@raulminhalma
 Ricardo Carriço,3,
 Ricardo Salgado,3,
 Rita Mendes,3,
-Romilda Costa,3,
+Romilda Costa,3,@soniacostaofficial
 Rosa Grilo,3,
 Rui Bandeira,3,
 Rui Santos (jornalista),3,@ruisantosoficia
@@ -425,8 +425,8 @@ Alta Definição,2,
 Amélia de Jesus,2,
 Ana Brito e Cunha,2,
 Ana Guiomar,2,
-Andreia Guedes,2,
-André Costa,2,
+Andreia Guedes,2,@ofilipeperes
+André Costa,2,@helenacoelhooo
 André Filipe,2,
 André Manuel Vaz,2,
 André Trigo,2,
@@ -440,7 +440,7 @@ António Prôa,2,
 António Ribeiro Cristóvão,2,
 Anuska Marques,2,
 Apoiantes de Bolsonaro,2,
-Beatriz Frazão,2,
+Beatriz Frazão,2,@mariadominguezmiranda
 Beatriz Nogueira,2,@beatrizngr
 Benedita Pereira,2,
 Bernardina Brito,2,
@@ -451,7 +451,7 @@ Big Brother Famosos,2,
 Biodanza,2,
 Bruno,2,
 Bruno Fernandes,2,
-Bruno Mestre,2,@brunodiasmestre
+Bruno Mestre,2,@misterwilsonteixeira
 Bruno Nogueira,2,
 Bárbara Branco,2,
 Bárbara Parada,2,
@@ -463,9 +463,9 @@ Camilo Lourenço,2,
 Carla Ferreira,2,
 Carlos Carreira,2,
 Carlos Carvalhal,2,
-Carlos Costa,2,
-Carlos Coutinho Vilhena,2,
-Carlos Cunha,2,
+Carlos Costa,2,@tiago.m.goncalves
+Carlos Coutinho Vilhena,2,@pedrotmota
+Carlos Cunha,2,@micselva
 Carlos Manuel,2,
 Carlos Nunes (Zorlak),2,@zorlak_pt
 Carlos Santos Silva,2,
@@ -474,7 +474,7 @@ Casados á primeira vista,2,
 Casamento Marcado,2,
 Casamento do Toy,2,
 Centro Colombo,2,
-Cláudia Borges,2,@claudiaborgesoficial
+Cláudia Borges,2,@marianacardosopt
 Cláudio Almeida,2,
 Colombo,2,
 Conceição Currito,2,
@@ -485,7 +485,7 @@ Concorrentes do Começar do Zero,2,
 Concorrentes Ídolos 2022,2,
 Conspiracionistas,2,
 Cristiana Graça,2,
-Cristiana Jesus,2,
+Cristiana Jesus,2,@andreiamoutinho
 Cristiano Ronaldo dos Santos,2,
 Cristina Real,2,
 Cristina Rodrigues,2,
@@ -532,7 +532,7 @@ Festival RTP da Canção 2025,2,
 Filipa Torrinha Nunes,2,
 Filipe Peres (Pipas),2,@ofilipeperes
 First Dates,2,
-Francisco Monteiro,2,
+Francisco Monteiro,2,@kikoishot
 Francisco Penin,2,
 Fred Canto e Castro,2,
 Fred Gomes,2,
@@ -556,7 +556,7 @@ Henrique Torres Pereira,2,@hltpereira
 Hugo Mendes,2,
 Hugo Oliveira,2,
 Humberto Bernardo,2,
-Hélder Tavares,2,
+Hélder Tavares,2,@leandra.filipa
 Iara Dias,2,
 Intervenção e Resgate Animal,2,
 Inês Marques Lucas,2,
@@ -574,7 +574,7 @@ Joana Espadinha,2,
 Joana Mascarenhas,2,
 Joana Schreyer,2,
 Joe Berardo,2,
-Jorge Andrade,2,
+Jorge Andrade,2,@pxpinto
 Jorge do Frango da Guia,2,
 Jornal Observador,2,
 Jornal i,2,
@@ -583,26 +583,26 @@ José Alberto Carvalho,2,
 José Carlos Araújo,2,
 José Carlos Castro,2,
 José Eduardo Pinto da Costa,2,
-José Gomes Ferreira,2,
+José Gomes Ferreira,2,@hltpereira
 José Luís Cardoso,2,
 José Luís Fernandes,2,
-José Manuel Mestre,2,
+José Manuel Mestre,2,@hltpereira
 José Maria Ricciardi,2,
 José Nunes,2,
 José Pacheco Pereira,2,
-José Pedro Gomes,2,
-José Raposo,2,
+José Pedro Gomes,2,@henriquepcorreia
+José Raposo,2,@mariadominguezmiranda
 João Araújo,2,
 João Borges,2,
 João Ferreira,2,
-João Moreira,2,
+João Moreira,2,@antoniocerca
 João Patrício,2,
 João Paulo Rodrigues,2,
 João Pedro Pais,2,
 João Rendeiro,2,
-Jéssica Antunes,2,
+Jéssica Antunes,2,@silvia7botelho
 Jéssica Athayde,2,
-Júlio Isidro,2,
+Júlio Isidro,2,@marianacardosopt
 Keyla Brasil,2,
 Lady Diana,2,
 Landu Bi,2,
@@ -615,7 +615,7 @@ Luisão (futebolista),2,
 Luís Forinho,2,
 Luís Montenegro,2,
 Macário Correia,2,
-Madalena Abecasis,2,
+Madalena Abecasis,2,@tiago.m.goncalves
 Mafalda Matos,2,
 Manifestantes pró Bruno de Carvalho,2,
 Manuel Cajuda,2,
@@ -629,12 +629,12 @@ Marco Turco,2,
 Margarida Corceiro,2,
 Margarida Vila-Nova,2,
 Maria Helena,2,
-Maria João Avillez,2,
-Maria das Dores,2,
+Maria João Avillez,2,@hltpereira
+Maria das Dores,2,@davidmottaworld
 Maria do Céu Santo,2,
 Marial Leal,2,
-Mariana Azevedo,2,@marianamazevedo_
-Mariana Ribeiro,2,
+Mariana Azevedo,2,@inesprata
+Mariana Ribeiro,2,@inesprata
 Mario Ferreira,2,
 Marta Bateira,2,
 Marta Cardoso,2,
@@ -650,18 +650,18 @@ Monica Sintra,2,
 Moussa Marega,2,
 Movimento Libertem as Crianças,2,
 Mário Jardel,2,
-Más Influências (podcast),2,
+Más Influências (podcast),2,@miafernandesr
 Mães,2,
 Médicos pela Verdade,2,
 Nemanus,2,
 Neymar Júnior,2,
-Nilton,2,@niltonoproprio
+Nilton,2,@rui.zink
 Noite das Estrelas,2,
 Nuno Galopim,2,
 Nuno Lopes,2,
 Nuno Melo,2,
 Nádia Lopes,2,
-Oceana Basílio,2,
+Oceana Basílio,2,@mariadominguezmiranda
 Olívia Ortiz,2,
 PURP,2,
 Para Sempre (telenovela),2,
@@ -670,7 +670,7 @@ Patricia Pontes,2,
 Patrícia Carvalho,2,
 Patrícia Domingos,2,@_heal.me
 Paula Bobone,2,
-Paula Lobo Antunes,2,
+Paula Lobo Antunes,2,@mariadominguezmiranda
 Paulo Cardoso,2,
 Paulo Gonzo,2,
 Paulo Paiva dos Santos,2,
@@ -688,7 +688,7 @@ Pedro Guerra,2,
 Pedro Morais Leitão,2,
 Pedro Neves de Sousa,2,
 Pedro Nuno Santos,2,
-Pedro Proença,2,
+Pedro Proença,2,@pxpinto
 Pedro Teixeira da Mota,2,@pedrotmota
 Pedro Vieira,2,
 Pessoas anti-vacinas,2,
@@ -713,11 +713,11 @@ Rita Salema,2,
 Rita Sampaio,2,
 Robot Lola,2,
 Romana,2,
-Rosa Bela,2,
+Rosa Bela,2,@tiago.m.goncalves
 Rosa Mota,2,
-Rosinha,2,
+Rosinha,2,@micselva
 Rui André Soares,2,
-Rui Moreira,2,
+Rui Moreira,2,@rui.zink
 Rui Pedro Vaz,2,
 Rui Pinheiro,2,
 Rui Unas,2,
@@ -730,7 +730,7 @@ Rúben Boa Nova,2,
 SIC Notícias,2,
 Salvador Marquinha,2,
 Salvador Martinha,2,
-Sara Afonso,2,
+Sara Afonso,2,@brunodiasmestre
 Sara Aleixo,2,
 Sara Correia,2,
 Sea3po,2,
@@ -741,32 +741,32 @@ Sofia Vasconcelos,2,
 Sofia e José,2,
 Spice Girls,2,
 Sr. Antunes,2,
-Susana Dias Ramos,2,
+Susana Dias Ramos,2,@micselva
 Susana Pinto,2,
 São José Lapa,2,
 Sérgio Ramos,2,
 Sílvia e Paulo,2,
 Tanya (Tânia Margarida Santos Lima),2,
 Tatiana Boa Nova,2,
-Tatuagens,2,
+Tatuagens,2,@danielhleitao
 Teresa Paula Marques,2,
 Teresa Stichaner,2,
 Tiago Gonçalves,2,@tiago.m.goncalves
 Tiago Graça,2,
 Tiago Mellert,2,
 Tiktokers,2,
-Topics Chat,2,
+Topics Chat,2,@catarina4funn
 Trotinetes elétricas,2,
 Tuk Tuk,2,
 Tupac Shakur,2,
 Tânia Ribas de Oliveira,2,
-Vanda Leal Nunes,2,
+Vanda Leal Nunes,2,@tiago.m.goncalves
 Vanda Stewart,2,
 Vanessa Oliveira,2,
 Vicky,2,
 Virgílio Castelo,2,
 Vitor Espadinha,2,
-Vânia Sá,2,
+Vânia Sá,2,@theonlyrafaelmaia
 Web Summit,2,
 Wendel,2,
 Wok to Walk,2,
@@ -814,7 +814,7 @@ Albano Gerônimo,1,
 Albano Jerónimo,1,
 Alberto João Jardim,1,
 Alberto Rodrigues,1,
-Aldo Lima,1,
+Aldo Lima,1,@henriquepcorreia
 Alentejo,1,
 Alerta Estupidez,1,
 Alex Silva,1,
@@ -823,7 +823,7 @@ Alexandra Borges,1,
 Alexandra Carvalho,1,
 Alexandra Vasconcelos,1,
 Alexandre Cavaleri,1,
-Alexandre Guerreiro,1,@atguerreiro
+Alexandre Guerreiro,1,@eulimaprivs
 Alexandre Machado,1,
 Alexandre Monteiro,1,
 Alfredo Côrte-Real,1,
@@ -848,7 +848,7 @@ Amílcar Ortigão,1,
 Amílcar Teixeira,1,
 Ana Arrebentinha,1,
 Ana Bacalhau,1,
-Ana Balsemão,1,
+Ana Balsemão,1,@andreiamoutinho
 Ana Batista,1,
 Ana Bento,1,
 Ana Catarina França,1,
@@ -900,7 +900,7 @@ António Borralho,1,
 António Capelo,1,
 António Cerca Martins,1,@antoniocerca
 António Freitas,1,
-António Leal e Silva,1,@antoniolealesilva
+António Leal e Silva,1,@kikoishot
 António Leitão Amaro,1,
 António Lobo Antunes,1,
 António Mexia,1,
@@ -919,14 +919,14 @@ April Ivy,1,
 Apu Nahasapeemapetilon,1,
 Arco da Porta Nova,1,
 Aretha Franklin,1,
-Ariana Grande,1,
+Ariana Grande,1,@danielhleitao
 Ariel Rubin Fonseca,1,
 Aristides Teixeira,1,
 Aristóteles,1,
 Arlinda Mestre,1,
 ArrábidaShopping,1,
 Artigo 13,1,
-Artur Jorge,1,
+Artur Jorge,1,@pxpinto
 Ary Zara,1,
 Ass. Famílias Numerosas,1,
 Associação 21|26,1,
@@ -965,13 +965,13 @@ Benfiquistas,1,
 Bernado Costa,1,@bernardocastro.pt
 Bernardo Baraona,1,
 Bernardo Blanco,1,
-Bernardo Ferrão,1,@bferrao
+Bernardo Ferrão,1,@rui.zink
 Bernardo Sousa,1,
 Betas,1,
 Beto,1,
 Betos,1,
 Betos do CDS,1,
-Betty Grafenstein,1,
+Betty Grafenstein,1,@eulimaprivs
 Bicas (irmao do Becas),1,
 Bicicletas da Uber,1,
 Bidés,1,
@@ -992,7 +992,7 @@ Boss AC,1,
 Braga,1,
 Branca de Neve,1,
 Brenda Pais,1,
-Brian Jonhson,1,
+Brian Jonhson,1,@martintorresgains
 Brian Littrell,1,
 Britney Spears,1,
 Bruma,1,
@@ -1004,7 +1004,7 @@ Bruno D'Almeida,1,
 Bruno Fialho,1,
 Bruno Gascon,1,
 Bruno Gonçalves,1,
-Bruno Gregório,1,
+Bruno Gregório,1,@paulofragosooficial
 Bruno Lage,1,
 Bruno Lages,1,
 Bruno Mars,1,
@@ -1017,7 +1017,7 @@ Bruno Santos,1,
 Buraca,1,
 Burlões,1,
 Bárbara Magalhães,1,
-Bárbara Marques,1,
+Bárbara Marques,1,@andreiamoutinho
 Bárbara Silva,1,
 Bárbara Sofia Holanda Bandeira,1,
 C&A,1,
@@ -1040,8 +1040,8 @@ Caracóis,1,
 Cardy B,1,
 Carina,1,
 Carina Caldeira,1,
-Carina Lopes,1,
-Carina Pinheiro,1,
+Carina Lopes,1,@daniel_leal_10
+Carina Pinheiro,1,@andreiamoutinho
 Carl Cox,1,
 Carla Guimarães,1,
 Carla Pereira,1,
@@ -1051,7 +1051,7 @@ Carlos Gabriel,1,
 Carlos Godinho,1,
 Carlos Lopes,1,
 Carlos Moedas,1,
-Carlos Pereira,1,
+Carlos Pereira,1,@daniel_leal_10
 Carlos Ramalho,1,
 Carlos Saboga,1,
 Carlos Tê,1,
@@ -1120,7 +1120,7 @@ Clemente (cantor),1,
 Clientes Intermache,1,
 Clientes da Primark,1,
 Cláudia Cunha,1,
-Cláudia Duarte,1,
+Cláudia Duarte,1,@daniel_leal_10
 Cláudia Isabel,1,
 Cláudia Lopes,1,
 Cláudio Alegre,1,
@@ -1170,7 +1170,7 @@ Da Chick,1,
 Daddy Yankee,1,
 Damares Alves,1,
 Dani Gonçalves,1,
-Daniel Abreu,1,
+Daniel Abreu,1,@daniel_leal_10
 Daniel Cardoso,1,
 Daniel Godinho,1,
 Daniel Guerreiro,1,
@@ -1200,7 +1200,7 @@ Deus,1,
 Dia de Darwin,1,
 Dia de Finados,1,
 Dia do Pai,1,
-Diamantino Miranda,1,
+Diamantino Miranda,1,@ruisantosoficia
 Diana Duarte,1,
 Diana Ginja,1,
 Diana Lascasas,1,
@@ -1266,7 +1266,7 @@ Elisa & Marta Carvalho,1,
 Elle Darby,1,
 Elsa Judas,1,
 Elsa e Enzo,1,
-Ely,1,
+Ely,1,@fcantoecastro
 Emanuel,1,
 Emanuel Oliveira,1,
 Emanuel Santos,1,
@@ -1409,11 +1409,11 @@ Gilson Machado Neto,1,
 Gisela João,1,
 Gisela de Jesus,1,
 Glovo,1,
-Glória Dias,1,
+Glória Dias,1,@mariarodriguesx
 Gonzo,1,
 Gonçalo Botelho,1,
 Gonçalo Chaves,1,
-Gonçalo Ramos,1,
+Gonçalo Ramos,1,@pxpinto
 Gonçalo da Câmara Pereira,1,
 Gorete Pimentel,1,
 Goreti Neto,1,
@@ -1441,7 +1441,7 @@ Heloísa Apolónia,1,
 Henrique Braz,1,
 Henrique Correia,1,@henriquepcorreia
 Henrique Feist,1,
-Henrique Raposo,1,
+Henrique Raposo,1,@rui.zink
 Henrique Sá Pessoa,1,
 Herbalife,1,
 Hernani Carvalho,1,
@@ -1484,10 +1484,10 @@ Inês Homem de Melo,1,
 Inês Nogueira,1,
 Inês Pedrosa,1,
 Inês Pereira Pina,1,
-Inês Ribeiro,1,
+Inês Ribeiro,1,@andreiamoutinho
 Inês Sousa Real,1,
 Inês de Medeiros,1,
-Inês de Oliveira Martins,1,
+Inês de Oliveira Martins,1,@hltpereira
 Io Appolloni,1,
 Io Appoloni,1,
 Iogurtes,1,
@@ -1503,7 +1503,7 @@ Isabel Maria dos Santos,1,
 Isabel Valadeira,1,
 Isabel de Herédia,1,
 Isabela Cardinali,1,
-Isabela Valadeiro,1,@isabelavaladeiro
+Isabela Valadeiro,1,@marianacardosopt
 Iury Mellany,1,
 Ivani Flori,1,
 Ivo Lucas,1,
@@ -1530,15 +1530,15 @@ Joana Barros,1,
 Joana Brito Silva,1,
 Joana Coelho,1,
 Joana Ferrer Antunes,1,
-Joana Gama,1,
+Joana Gama,1,@andreiamoutinho
 Joana Gama Freire,1,
 Joana Machado Madeira,1,
 Joana Miranda,1,
-Joana Monteiro,1,
+Joana Monteiro,1,@daniel_leal_10
 Joana Negrão,1,
 Joana Ricardo Silva,1,@joanaricardosilva
 Joana Salgueiro,1,
-Joana Santos,1,
+Joana Santos,1,@marianacardosopt
 Joana Sobral,1,
 Joana Taful,1,
 Joana de Albuquerque,1,
@@ -1654,8 +1654,8 @@ Lara Li,1,
 Larissa Teófilo,1,
 Lartiste,1,
 Late Check out,1,
-Laura Mostradinha,1,@laura_mostardinha
-Laura Pausini,1,
+Laura Mostradinha,1,@ana.isableal
+Laura Pausini,1,@marianacardosopt
 Lava Jato,1,
 Leandra Filipa,1,@leandra.filipa
 Leandro,1,
@@ -1675,7 +1675,7 @@ Like Me,1,
 Lil Paradise,1,
 Lila Tiago,1,
 Liliana Oliveira,1,
-Liliana Santos,1,@lilianasantos
+Liliana Santos,1,@claudiavieiraoficial
 Liliana Sequeira,1,
 Linda Reis,1,
 Livre,1,
@@ -1716,7 +1716,7 @@ Luís Henrique Avellar,1,
 Luís Marques Mendes,1,
 Luís Norton de Matos,1,
 Luís Pinela,1,
-Luís Santos,1,
+Luís Santos,1,@daniel_leal_10
 Luís Vilar,1,
 Luísa Beirão,1,
 Luísa Trindade,1,
@@ -1730,7 +1730,7 @@ MC MM,1,
 Macaco,1,
 Machismo,1,
 Mafalda Diamond,1,
-Mafalda Fernandes,1,
+Mafalda Fernandes,1,@diogofaroidiota
 Mafalda Marafusta,1,
 Mafalda Mingacho,1,
 Mafalda Rodiles (Mafalda Pinto),1,
@@ -1761,7 +1761,7 @@ Manuel Vicente,1,
 Manuela Ferreira Leite,1,
 Manuela Marle,1,
 Manuela Moura Guedes,1,
-Manuela Ramalho Eanes,1,
+Manuela Ramalho Eanes,1,@rui.zink
 Marcel Duchamp,1,
 Marcela Fernandes,1,
 Marcio Miranda,1,
@@ -1787,7 +1787,7 @@ Maria João Bastos,1,
 Maria João Costa,1,
 Maria João Luís,1,
 Maria João Mata,1,
-Maria João Ruela,1,
+Maria João Ruela,1,@rui.zink
 Maria Leonor Ferreira,1,
 Maria Madalena Mateus,1,@mariamadalenamateus
 Maria Maia,1,@mariacostamaia
@@ -1865,7 +1865,7 @@ Miguel Fonseca,1,
 Miguel Frazão,1,
 Miguel Marôco,1,
 Miguel Matos,1,
-Miguel Maximiano,1,@miguel_maximiano
+Miguel Maximiano,1,@duartelitterio
 Miguel Mimoso,1,
 Miguel Monteiro,1,
 Miguel Paraíso,1,
@@ -1902,7 +1902,7 @@ Museu do Queijo,1,
 Myriam,1,
 Márcia Breia,1,
 Mário,1,
-Mário Amaro,1,
+Mário Amaro,1,@diogofaroidiota
 Mário Caetano,1,
 Mário Centeno,1,
 Mário Crespo,1,
@@ -1926,7 +1926,7 @@ Neanderthals,1,
 Nego do Borel,1,
 Nel Monteiro,1,
 Nelly Furtado,1,
-Nelson Galhofo,1,
+Nelson Galhofo,1,@lourencomamaral
 Nelson Lisboa,1,
 Nelson Pereira,1,
 Nenny,1,
@@ -2029,16 +2029,16 @@ Paula Brito e Costa,1,
 Paula Ferreira,1,
 Paula Margarido,1,
 Paula Rego,1,
-Paula Ventura,1,
+Paula Ventura,1,@leandra.filipa
 Pauleta,1,
 Paulinho (Paulo Gama),1,
 Paulinho Coelho,1,
-Paulo Andrade,1,
+Paulo Andrade,1,@ruisantosoficia
 Paulo Araújo (Dr. Milagres),1,
 Paulo Batista,1,
 Paulo Bento,1,
 Paulo Borges,1,
-Paulo Catarro,1,@pcatarro
+Paulo Catarro,1,@ruisantosoficia
 Paulo Ferreira,1,
 Paulo Figueiredo,1,
 Paulo Fonseca,1,
@@ -2066,11 +2066,11 @@ Pedro Cabeleira,1,
 Pedro Caixinha,1,
 Pedro Caneças,1,
 Pedro Capitão,1,@peter_thecaptain
-Pedro Cardoso,1,
+Pedro Cardoso,1,@fernandoapvaz
 Pedro Carvalho (actor),1,
 Pedro Choi,1,
 Pedro Choy,1,
-Pedro Ferreira Castro,1,
+Pedro Ferreira Castro,1,@diogofaroidiota
 Pedro Madeira Rodrigues,1,
 Pedro Markl,1,
 Pedro Miguel Ramos,1,
@@ -2083,11 +2083,11 @@ Pedro Ribeiro,1,
 Pedro Sanchez,1,
 Pedro Santos Guerreiro,1,
 Pedro Simas,1,
-Pedro Sturken,1,@pedrosturken
+Pedro Sturken,1,@mariamadalenamateus
 Pedro Tochas,1,
 Penico do céu,1,
 Penitenciária do estado do Maranhão,1,
-Pepe (futebolista),1,
+Pepe (futebolista),1,@pxpinto
 Pepperoni Passion,1,
 Perfume,1,
 Perigos das redes sociais,1,
@@ -2100,14 +2100,14 @@ Pessoas no Rock in Rio,1,
 Pessoas no Santos Populares,1,
 Pessoas no festival Sudoeste,1,
 Pessoas que furam a quarentena,1,
-Peter Castro,1,
+Peter Castro,1,@diogofaroidiota
 Peter Pan,1,
 Peter Serrado,1,
 Picolé,1,
 Pingo Doce de Telheiras,1,
 Pipinha Jardim,1,
 Plantel do Varzim,1,
-Pode Alguém Ser Quem Não é (podcast),1,
+Pode Alguém Ser Quem Não é (podcast),1,@antoniocerca
 Polo Norte,1,
 Polícias,1,
 Polígrafo,1,
@@ -2141,7 +2141,7 @@ Proteção Civil,1,
 Prémios Sophia,1,
 Publicidade bizarra,1,
 Pudim Abade de Prisco,1,
-Putin,1,
+Putin,1,@martintorresgains
 Pão por Deus,1,
 Quechua,1,
 Queima das fitas,1,
@@ -2226,7 +2226,7 @@ Rita Carmaneiro,1,
 Rita Egídio,1,
 Rita Marrafa de Carvalho,1,
 Rita Matias,1,
-Rita Rodrigues Castro,1,@ritarodriguesecastro
+Rita Rodrigues Castro,1,@bernardocastro.pt
 Rita Santos,1,
 Rita de Miranda,1,
 Robbie Williams,1,
@@ -2296,8 +2296,8 @@ Sara Avelar,1,
 Sara Cunha,1,
 Sara Diniz,1,
 Sara Lopes (Fada dos Bebés),1,
-Sara Prata,1,
-Sara Tarita,1,
+Sara Prata,1,@micselva
+Sara Tarita,1,@andreiamoutinho
 Sara Winter,1,
 Sara de Melo Rocha,1,
 Sara do Ó,1,
@@ -2313,7 +2313,7 @@ Segways,1,
 Selena Gomez,1,
 Senhora da Ribeira,1,
 Separados pela Vida,1,
-Sephora Araújo,1,@sephoraselflove
+Sephora Araújo,1,@davidaraujobb
 Serginho,1,
 Setúbal,1,
 Shazam,1,
@@ -2335,7 +2335,7 @@ Slávia dos Santos,1,
 Sociadade Portuguesa de Autores,1,
 Sociedade Portuguesa de Autores,1,
 Sofia Alves,1,
-Sofia Barbosa,1,
+Sofia Barbosa,1,@pedrotmota
 Sofia Fernandes,1,
 Sofia Grilo,1,
 Sofia Nicholson,1,
@@ -2344,7 +2344,7 @@ Sofia Pinto Coelho,1,
 Sofia Sousa,1,
 Sofia Sá da Bandeira,1,
 Sofia Vala Rocha,1,
-Sofia de Almeida,1,
+Sofia de Almeida,1,@daniel_leal_10
 Sogras,1,
 Sophie Grey,1,
 Soraia Antunes,1,
@@ -2367,7 +2367,7 @@ Syro,1,
 Sérgio Cardoso,1,
 Sérgio Godinho,1,
 Sérgio Rosado,1,
-Sérgio Rossi,1,
+Sérgio Rossi,1,@pedrotmota
 Sérgio Santos,1,
 Sílvia,1,
 Sílvia Botelho,1,@silvia7botelho
@@ -2408,7 +2408,7 @@ Tiago Guimarães,1,
 Tiago Ribeiro,1,
 Tiago Teotónio Pereira,1,
 Tias da Joana Marques,1,
-Ticas Graciosa,1,
+Ticas Graciosa,1,@davidmottaworld
 Ticiana Xavier,1,
 Tim,1,
 Tina Stoklosa,1,
@@ -2419,7 +2419,7 @@ Tito Garrido,1,@tito.iakopa
 Tom Cruise,1,
 Tomás  Luzia,1,
 Tomás Magalhães,1,
-Tomás Meireles,1,
+Tomás Meireles,1,@micselva
 Tomás Silva,1,
 Tomás Taveira,1,
 Toni,1,
@@ -2458,13 +2458,13 @@ Vidas Suspensas,1,
 Viggo Mortensen,1,
 Visco Branco,1,
 Visitantes da Expo 98,1,
-Vitinha,1,
+Vitinha,1,@pxpinto
 Vitor Brun,1,
 Vitor Gonçalves,1,
 Vitor Martins,1,
 Vitor Paneira,1,
 Vitor Pereira,1,
-Vitor Pinto,1,
+Vitor Pinto,1,@ruisantosoficia
 Vitor Soares,1,
 Vitorino Silva (Tino de Rans),1,
 Vitória Futebol Clube,1,
@@ -2478,7 +2478,7 @@ Waitrose,1,
 Walter,1,
 Walter Chicharro,1,
 Wandson Lisboa,1,
-Wendell Carvalho,1,
+Wendell Carvalho,1,@davidaraujobb
 Wesley Safadão,1,
 Willem Dafoe,1,
 William Carvalho,1,
