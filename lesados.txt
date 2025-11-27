@@ -1,7 +1,7 @@
 Joana Marques,125,@joanamarquespic
 Cristina Ferreira,82,
 Ana Galvão,50,
-Gustavo Santos,42,
+Gustavo Santos,42,@o_homem_da_terra
 Ana Markl,40,
 TVI,39,
 Covid-19,38,
