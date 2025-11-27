@@ -366,7 +366,7 @@ Mia Fernandes,3,@miafernandesr
 Mickael Carreira,3,
 Miguel Costa,3,
 Mário Augusto,3,
-Nuno Markl,3,
+Nuno Markl,3,@nunomarkl
 Nuno Pereira,3,
 O Preço Certo,3,
 O Triângulo,3,
