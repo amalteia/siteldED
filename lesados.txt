@@ -9,7 +9,7 @@ Bruno de Carvalho,37,
 Rita Pereira,36,
 Cláudio Ramos,35,
 Inês Lopes Gonçalves,35,
-Cristiano Ronaldo,33,
+Cristiano Ronaldo,33,@cristiano
 Manuel Luís Goucha,31,
 CMTV,30,
 Xavier,26,
