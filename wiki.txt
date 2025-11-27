@@ -2,6 +2,8 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1491 || [[Kátia Aveiro]], [[Cristiano Ronaldo]], [[Cristo]], [[Judas]], [[Gonçalo Quinaz]], [[António Leal e Silva]], [[Isabel Figueira]], [[Cinha Jardim]]
+|-
 | style='text-align:center;' | 1490 || [[Nuno Markl]], [[Maya (taróloga)]], [[Joana Ricardo Silva]], [[Ana Barbosa]], [[Paulo Battista]], [[Gustavo Santos]], [[CMTV]]
 |-
 | style='text-align:center;' | 1489 || [[Cristiano Ronaldo]], [[Tânia Laranjo]], [[Vitor Pinto]], [[Rui Santos (jornalista)]], [[Paulo Andrade]], [[Paulo Catarro]], [[Diamantino Miranda]], [[Pedro Sousa]], [[CMTV]]
@@ -326,7 +328,7 @@
 |-
 | style='text-align:center;' | 1329 || [[Rúben Rua]], [[Maria Cerqueira Gomes]], [[Lili Caneças]], [[Fernanda Serrano]], [[David Carreira]]
 |-
-| style='text-align:center;' | 1328 || [[Rúben Rua]], [[Maria Cerqueira Gomes]], [[Jorge Guerreiro]], [[Paulo Batista]], [[Gonçalo Quinaz]], [[Dalila Carmo]]
+| style='text-align:center;' | 1328 || [[Rúben Rua]], [[Maria Cerqueira Gomes]], [[Jorge Guerreiro]], [[Paulo Baptista]], [[Gonçalo Quinaz]], [[Dalila Carmo]]
 |-
 | style='text-align:center;' | 1327 || [[Jorge Kapinha]], [[Mafalda Teixeira]], [[Ana Rita Clara]]
 |-
@@ -792,7 +794,7 @@
 |-
 | style='text-align:center;' | 1096 || [[Cláudio Viana]]
 |-
-| style='text-align:center;' | 1095 || [[Helena Isabel]], [[Flávio Furtado]], [[Bruno de Carvalho]]
+| style='text-align:center;' | 1095 || [[Nuno Markl]], [[Maya (taróloga)]], [[Joana Ricardo Silva]], [[Ana Barbosa]], [[Paulo Battista]], [[Gustavo Santos]], [[CMTV]]
 |-
 | style='text-align:center;' | 1094 || [[Helena Isabel]], [[Cinha Jardim]], [[Flávio Furtado]], [[Bruno de Carvalho]]
 |-
