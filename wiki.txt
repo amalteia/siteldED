@@ -2,6 +2,8 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1492 || [[Tiago Paiva]]
+|-
 | style='text-align:center;' | 1491 || [[Kátia Aveiro]], [[Cristiano Ronaldo]], [[Cristo]], [[Judas]], [[Gonçalo Quinaz]], [[António Leal e Silva]], [[Isabel Figueira]], [[Cinha Jardim]]
 |-
 | style='text-align:center;' | 1490 || [[Nuno Markl]], [[Maya (taróloga)]], [[Joana Ricardo Silva]], [[Ana Barbosa]], [[Paulo Battista]], [[Gustavo Santos]], [[CMTV]]
@@ -1608,7 +1610,7 @@
 |-
 | style='text-align:center;' | 689 || [[Suzana Garcia]]
 |-
-| style='text-align:center;' | 688 || [[Pedro Pinho]], [[Paulo Futre]], [[Vitor Pinto]], [[Octávio Machado]], [[CMTV]]
+| style='text-align:center;' | 688 || [[Pedro Pinho]], [[Paulo Futre]], [[Vítor Pinto]], [[Octávio Machado]], [[CMTV]]
 |-
 | style='text-align:center;' | 687 || [[Conceição Queiroz]]
 |-
