@@ -6,9 +6,14 @@ import { race } from "https://cdn.jsdelivr.net/npm/racing-bars";
 const options = {
   title: "Top 10 dos Lesados do Extremamente Desagradável",
   dateCounter: "YYYY",
+  startDate: '0001',
+  endDate: '1492',
   showIcons: true,
+  fillDateGapsInterval: 'year',
+  fillDateGapsValue: 'last',
   labelsPosition: "outside",
   topN: 10,
+  tickDuration: 20,
   dataType: "csv",
   makeCumulative: false,
   dataShape: "long"
