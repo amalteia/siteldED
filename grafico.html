@@ -1,0 +1,24 @@
+<html>
+<body>
+<div id="race" style="height: 80vh"></div>
+<script type="module">
+import { race } from "https://cdn.jsdelivr.net/npm/racing-bars";
+const options = {
+  dataTransform: (data) =>
+    data.map((d) => ({
+      ...d,
+      icon: `https://flagsapi.com/${d.code}/flat/64.png`,
+    })),
+  title: "Top 10 dos Lesados do Extremamente Desagradável",
+  dateCounter: "YYYY",
+  showIcons: true,
+  labelsPosition: "outside",
+  topN: 10,
+  dataType: "tsv",
+  dataShape: "wide"
+};
+
+race("wide.csv", "#race", options);
+</script>
+</body>
+</html>
