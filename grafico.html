@@ -6,8 +6,7 @@ import { race } from "https://cdn.jsdelivr.net/npm/racing-bars";
 const options = {
   dataTransform: (data) =>
     data.map((d) => ({
-      ...d,
-      icon: `https://flagsapi.com/${d.code}/flat/64.png`,
+      ...d
     })),
   title: "Top 10 dos Lesados do Extremamente Desagradável",
   dateCounter: "YYYY",
