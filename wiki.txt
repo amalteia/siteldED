@@ -2,6 +2,8 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1493 || [[Tiago Paiva]]
+|-
 | style='text-align:center;' | 1492 || [[Tiago Paiva]]
 |-
 | style='text-align:center;' | 1491 || [[Kátia Aveiro]], [[Cristiano Ronaldo]], [[Cristo]], [[Judas]], [[Gonçalo Quinaz]], [[António Leal e Silva]], [[Isabel Figueira]], [[Cinha Jardim]]
@@ -84,7 +86,7 @@
 |-
 | style='text-align:center;' | 1452 || [[Joana Marques]], [[Léo Caeiro]], [[Helena Isabel]], [[Ana Garcia Martins]], [[Gustavo Santos]], [[Rui Figueiredo]], [[Filipa Castro]], [[Cristina Ferreira]]
 |-
-| style='text-align:center;' | 1451 || [[Herman José]], [[Diana Chaves]], [[Ricardo Pereira]], [[Vanessa Giácomo]], [[Jorge Corrula]], [[João Pedro Vaz]], [[Marco Martins]], [[Joana Alvarenga]], [[Xavier]], [[Diana Ginja]], [[Patrícia Tavares]], [[Custódia Galego]], [[Ricardo Pereira]]
+| style='text-align:center;' | 1451 || [[Herman José]], [[Diana Chaves]], [[Ricardo Pereira (ator)]], [[Vanessa Giácomo]], [[Jorge Corrula]], [[João Pedro Vaz]], [[Marco Martins]], [[Joana Alvarenga]], [[Xavier]], [[Diana Ginja]], [[Patrícia Tavares]], [[Custódia Galego]]
 |-
 | style='text-align:center;' | 1450 || [[Mariana Cardoso]], [[Andreia Rodrigues]], [[Carolina Patrocínio]], [[Clara de Sousa]], [[Laura Pausini]], [[Cláudia Borges]], [[Isabela Valadeiro]], [[Jorge Corrula]], [[Joana Santos]], [[Conceição Lino]], [[Júlio Isidro]]
 |-
@@ -752,7 +754,7 @@
 |-
 | style='text-align:center;' | 1118 || [[Globos de Ouro]], [[Clara de Sousa]], [[Ângelo]], [[Isabel Valadeira]], [[Beatriz Batarda]], [[César Mourão]], [[Albano Gerônimo]], [[A Garota Não]]
 |-
-| style='text-align:center;' | 1117 || [[Globos de Ouro]], [[Sofia Cerveira]], [[Ricardo Pereira]], [[Liliana Campos]], [[Herman José]], [[Maria Dominguez]], [[Andreia Rodrigues]], [[Carolina Patrocínio]], [[Bárbara Guimarães]], [[Bárbara Branco]], [[Diana Chaves]], [[Marco Paulo]], [[Júlia Palha]], [[Inês Aires Pereira]], [[James Arthur]], [[Sofia Ribeiro (atriz)]], [[José Raposo]], [[Sónia Tavares]], [[João Manzarra]]
+| style='text-align:center;' | 1117 || [[Globos de Ouro]], [[Sofia Cerveira]], [[Ricardo Pereira (ator)]], [[Liliana Campos]], [[Herman José]], [[Maria Dominguez]], [[Andreia Rodrigues]], [[Carolina Patrocínio]], [[Bárbara Guimarães]], [[Bárbara Branco]], [[Diana Chaves]], [[Marco Paulo]], [[Júlia Palha]], [[Inês Aires Pereira]], [[James Arthur]], [[Sofia Ribeiro (atriz)]], [[José Raposo]], [[Sónia Tavares]], [[João Manzarra]]
 |-
 | style='text-align:center;' | 1116 || [[Gonçalo Maya]]
 |-
@@ -1448,7 +1450,7 @@
 |-
 | style='text-align:center;' | 770 || [[Globos de Ouro 2021]], [[Francisco Pedro Balsemão]], [[Filomena Cautela]], [[Iva Lamarão]]
 |-
-| style='text-align:center;' | 769 || [[Globos de Ouro 2021]], [[Clara de Sousa]], [[Teresa Villaverde]], [[Barbara Pollastri]], [[José Fidalgo]], [[Cristina Ferreira]], [[João Baião]], [[Nuno Nogueira]], [[Fernando Mendes]], [[Ricardo Pereira]]
+| style='text-align:center;' | 769 || [[Globos de Ouro 2021]], [[Clara de Sousa]], [[Teresa Villaverde]], [[Barbara Pollastri]], [[José Fidalgo]], [[Cristina Ferreira]], [[João Baião]], [[Nuno Nogueira]], [[Fernando Mendes]], [[Ricardo Pereira (ator)]]
 |-
 | style='text-align:center;' | 768 || [[Carlos do Paulo]]
 |-
@@ -1610,7 +1612,7 @@
 |-
 | style='text-align:center;' | 689 || [[Suzana Garcia]]
 |-
-| style='text-align:center;' | 688 || [[Pedro Pinho]], [[Paulo Futre]], [[Vítor Pinto]], [[Octávio Machado]], [[CMTV]]
+| style='text-align:center;' | 688 || [[Pedro Pinho]], [[Paulo Futre]], [[Vitor Pinto]], [[Octávio Machado]], [[CMTV]]
 |-
 | style='text-align:center;' | 687 || [[Conceição Queiroz]]
 |-
@@ -2730,7 +2732,7 @@
 |-
 | style='text-align:center;' | 129 || [[Bárbara Sofia Holanda Bandeira]], [[Rui Bandeira]]
 |-
-| style='text-align:center;' | 128 || [[Globos de Ouro]], [[Sofia Cerveira]], [[Ricardo Pereira]], [[Raquel Strada]], [[João Baião]], [[Cristiano Ronaldo]], [[Bárbara Guimarães]], [[Bárbara Bandeira]]
+| style='text-align:center;' | 128 || [[Globos de Ouro]], [[Sofia Cerveira]], [[Ricardo Pereira (ator)]], [[Raquel Strada]], [[João Baião]], [[Cristiano Ronaldo]], [[Bárbara Guimarães]], [[Bárbara Bandeira]]
 |-
 | style='text-align:center;' | 127 || [[Octávio Machado]], [[Manuel Ribeiro]], [[Eduardo Barroso]]
 |-
