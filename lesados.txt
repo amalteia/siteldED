@@ -1099,6 +1099,7 @@ Celeste Rodrigues,1,
 Cerveja sem álcool,1,
 ChatGPT,1,
 Check in,1,
+Checka,1,@maisdochecka
 Chef Chakall,1,
 Chef Henrique Sá Pessoa,1,
 Chef José Avillez,1,
