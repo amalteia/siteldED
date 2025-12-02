@@ -741,7 +741,7 @@ Sara Correia,2,
 Sea3po,2,
 Shawn Mendes,2,
 Sofia Arruda,2,
-Sofia Dinis,2,
+Sofia Dinis,2,@sofiadinis.sheisart
 Sofia Vasconcelos,2,
 Sofia e José,2,
 Spice Girls,2,
