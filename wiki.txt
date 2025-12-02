@@ -2622,7 +2622,7 @@
 |-
 | style='text-align:center;' | 184 || [[Joana Marques]], [[Loja Azul]], [[Ana Markl]], [[Loja Verde]], [[Sérgio Conceição]]
 |-
-| style='text-align:center;' | 183 || [[Grelhar à Benfica]], [[Cambridge Analytica]], [[Daniel Leitão]], [[Vitor Paneira]], [[Paulo Frute]], [[Augusto Inácio]], [[Pauleta]], [[Ricardo Trêpa]], [[Henrique Sá Pessoa]], [[José Avillez]], [[Joana Marques]]
+| style='text-align:center;' | 183 || [[Grelhar à Benfica]], [[Cambridge Analytica]], [[Daniel Leitão]], [[Vitor Paneira]], [[Paulo Futre]], [[Augusto Inácio]], [[Pauleta]], [[Ricardo Trêpa]], [[Henrique Sá Pessoa]], [[José Avillez]], [[Joana Marques]]
 |-
 | style='text-align:center;' | 182 || [[Prof. Adama]], [[Joana Marques]], [[Bruno de Carvalho]]
 |-
