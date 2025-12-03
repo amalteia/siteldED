@@ -18,7 +18,7 @@ Rúben Rua,24,@ruben_rua
 José Cid,23,@jose_cid_musico
 Maya (taróloga),23,
 Luciana Abreu,22,@lucianaabreuoficial
-Sérgio Tavares,22,
+Sérgio Tavares,22,@canal_sergiotavares
 Marcelo Rebelo de Sousa,21,
 Lili Caneças,20,
 Tiago Paiva,19,@tiagopaiva__
