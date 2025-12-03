@@ -1,7 +1,7 @@
 Joana Marques,125,@joanamarquespic
 Cristina Ferreira,82,@dailycristina
 Ana Galvão,50,@anagalvaolopez
-Gustavo Santos,43,@o_homem_da_terra
+Gustavo Santos,44,@o_homem_da_terra
 Ana Markl,40,
 TVI,39,
 Covid-19,38,
@@ -18,14 +18,14 @@ Rúben Rua,24,@ruben_rua
 José Cid,23,@jose_cid_musico
 Maya (taróloga),23,
 Luciana Abreu,22,@lucianaabreuoficial
+Sérgio Tavares,22,
 Marcelo Rebelo de Sousa,21,
-Sérgio Tavares,21,
 Lili Caneças,20,
 Tiago Paiva,19,@tiagopaiva__
+André Ventura,18,
 Joana Amaral Dias,18,
 Jorge Jesus,18,
 Luís Oliveira,18,
-André Ventura,17,
 Alexandra Lencastre,15,
 Big Brother,15,
 José Eduardo Moniz,15,
