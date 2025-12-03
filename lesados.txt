@@ -2,7 +2,7 @@ Joana Marques,125,@joanamarquespic
 Cristina Ferreira,82,@dailycristina
 Ana Galvão,50,@anagalvaolopez
 Gustavo Santos,44,@o_homem_da_terra
-Ana Markl,40,
+Ana Markl,40,@ana_markl
 TVI,39,
 Covid-19,38,
 Bruno de Carvalho,36,
