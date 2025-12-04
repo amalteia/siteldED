@@ -1,7 +1,7 @@
 Joana Marques,125,@joanamarquespic
 Cristina Ferreira,82,@dailycristina
 Ana Galvão,50,@anagalvaolopez
-Gustavo Santos,44,@o_homem_da_terra
+Gustavo Santos,45,@o_homem_da_terra
 Ana Markl,40,@ana_markl
 TVI,39,
 Covid-19,38,
@@ -17,8 +17,8 @@ Maria Cerqueira Gomes,24,@maria_cerqueira_gomes
 Rúben Rua,24,@ruben_rua
 José Cid,23,@jose_cid_musico
 Maya (taróloga),23,
+Sérgio Tavares,23,@canal_sergiotavares
 Luciana Abreu,22,@lucianaabreuoficial
-Sérgio Tavares,22,@canal_sergiotavares
 Marcelo Rebelo de Sousa,21,
 Lili Caneças,20,
 Tiago Paiva,19,@tiagopaiva__
