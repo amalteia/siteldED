@@ -2,6 +2,12 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1499 || [[Carlos Nunes (Zorlak)]]
+|-
+| style='text-align:center;' | 1498 || [[Paulino Coelho]], [[Sandra Torres]]
+|-
+| style='text-align:center;' | 1497 || [[Alexandra Paiva Oliveira]], [[Ana Camboa]], [[Luís Bacelar]], [[Cláudio Ramos (futebolista)]], [[Bernardo Lima]], [[Daniel Fontoura]], [[André Villas-Boas]], [[Rodrigo Mora]]
+|-
 | style='text-align:center;' | 1496 || [[Eduardo Barroso]]
 |-
 | style='text-align:center;' | 1495 || [[Gustavo Santos]], [[Sérgio Tavares]]
