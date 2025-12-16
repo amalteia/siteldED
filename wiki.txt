@@ -3015,8 +3015,4 @@
 | style='text-align:center;' | 2 || [[António Leitão Amaro]], [[Mariana Mortágua]], [[Inês Lopes Gonçalves]], [[Tânia Laranjo]], [[João Araújo]], [[Jorge Nuno Pinto da Costa]]
 |-
 | style='text-align:center;' | 1 || [[Web Summit]], [[Judite Sousa]], [[Marcelo Rebelo de Sousa]], [[Salão Erótico]], [[Carla Ferreira]], [[Restaurante Canela]], [[Ljubomir Stanisic]], [[Manuel Canela]]
-|-
-| style='text-align:center;' |  || [[]]
-|-
-| style='text-align:center;' |  || [[]]
 |}
