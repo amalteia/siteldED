@@ -135,7 +135,7 @@ Rui Veloso,6,
 Rui da Fonseca e Castro,6,
 Salvador Sobral,6,
 Santana Lopes,6,
-Santiago Lagoá,6,
+Santiago Lagoá,6,@santiago.lagoa
 Sara Matos,6,
 Teresa Guilherme,6,
 Tiago Saramago (Tiagovski),6,@tiagovski555
@@ -369,7 +369,7 @@ Mia Fernandes,3,@miafernandesr
 Mickael Carreira,3,
 Miguel Costa,3,
 Mário Augusto,3,
-Nemanus,3,
+Nemanus,3,@nemanusoficial
 Nuno Pereira,3,
 O Preço Certo,3,
 O Triângulo,3,
