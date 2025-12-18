@@ -10,12 +10,12 @@ Rita Pereira,36,@hyndia
 Cláudio Ramos,35,@claudio_ramos
 Inês Lopes Gonçalves,35,@ineslopesgoncalves
 Cristiano Ronaldo,34,@cristiano
-CMTV,31,
+CMTV,32,
 Manuel Luís Goucha,31,@mlgoucha
 Xavier,26,
 Maria Cerqueira Gomes,24,@maria_cerqueira_gomes
+Maya (taróloga),24,@tia__maya
 Rúben Rua,24,@ruben_rua
-Maya (taróloga),23,
 Sérgio Tavares,23,@canal_sergiotavares
 José Cid,22,@jose_cid_musico
 Luciana Abreu,22,@lucianaabreuoficial
@@ -110,6 +110,7 @@ Paulo Pires,7,
 Ricardo Quaresma,7,
 Rita Ferro Rodrigues,7,
 Ágata,7,
+Ângelo Rodrigues,7,@angelorodrigues_oficial
 Ana Marques,6,
 Assunção Cristas,6,
 Carla Rocha,6,
@@ -140,7 +141,6 @@ Sara Matos,6,
 Teresa Guilherme,6,
 Tiago Saramago (Tiagovski),6,@tiagovski555
 Touradas,6,
-Ângelo Rodrigues,6,
 Alexandre Santos,5,
 Ana Barbosa,5,@capitan_barb
 Andreia Rodrigues,5,@andreiarodriguesoficial
@@ -282,7 +282,6 @@ Bruna Gomes,3,
 Bruna Magalhães,3,@abrunamagalhaes
 Bruno Savate,3,
 Bárbara Norton de Matos,3,
-Carlos Nunes (Zorlak),3,@zorlakofficial
 Carlos Peres Dias,3,
 Carolina Monteverde,3,
 Casa dos Segredos,3,
@@ -471,6 +470,7 @@ Carlos Costa,2,
 Carlos Coutinho Vilhena,2,
 Carlos Cunha,2,
 Carlos Manuel,2,
+Carlos Nunes (Zorlak),2,@zorlakofficial
 Carlos Santos Silva,2,
 Carminho,2,
 Casados á primeira vista,2,
@@ -560,6 +560,7 @@ Henrique Torres Pereira,2,@hltpereira
 Hugo Mendes,2,
 Hugo Oliveira,2,
 Humberto Bernardo,2,
+Humberto Simões,2,
 Hélder Tavares,2,
 Iara Dias,2,
 Intervenção e Resgate Animal,2,
@@ -1469,7 +1470,6 @@ Hugo Aveiro,1,
 Hugo Sousa,1,
 Hugo Van der Ding,1,
 Humberto Coelho,1,
-Humberto Simões,1,
 Hélder Milheiro,1,
 IAN,1,
 IKEA de Alfragide,1,

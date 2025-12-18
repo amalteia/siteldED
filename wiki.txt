@@ -2,13 +2,13 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1510 || [[Ângelo Rodrigues]], [[CMTV]], [[Maya (taróloga)]], [[Humberto Simões]]
+|-
 | style='text-align:center;' | 1509 || [[Nemanus]], [[Santiago Lagoá]]
 |-
 | style='text-align:center;' | 1508 || [[Rui Sinel de Cordes]]
 |-
 | style='text-align:center;' | 1507 || [[Carolina Patrocínio]], [[Gonçalo Mello]]
-|-
-| style='text-align:center;' | 1506 || [[Carlos Nunes (Zorlak)]]
 |-
 | style='text-align:center;' | 1505 || [[Paulino Coelho]], [[Sandra Torres]]
 |-
