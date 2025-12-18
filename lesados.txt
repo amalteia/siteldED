@@ -282,6 +282,7 @@ Bruna Gomes,3,
 Bruna Magalhães,3,@abrunamagalhaes
 Bruno Savate,3,
 Bárbara Norton de Matos,3,
+Carlos Nunes (Zorlak),3,@zorlakofficial
 Carlos Peres Dias,3,
 Carolina Monteverde,3,
 Casa dos Segredos,3,
@@ -470,7 +471,6 @@ Carlos Costa,2,
 Carlos Coutinho Vilhena,2,
 Carlos Cunha,2,
 Carlos Manuel,2,
-Carlos Nunes (Zorlak),2,@zorlakofficial
 Carlos Santos Silva,2,
 Carminho,2,
 Casados á primeira vista,2,
