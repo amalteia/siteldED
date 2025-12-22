@@ -2,6 +2,8 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1512 || [[Romilda Costa]]
+|-
 | style='text-align:center;' | 1511 || [[A Tatuadora da alma]], [[Sofia Dinis]]
 |-
 | style='text-align:center;' | 1510 || [[Ângelo Rodrigues]], [[CMTV]], [[Maya (taróloga)]], [[Humberto Simões]]
