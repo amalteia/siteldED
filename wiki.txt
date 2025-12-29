@@ -2,6 +2,10 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1516 || [[Diogo Morgado]]
+|-
+| style='text-align:center;' | 1515 || [[Mia Fernandes]], [[Bruna Magalhães]], [[Tânia Líbano]], [[Fernando Alvim]]
+|-
 | style='text-align:center;' | 1514 || [[Ana Galvão]]
 |-
 | style='text-align:center;' | 1513 || [[Cristina Ferreira]]
