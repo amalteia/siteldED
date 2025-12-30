@@ -2,6 +2,8 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1517 || [[Miguel Milhão]], [[Francisco Monteiro]]
+|-
 | style='text-align:center;' | 1516 || [[Diogo Morgado]]
 |-
 | style='text-align:center;' | 1515 || [[Mia Fernandes]], [[Bruna Magalhães]], [[Tânia Líbano]], [[Fernando Alvim]]
@@ -2342,7 +2344,7 @@
 |-
 | style='text-align:center;' | 347 || [[José Castelo Branco]], [[Joana Marques]], [[Zezé Camarinha]], [[André Ventura]], [[Donald Trump]]
 |-
-| style='text-align:center;' | 346 || [[Lisboa]], [[Turistas]], [[Tuk Tuk]], [[Trotinetes elétricas]], [[Bicicletas da Uber]], [[Motas da Cooltra]], [[Motas da Glovo]], [[Segways]], [[Monociclos de artistas de circo]], [[HIPPOtrip]], [[Xavier]], [[Pastéis de Belém]], [[Ana Galvão:Carla Rocha]]
+| style='text-align:center;' | 346 || [[Lisboa]], [[Turistas]], [[Tuk Tuk]], [[Trotinetes elétricas]], [[Bicicletas da Uber]], [[Motas da Cooltra]], [[Motas da Glovo]], [[Segways]], [[Monociclos de artistas de circo]], [[HIPPOtrip]], [[Xavier]], [[Pastéis de Belém]], [[Ana Galvão]], [[Carla Rocha]]
 |-
 | style='text-align:center;' | 345 || [[Porto]], [[Carlos Tê]], [[Rui Veloso]], [[Sónia Araújo]], [[Maria Cerqueira Gomes]], [[Marta Leite de Castro]], [[Joana Teles]], [[Rute Marques]], [[Rute Rita]], [[Jorge Gabriel]], [[Rui Massena]], [[Pedro Tochas]], [[Vanda Stewart]], [[Maria José Valério]], [[José Eduardo Pinto da Costa]], [[Manuel Sobrinho Simões]], [[Rui Rio]], [[Rui Moreira]], [[Ricardo Trêpa]], [[Rosa Mota]]
 |-

@@ -1,6 +1,6 @@
 Joana Marques,125,@joanamarquespic
 Cristina Ferreira,85,@dailycristina
-Ana Galvão,52,@anagalvaolopez
+Ana Galvão,53,@anagalvaolopez
 Gustavo Santos,45,@o_homem_da_terra
 Ana Markl,40,@ana_markl
 TVI,39,
@@ -51,6 +51,7 @@ Kátia Aveiro,11,@katiaaveirooficial
 Liliana Aguiar,11,
 Léo Caeiro,11,@leocaeirooficial
 Marco Paulo,11,
+Miguel Milhão,11,
 Rodrigo Guedes de Carvalho,11,
 Windoh,11,
 Wuant,11,
@@ -58,7 +59,6 @@ Ana Garcia Martins,10,
 António Costa,10,
 Cinha Jardim,10,@cinha_jardim
 Fernanda Serrano,10,
-Miguel Milhão,10,
 Miguel Sousa Tavares,10,
 Paulo Futre,10,
 Rui Sinel de Cordes,10,@ruisineldecordes
@@ -93,6 +93,7 @@ Ana Sofia Cardoso,7,
 André Silva,7,
 Bárbara Bandeira,7,
 Bárbara Guimarães,7,
+Carla Rocha,7,
 Diana Chaves,7,
 Dolores Aveiro,7,
 Fanny Rodrigues,7,
@@ -113,7 +114,6 @@ Rita Ferro Rodrigues,7,
 Ângelo Rodrigues,7,@angelorodrigues_oficial
 Ana Marques,6,
 Assunção Cristas,6,
-Carla Rocha,6,
 Carlos Areia,6,
 Chef Olivier,6,
 Cláudia Nayara,6,
@@ -321,6 +321,7 @@ Filipe Vilarinho,3,
 Filomena Dias,3,
 Francisco Maria Pereira (Kacha),3,
 Francisco Menezes,3,
+Francisco Monteiro,3,
 Francisco Pedro Balsemão,3,
 Frederico Canto e Castro (Fred),3,@fcantoecastro
 Fábio Coentrão,3,
@@ -536,7 +537,6 @@ Festival RTP da Canção 2025,2,
 Filipa Torrinha Nunes,2,
 Filipe Peres (Pipas),2,@ofilipeperes
 First Dates,2,
-Francisco Monteiro,2,
 Francisco Penin,2,
 Fred Canto e Castro,2,
 Fred Gomes,2,
@@ -862,7 +862,6 @@ Ana Bento,1,
 Ana Camboa,1,@anacamboa
 Ana Catarina França,1,
 Ana Claudia,1,
-Ana Galvão:Carla Rocha,1,
 Ana Isabel,1,@ana.isableal
 Ana Isableal,1,
 Ana Jaqueta,1,
