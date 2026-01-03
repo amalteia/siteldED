@@ -2,6 +2,8 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1518 || [[TVI]], [[Gala da TVI 32 anos]], [[Rafaela Granado]], [[Ruy de Carvalho]], [[Mónica Jardim]], [[Henrique Gouveia e Melo]], [[Luís Marques Mendes]], [[Manuel Luís Goucha]], [[Idevor Mendonça]], [[Mário Ferreira]], [[Paula Paz Dias]], [[Pedro Morais Leitão]], [[Bárbara Parada]], [[Cristina Ferreira]]
+|-
 | style='text-align:center;' | 1517 || [[Miguel Milhão]], [[Francisco Monteiro]]
 |-
 | style='text-align:center;' | 1516 || [[Diogo Morgado]]
