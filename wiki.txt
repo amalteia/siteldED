@@ -2,6 +2,10 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1521 || [[Luciana Abreu]], [[Maya (taróloga)]], [[CMTV]], [[José Carlos Castro]], [[Duarte Siopa]], [[Rui Oliveira Nunes]]
+|-
+| style='text-align:center;' | 1520 || [[Luciana Abreu]], [[Maya (taróloga)]], [[CMTV]]
+|-
 | style='text-align:center;' | 1519 || [[Sandra Felgueiras]]
 |-
 | style='text-align:center;' | 1518 || [[TVI]], [[Gala da TVI 32 anos]], [[Rafaela Granado]], [[Ruy de Carvalho]], [[Mónica Jardim]], [[Henrique Gouveia e Melo]], [[Luís Marques Mendes]], [[Manuel Luís Goucha]], [[Idevor Mendonça]], [[Mário Ferreira]], [[Paula Paz Dias Ferreira]], [[Pedro Morais Leitão]], [[Bárbara Parada]], [[Cristina Ferreira]]
@@ -274,7 +278,7 @@
 |-
 | style='text-align:center;' | 1384 || [[TVI]], [[Gala da TVI 32 anos]], [[José Eduardo Moniz]], [[Lili Caneças]], [[Alexandra Lencastre]], [[Manuel Luís Goucha]], [[Dalila Carmo]], [[João Fernandes Santos]], [[Ana Galvão]], [[Mário Ferreira]], [[Cláudio Ramos]], [[Cristina Ferreira]], [[Fernanda Serrano]], [[Paulo Pires]], [[Marco Delgado]], [[Nuno Homem de Sá]]
 |-
-| style='text-align:center;' | 1383 || [[TVI]], [[Gala da TVI 32 anos]], [[Manuel Luís Goucha]], [[Mafalda Castro]], [[Rita Pereira]], [[João Moreira]], [[José Lopes]], [[Cristina Ferreira]], [[Pedro Morais Leitão]], [[Mário Ferreira]], [[Idevor Mendonça]], [[Henrique Gouveia e Melo]], [[Luís Marques Mendes]], [[Ruy de Carvalho]], [[Rafaela Granado]], [[Bárbara Parada]]
+| style='text-align:center;' | 1383 || [[TVI]], [[Gala da TVI 32 anos]], [[Manuel Luís Goucha]], [[Mafalda Castro]], [[Rita Pereira]], [[João Moreira]], [[José Lopes]], [[Cristina Ferreira]], [[Pedro Morais Leitão]], [[Mário Ferreira]], [[Paula Paz Dias Ferreira]], [[Idevor Mendonça]], [[Henrique Gouveia e Melo]], [[Luís Marques Mendes]], [[Ruy de Carvalho]], [[Rafaela Granado]], [[Bárbara Parada]]
 |-
 | style='text-align:center;' | 1382 || [[Tiago Guimarães]]
 |-
@@ -314,7 +318,7 @@
 |-
 | style='text-align:center;' | 1364 || [[Gustavo Santos]], [[David Araújo]]
 |-
-| style='text-align:center;' | 1363 || [[Ângelo Rodrigues]], [[Ricardo Azedo]], [[Rui Oliveira]], [[Duarte Siopa]], [[Teresa Guilherme]], [[José Carlos Castro]], [[Maya (taróloga)]]
+| style='text-align:center;' | 1363 || [[Ângelo Rodrigues]], [[Ricardo Azedo]], [[Rui Oliveira Nunes]], [[Duarte Siopa]], [[Teresa Guilherme]], [[José Carlos Castro]], [[Maya (taróloga)]]
 |-
 | style='text-align:center;' | 1362 || [[Ângelo Rodrigues]], [[Maya (taróloga)]], [[Humberto Simões]], [[Patricia Marques Rodrigues]], [[Daniel Nascimento]], [[Ricardo Azedo]], [[José Gouveia]], [[Rui Figueiredo]], [[Duarte Siopa]], [[Rui Oliveira]]
 |-
@@ -496,7 +500,7 @@
 |-
 | style='text-align:center;' | 1273 || [[Kátia Aveiro]]
 |-
-| style='text-align:center;' | 1272 || [[Maya (taróloga)]], [[Rui Oliveira]], [[Isaac Alfaiate]], [[Isabel Figueira]], [[Jéssica Antunes]], [[Rui Figueiredo]], [[André Costa]], [[Ricardo Martins Pereira (Arrumadinho)]], [[Marisa Caetano Antunes]], [[Débora Couceiro]]
+| style='text-align:center;' | 1272 || [[Maya (taróloga)]], [[Rui Oliveira Nunes]], [[Isaac Alfaiate]], [[Isabel Figueira]], [[Jéssica Antunes]], [[Rui Figueiredo]], [[André Costa]], [[Ricardo Martins Pereira (Arrumadinho)]], [[Marisa Caetano Antunes]], [[Débora Couceiro]]
 |-
 | style='text-align:center;' | 1271 || [[José Pedro Gomes]], [[Aldo Lima]], [[Henrique Correia]]
 |-
@@ -1808,7 +1812,7 @@
 |-
 | style='text-align:center;' | 617 || [[André Ventura]]
 |-
-| style='text-align:center;' | 616 || [[Manuel Luís Goucha]], [[Rui Oliveira]]
+| style='text-align:center;' | 616 || [[Manuel Luís Goucha]], [[Rui Oliveira Nunes]]
 |-
 | style='text-align:center;' | 615 || [[Taróloga Maria Helena]], [[Diana Chaves]]
 |-
@@ -2428,7 +2432,7 @@
 |-
 | style='text-align:center;' | 307 || [[Maria Leal]]
 |-
-| style='text-align:center;' | 306 || [[Rui Oliveira]], [[Cláudio Ramos]], [[Fernando Rocha (Marido de Maria Vieira)]]
+| style='text-align:center;' | 306 || [[Rui Oliveira Nunes]], [[Cláudio Ramos]], [[Fernando Rocha (Marido de Maria Vieira)]]
 |-
 | style='text-align:center;' | 305 || [[Youtubers]], [[SirKazzio]]
 |-
@@ -2524,7 +2528,7 @@
 |-
 | style='text-align:center;' | 259 || [[Ana Markl]], [[DJ Snake]], [[David Guetta]], [[Bob Sinclar]], [[Martin Solveig]], [[Selena Gomez]], [[Cardy B]], [[Ozuna]], [[Nego do Borel]], [[Anitta]], [[Wesley Safadão]], [[Cavaco Silva]], [[Augusto Santos Silva]], [[André Silva]], [[Bernardo Silva]], [[Ludmila]], [[MC Doguinha]], [[Saúl Ricardo]], [[DJ Tiësto]], [[DJ Dzeko]], [[Nicky Jam]], [[J Balvin]], [[Kevinho]], [[Love on Top]], [[MC MM]], [[DJ RD]], [[Luís Oliveira]], [[Camila Cabello]], [[Geri Halliwell]], [[Netta Barzilai]], [[Caroliina]], [[Lartiste]]
 |-
-| style='text-align:center;' | 258 || [[Jóias TV]], [[Catarina Morazzo]], [[Gisela Serrano]], [[Cristina Ferreira]], [[Manuel Luís Goucha]], [[Alexandra Lencastre]], [[Fátima Lopes (apresentadora)]], [[Rui Oliveira]], [[TVI]], [[O Contentor]], [[O Preço Certo]], [[Nelson Pereira]], [[Luís Oliveira]], [[Ana Markl]], [[José Eduardo Moniz]], [[Casados à Primeira Vista]], [[Hugo Oliveira]], [[Madonna]]
+| style='text-align:center;' | 258 || [[Jóias TV]], [[Catarina Morazzo]], [[Gisela Serrano]], [[Cristina Ferreira]], [[Manuel Luís Goucha]], [[Alexandra Lencastre]], [[Fátima Lopes (apresentadora)]], [[Rui Oliveira Nunes]], [[TVI]], [[O Contentor]], [[O Preço Certo]], [[Nelson Pereira]], [[Luís Oliveira]], [[Ana Markl]], [[José Eduardo Moniz]], [[Casados à Primeira Vista]], [[Hugo Oliveira]], [[Madonna]]
 |-
 | style='text-align:center;' | 257 || [[Xavier]], [[Luís Oliveira]], [[Festas de Natal das Escolas]], [[Pais]], [[Inês Lopes Gonçalves]], [[Daniel Sampaio]], [[Cat lovers]], [[Grupos de WhatsApp]], [[Ana Markl]]
 |-

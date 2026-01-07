@@ -9,16 +9,16 @@ Bruno de Carvalho,36,
 Rita Pereira,36,@hyndia
 Cláudio Ramos,35,@claudio_ramos
 Inês Lopes Gonçalves,35,@ineslopesgoncalves
+CMTV,34,
 Cristiano Ronaldo,34,@cristiano
-CMTV,32,
 Manuel Luís Goucha,32,@mlgoucha
+Maya (taróloga),26,@tia__maya
 Xavier,26,
+Luciana Abreu,24,@lucianaabreuoficial
 Maria Cerqueira Gomes,24,@maria_cerqueira_gomes
-Maya (taróloga),24,@tia__maya
 Rúben Rua,24,@ruben_rua
 Sérgio Tavares,23,@canal_sergiotavares
 José Cid,22,@jose_cid_musico
-Luciana Abreu,22,@lucianaabreuoficial
 Marcelo Rebelo de Sousa,21,
 Lili Caneças,20,
 Jorge Jesus,19,@jorgejesus
@@ -36,8 +36,8 @@ Fátima Campos Ferreira,14,
 José Castelo Branco,14,
 José Sócrates,14,
 Catarina Furtado,13,
+Duarte Siopa,13,@duartesiopa
 Donald Trump,12,
-Duarte Siopa,12,@duartesiopa
 Frederico Varandas,12,
 João Barbosa (Numeiro),12,
 Ljubomir Stanisic,12,
@@ -131,7 +131,7 @@ José Carlos Pereira,6,
 José Rodrigues dos Santos,6,
 Lara Moniz,6,
 Luana Piovani,6,
-Rui Oliveira,6,
+Rui Oliveira Nunes,6,@ruideoliveiranunes
 Rui Veloso,6,
 Rui da Fonseca e Castro,6,
 Salvador Sobral,6,
@@ -343,6 +343,7 @@ Joana Vasconcelos,3,
 Jorge Corrula,3,
 Jorge Nuno Pinto da Costa,3,
 José Calado,3,
+José Carlos Castro,3,
 José Figueiras,3,
 José Gomes Ferreira (jornalista),3,
 José Malhoa,3,
@@ -590,7 +591,6 @@ Jornal i,2,
 Jornalistas pela Verdade,2,
 José Alberto Carvalho,2,
 José Carlos Araújo,2,
-José Carlos Castro,2,
 José Eduardo Pinto da Costa,2,
 José Gomes Ferreira,2,
 José Luís Cardoso,2,
@@ -610,7 +610,7 @@ João Pedro Pais,2,
 João Rendeiro,2,
 Jéssica Antunes,2,
 Jéssica Athayde,2,
-Júlio Isidro,2,
+Júlio Isidro,2,@julioisidrotv
 Keyla Brasil,2,
 Lady Diana,2,
 Landu Bi,2,
@@ -677,6 +677,7 @@ Patrícia Carvalho,2,
 Patrícia Domingos,2,@_heal.me
 Paula Bobone,2,
 Paula Lobo Antunes,2,
+Paula Paz Dias Ferreira,2,@paulapazdias
 Paulo Cardoso,2,
 Paulo Gonzo,2,
 Paulo Paiva dos Santos,2,
@@ -2046,7 +2047,6 @@ Paula Brito,1,
 Paula Brito e Costa,1,
 Paula Ferreira,1,
 Paula Margarido,1,
-Paula Paz Dias Ferreira,1,
 Paula Rego,1,
 Paula Ventura,1,
 Pauleta,1,
@@ -2271,6 +2271,7 @@ Rui Matias,1,
 Rui Mendes,1,
 Rui Nabeiro,1,
 Rui Neves,1,
+Rui Oliveira,1,
 Rui Patrício,1,
 Rui Pedro Bras,1,
 Rui Pedro Braz,1,
