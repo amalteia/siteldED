@@ -2,6 +2,8 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1522 || [[José Moutinho]], [[Pedro Barroso (ator)]], [[Maria Botelho Moniz]], [[Joana D’Arc]], [[Filipe Delgado]], [[Noélia Pereira]], [[Nuno Janeiro]], [[Sara Santos]]
+|-
 | style='text-align:center;' | 1521 || [[Luciana Abreu]], [[Maya (taróloga)]], [[CMTV]], [[José Carlos Castro]], [[Duarte Siopa]], [[Rui Oliveira Nunes]]
 |-
 | style='text-align:center;' | 1520 || [[Luciana Abreu]], [[Maya (taróloga)]], [[CMTV]]
@@ -1406,7 +1408,7 @@
 |-
 | style='text-align:center;' | 820 || [[Movimento Libertem as Crianças]], [[Covid-19]]
 |-
-| style='text-align:center;' | 819 || [[Pedro Barroso]]
+| style='text-align:center;' | 819 || [[Pedro Barroso (ator)]]
 |-
 | style='text-align:center;' | 818 || [[Estraca]]
 |-
@@ -1542,7 +1544,7 @@
 |-
 | style='text-align:center;' | 752 || [[Sandra Silvério]], [[Joana Amaral Dias]]
 |-
-| style='text-align:center;' | 751 || [[Agnes Arabela]], [[Catarina Furtado]], [[Pedro Barroso]], [[Rita Pereira]], [[Claudia Isabel]], [[Patricia Pontes]], [[Cristina Ferreira]], [[Rui Pedro Bras]], [[Fernando Seara]], [[Sandra Celas]]
+| style='text-align:center;' | 751 || [[Agnes Arabela]], [[Catarina Furtado]], [[Pedro Barroso (ator)]], [[Rita Pereira]], [[Claudia Isabel]], [[Patricia Pontes]], [[Cristina Ferreira]], [[Rui Pedro Bras]], [[Fernando Seara]], [[Sandra Celas]]
 |-
 | style='text-align:center;' | 750 || [[Luciana Abreu]]
 |-
@@ -1574,7 +1576,7 @@
 |-
 | style='text-align:center;' | 736 || [[Pedro Guerra]], [[Octávio Lopes]], [[Luís Filipe Vieira]]
 |-
-| style='text-align:center;' | 735 || [[Agnes Arabela]], [[Catarina Furtado]], [[Pedro Barroso]], [[Rita Pereira]], [[Cláudia Isabel]]
+| style='text-align:center;' | 735 || [[Agnes Arabela]], [[Catarina Furtado]], [[Pedro Barroso (ator)]], [[Rita Pereira]], [[Cláudia Isabel]]
 |-
 | style='text-align:center;' | 734 || [[O Amor Acontece]], [[Maria Cerqueira Gomes]], [[Catarina Mendes]], [[Tiago Falcão]]
 |-
@@ -1624,7 +1626,7 @@
 |-
 | style='text-align:center;' | 711 || [[Festival da Eurovisão]], [[José Carlos Malato]], [[Nuno Galopim]]
 |-
-| style='text-align:center;' | 710 || [[Pedro Barroso]]
+| style='text-align:center;' | 710 || [[Pedro Barroso (ator)]]
 |-
 | style='text-align:center;' | 709 || [[Fernando Seara]]
 |-
