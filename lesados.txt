@@ -1,7 +1,7 @@
 Joana Marques,125,@joanamarquespic
 Cristina Ferreira,86,@dailycristina
 Ana Galvão,53,@anagalvaolopez
-Gustavo Santos,45,@o_homem_da_terra
+Gustavo Santos,46,@o_homem_da_terra
 Ana Markl,40,@ana_markl
 TVI,40,
 Covid-19,38,
@@ -1889,6 +1889,7 @@ Miguel Matos,1,
 Miguel Maximiano,1,@miguel_maximiano
 Miguel Mimoso,1,
 Miguel Monteiro,1,
+Miguel Palma,1,@avozeamaquina
 Miguel Paraíso,1,
 Miguel Ribeiro,1,
 Miguel Ângelo,1,

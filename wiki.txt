@@ -2,6 +2,8 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1523 || [[Gustavo Santos]], [[Miguel Palma]]
+|-
 | style='text-align:center;' | 1522 || [[José Moutinho]], [[Pedro Barroso (ator)]], [[Maria Botelho Moniz]], [[Joana D’Arc]], [[Filipe Delgado]], [[Noélia Pereira]], [[Nuno Janeiro]], [[Sara Santos]]
 |-
 | style='text-align:center;' | 1521 || [[Luciana Abreu]], [[Maya (taróloga)]], [[CMTV]], [[José Carlos Castro]], [[Duarte Siopa]], [[Rui Oliveira Nunes]]
