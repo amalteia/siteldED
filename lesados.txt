@@ -1,7 +1,7 @@
 Joana Marques,125,@joanamarquespic
 Cristina Ferreira,86,@dailycristina
 Ana Galvão,53,@anagalvaolopez
-Gustavo Santos,46,@o_homem_da_terra
+Gustavo Santos,47,@o_homem_da_terra
 Ana Markl,40,@ana_markl
 TVI,40,
 Covid-19,38,
@@ -40,6 +40,7 @@ Duarte Siopa,13,@duartesiopa
 Donald Trump,12,
 Frederico Varandas,12,
 João Barbosa (Numeiro),12,
+Kátia Aveiro,12,@katiaaveirooficial
 Ljubomir Stanisic,12,
 Prós e Contras,12,
 Sporting Clube de Portugal,12,
@@ -47,7 +48,6 @@ Casados à Primeira Vista,11,
 David Carreira,11,
 José Lopes,11,
 Judite Sousa,11,
-Kátia Aveiro,11,@katiaaveirooficial
 Liliana Aguiar,11,
 Léo Caeiro,11,@leocaeirooficial
 Marco Paulo,11,
@@ -294,6 +294,7 @@ Casa dos Segredos,3,
 Casamentos de Santo António,3,
 Catarina Gouveia,3,
 Cavaco Silva,3,
+ChatGPT,3,
 Chega,3,
 Cláudia Jacques,3,
 Cláudia Pascoal,3,
@@ -652,6 +653,7 @@ McDonald's,2,
 Me Too,2,
 Mergulhadores do Novo Ano,2,
 Miguel Gameiro,2,
+Miguel Palma,2,@avozeamaquina
 Miguel Pinto Luz,2,
 Milene Martins,2,
 Monica Sintra,2,
@@ -1105,7 +1107,6 @@ Causídico de Alfama,1,
 Cayetano Rivera Ordóñez,1,
 Celeste Rodrigues,1,
 Cerveja sem álcool,1,
-ChatGPT,1,
 Check in,1,
 Checka,1,@maisdochecka
 Chef Chakall,1,
@@ -1889,7 +1890,6 @@ Miguel Matos,1,
 Miguel Maximiano,1,@miguel_maximiano
 Miguel Mimoso,1,
 Miguel Monteiro,1,
-Miguel Palma,1,@avozeamaquina
 Miguel Paraíso,1,
 Miguel Ribeiro,1,
 Miguel Ângelo,1,
