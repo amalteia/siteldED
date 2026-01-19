@@ -2,6 +2,8 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1529 || [[Rute Sousa]]
+|-
 | style='text-align:center;' | 1528 || [[Elisabete Figueiredo]]
 |-
 | style='text-align:center;' | 1527 || [[Elisabete Figueiredo]], [[Ticas Graciosa]]

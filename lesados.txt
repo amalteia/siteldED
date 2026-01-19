@@ -2295,6 +2295,7 @@ Rui Zink,1,@rui.zink
 Rui de Figueiredo Marcos,1,
 Ruivo Oliboil,1,
 Rute Agulhas,1,
+Rute Sousa,1,@rutemsousa
 Rádio Campanário,1,
 Rádio Ondas da Cabreira,1,
 Rúben Dias,1,
