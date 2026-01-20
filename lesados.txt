@@ -735,6 +735,7 @@ Rui Unas,2,
 Rui Vitória,2,
 Rui Xará,2,
 Rute Rita,2,
+Rute Sousa,2,@rutemsousa
 Rádio Comercial,2,
 Rúben Boa Nova,2,
 SIC Notícias,2,
@@ -2295,7 +2296,6 @@ Rui Zink,1,@rui.zink
 Rui de Figueiredo Marcos,1,
 Ruivo Oliboil,1,
 Rute Agulhas,1,
-Rute Sousa,1,@rutemsousa
 Rádio Campanário,1,
 Rádio Ondas da Cabreira,1,
 Rúben Dias,1,
