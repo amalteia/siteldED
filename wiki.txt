@@ -2,6 +2,8 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1531 || [[Flávio Furtado]], [[Luís Marques Mendes]], [[Manuel João Vieira]], [[António Bravo]], [[Susana Pinto]], [[João Ricardo]], [[Cinha Jardim]]
+|-
 | style='text-align:center;' | 1530 || [[Rute Sousa]]
 |-
 | style='text-align:center;' | 1529 || [[Rute Sousa]]
