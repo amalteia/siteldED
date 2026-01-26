@@ -1,272 +1,160 @@
-<html>
+<!DOCTYPE html>
+<html lang="pt-PT">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Análise de Tendência Política - Personalidades</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; color: #333; max-width: 1000px; margin: 0 auto; padding: 20px; background-color: #f4f7f6; }
+        h1 { color: #2c3e50; text-align: center; border-bottom: 2px solid #2c3e50; padding-bottom: 10px; }
+        h2 { color: #e67e22; border-left: 5px solid #e67e22; padding-left: 10px; margin-top: 40px; }
+        .direita { border-left-color: #2980b9; color: #2980b9; }
+        .esquerda { border-left-color: #c0392b; color: #c0392b; }
+        table { width: 100%; border-collapse: collapse; margin-bottom: 20px; background: #fff; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+        th, td { padding: 12px; text-align: left; border-bottom: 1px solid #ddd; }
+        th { background-color: #2c3e50; color: white; }
+        tr:hover { background-color: #f1f1f1; }
+        .summary-box { background: #fff; padding: 20px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); margin-top: 30px; display: flex; justify-content: space-around; text-align: center; }
+        .summary-item h3 { margin: 0; font-size: 1.2em; }
+        .count { font-size: 2.5em; font-weight: bold; margin: 10px 0; }
+        .blue { color: #2980b9; }
+        .red { color: #c0392b; }
+        footer { text-align: center; margin-top: 50px; font-size: 0.8em; color: #7f8c8d; }
+    </style>
+</head>
 <body>
-<pre>Esta é uma análise baseada na **perceção pública**, afiliações partidárias (quando existentes), opiniões expressas em público, estilo de vida promovido ou associações a determinados valores (conservadorismo, liberalismo económico, progressismo social, etc.).
 
-Como solicitado, **fui obrigado a tomar uma decisão binária** para cada personalidade, eliminando a neutralidade ou o centro, o que significa que em muitos casos a escolha recai sobre a "tendência cultural" ou o "alinhamento mais provável" com base no perfil mediático.
+    <h1>Análise de Percepção e Tendência Política</h1>
 
-Aqui está a classificação:
+    <h2 class="direita">Tendência de Direita</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Personalidade</th>
+                <th>Fundamentação / Percepção Pública</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr><td>Afonso de Santa Maria de Bragança</td><td>Valores monárquicos e conservadorismo tradicional.</td></tr>
+            <tr><td>André Ventura</td><td>Líder do partido Chega.</td></tr>
+            <tr><td>António Leal e Silva</td><td>Postura social conservadora e tradicionalista.</td></tr>
+            <tr><td>António Prôa</td><td>Político do PSD.</td></tr>
+            <tr><td>Assunção Cristas</td><td>Antiga líder do CDS-PP.</td></tr>
+            <tr><td>Bárbara Norton de Matos</td><td>Valores e estilo de vida associados ao centro-direita.</td></tr>
+            <tr><td>Camilo Lourenço</td><td>Jornalista; defensor do liberalismo económico.</td></tr>
+            <tr><td>Carlos Carreira</td><td>Político do PSD.</td></tr>
+            <tr><td>Cavaco Silva</td><td>Ex-Presidente e Primeiro-Ministro (PSD).</td></tr>
+            <tr><td>Chef Olivier</td><td>Empresário; crítico da intervenção estatal e carga fiscal.</td></tr>
+            <tr><td>Cinha Jardim</td><td>Apoio público a partidos de direita e conservadorismo.</td></tr>
+            <tr><td>Cristiano Ronaldo</td><td>Valores conservadores e associações a líderes de direita.</td></tr>
+            <tr><td>Cristina Rodrigues</td><td>Ex-PAN; assessora parlamentar do Chega.</td></tr>
+            <tr><td>Donald Trump</td><td>Ex-Presidente dos EUA (Republicano).</td></tr>
+            <tr><td>Duarte Lima</td><td>Antigo dirigente do PSD.</td></tr>
+            <tr><td>Fernando Seara</td><td>Político do PSD.</td></tr>
+            <tr><td>Francisco Pinto Balsemão</td><td>Fundador do PSD e do Grupo Impresa.</td></tr>
+            <tr><td>Francisco Rodrigues dos Santos</td><td>Antigo líder do CDS-PP.</td></tr>
+            <tr><td>Isabel dos Santos</td><td>Empresária; associada ao capitalismo liberal.</td></tr>
+            <tr><td>Isaltino Morais</td><td>Político de centro-direita (ex-PSD).</td></tr>
+            <tr><td>Jair Bolsonaro</td><td>Ex-Presidente do Brasil (Direita).</td></tr>
+            <tr><td>João Cotrim de Figueiredo</td><td>Deputado e antigo líder da Iniciativa Liberal.</td></tr>
+            <tr><td>João Rendeiro</td><td>Ex-banqueiro; elite financeira liberal.</td></tr>
+            <tr><td>Jorge Jesus</td><td>Percepção de valores tradicionais e proximidade a elites de direita.</td></tr>
+            <tr><td>José Alberto Carvalho</td><td>Percepção pública de alinhamento ao centro-direita.</td></tr>
+            <tr><td>José Eduardo Moniz</td><td>Gestão mediática alinhada a valores conservadores.</td></tr>
+            <tr><td>José Gomes Ferreira</td><td>Crítica ao estatismo; defesa do mercado livre.</td></tr>
+            <tr><td>José Maria Ricciardi</td><td>Banqueiro; direita financeira tradicional.</td></tr>
+            <tr><td>José Mourinho</td><td>Percepção de valores de ordem, autoridade e conservadorismo.</td></tr>
+            <tr><td>José Pacheco Pereira</td><td>Histórico e intelectual do PSD.</td></tr>
+            <tr><td>José Pinto Coelho</td><td>Líder do partido nacionalista Ergue-te.</td></tr>
+            <tr><td>José Rodrigues dos Santos</td><td>Escritor; críticas literárias e públicas ao marxismo.</td></tr>
+            <tr><td>Luís Filipe Vieira</td><td>Ex-Presidente do Benfica; ligações políticas ao PSD.</td></tr>
+            <tr><td>Luís Marques Mendes</td><td>Comentador e antigo líder do PSD.</td></tr>
+            <tr><td>Luís Montenegro</td><td>Atual Primeiro-Ministro (PSD).</td></tr>
+            <tr><td>Manuel Luís Goucha</td><td>Apoio assumido à Iniciativa Liberal e PSD.</td></tr>
+            <tr><td>Manuel Pinto Coelho</td><td>Posições conservadoras e críticas a políticas progressistas.</td></tr>
+            <tr><td>Maria Vieira</td><td>Atriz e militante ativa do Chega.</td></tr>
+            <tr><td>Miguel Milhão</td><td>Fundador da Prozis; posições conservadoras pró-vida.</td></tr>
+            <tr><td>Miguel Pinto Luz</td><td>Político e Ministro (PSD).</td></tr>
+            <tr><td>Miguel Relvas</td><td>Antigo dirigente do PSD.</td></tr>
+            <tr><td>Nuno Graciano</td><td>Ex-candidato autárquico pelo Chega.</td></tr>
+            <tr><td>Nuno Melo</td><td>Líder do CDS-PP.</td></tr>
+            <tr><td>Paulo Portas</td><td>Antigo líder do CDS-PP.</td></tr>
+            <tr><td>Quintino Aires</td><td>Comentador crítico do progressismo cultural.</td></tr>
+            <tr><td>Ricardo Salgado</td><td>Ex-banqueiro; elite financeira tradicional.</td></tr>
+            <tr><td>Rui Moreira</td><td>Presidente da CM Porto; independente liberal.</td></tr>
+            <tr><td>Rui Rio</td><td>Antigo líder do PSD.</td></tr>
+            <tr><td>Santana Lopes</td><td>Antigo Primeiro-Ministro (PSD/Aliança).</td></tr>
+            <tr><td>Suzana Garcia</td><td>Advogada; candidata pelo PSD (linha dura).</td></tr>
+        </tbody>
+    </table>
 
-### A Lista
+    <h2 class="esquerda">Tendência de Esquerda</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Personalidade</th>
+                <th>Fundamentação / Percepção Pública</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr><td>Ana Markl</td><td>Ativismo progressista e feminismo.</td></tr>
+            <tr><td>Ana Moura</td><td>Apoio a causas sociais e progressismo cultural.</td></tr>
+            <tr><td>António Costa</td><td>Ex-Primeiro-Ministro (PS).</td></tr>
+            <tr><td>Bárbara Tinoco</td><td>Apoio público a causas progressistas e feministas.</td></tr>
+            <tr><td>Beatriz Nogueira</td><td>Ativismo cultural de tendência progressista.</td></tr>
+            <tr><td>Bruno Nogueira</td><td>Sátira política focada na crítica à direita.</td></tr>
+            <tr><td>Carolina Deslandes</td><td>Defesa ativa do feminismo e direitos civis.</td></tr>
+            <tr><td>Catarina Furtado</td><td>Causas humanitárias e direitos humanos (ONU).</td></tr>
+            <tr><td>Clara Não</td><td>Artista; ativismo feminista e de esquerda.</td></tr>
+            <tr><td>Cláudia Pascoal</td><td>Posicionamento em causas progressistas e ambientais.</td></tr>
+            <tr><td>Conan Osíris</td><td>Ícone de rutura de género e progressismo.</td></tr>
+            <tr><td>Diogo Faro</td><td>Humorista e ativista de esquerda assumido.</td></tr>
+            <tr><td>Dino Santiago</td><td>Ativismo antirracista e progressismo social.</td></tr>
+            <tr><td>Eduardo Barroso</td><td>Médico; apoiante histórico do PS.</td></tr>
+            <tr><td>Fernando Medina</td><td>Político do PS.</td></tr>
+            <tr><td>Filomena Cautela</td><td>Defesa de minorias e causas progressistas.</td></tr>
+            <tr><td>Graça Fonseca</td><td>Antiga Ministra (PS).</td></tr>
+            <tr><td>Greta Thunberg</td><td>Ativista ambiental global.</td></tr>
+            <tr><td>Inês Herédia</td><td>Ativismo pelos direitos LGBT+.</td></tr>
+            <tr><td>Isabel Moreira</td><td>Deputada do PS (ala progressista).</td></tr>
+            <tr><td>Joacine Katar Moreira</td><td>Ex-deputada do Livre.</td></tr>
+            <tr><td>Joana Amaral Dias</td><td>Ex-deputada do BE; activismo de esquerda.</td></tr>
+            <tr><td>Joana Vasconcelos</td><td>Apoio público ao PS (Pedro Nuno Santos).</td></tr>
+            <tr><td>João Ferreira</td><td>Dirigente político do PCP.</td></tr>
+            <tr><td>José Carlos Malato</td><td>Ativismo LGBT+ e crítico do conservadorismo.</td></tr>
+            <tr><td>José Sócrates</td><td>Ex-Primeiro-Ministro (PS).</td></tr>
+            <tr><td>Madonna</td><td>Liberalismo social e direitos civis.</td></tr>
+            <tr><td>Manuel Alegre</td><td>Figura histórica do PS.</td></tr>
+            <tr><td>Mariana Mortágua</td><td>Líder do Bloco de Esquerda.</td></tr>
+            <tr><td>Nuno Markl</td><td>Discurso público progressista e liberal nos costumes.</td></tr>
+            <tr><td>Pedro Abrunhosa</td><td>Intervenção crítica e social de tendência progressista.</td></tr>
+            <tr><td>Pedro Nuno Santos</td><td>Secretário-Geral do PS.</td></tr>
+            <tr><td>Raquel Varela</td><td>Historiadora; tendência marxista/esquerda.</td></tr>
+            <tr><td>Ricardo Quaresma</td><td>Combate ao racismo e oposição ao Chega.</td></tr>
+            <tr><td>Ricardo Robles</td><td>Ex-dirigente do Bloco de Esquerda.</td></tr>
+            <tr><td>Rita Ferro Rodrigues</td><td>Feminismo e ativismo progressista.</td></tr>
+            <tr><td>Rosa Mota</td><td>Apoio público ao Partido Socialista.</td></tr>
+            <tr><td>Salvador Sobral</td><td>Crítica pública a valores conservadores.</td></tr>
+            <tr><td>Sam The Kid</td><td>Ativismo cultural e social ligado às periferias.</td></tr>
+            <tr><td>São José Lapa</td><td>Atriz com histórico de ligação ao PCP.</td></tr>
+            <tr><td>Sónia Tavares</td><td>Postura pública liberal e progressista.</td></tr>
+        </tbody>
+    </table>
 
-1. **Cristina Ferreira:** Direita (Empresária, liberalismo económico, meritocracia).
-2. **Gustavo Santos:** Direita (Discurso anti-sistema, libertário, individualista).
-3. **Bruno de Carvalho:** Direita (Populismo, estilo de liderança autoritário).
-4. **Rita Pereira:** Direita (Influencer, foco em lifestyle/luxo/marcas).
-5. **Cláudio Ramos:** Direita (Entretenimento comercial, conservadorismo social ligeiro).
-6. **Cristiano Ronaldo:** Direita (Mérito individual, elite económica, conservadorismo familiar).
-7. **Manuel Luís Goucha:** Direita (Monárquico assumido, conservadorismo clássico).
-8. **Maya (taróloga)::** Direita (Empresária, conservadora).
-9. **Luciana Abreu:** Direita (Valores tradicionais/religiosos expressos frequentemente).
-10. **Maria Cerqueira Gomes:** Direita (Background elite portuense, lifestyle).
-11. **Rúben Rua:** Direita (Moda, imagem, comercial).
-12. **Sérgio Tavares:** Direita (Associado a movimentos anti-sistema/populistas).
-13. **José Cid:** Direita (Monárquico, crítico do 25 de Abril, conservador).
-14. **Marcelo Rebelo de Sousa:** Direita (Ex-líder do PSD).
-15. **Lili Caneças:** Direita (Socialite, conservadora).
-16. **Jorge Jesus:** Direita (Futebol, pragmatismo, riqueza).
-17. **Tiago Paiva:** Direita (Youtuber, "hustle culture", humor politicamente incorreto).
-18. **André Ventura:** Direita (Líder do Chega).
-19. **Joana Amaral Dias:** Esquerda (Origem no Bloco de Esquerda, apesar do populismo recente, a base ideológica é marxista/trotskista).
-20. **Luís Oliveira:** Direita (Jornalismo desportivo/comentário institucional).
-21. **Alexandra Lencastre:** Esquerda (Classe artística, apoio a causas sociais).
-22. **Carolina Patrocínio:** Direita (Elite social, valores familiares tradicionais).
-23. **José Eduardo Moniz:** Direita (Gestor, establishment mediático).
-24. **Maria Vieira:** Direita (Deputada municipal do Chega).
-25. **Sandra Felgueiras:** Direita (Jornalismo de investigação, linha editorial dura).
-26. **Fátima Campos Ferreira:** Direita (Jornalismo institucional/conservador).
-27. **José Castelo Branco:** Direita (Monárquico, elitista).
-28. **José Sócrates:** Esquerda (Ex-PM do PS).
-29. **Catarina Furtado:** Esquerda (Embaixadora ONU, direitos humanos, feminismo).
-30. **Duarte Siopa:** Direita (Socialite, comentador social).
-31. **Donald Trump:** Direita (Republicano).
-32. **Frederico Varandas:** Direita (Militar, conservador, establishment).
-33. **João Barbosa (Numeiro):** Direita (Cripto, apostas, ostentação financeira).
-34. **Kátia Aveiro:** Direita (Apoiante pública de Bolsonaro).
-35. **Ljubomir Stanisic:** Direita (Empresário agressivo, crítico do estado social excessivo).
-36. **Cinha Jardim:** Direita (Socialite, conservadora assumida).
-37. **David Carreira:** Direita (Indústria musical comercial, apolítico mas business-oriented).
-38. **José Lopes:** Direita (Comentador social).
-39. **Judite Sousa:** Direita (Perfil conservador e institucional).
-40. **Liliana Aguiar:** Direita (Socialite, valores tradicionais).
-41. **Léo Caeiro:** Direita (Comentador sensacionalista).
-42. **Marco Paulo:** Direita (Música popular tradicional, conservador).
-43. **Miguel Milhão:** Direita (Fundador da Prozis, anti-woke, libertário).
-44. **Rodrigo Guedes de Carvalho:** Esquerda (Posições humanistas e progressistas sociais frequentes).
-45. **Windoh:** Direita (YouTuber, negócios, mercado financeiro).
-46. **Wuant:** Direita (Humor "edgy" inicial, foco empresarial recente).
-47. **Ana Garcia Martins:** Esquerda (Feminista, progressista).
-48. **António Costa:** Esquerda (Ex-PM do PS).
-49. **Fernanda Serrano:** Esquerda (Simpatizante PS/causas sociais).
-50. **Miguel Sousa Tavares:** Direita (Conservador intelectual, liberal económico).
-51. **Paulo Futre:** Direita (Popular, individualista).
-52. **Rui Sinel de Cordes:** Direita (Defensor da liberdade absoluta de expressão, anti-cancel culture).
-53. **Clara de Sousa:** Direita (Institucional, moderada).
-54. **Flávio Furtado:** Direita (Comentador social).
-55. **Globos de Ouro:** Esquerda (Enquanto instituição cultural, promove valores artísticos progressistas).
-56. **João Baião:** Direita (Entretenimento familiar tradicional).
-57. **Júlia Pinheiro:** Direita (Gestora, establishment).
-58. **Rui Rio:** Direita (Ex-líder do PSD).
-59. **SirKazzio:** Direita (YouTuber, foco comercial).
-60. **Toy:** Esquerda (Frequentemente associado a festas do PCP/Avante, simpatia operária).
-61. **Vanessa Martins:** Direita (Influencer, foco empresarial).
-62. **Yolanda Tati:** Esquerda (Ativismo social, antirracismo).
-63. **Ana Rita Clara:** Direita (Lifestyle, corporativo).
-64. **Daniel Leitão:** Esquerda (Humorista com viés de esquerda).
-65. **Diogo Faro:** Esquerda (Ativista progressista vocal).
-66. **Elma Aveiro:** Direita (Clã Aveiro, valores tradicionais).
-67. **Filipa Garnel:** Direita (Socialite, editorial de luxo).
-68. **Hugo Strada:** Direita (Indústria do entretenimento, gestão de imagem).
-69. **Joacine Katar Moreira:** Esquerda (Ex-Livre).
-70. **Joana Dias:** Esquerda (Artes/Rádio, perfil alternativo).
-71. **João Montez:** Direita (Apresentador comercial).
-72. **Leandro Portugal:** Direita (Música popular, valores tradicionais).
-73. **Luís Filipe Vieira:** Direita (Empresário, banca, dirigismo).
-74. **Maria Botelho Moniz:** Direita (Perfil conservador moderado).
-75. **Nuno Graciano:** Direita (Candidato pelo Chega à CM Lisboa).
-76. **Sónia Costa:** Direita (Comentadora social).
-77. **Adriano Silva Martins:** Direita (Comentador CMTV, conservador).
-78. **Ana Malhoa:** Direita (Indústria do entretenimento comercial).
-79. **Ana Sofia Cardoso:** Direita (Jornalista institucional).
-80. **André Silva:** Esquerda (PAN, ecologismo tende à esquerda no espectro social).
-81. **Bárbara Bandeira:** Direita (Pop comercial, influencer).
-82. **Bárbara Guimarães:** Esquerda (Cultural, progressista).
-83. **Carla Rocha:** Direita (Comunicação empresarial).
-84. **Diana Chaves:** Direita (Entretenimento familiar).
-85. **Dolores Aveiro:** Direita (Valores tradicionais, religiosidade).
-86. **Fanny Rodrigues:** Direita (Reality show, popular).
-87. **Filomena Cautela:** Esquerda (Ativista LGBTQ+, causas sociais).
-88. **Herman José:** Direita (Elitista, snobismo cultural aristocrático, embora liberal nos costumes).
-89. **Idevor Mendonça:** Direita (Apresentador comercial).
-90. **Iva Domingues:** Esquerda (Causas ambientais e sociais).
-91. **João Catarré:** Esquerda (Classe artística).
-92. **Liliana Campos:** Direita (Socialite, moda).
-93. **Maria Leal:** Direita (Fenómeno popular/kitsch).
-94. **Mário Ferreira:** Direita (Empresário Douro Azul, capitalista).
-95. **Mónica Jardim:** Direita (Apresentadora comercial).
-96. **Nuno Homem de Sá:** Esquerda (Simpatizante histórico de partidos de esquerda/verdes, apesar de polémicas recentes).
-97. **Nuno Luz:** Direita (Jornalismo desportivo).
-98. **Paulo Pires:** Esquerda (Classe artística).
-99. **Ricardo Quaresma:** Esquerda (Ativismo contra racismo, consciência social).
-100. **Rita Ferro Rodrigues:** Esquerda (Feminista, ativista).
-101. **Ágata:** Direita (Música popular, conservadora).
-102. **Ângelo Rodrigues:** Esquerda (Temas sociais, viagens introspectivas).
-103. **Ana Marques:** Direita (Elite social, conservadora).
-104. **Assunção Cristas:** Direita (Ex-líder do CDS).
-105. **Carlos Areia:** Esquerda (Ator popular, simpatia operária).
-106. **Chef Olivier:** Direita (Empresário, restauração de luxo).
-107. **Cláudia Nayara:** Direita (Vendas, comércio paralelo, popular).
-108. **César Mourão:** Esquerda (Humorista, sensibilidade social).
-109. **Diogo Piçarra:** Esquerda (Sensibilidade artística/social).
-110. **Fernando Medina:** Esquerda (PS).
-111. **Festival da Canção:** Esquerda (Evento cultural fortemente associado a valores progressistas/LGBTQ+).
-112. **Fátima Lopes (apresentadora):** Direita (Espiritualidade conservadora, comercial).
-113. **Hernâni Carvalho:** Direita (Segurança, justiça punitiva).
-114. **Hélder Teixeira:** Direita (Reality show, valores machistas/tradicionais).
-115. **José Carlos Pereira:** Direita (Ator/Médico, perfil elite).
-116. **José Rodrigues dos Santos:** Direita (Liberalismo económico clássico).
-117. **Lara Moniz:** Esquerda (Influencer com consciência social/racial).
-118. **Luana Piovani:** Esquerda (Feminista radical, crítica de Bolsonaro).
-119. **Rui Oliveira Nunes:** Direita (Marido de Goucha, conservador).
-120. **Rui Veloso:** Direita (Crítico da gestão de esquerda, regionalista liberal).
-121. **Rui da Fonseca e Castro:** Direita (Ex-Juiz, movimentos negacionistas/extrema-direita).
-122. **Salvador Sobral:** Esquerda (Ativismo refugiados, anti-capitalismo).
-123. **Santana Lopes:** Direita (Aliança/PSD).
-124. **Santiago Lagoá:** Direita (Popular/Comercial).
-125. **Sara Matos:** Esquerda (Classe artística).
-126. **Teresa Guilherme:** Direita (Monárquica, conservadora).
-127. **Tiago Saramago (Tiagovski):** Direita (Gamer, youtuber, comercial).
-128. **Alexandre Santos:** Direita (Humor "sem filtros", público masculino jovem).
-129. **Ana Barbosa:** Direita (Reality, emigrante/business).
-130. **Andreia Rodrigues:** Direita (Apresentadora comercial).
-131. **António Pedro Cerdeira:** Direita (Apoiante público de André Ventura/Chega).
-132. **Carolina Deslandes:** Esquerda (Feminismo, corpo político).
-133. **Catarina Miranda:** Direita (Rádio comercial, opinião popular).
-134. **Conan Osíris:** Esquerda (Queer culture, arte vanguardista).
-135. **Fernando Mendes:** Direita (Popular, tradicionalista, embora amigo de todos).
-136. **Fernando Rocha (Marido de Maria Vieira):** Direita (Extrema-direita nas redes sociais).
-137. **Filipa Castro:** Direita (Comentadora social).
-138. **Francisco Nunes:** Direita (Coaching, masculinidade, negócios).
-139. **Georgina Rodríguez:** Direita (Luxo, religião, valores tradicionais).
-140. **Inês Herédia:** Esquerda (Ativismo LGBTQ+, família progressista).
-141. **Jair Bolsonaro:** Direita (Ex-Presidente Brasil).
-142. **Joaquim Sousa Martins:** Direita (Jornalista, perfil conservador).
-143. **Jorge Kapinha:** Direita (Família tradicional no TikTok).
-144. **José Carlos Malato:** Esquerda (Ativismo LGBTQ+, direitos sociais).
-145. **José Fidalgo:** Esquerda (Ator, posições moderadas).
-146. **Julen Lopetegui:** Direita (Treinador, perfil corporativo).
-147. **Liliana Filipa:** Direita (Empresária, influencer).
-148. **Mafalda Castro:** Esquerda (Jovem urbana, valores progressistas).
-149. **Mafalda Rodiles:** Esquerda (Naturalismo, parto humanizado, feminismo).
-150. **Manuel Pinto Coelho:** Direita (Médico conservador, anti-mainstream científico).
-151. **Marisa Cruz:** Direita (Apresentadora comercial).
-152. **Marta Gautier:** Direita (Psicologia, background católico conservador).
-153. **Miguel Vicente:** Direita (Reality, personalidade alfa/confronto).
-154. **Paula Neves:** Esquerda (Ativismo animal, classe artística).
-155. **Pedro Barroso:** Esquerda (Espiritualidade alternativa).
-156. **Pedro Soá:** Direita (Empresário, discurso de autoridade).
-157. **Quintino Aires:** Direita (Conservador, punitivo, polémico).
-158. **Rui Figueiredo:** Direita (Reality/Negócios).
-159. **Rui Santos:** Direita (Comentador futebol, status quo).
-160. **Sancha Trindade:** Direita (Branding, elite lisboeta).
-161. **Sandra Silva:** Esquerda (Maternidade progressista).
-162. **Sofia Ribeiro:** Esquerda (Temas sociais, saúde mental).
-163. **Sónia Araújo:** Direita (Institucional, conservadora).
-164. **Sónia Jesus:** Direita (Popular, comércio, reality).
-165. **Tiago Grila:** Direita (Associado a comentários políticos de direita).
-166. **Alexandra Solnado:** Esquerda (Espiritualidade, "New Age" tende à esquerda social).
-167. **Alice Santos:** Direita (Libertária na saúde, anti-regulação).
-168. **Ana Leal:** Direita (Jornalismo de denúncia agressivo).
-169. **Anabela Seabra (Désirat):** Direita (Perfil empresarial).
-170. **Bruna Magalhães:** Direita (Influencer, moda).
-171. **Bárbara Corby:** Direita (Influencer, luxo, viagens).
-172. **Carolina Loureiro:** Esquerda (Classe artística, jovem).
-173. **Celso Lascasas:** Direita (Indústria, capitalista).
-174. **Clara Não:** Esquerda (Artista, feminista radical).
-175. **Cláudia Vieira:** Direita (Comercial, institucional).
-176. **Conceição Lino:** Direita (Jornalismo social conservador).
-177. **Dalila Carmo:** Esquerda (Atriz, ativismo).
-178. **Daniel Gregório:** Direita (Vendas automóveis, reality).
-179. **David Araújo:** Direita (Humor/Entretenimento comercial).
-180. **Diogo Morgado:** Direita (Religioso, carreira nos EUA).
-181. **Domingos José:** Direita (Estilo popular).
-182. **Eduardo Barroso:** Esquerda (Médico, sobrinho de Mário Soares, sportinguista histórico).
-183. **Elsa Pimenta:** Direita (Empresarial).
-184. **Fernando Alvim:** Esquerda (Cultura alternativa, rádio).
-185. **Fernando Daniel:** Esquerda (Origem humilde, sensibilidade social).
-186. **Francisco Rodrigues dos Santos (Chicão):** Direita (Ex-líder CDS).
-187. **Fábio Teles:** Direita (Entretenimento).
-188. **Gisela Serrano:** Direita (Populista, reality).
-189. **Gonçalo Quinaz:** Direita (Futebol, reality).
-190. **Greta Thunberg:** Esquerda (Ativismo climático).
-191. **Inês Simões:** Direita (Assessoria Chega, comentadora).
-192. **Isabel Alves:** Direita (Perfil comercial).
-193. **Isabel Figueira:** Direita (Socialite).
-194. **Isabel Silva:** Direita (Empresária, "hustler").
-195. **Iva Lamarão:** Direita (Moda/TV).
-196. **Joana Latino:** Direita (Comentadora social conservadora).
-197. **Jorge Gabriel:** Direita (Institucional).
-198. **José Gouveia:** Direita (Noite, luxo, opinião de direita).
-199. **José Mourinho:** Direita (Pragmatismo, liderança, elite).
-200. **José Peseiro:** Direita (Futebol).
-201. **João Fernando Ramos:** Direita (Jornalista, institucional).
-202. **Juíz Hélder Fráguas:** Direita (Autoridade, justiça).
-203. **Kelly Bailey:** Direita (Elite social, lifestyle).
-204. **Leonor Poeiras:** Esquerda (Vire, ativismo, lifestyle alternativo recente).
-205. **Lurdes Baeta:** Direita (Jornalista TVI).
-206. **Margarida Oliveira:** Direita (TikTok, massas).
-207. **Mia Fernandes:** Direita (Influencer).
-208. **Miguel Relvas:** Direita (Ex-Ministro PSD).
-209. **Miguel Silva (Jingle Lee):** Direita (TikToker, mainstream).
-210. **Mónica Sintra:** Direita (Música popular, comentadora).
-211. **Nuno Eiró:** Direita (Entretenimento comercial).
-212. **Nuno Markl:** Esquerda (Humorista, progressista assumido).
-213. **Nuno Queirós:** Direita (Jornalismo).
-214. **Nuno Santos:** Direita (Diretor CNN, gestor de media).
-215. **Octávio Machado:** Esquerda (Histórico do PCP/MRPP, sindicalismo).
-216. **Paulo Battista:** Direita (Alfaiate, luxo, elite).
-217. **Pedro Abrunhosa:** Esquerda (Intervenção cívica, antifascismo).
-218. **Pedro Crispim:** Esquerda (Ativismo LGBTQ+, moda).
-219. **Pedro Granger:** Direita (Socialite, conservador moderado).
-220. **Pedro Pico:** Esquerda (Drag queen, queer culture - apesar das polémicas empresariais).
-221. **Pedro Pinto:** Direita (Deputado do Chega).
-222. **Pedro Sousa:** Direita (Futebol/Comentário).
-223. **Pedro Teixeira:** Direita (Ator, empresário, comercial).
-224. **Quimbé:** Direita (Entretenimento).
-225. **Ricardo Martins Pereira (Arrumadinho):** Direita (Liberal económico e social).
-226. **Ricardo Pereira:** Direita (Ator internacional, perfil elite).
-227. **Rita Rodrigues:** Direita (Jornalista).
-228. **Rodrigo Paganelli:** Esquerda (Jovem ator, valores progressistas).
-229. **Romilda Costa:** Direita (Perfil socialite).
-230. **Sam The Kid:** Esquerda (Hip-hop intervenção, Chelas, consciência de classe).
-231. **Serenella Andrade:** Direita (Televisão pública antiga, conservadora).
-232. **Sofia Cerveira:** Direita (Socialite, institucional).
-233. **Suzana Garcia:** Direita (Advogada, candidata PSD, "law and order").
-234. **Sérgio Conceição:** Direita (Valores de disciplina rígida, conservadorismo).
-235. **Sónia Tavares:** Esquerda (Vocalista The Gift, artes alternativas).
-236. **Tiago Jaqueta:** Direita (Reality).
-237. **Tânia Laranjo:** Direita (Correio da Manhã, justiça, crime).
-238. **Vera Kolodzig:** Esquerda (Espiritualidade, ecologia).
-239. **Ágata Rodrigues:** Direita (Apresentadora).
-240. **Éder:** Direita (Futebol, religião cristã evangélica).
+    <div class="summary-box">
+        <div class="summary-item">
+            <h3>Total Direita</h3>
+            <div class="count blue">50</div>
+        </div>
+        <div class="summary-item">
+            <h3>Total Esquerda</h3>
+            <div class="count red">41</div>
+        </div>
+    </div>
 
----
+    <footer>
+        <p>Análise baseada em dados públicos, afiliações e percepção mediática.</p>
+    </footer>
 
-### Contagem Final e Análise
-
-* **Total de Nomes:** 240
-* **Total Direita:** 178
-* **Total Esquerda:** 62
-
-### Decisão da Maioria
-
-A maioria esmagadora desta lista é politicamente de **Direita**.
-
-**Porquê?**
-A lista fornecida é composta majoritariamente por **influenciadores digitais, figuras de reality show, apresentadores de televisão comercial, empresários e futebolistas**.
-
-1. **Influenciadores e Reality:** Tendem a promover o individualismo, o consumismo, a ostentação de riqueza e o empreendedorismo pessoal, valores intrinsecamente ligados à direita económica e social.
-2. **Figuras Populares/TV:** A televisão "daytime" em Portugal tende a ser conservadora nos costumes e apolítica ou institucional (status quo), o que cai no espectro da direita moderada.
-3. **Esquerda:** A esquerda nesta lista está representada quase exclusivamente pela "intelectualidade" artística (atores de teatro/cinema, músicos alternativos) e ativistas sociais/políticos explícitos.
-</pre>
 </body>
 </html>
