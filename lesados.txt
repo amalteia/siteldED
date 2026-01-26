@@ -1,11 +1,11 @@
 Joana Marques,125,@joanamarquespic
-Cristina Ferreira,86,@dailycristina
+Cristina Ferreira,87,@dailycristina
 Ana Galvão,53,@anagalvaolopez
 Gustavo Santos,47,@o_homem_da_terra
 Ana Markl,40,@ana_markl
 TVI,40,
 Covid-19,38,
-Bruno de Carvalho,36,
+Bruno de Carvalho,36,@bruno_de_carvalho_oficial
 Rita Pereira,36,@hyndia
 Cláudio Ramos,35,@claudio_ramos
 Inês Lopes Gonçalves,35,@ineslopesgoncalves
@@ -59,12 +59,12 @@ Wuant,11,
 Ana Garcia Martins,10,
 António Costa,10,
 Fernanda Serrano,10,
+Flávio Furtado,10,@flavio_furtado_oficial
 Miguel Sousa Tavares,10,
 Paulo Futre,10,
 Rui Sinel de Cordes,10,@ruisineldecordes
 SIC,10,
 Clara de Sousa,9,
-Flávio Furtado,9,@flavio_furtado_oficial
 Globos de Ouro,9,
 João Baião,9,
 Júlia Pinheiro,9,
@@ -138,6 +138,7 @@ Salvador Sobral,6,
 Santana Lopes,6,
 Santiago Lagoá,6,@santiago.lagoa
 Sara Matos,6,
+Suzana Garcia,6,@suzana_garcia
 Teresa Guilherme,6,
 Tiago Saramago (Tiagovski),6,@tiagovski555
 Touradas,6,
@@ -260,7 +261,6 @@ Romilda Costa,4,@rominature_clinica
 Sam The Kid,4,
 Serenella Andrade,4,
 Sofia Cerveira,4,
-Suzana Garcia,4,
 Sérgio Conceição,4,
 Sónia Tavares,4,
 Tiago Jaqueta,4,
@@ -1633,6 +1633,7 @@ João Oliveira,1,
 João Palhinha,1,
 João Pedro,1,
 João Pedro Marques,1,
+João Pedro Pereira,1,@_joaopedropereira
 João Pedro Vaz,1,
 João Pires,1,
 João Portugal,1,
@@ -2391,7 +2392,6 @@ Stevie Wonder,1,
 Sunny Delight,1,
 Super Dragões,1,
 Super Wings,1,
-Susana Garcia,1,
 Susana Novais Santos,1,
 Susana Vieira,1,@susanavieiraoficial
 Syro,1,
@@ -2479,6 +2479,7 @@ Vegans,1,
 Venezuela,1,
 Vera Deus,1,
 Vera Fernandes,1,
+Vera de Melo,1,@averademelo
 Verdes,1,
 Viagens de Finalistas,1,
 Vicente Alves do Ó,1,

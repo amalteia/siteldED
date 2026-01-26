@@ -2,6 +2,10 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1533 || [[João Pedro Pereira]]
+|-
+| style='text-align:center;' | 1532 || [[Suzana Garcia]], [[Flávio Furtado]], [[Cristina Ferreira]], [[Vera de Melo]]
+|-
 | style='text-align:center;' | 1531 || [[Flávio Furtado]], [[Luís Marques Mendes]], [[Manuel João Vieira]], [[António Bravo]], [[Susana Pinto]], [[João Ricardo]], [[Cinha Jardim]]
 |-
 | style='text-align:center;' | 1530 || [[Rute Sousa]]
@@ -326,7 +330,7 @@
 |-
 | style='text-align:center;' | 1370 || [[Cristina Ferreira]]
 |-
-| style='text-align:center;' | 1369 || [[Cristina Ferreira]], [[José Pacheco Pereira]], [[Antonio Pinto Pereira]], [[Susana Garcia]], [[Joana Amaral Dias]], [[Joana Barros]], [[Dona Amelia]], [[André Carvalho Ramos]], [[Ruben Amorim]]
+| style='text-align:center;' | 1369 || [[Cristina Ferreira]], [[José Pacheco Pereira]], [[Antonio Pinto Pereira]], [[Suzana Garcia]], [[Joana Amaral Dias]], [[Joana Barros]], [[Dona Amelia]], [[André Carvalho Ramos]], [[Ruben Amorim]]
 |-
 | style='text-align:center;' | 1368 || [[Teresa Stichaner]], [[Manuel Luís Goucha]], [[Ana Galvão]]
 |-
