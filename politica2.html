@@ -2,95 +2,706 @@
 <html lang="pt-PT">
 <head>
     <meta charset="UTF-8">
-    <title>Análise Política Integral - Justificação Total</title>
+    <title>Análise Política Separada - Lista Completa</title>
     <style>
-        body { font-family: 'Segoe UI', Tahoma, sans-serif; background: #f4f7f6; padding: 20px; }
-        .container { max-width: 1200px; margin: auto; background: white; padding: 30px; border-radius: 8px; box-shadow: 0 2px 15px rgba(0,0,0,0.1); }
-        h1 { text-align: center; color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 10px; }
-        .summary { display: flex; justify-content: space-around; margin: 20px 0; background: #2c3e50; color: white; padding: 15px; border-radius: 5px; }
-        .count { font-size: 1.8em; font-weight: bold; }
-        h2 { color: #fff; padding: 10px; border-radius: 4px; }
-        .bg-dir { background: #2980b9; }
-        .bg-esq { background: #c0392b; }
-        table { width: 100%; border-collapse: collapse; margin-top: 10px; margin-bottom: 30px; }
-        th, td { padding: 10px; border: 1px solid #ddd; text-align: left; font-size: 0.85em; }
-        th { background: #f2f2f2; }
-        .name-col { font-weight: bold; width: 200px; }
+        body { font-family: 'Segoe UI', Helvetica, Arial, sans-serif; background-color: #f4f7f6; margin: 0; padding: 40px; color: #333; }
+        .container { max-width: 1400px; margin: 0 auto; }
+        
+        h1 { text-align: center; color: #2c3e50; margin-bottom: 40px; font-size: 2.5rem; }
+
+        /* Dashboard de Estatísticas */
+        .dashboard { display: flex; gap: 30px; margin-bottom: 50px; justify-content: center; }
+        .card { flex: 1; max-width: 400px; padding: 25px; border-radius: 12px; text-align: center; color: white; box-shadow: 0 4px 15px rgba(0,0,0,0.1); }
+        .card-dir { background: linear-gradient(135deg, #1e3a8a, #3b82f6); }
+        .card-esq { background: linear-gradient(135deg, #991b1b, #ef4444); }
+        .card h2 { margin: 0; font-size: 1.5rem; opacity: 0.9; }
+        .card .number { font-size: 4rem; font-weight: bold; margin: 10px 0; }
+
+        /* Tabelas */
+        .section-title { padding: 15px; border-radius: 8px 8px 0 0; color: white; font-weight: bold; font-size: 1.2rem; margin-top: 40px; }
+        .title-dir { background-color: #1e3a8a; }
+        .title-esq { background-color: #991b1b; }
+
+        table { width: 100%; border-collapse: collapse; background: white; box-shadow: 0 2px 10px rgba(0,0,0,0.05); margin-bottom: 20px; border-radius: 0 0 8px 8px; overflow: hidden; }
+        th { background-color: #f1f5f9; color: #475569; text-align: left; padding: 15px; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 0.05em; border-bottom: 2px solid #e2e8f0; }
+        td { padding: 12px 15px; border-bottom: 1px solid #f1f5f9; font-size: 0.95rem; vertical-align: middle; }
+        tr:last-child td { border-bottom: none; }
+        tr:hover { background-color: #f8fafc; }
+
+        .name-col { font-weight: 600; color: #1e293b; width: 25%; }
+        .reason-col { color: #64748b; font-style: italic; }
+        
+        /* Tags */
+        .tag { display: inline-block; padding: 4px 10px; border-radius: 20px; font-size: 0.75rem; font-weight: bold; text-transform: uppercase; }
+        .tag-dir { background-color: #dbeafe; color: #1e40af; }
+        .tag-esq { background-color: #fee2e2; color: #991b1b; }
+
     </style>
 </head>
 <body>
 
 <div class="container">
-    <h1>Análise de Perceção Política (Lista Completa)</h1>
+    <h1>Análise de Perceção Política: Lista Completa</h1>
 
-    <div class="summary">
-        <div style="text-align:center;">DIREITA <div class="count">241</div></div>
-        <div style="text-align:center;">ESQUERDA <div class="count">138</div></div>
+    <div class="dashboard">
+        <div class="card card-dir">
+            <h2>Total Direita</h2>
+            <div class="number">294</div>
+            <div>Personalidades</div>
+        </div>
+        <div class="card card-esq">
+            <h2>Total Esquerda</h2>
+            <div class="number">139</div>
+            <div>Personalidades</div>
+        </div>
     </div>
 
-    <h2 class="bg-dir">Tendência: Direita</h2>
+    <div class="section-title title-dir">DIREITA (Conservadorismo, Liberalismo, Tradição, Elites)</div>
     <table>
-        <thead><tr><th>Nome</th><th>Justificação da Perceção</th></tr></thead>
+        <thead>
+            <tr>
+                <th class="name-col">Nome</th>
+                <th>Justificação da Perceção Pública</th>
+            </tr>
+        </thead>
         <tbody>
-            <tr><td class="name-col">Abel Xavier</td><td>Percurso no futebol internacional e postura de elite.</td></tr>
-            <tr><td class="name-col">Adriano Silva Martins</td><td>Posições monárquicas e conservadorismo social assumido.</td></tr>
-            <tr><td class="name-col">Afonso de Bragança</td><td>Família Real; valores tradicionais e católicos.</td></tr>
-            <tr><td class="name-col">André Ventura</td><td>Líder do Chega.</td></tr>
-            <tr><td class="name-col">António Prôa</td><td>Político do PSD.</td></tr>
-            <tr><td class="name-col">Assunção Cristas</td><td>Antiga líder do CDS-PP.</td></tr>
-            <tr><td class="name-col">Camilo Lourenço</td><td>Voz do liberalismo económico e crítica à carga fiscal.</td></tr>
-            <tr><td class="name-col">Cavaco Silva</td><td>Ex-líder do PSD e histórico conservador.</td></tr>
-            <tr><td class="name-col">Cinha Jardim</td><td>Socialite com apoios públicos à direita e valores tradicionais.</td></tr>
-            <tr><td class="name-col">Cristiano Ronaldo</td><td>Símbolo de mérito, patriotismo e elite financeira.</td></tr>
-            <tr><td class="name-col">Donald Trump</td><td>Político republicano (EUA).</td></tr>
-            <tr><td class="name-col">Herman José</td><td>Crítica ao politicamente correto e valores institucionais.</td></tr>
-            <tr><td class="name-col">Isaltino Morais</td><td>Político de centro-direita/conservador local.</td></tr>
-            <tr><td class="name-col">Joana Amaral Dias</td><td>Candidata pelo ADN (Direita radical/soberanista).</td></tr>
-            <tr><td class="name-col">João Cotrim de Figueiredo</td><td>Político da Iniciativa Liberal.</td></tr>
-            <tr><td class="name-col">José Gomes Ferreira</td><td>Jornalista focado no liberalismo e crítica ao Estado.</td></tr>
-            <tr><td class="name-col">José Rodrigues dos Santos</td><td>Autor com foco em críticas ao coletivismo/marxismo.</td></tr>
-            <tr><td class="name-col">Luís Montenegro</td><td>Líder do PSD / Primeiro-Ministro.</td></tr>
-            <tr><td class="name-col">Manuel Luís Goucha</td><td>Apoio assumido ao liberalismo (IL) e PSD.</td></tr>
-            <tr><td class="name-col">Maria Vieira</td><td>Atriz e militante do Chega.</td></tr>
+            <tr><td class="name-col">Abel Xavier</td><td>Elite do futebol, excentricidade individualista e valores de mercado.</td></tr>
+            <tr><td class="name-col">Adriano Maranhão</td><td>Participante de reality show, perfil de empreendedorismo individual.</td></tr>
+            <tr><td class="name-col">Adriano Silva Martins</td><td>Comentador social, monárquico assumido e conservador.</td></tr>
+            <tr><td class="name-col">Afonso de Santa Maria de Bragança</td><td>Família Real, valores tradicionalistas e católicos.</td></tr>
+            <tr><td class="name-col">Afonso Freitas</td><td>Futebolista (Guimarães), ambiente de elite desportiva.</td></tr>
+            <tr><td class="name-col">Afonso Gonçalves</td><td>Desporto motorizado/ténis, associado a elites económicas.</td></tr>
+            <tr><td class="name-col">Ágata</td><td>Música popular, apoio a autarcas do PSD e valores tradicionais.</td></tr>
+            <tr><td class="name-col">Ágata Rodrigues</td><td>Apresentadora de day-time, perfil institucional e moderado.</td></tr>
+            <tr><td class="name-col">Agnes Arabela</td><td>Estética de luxo, discurso conservador sobre papéis de género.</td></tr>
+            <tr><td class="name-col">Alberta Marques Fernandes</td><td>Jornalista de perfil institucional, perceção de centro-direita católica.</td></tr>
+            <tr><td class="name-col">Alexandra Santos</td><td>Lifestyle wellness, foco no indivíduo e consumo.</td></tr>
+            <tr><td class="name-col">Alexandre Faria</td><td>Gestão e política local (Estoril), PSD.</td></tr>
+            <tr><td class="name-col">Alexandre Guimarães</td><td>Perfil empresarial/desportivo.</td></tr>
+            <tr><td class="name-col">Alexandre Santos</td><td>Humor por vezes agressivo contra o "politicamente correto".</td></tr>
+            <tr><td class="name-col">Alice Santos</td><td>Influencer com discurso meritocrático radical e anti-medicamento (libertário).</td></tr>
+            <tr><td class="name-col">Amélia de Jesus</td><td>Figura popular associada à tradição e religiosidade.</td></tr>
+            <tr><td class="name-col">Ana Barbosa</td><td>Perfil emigrante de sucesso, meritocracia e liderança autoritária (BB).</td></tr>
+            <tr><td class="name-col">Anabela Seabra</td><td>Advogada/Jurista, perfil conservador.</td></tr>
+            <tr><td class="name-col">Ana Brito e Cunha</td><td>Origem aristocrática, valores de família e tradição.</td></tr>
+            <tr><td class="name-col">Ana Leal</td><td>Jornalismo de denúncia focado em falhas do Estado (perfil anti-sistema).</td></tr>
+            <tr><td class="name-col">Ana Malhoa</td><td>Música popular comercial, foco no entretenimento e mercado.</td></tr>
+            <tr><td class="name-col">Ana Marques</td><td>Socialite, família política (irmã de Manuel Marques), elite de Lisboa.</td></tr>
+            <tr><td class="name-col">Ana Rita Clara</td><td>Gestão de carreira focada em lifestyle e marcas de luxo.</td></tr>
+            <tr><td class="name-col">Ana Sofia Cardoso</td><td>Jornalista TVI/CNN, perfil institucional rigoroso.</td></tr>
+            <tr><td class="name-col">André Costa</td><td>Modelo/Desporto, valores estéticos e de mercado.</td></tr>
+            <tr><td class="name-col">André Filipe</td><td>Espiritualidade confusa mas com traços conservadores e conspiracionistas.</td></tr>
+            <tr><td class="name-col">Andreia Guedes</td><td>Perfil de reality show, valorização da imagem e consumo.</td></tr>
+            <tr><td class="name-col">Andreia Rodrigues</td><td>Entretenimento familiar, institucional SIC, apolítica (status quo).</td></tr>
+            <tr><td class="name-col">Andreia Sousa Viegas</td><td>Perfil empresarial/comercial.</td></tr>
+            <tr><td class="name-col">André Trigo</td><td>Setor imobiliário/financeiro.</td></tr>
+            <tr><td class="name-col">André Ventura</td><td>Líder do Chega (Direita Radical).</td></tr>
+            <tr><td class="name-col">António Conde (Demo)</td><td>Apesar da música, postura pública de empresário e elite social.</td></tr>
+            <tr><td class="name-col">António Guerreiro</td><td>Comentador (Benfica), valores institucionais e ordem.</td></tr>
+            <tr><td class="name-col">António Leal e Silva</td><td>Defensor da etiqueta, tradição e "bons costumes".</td></tr>
+            <tr><td class="name-col">António Pedro Cerdeira</td><td>Apoios públicos passados à direita (PSD).</td></tr>
+            <tr><td class="name-col">António Prôa</td><td>Deputado do PSD.</td></tr>
+            <tr><td class="name-col">António Ribeiro Cristóvão</td><td>Comentador desportivo tradicional, valores conservadores.</td></tr>
+            <tr><td class="name-col">Anuska Marques</td><td>Reality show, foco em imagem e sucesso individual.</td></tr>
+            <tr><td class="name-col">Assunção Cristas</td><td>Ex-líder do CDS-PP.</td></tr>
+            <tr><td class="name-col">Augusto Inácio</td><td>Futebol tradicional, autoridade e hierarquia.</td></tr>
+            <tr><td class="name-col">Bárbara Corby</td><td>Influencer de moda/luxo, valores de consumo.</td></tr>
+            <tr><td class="name-col">Bárbara Norton de Matos</td><td>Empreendedorismo, lifestyle de elite (Cascais).</td></tr>
+            <tr><td class="name-col">Bárbara Parada</td><td>Reality show, apolítica, foco em consumo e imagem.</td></tr>
+            <tr><td class="name-col">Becas Lírio</td><td>Socialite, valores de elite.</td></tr>
+            <tr><td class="name-col">Bento Rodrigues</td><td>Pivot de notícias, tom institucional e conservador.</td></tr>
+            <tr><td class="name-col">Bernardina Brito</td><td>Estilo popular, valores tradicionais de família e maternidade.</td></tr>
+            <tr><td class="name-col">Bernardo Gomes</td><td>Associado a gestão/desporto.</td></tr>
+            <tr><td class="name-col">Bruna Gomes</td><td>Influencer digital massiva, foco em consumo e positividade (apolítica/mercado).</td></tr>
+            <tr><td class="name-col">Bruna Magalhães</td><td>Elite social, casada com Bernardo Silva (mas perfil social de elite).</td></tr>
+            <tr><td class="name-col">Bruno</td><td>Nome genérico (assumindo concorrente BB): foco em competição.</td></tr>
+            <tr><td class="name-col">Bruno de Carvalho</td><td>Populismo, liderança autoritária, estilo "Chefe".</td></tr>
+            <tr><td class="name-col">Bruno Fernandes</td><td>Mérito individual, elite do futebol, apolítico.</td></tr>
+            <tr><td class="name-col">Bruno Mestre</td><td>Desporto/Fitness, culto do corpo e individualismo.</td></tr>
+            <tr><td class="name-col">Bruno Savate</td><td>Valores de lealdade, força, proteção e empreendedorismo.</td></tr>
+            <tr><td class="name-col">Camilo Lourenço</td><td>Liberalismo económico, comentador pró-mercado.</td></tr>
+            <tr><td class="name-col">Cândido Costa</td><td>Futebol, valores populares tradicionais, apolítico.</td></tr>
+            <tr><td class="name-col">Carla Ferreira</td><td>Empresária (contexto provável), valores de mercado.</td></tr>
+            <tr><td class="name-col">Carla Rocha</td><td>Comunicação corporativa, coaching e liderança.</td></tr>
+            <tr><td class="name-col">Carlos Areia</td><td>Teatro de revista tradicional, valores populares.</td></tr>
+            <tr><td class="name-col">Carlos Carreira</td><td>Político do PSD.</td></tr>
+            <tr><td class="name-col">Carlos Cunha</td><td>Ator popular, comédia tradicional.</td></tr>
+            <tr><td class="name-col">Carlos Manuel</td><td>Glória do futebol, conservadorismo popular.</td></tr>
+            <tr><td class="name-col">Carlos Nunes (Zorlak)</td><td>Gamer, discurso agressivo e anti-politicamente correto.</td></tr>
+            <tr><td class="name-col">Carlos Peres Dias</td><td>Médico/Opinião, posições conservadoras.</td></tr>
+            <tr><td class="name-col">Carminho</td><td>Fado tradicional, religiosidade católica, monárquica.</td></tr>
+            <tr><td class="name-col">Carolina Monteverde</td><td>Alta sociedade, valores de elite.</td></tr>
+            <tr><td class="name-col">Carolina Patrocínio</td><td>Elite social, valores de família tradicional e privada.</td></tr>
+            <tr><td class="name-col">Catarina Gouveia</td><td>Influencer lifestyle, foco na estética e família perfeita.</td></tr>
+            <tr><td class="name-col">Catarina Miranda</td><td>Radialista/Comentadora, opiniões focadas no indivíduo.</td></tr>
+            <tr><td class="name-col">Cátia Nobre</td><td>Jornalismo CMTV, foco em segurança e crime.</td></tr>
+            <tr><td class="name-col">Cátia Palhinha</td><td>Figura popular rural, valores simples e tradicionais.</td></tr>
+            <tr><td class="name-col">Cavaco Silva</td><td>Ícone do PSD.</td></tr>
+            <tr><td class="name-col">Celso Lascasas</td><td>Empresário industrial, liberalismo económico.</td></tr>
+            <tr><td class="name-col">César Augusto Moniz</td><td>Maestro, associado a eventos institucionais e tradição.</td></tr>
+            <tr><td class="name-col">Chef Olivier</td><td>Empresário, crítico de impostos e burocracia.</td></tr>
+            <tr><td class="name-col">Cinha Jardim</td><td>Socialite, apoio ao CDS/Chega, conservadora.</td></tr>
+            <tr><td class="name-col">Clara de Sousa</td><td>Pivot, institucionalismo, equilíbrio conservador.</td></tr>
+            <tr><td class="name-col">Cláudia Borges</td><td>Apresentadora Fama Show, mundo da moda e luxo.</td></tr>
+            <tr><td class="name-col">Cláudia Jacques</td><td>Socialite do Norte, valores de elite e aparência.</td></tr>
+            <tr><td class="name-col">Cláudia Nayara</td><td>Comércio popular, empreendedorismo informal, anti-sistema fiscal.</td></tr>
+            <tr><td class="name-col">Cláudia Vieira</td><td>Mainstream TV, imagem de marca segura e familiar.</td></tr>
+            <tr><td class="name-col">Cláudio Almeida</td><td>Contexto provável de media/gestão.</td></tr>
+            <tr><td class="name-col">Cláudio André</td><td>Ex-Reality Show, foco em imagem e ego.</td></tr>
+            <tr><td class="name-col">Cláudio Ramos</td><td>Conservador nos costumes (apesar da orientação), religioso, populista.</td></tr>
+            <tr><td class="name-col">Cláudio Viana</td><td>Personal Trainer, discurso anti-vacinas e liberdade individual radical.</td></tr>
+            <tr><td class="name-col">Conceição Currito</td><td>Atriz clássica, valores tradicionais.</td></tr>
+            <tr><td class="name-col">Cristiana Graça</td><td>Meio digital/influencer.</td></tr>
+            <tr><td class="name-col">Cristiana Jesus</td><td>Dança/Enterteinment, valores de família tradicional e negócio.</td></tr>
+            <tr><td class="name-col">Cristiano Ronaldo</td><td>Mérito individual, patriotismo, conservadorismo.</td></tr>
+            <tr><td class="name-col">Cristina Ferreira</td><td>Empresária de sucesso, narrativa de meritocracia capitalista.</td></tr>
+            <tr><td class="name-col">Cristina Real</td><td>Moda/Design, elite comercial.</td></tr>
+            <tr><td class="name-col">Cristina Rodrigues</td><td>Ex-PAN, atual assessora do Chega.</td></tr>
+            <tr><td class="name-col">Cuca Roseta</td><td>Fado, religiosidade, yoga (espiritualidade individual), elite social.</td></tr>
+            <tr><td class="name-col">D4rkFrame</td><td>YouTuber, humor "edgy", público jovem masculino, cultura internet (anti-woke).</td></tr>
+            <tr><td class="name-col">Daniela Dias</td><td>Influencer/Moda.</td></tr>
+            <tr><td class="name-col">Daniel Gregório</td><td>Empresário stand de carros, "self-made man".</td></tr>
+            <tr><td class="name-col">Daniel Monteiro</td><td>GNR (Forças de Segurança), ordem e autoridade.</td></tr>
+            <tr><td class="name-col">Daniel Nascimento</td><td>Comentador social, visão elitista da sociedade.</td></tr>
+            <tr><td class="name-col">Daniel Oliveira (apresentador)</td><td>Diretor SIC, institucional, gestão, foco em audiências generalistas.</td></tr>
+            <tr><td class="name-col">Dani Salles</td><td>Influencer brasileiro, valores estéticos.</td></tr>
+            <tr><td class="name-col">Dany Lisbon</td><td>Entretenimento noturno/Moda.</td></tr>
+            <tr><td class="name-col">David Araújo</td><td>Perfil desportivo/comercial.</td></tr>
+            <tr><td class="name-col">David Carreira</td><td>Pop star, família Carreira, apolítico/comercial.</td></tr>
+            <tr><td class="name-col">David Cristina</td><td>Humorista mas de base corporativa/financeira.</td></tr>
+            <tr><td class="name-col">David Soares (David GYT)</td><td>Forex/Cripto, capitalismo agressivo, "fique rico rápido".</td></tr>
+            <tr><td class="name-col">David Vieira</td><td>Perfil de moda/imagem.</td></tr>
+            <tr><td class="name-col">Débora Monteiro</td><td>Atriz de comédia popular, imagem comercial.</td></tr>
+            <tr><td class="name-col">Diana Chaves</td><td>Apresentadora day-time, família tradicional, institucional.</td></tr>
+            <tr><td class="name-col">Dina Aguiar</td><td>Portugal profundo, pintura, valores espirituais/tradicionais.</td></tr>
+            <tr><td class="name-col">Dina Guedes</td><td>Reality show, valores conservadores de relacionamento.</td></tr>
+            <tr><td class="name-col">Diogo Morgado</td><td>Carreira internacional (EUA/Bíblia), valores cristãos.</td></tr>
+            <tr><td class="name-col">Diogo Sena</td><td>Entretenimento digital, comercial.</td></tr>
+            <tr><td class="name-col">Dolores Aveiro</td><td>Matriarca, religiosidade, valores tradicionais madeirenses.</td></tr>
+            <tr><td class="name-col">Domingos José</td><td>Contexto provável de gestão/tradicional.</td></tr>
+            <tr><td class="name-col">Donald Trump</td><td>Líder Republicano (EUA).</td></tr>
+            <tr><td class="name-col">Duarte Lima</td><td>Ex-PSD, conservadorismo.</td></tr>
+            <tr><td class="name-col">Duarte Siopa</td><td>Apresentador CMTV, público conservador e popular.</td></tr>
+            <tr><td class="name-col">Dulce Pontes</td><td>Fado/Música do Mundo, nacionalismo cultural, reservada.</td></tr>
+            <tr><td class="name-col">Edmar Teixeira</td><td>Gay conservador, apoiante de Trump/Brexit (UK).</td></tr>
+            <tr><td class="name-col">Eliana Voigt</td><td>Casados à Primeira Vista, valores tradicionais de casamento.</td></tr>
+            <tr><td class="name-col">Elisabete Figueiredo</td><td>Política local (PSD/CDS provável).</td></tr>
+            <tr><td class="name-col">Elma Aveiro</td><td>Clã Aveiro, ostentação de riqueza, conservadorismo.</td></tr>
+            <tr><td class="name-col">Elsa Pimenta</td><td>Moda/Empresária.</td></tr>
+            <tr><td class="name-col">Eusébio</td><td>Símbolo nacional do Estado Novo e democracia, conservador institucional.</td></tr>
+            <tr><td class="name-col">Fábio</td><td>Nome genérico: tendência estatística para desporto/reality.</td></tr>
+            <tr><td class="name-col">Fábio Coentrão</td><td>Futebol, pesca, valores de trabalho árduo e família tradicional.</td></tr>
+            <tr><td class="name-col">Fábio Paim</td><td>Futebol, foco em fama e dinheiro rápido (mesmo que falhado).</td></tr>
+            <tr><td class="name-col">Fábio Teles</td><td>Desporto/Fitness.</td></tr>
+            <tr><td class="name-col">Fanny Rodrigues</td><td>"Belle Portugaise", emigração, valores populares de sucesso.</td></tr>
+            <tr><td class="name-col">Fátima Campos Ferreira</td><td>Jornalista, debate "Prós e Contras", institucionalismo de elite.</td></tr>
+            <tr><td class="name-col">Fátima Lopes (apresentadora)</td><td>Espiritualidade, Fátima (religião), público sénior.</td></tr>
+            <tr><td class="name-col">Felipa Garnel</td><td>Socialite, elite de Lisboa, gestão de media.</td></tr>
+            <tr><td class="name-col">Fernanda Brito</td><td>Desporto (Ténis), elite.</td></tr>
+            <tr><td class="name-col">Fernanda Serrano</td><td>Atriz mainstream, imagem de família, apolítica/moderada.</td></tr>
+            <tr><td class="name-col">Fernando Madureira (macaco)</td><td>Líder de claque, estrutura de poder hierárquica e tribal.</td></tr>
+            <tr><td class="name-col">Fernando Mendes</td><td>Popular, "Preço Certo", amado pelo povo conservador/rural.</td></tr>
+            <tr><td class="name-col">Fernando Nobre</td><td>AMI, mas deriva recente para posições negacionistas/anti-sistema de direita.</td></tr>
+            <tr><td class="name-col">Fernando Nogueira (Bruxo de Fafe)</td><td>Esoterismo popular, tradição rural.</td></tr>
+            <tr><td class="name-col">Fernando Pereira</td><td>Cantor de variedades, entretenimento clássico.</td></tr>
+            <tr><td class="name-col">Fernando Pessoa</td><td>Conservador, monárquico, elitista (apesar da complexidade).</td></tr>
+            <tr><td class="name-col">Fernando Pimenta</td><td>Atleta olímpico, patriotismo, foco no mérito.</td></tr>
+            <tr><td class="name-col">Fernando Rocha (Maria Vieira)</td><td>Militante do Chega, impulsionador das redes sociais da esposa.</td></tr>
+            <tr><td class="name-col">Fernando Seara</td><td>Histórico do PSD e autarca.</td></tr>
+            <tr><td class="name-col">Filipa Castro</td><td>Comentadora social, ex-mulher de futebolista, valores de imagem.</td></tr>
+            <tr><td class="name-col">Filipa Torrinha Nunes</td><td>Psicóloga/Comentadora, valores focados no indivíduo e estética.</td></tr>
+            <tr><td class="name-col">Filipe Peres (Pipas)</td><td>Ligado a movimentos religiosos ou tradicionais.</td></tr>
+            <tr><td class="name-col">Filipe Vilarinho</td><td>Love on Top, empresário, foco em sucesso material.</td></tr>
+            <tr><td class="name-col">Filomena Dias</td><td>Figura de media popular.</td></tr>
+            <tr><td class="name-col">Flávio Furtado</td><td>Comentador, self-made man, conservador em certos costumes.</td></tr>
+            <tr><td class="name-col">Francisco M. Pereira (Kacha)</td><td>Música pop (D.A.M.A), elite social de Lisboa ("betos").</td></tr>
+            <tr><td class="name-col">Francisco Menezes</td><td>Humorista, posições críticas à "ditadura do politicamente correto".</td></tr>
+            <tr><td class="name-col">Francisco Monteiro</td><td>Vencedor BB, família de direita (irmão de João Monteiro), elite do Norte.</td></tr>
+            <tr><td class="name-col">Francisco Nunes</td><td>Life coach, discurso de meritocracia e responsabilidade individual.</td></tr>
+            <tr><td class="name-col">Francisco Pedro Balsemão</td><td>CEO Impresa, elite empresarial e política (PSD).</td></tr>
+            <tr><td class="name-col">Francisco Penin</td><td>Gestão de media, TV.</td></tr>
+            <tr><td class="name-col">Francisco Pinto Balsemão</td><td>Fundador do PSD.</td></tr>
+            <tr><td class="name-col">Francisco Rodrigues dos Santos</td><td>Ex-Líder do CDS (Chicão).</td></tr>
+            <tr><td class="name-col">Fred Canto e Castro</td><td>Empreendedorismo, discurso motivacional corporativo.</td></tr>
+            <tr><td class="name-col">Frederico Canto e Castro (Fred)</td><td>Mesmo que acima (Empreendedorismo).</td></tr>
+            <tr><td class="name-col">Frederico Varandas</td><td>Presidente Sporting, militar, elite social.</td></tr>
+            <tr><td class="name-col">Fred Gomes</td><td>Reality/Desporto.</td></tr>
+            <tr><td class="name-col">Georgina Rodríguez</td><td>Luxo, consumo, apoio a CR7, valores tradicionais de família.</td></tr>
+            <tr><td class="name-col">Gisela Serrano</td><td>"Mulher Furacão", valores de autoridade e resposta direta.</td></tr>
+            <tr><td class="name-col">Gonçalo Maya</td><td>Apresentador/Moda, elite social.</td></tr>
+            <tr><td class="name-col">Gonçalo Mello</td><td>Stylist, mundo da moda e luxo.</td></tr>
+            <tr><td class="name-col">Gonçalo Quinaz</td><td>Ex-futebolista, comentador, valores tradicionais de masculinidade.</td></tr>
+            <tr><td class="name-col">Gonçalo Uva</td><td>Rugby, elite social, marido de Carolina Patrocínio.</td></tr>
+            <tr><td class="name-col">Graça Peralta</td><td>Casados à Primeira Vista, empresária, valores conservadores.</td></tr>
+            <tr><td class="name-col">Guilherme Leite</td><td>Ator, ex-deputado PSD.</td></tr>
+            <tr><td class="name-col">Gustavo Santos</td><td>Coaching, discurso de liberdade individual radical (anti-sistema direita).</td></tr>
+            <tr><td class="name-col">Héctor Herrera</td><td>Futebolista, elite desportiva.</td></tr>
+            <tr><td class="name-col">Hélder Tavares</td><td>Animador rádio, entretenimento mainstream.</td></tr>
+            <tr><td class="name-col">Hélder Teixeira</td><td>BB, comportamento machista tradicional e polémico.</td></tr>
+            <tr><td class="name-col">Helena Coelho</td><td>Influencer de beleza, foco no consumo e mercado.</td></tr>
+            <tr><td class="name-col">Helena Isabel</td><td>Jurista/Comentadora, posições conservadoras sobre justiça e sociedade.</td></tr>
+            <tr><td class="name-col">Henrique Gouveia e Melo</td><td>Militar (Almirante), ordem, disciplina, apolítico mas de direita institucional.</td></tr>
+            <tr><td class="name-col">Herman José</td><td>Elitista, conservador nos valores institucionais, liberal na economia.</td></tr>
+            <tr><td class="name-col">Hernâni Carvalho</td><td>Segurança, criminalidade, justiça punitiva.</td></tr>
+            <tr><td class="name-col">Hugo Mendes</td><td>Comentador social, entretenimento.</td></tr>
+            <tr><td class="name-col">Hugo Oliveira</td><td>Coach de relacionamentos, valores tradicionais.</td></tr>
+            <tr><td class="name-col">Hugo Strada</td><td>Gestão de influencers, foco em lucro e imagem (polémico).</td></tr>
+            <tr><td class="name-col">Humberto Bernardo</td><td>Apresentador clássico.</td></tr>
+            <tr><td class="name-col">Humberto Simões</td><td>Reality show, popular.</td></tr>
+            <tr><td class="name-col">Iara Dias</td><td>Reality/Modelo.</td></tr>
+            <tr><td class="name-col">Idevor Mendonça</td><td>Apresentador TVI, perfil institucional.</td></tr>
+            <tr><td class="name-col">Iker Casillas</td><td>Futebolista de elite, conservador espanhol moderado.</td></tr>
+            <tr><td class="name-col">Inês Nunes</td><td>Moda/Imagem.</td></tr>
+            <tr><td class="name-col">Inês Simões</td><td>Comentadora, política (chegou a estar ligada ao Chega brevemente).</td></tr>
+            <tr><td class="name-col">Isaac Alfaiate</td><td>Ator/Modelo, foco em fitness e imagem.</td></tr>
+            <tr><td class="name-col">Isabel dos Santos</td><td>Empresária, filha de ex-ditador, capitalismo oligárquico.</td></tr>
+            <tr><td class="name-col">Isabel Figueira</td><td>Apresentadora/DJ, entretenimento comercial.</td></tr>
+            <tr><td class="name-col">Isabel Silva</td><td>Empresária (Incansável), foco em produtividade e marcas.</td></tr>
+            <tr><td class="name-col">Isaltino Morais</td><td>Autarca de Oeiras, centro-direita desenvolvimentista.</td></tr>
+            <tr><td class="name-col">Isa Moreira</td><td>Reality/Música popular.</td></tr>
+            <tr><td class="name-col">Iva Lamarão</td><td>Apresentadora Fama Show, moda e consumo.</td></tr>
+            <tr><td class="name-col">Jair Bolsonaro</td><td>Ex-Presidente do Brasil (Extrema-Direita).</td></tr>
+            <tr><td class="name-col">Jéssica Antunes</td><td>Influencer, lifestyle, família.</td></tr>
+            <tr><td class="name-col">Joana Amaral Dias</td><td>Candidata ADN, viragem para o nacionalismo/soberanismo conservador.</td></tr>
+            <tr><td class="name-col">Joana Cruz</td><td>RFM, entretenimento mainstream, apolítica.</td></tr>
+            <tr><td class="name-col">Joana Dias</td><td>Astrologia/Espiritualidade comercial.</td></tr>
+            <tr><td class="name-col">Joana Diniz</td><td>Reality, esteticismo, valores popular.</td></tr>
+            <tr><td class="name-col">Joana Latino</td><td>Jornalista/Comentadora de moda, posições críticas a excessos do PC.</td></tr>
+            <tr><td class="name-col">Joana Mascarenhas</td><td>Influencer "Mãe rigorosa", polémica por métodos autoritários.</td></tr>
+            <tr><td class="name-col">Joana Ricardo Silva</td><td>Contexto jurídico/empresarial.</td></tr>
+            <tr><td class="name-col">Joana Schreyer</td><td>Reality, casal reality, foco em imagem.</td></tr>
+            <tr><td class="name-col">Joana Teles</td><td>Apresentadora RTP, institucional, família.</td></tr>
+            <tr><td class="name-col">João Araújo</td><td>Advogado (famoso por Sócrates, mas perfil de elite/poder).</td></tr>
+            <tr><td class="name-col">João Baião</td><td>Animador popular, conservador nos costumes, amado pelas massas tradicionais.</td></tr>
+            <tr><td class="name-col">João Barbosa (Numeiro)</td><td>YouTuber, apostas, carros, dinheiro rápido (valores capitalistas).</td></tr>
+            <tr><td class="name-col">João Borges</td><td>Comentador económico, moderado.</td></tr>
+            <tr><td class="name-col">João Cotrim de Figueiredo</td><td>Iniciativa Liberal.</td></tr>
+            <tr><td class="name-col">João Félix</td><td>Futebolista, milionário jovem, apolítico.</td></tr>
+            <tr><td class="name-col">João Fernando Ramos</td><td>Jornalista, perfil institucional conservador.</td></tr>
+            <tr><td class="name-col">João Montez</td><td>Apresentador TVI, entretenimento comercial.</td></tr>
+            <tr><td class="name-col">João Moreira</td><td>Irmão de Francisco Monteiro, ténis, elite do Norte.</td></tr>
+            <tr><td class="name-col">João Patrício</td><td>Diretor TVI, braço direito de Cristina Ferreira.</td></tr>
+            <tr><td class="name-col">João Paulo Rodrigues</td><td>Humor popular, entretenimento de massas.</td></tr>
+            <tr><td class="name-col">João Paulo Sousa</td><td>Apresentador, comercial, institucional.</td></tr>
+            <tr><td class="name-col">João Pedro Pais</td><td>Música pop-rock romântica, público tradicional.</td></tr>
+            <tr><td class="name-col">João Rendeiro</td><td>Banqueiro, elite financeira, criminalidade de colarinho branco.</td></tr>
+            <tr><td class="name-col">João Seabra</td><td>Ventríloquo, humor popular/tradicional.</td></tr>
+            <tr><td class="name-col">Joaquim Sousa Martins</td><td>Jornalista desportivo, conservador.</td></tr>
+            <tr><td class="name-col">Joe Berardo</td><td>Empresário, elite financeira, especulação.</td></tr>
+            <tr><td class="name-col">Jorge Andrade</td><td>Futebol, conservadorismo desportivo.</td></tr>
+            <tr><td class="name-col">Jorge do Frango da Guia</td><td>Restauração de elite, conhecido socialmente na direita de Cascais.</td></tr>
+            <tr><td class="name-col">Jorge Gabriel</td><td>Apresentador RTP, institucional, PSD local (Porto Santo).</td></tr>
+            <tr><td class="name-col">Jorge Jesus</td><td>Futebol, autoritarismo, "velha guarda".</td></tr>
+            <tr><td class="name-col">Jorge Kapinha</td><td>TikTok, entretenimento infantil/familiar, comercial.</td></tr>
+            <tr><td class="name-col">Jorge Nuno Pinto da Costa</td><td>Presidente FCP, poder regional, conservadorismo.</td></tr>
+            <tr><td class="name-col">José Alberto Carvalho</td><td>Jornalista, perceção de centro-direita "beto".</td></tr>
+            <tr><td class="name-col">José Calado</td><td>Comentador CMTV, valores conservadores e polémica.</td></tr>
+            <tr><td class="name-col">José Carlos Araújo</td><td>Radialista, entretenimento popular.</td></tr>
+            <tr><td class="name-col">José Carlos Castro</td><td>Jornalista CMTV, foco em linha editorial sensacionalista/segurança.</td></tr>
+            <tr><td class="name-col">José Carlos Pereira</td><td>Médico/Ator, perfil de elite social.</td></tr>
+            <tr><td class="name-col">José Castelo Branco</td><td>Monárquico, elitista, "Tia de Cascais".</td></tr>
+            <tr><td class="name-col">José Cid</td><td>Monárquico, anarco-conservador, crítico da esquerda política.</td></tr>
+            <tr><td class="name-col">José Eduardo Moniz</td><td>Gestor de Media, ideologia comercial e conservadora.</td></tr>
+            <tr><td class="name-col">José Eduardo Pinto da Costa</td><td>Legista, irmão de Pinto da Costa, elite do Porto.</td></tr>
+            <tr><td class="name-col">José Figueiras</td><td>Apresentador popular, entretenimento puro.</td></tr>
+            <tr><td class="name-col">José Gomes Ferreira</td><td>Jornalista, cruzada contra impostos e Estado.</td></tr>
+            <tr><td class="name-col">José Gouveia</td><td>Empresário da noite, crítico das restrições COVID, direita popular.</td></tr>
+            <tr><td class="name-col">José Lopes</td><td>Comentador social, fã de reality, cultura pop comercial.</td></tr>
+            <tr><td class="name-col">José Luís Cardoso</td><td>Casados à Primeira Vista, "Conde", valores tradicionais e machistas.</td></tr>
+            <tr><td class="name-col">José Luís Fernandes</td><td>Gestão.</td></tr>
+            <tr><td class="name-col">José Malhoa</td><td>Pimba, popular, festas rurais (eleitorado conservador).</td></tr>
+            <tr><td class="name-col">José Maria Ricciardi</td><td>Banqueiro, Espírito Santo, elite financeira.</td></tr>
+            <tr><td class="name-col">José Mourinho</td><td>Católico, conservador, elitista.</td></tr>
+            <tr><td class="name-col">José Nunes</td><td>Comentador desportivo, humor popular.</td></tr>
+            <tr><td class="name-col">José Pacheco Pereira</td><td>Histórico do PSD (embora crítico da liderança atual).</td></tr>
+            <tr><td class="name-col">José Peseiro</td><td>Treinador, perfil técnico e conservador.</td></tr>
+            <tr><td class="name-col">José Pinto Coelho</td><td>Líder do Ergue-te (Extrema-Direita Nacionalista).</td></tr>
+            <tr><td class="name-col">José Rodrigues dos Santos</td><td>Romances com teses anti-marxistas e liberais.</td></tr>
+            <tr><td class="name-col">Judite Sousa</td><td>Jornalista de elite, valores institucionais.</td></tr>
+            <tr><td class="name-col">Juíz Hélder Fráguas</td><td>Figura de autoridade, "O Juiz Decide", lei e ordem.</td></tr>
+            <tr><td class="name-col">Julen Lopetegui</td><td>Treinador, elite desportiva.</td></tr>
+            <tr><td class="name-col">Júlia Palha</td><td>Atriz, imagem associada a marcas de luxo e lifestyle.</td></tr>
+            <tr><td class="name-col">Julia Pinheiro</td><td>Diretora SIC, assumidamente de centro-direita (já apoiou PSD).</td></tr>
+            <tr><td class="name-col">Júlio Isidro</td><td>Institucional, monárquico/conservador nos valores.</td></tr>
+            <tr><td class="name-col">Kátia Aveiro</td><td>Apoiante de Bolsonaro, valores religiosos e conservadores.</td></tr>
+            <tr><td class="name-col">Kelly Bailey</td><td>Atriz, "It Girl", comercial e apolítica.</td></tr>
+            <tr><td class="name-col">Lara Moniz</td><td>Influencer, BB, foco em mindset e crescimento individual.</td></tr>
+            <tr><td class="name-col">Laura Figueiredo</td><td>Influencer, família Carreira, comercial.</td></tr>
+            <tr><td class="name-col">Leandro Portugal</td><td>Música romântica, público popular conservador.</td></tr>
+            <tr><td class="name-col">Léo Caeiro</td><td>Comentador CMTV, polémico, conservador social.</td></tr>
+            <tr><td class="name-col">Leonor Santos</td><td>Genérico/Social.</td></tr>
+            <tr><td class="name-col">Liliana Aguiar</td><td>Socialite, valores de aparência e mercado.</td></tr>
+            <tr><td class="name-col">Liliana Campos</td><td>Passadeira Vermelha, socialite, comercial.</td></tr>
+            <tr><td class="name-col">Liliana Filipa</td><td>Empresária de sucesso pós-reality, capitalismo digital.</td></tr>
+            <tr><td class="name-col">Lili Caneças</td><td>Rainha do Jet Set, direita social clássica.</td></tr>
+            <tr><td class="name-col">Ljubomir Stanisic</td><td>Crítico do Estado, defensor da iniciativa privada radical.</td></tr>
+            <tr><td class="name-col">Lourenço Martins</td><td>Desporto.</td></tr>
+            <tr><td class="name-col">Lourenço Ortigão</td><td>Ator, empresário (restauração), perfil comercial.</td></tr>
+            <tr><td class="name-col">Luciana Abreu</td><td>Entretenimento popular, conservadora na educação das filhas, religiosa.</td></tr>
+            <tr><td class="name-col">Luisão</td><td>Futebol, religião (Atletas de Cristo), conservador.</td></tr>
+            <tr><td class="name-col">Luís Filipe Vieira</td><td>Empresário, ligações ao PSD, elite do futebol.</td></tr>
+            <tr><td class="name-col">Luís Forinho</td><td>Comentador popular.</td></tr>
+            <tr><td class="name-col">Luis Maia</td><td>Repórter criminalidade, foco em segurança.</td></tr>
+            <tr><td class="name-col">Luís Marques Mendes</td><td>Comentador, ex-líder PSD.</td></tr>
+            <tr><td class="name-col">Luís Montenegro</td><td>Primeiro-Ministro (PSD).</td></tr>
+            <tr><td class="name-col">Lurdes Baeta</td><td>Jornalista TVI, perfil institucional.</td></tr>
+            <tr><td class="name-col">Macário Correia</td><td>Ex-Autarca PSD.</td></tr>
+            <tr><td class="name-col">Madalena Abecasis</td><td>Influencer "Tia", elite de Cascais, politicamente incorreta (direita social).</td></tr>
+            <tr><td class="name-col">Mafalda Castro</td><td>Influencer/Apresentadora, foco em marcas e consumo.</td></tr>
+            <tr><td class="name-col">Manuel Cajuda</td><td>Treinador, conservadorismo popular.</td></tr>
+            <tr><td class="name-col">Manuel Fernandes</td><td>Glória do Sporting, conservadorismo desportivo.</td></tr>
+            <tr><td class="name-col">Manuel Luís Goucha</td><td>Apoio à IL e PSD, liberalismo económico.</td></tr>
+            <tr><td class="name-col">Manuel Marques</td><td>Humor, mas de família conservadora/elite.</td></tr>
+            <tr><td class="name-col">Manuel Pinto Coelho</td><td>Médico, posições polémicas conservadoras, anti-mainstream científico.</td></tr>
+            <tr><td class="name-col">Manuel Serrão</td><td>Empresário têxtil, comentador desportivo, burguesia do Porto.</td></tr>
+            <tr><td class="name-col">Marcel Keizer</td><td>Treinador, pragmatismo holandês.</td></tr>
+            <tr><td class="name-col">Marcelo Rebelo de Sousa</td><td>Presidente da República (origem PSD).</td></tr>
+            <tr><td class="name-col">Marco Costa</td><td>Empresário, cultura de trabalho duro, meritocracia.</td></tr>
+            <tr><td class="name-col">Marco Horácio</td><td>Humor popular, apolítico.</td></tr>
+            <tr><td class="name-col">Marco Paulo</td><td>Ícone da música popular, conservador, audiência tradicional.</td></tr>
+            <tr><td class="name-col">Marcos Pinto</td><td>Jornalista, perfil sóbrio.</td></tr>
+            <tr><td class="name-col">Marco Turco</td><td>Ex-presidiário mediático, anti-sistema.</td></tr>
+            <tr><td class="name-col">Margarida Corceiro</td><td>Influencer, imagem de luxo, elite jovem.</td></tr>
+            <tr><td class="name-col">Margarida Mercês de Mello</td><td>Apresentadora clássica RTP, institucional.</td></tr>
+            <tr><td class="name-col">Margarida Oliveira</td><td>TikTok, comercial.</td></tr>
+            <tr><td class="name-col">Maria Botelho Moniz</td><td>Apresentadora, origens familiares conservadoras/elite.</td></tr>
+            <tr><td class="name-col">Maria Cerqueira Gomes</td><td>Família rica do Porto, elite social, apolítica.</td></tr>
+            <tr><td class="name-col">Maria da Luz</td><td>Figura popular/tradicional.</td></tr>
+            <tr><td class="name-col">Maria das Dores</td><td>Socialite (caso crime), elite.</td></tr>
+            <tr><td class="name-col">Maria do Céu Santo</td><td>Médica (ginecologia), figura de autoridade na TV.</td></tr>
+            <tr><td class="name-col">Maria Dominguez</td><td>Apresentadora, comercial.</td></tr>
+            <tr><td class="name-col">Maria Helena</td><td>Taróloga, público conservador e crente.</td></tr>
+            <tr><td class="name-col">Maria Helena Costa</td><td>Perfil semelhante (esotérico popular).</td></tr>
+            <tr><td class="name-col">Maria Helena Martins</td><td>Taróloga, valores tradicionais.</td></tr>
+            <tr><td class="name-col">Maria Leal</td><td>Pop trash, elite excêntrica (origens), alienação política.</td></tr>
+            <tr><td class="name-col">Mariana Azevedo</td><td>Futebol feminino, mas perfil discreto.</td></tr>
+            <tr><td class="name-col">Mariana Ribeiro</td><td>Media/Comercial.</td></tr>
+            <tr><td class="name-col">Maria Vieira</td><td>Militante do Chega, Extrema-Direita assumida.</td></tr>
+            <tr><td class="name-col">Mario Ferreira</td><td>Dono da TVI, cruzeiros, capitalismo global, liberal.</td></tr>
+            <tr><td class="name-col">Mário Jardel</td><td>Ex-Futebolista, PSD, valores religiosos (Brasil).</td></tr>
+            <tr><td class="name-col">Marisa Cruz</td><td>Apresentadora, moda, comercial.</td></tr>
+            <tr><td class="name-col">Marta Cardoso</td><td>Apresentadora BB, institucional reality, pragmática.</td></tr>
+            <tr><td class="name-col">Marta Gautier</td><td>Psicóloga, livros de auto-ajuda, valores conservadores de família "beta".</td></tr>
+            <tr><td class="name-col">Martin Torres</td><td>Música popular.</td></tr>
+            <tr><td class="name-col">Matthias Schmelz</td><td>Milionário, elite financeira, escândalos sexuais (poder).</td></tr>
+            <tr><td class="name-col">Maya</td><td>Taróloga, noite social, valores de direita popular.</td></tr>
+            <tr><td class="name-col">Mickael Carreira</td><td>Pop latino, comercial, família Carreira.</td></tr>
+            <tr><td class="name-col">Miguel Costa</td><td>Ator/Repórter, entretenimento familiar, apolítico.</td></tr>
+            <tr><td class="name-col">Miguel Gameiro</td><td>Música pop-rock, cozinheiro, empreendedor.</td></tr>
+            <tr><td class="name-col">Miguel Milhão</td><td>Fundador Prozis, libertário, conservador (anti-aborto).</td></tr>
+            <tr><td class="name-col">Miguel Pinto Luz</td><td>Ministro do PSD.</td></tr>
+            <tr><td class="name-col">Miguel Relvas</td><td>Ex-Ministro PSD.</td></tr>
+            <tr><td class="name-col">Miguel Silva (Jingle Lee)</td><td>Entretenimento/Comercial.</td></tr>
+            <tr><td class="name-col">Miguel Sousa Tavares</td><td>Conservador, elitista, crítico da "geração woke".</td></tr>
+            <tr><td class="name-col">Miguel Vicente</td><td>Vencedor BB, masculinidade tóxica (perceção), individualismo.</td></tr>
+            <tr><td class="name-col">Milene Martins</td><td>Media/Comercial.</td></tr>
+            <tr><td class="name-col">Mónica Jardim</td><td>Apresentadora TVI, comercial, elite social.</td></tr>
+            <tr><td class="name-col">Mónica Sintra</td><td>Música ligeira, bombeiros (ordem), popular.</td></tr>
+            <tr><td class="name-col">Nádia Lopes</td><td>Reality, polémicas pessoais.</td></tr>
+            <tr><td class="name-col">Neymar Júnior</td><td>Apoiante de Bolsonaro.</td></tr>
+            <tr><td class="name-col">Nilton</td><td>Humorista corporate, moderado, não disruptivo.</td></tr>
+            <tr><td class="name-col">Nuno Eiró</td><td>Apresentador popular, entretenimento ligeiro.</td></tr>
+            <tr><td class="name-col">Nuno Graciano</td><td>Candidato pelo Chega à CM Lisboa.</td></tr>
+            <tr><td class="name-col">Nuno Luz</td><td>Jornalista desportivo, comercial.</td></tr>
             <tr><td class="name-col">Nuno Melo</td><td>Líder do CDS-PP.</td></tr>
-            <tr><td class="name-col">Paulo Portas</td><td>Antigo líder do CDS-PP.</td></tr>
-            <tr><td class="name-col">Quim Barreiros</td><td>Cultura popular rural e ligações a autarquias do PSD.</td></tr>
-            <tr><td class="name-col">Rui Moreira</td><td>Autarca independente de cariz liberal e burguês.</td></tr>
-            <tr><td class="name-col">Suzana Garcia</td><td>Defesa da segurança e autoridade (PSD).</td></tr>
-            <tr><td class="name-col">Teresa Guilherme</td><td>Empreendedorismo e pragmatismo de mercado.</td></tr>
-            <tr><td class="name-col">Tony Carreira</td><td>Valores de família tradicional e patriotismo romântico.</td></tr>
-            </tbody>
+            <tr><td class="name-col">Nuno Pereira</td><td>Jornalista SIC, foco em gastronomia e tradições nacionais.</td></tr>
+            <tr><td class="name-col">Nuno Queirós</td><td>Gestão/Media.</td></tr>
+            <tr><td class="name-col">Nuno Santos</td><td>Diretor CNN/TVI, gestão de media, poder.</td></tr>
+            <tr><td class="name-col">Oceana Basílio</td><td>Atriz, sex symbol, comercial.</td></tr>
+            <tr><td class="name-col">Olívia Ortiz</td><td>Influencer, luxo, estética.</td></tr>
+            <tr><td class="name-col">Patrícia Carvalho</td><td>Jornalista, institucional.</td></tr>
+            <tr><td class="name-col">Patrícia Domingos</td><td>Enfermeira (Sindicato), mas postura populista anti-sistema.</td></tr>
+            <tr><td class="name-col">Patricia Mota Veiga</td><td>Jornalismo/Lifestyle.</td></tr>
+            <tr><td class="name-col">Paula Bobone</td><td>Socialite, etiqueta, conservadorismo de costumes.</td></tr>
+            <tr><td class="name-col">Paula Paz Dias Ferreira</td><td>Família política (mulher de Passos Coelho, falecida).</td></tr>
+            <tr><td class="name-col">Paulo Battista</td><td>Alfaiate de futebolistas, luxo, meritocracia.</td></tr>
+            <tr><td class="name-col">Paulo Cardoso</td><td>Astrólogo, público tradicional.</td></tr>
+            <tr><td class="name-col">Paulo Futre</td><td>Empresário, marca pessoal, libertário popular.</td></tr>
+            <tr><td class="name-col">Paulo Gonzo</td><td>Música mainstream, público conservador.</td></tr>
+            <tr><td class="name-col">Paulo Paiva dos Santos</td><td>Empresário farmacêutico, elite.</td></tr>
+            <tr><td class="name-col">Paulo Pires</td><td>Ator, imagem de galã clássico, discreto.</td></tr>
+            <tr><td class="name-col">Paulo Portas</td><td>Ex-Líder CDS, comentador globalista/direita.</td></tr>
+            <tr><td class="name-col">Paulo Silver</td><td>Organizador de eventos, elite social.</td></tr>
+            <tr><td class="name-col">Pedro Benevides</td><td>Jornalista TVI, conservador no estilo.</td></tr>
+            <tr><td class="name-col">Pedro Caldeira Júnior</td><td>Tourense, tradições rurais, conservador.</td></tr>
+            <tr><td class="name-col">Pedro Carvalhas</td><td>Jornalista TVI, ruralidade, caça.</td></tr>
+            <tr><td class="name-col">Pedro Chagas Freitas</td><td>Escritor pop, individualismo emocional, comercial.</td></tr>
+            <tr><td class="name-col">Pedro Crispim</td><td>Stylist, comentador mordaz, elitismo fashion.</td></tr>
+            <tr><td class="name-col">Pedro Dias</td><td>Diretor FPF (Futsal), gestão desportiva.</td></tr>
+            <tr><td class="name-col">Pedro Fernandes</td><td>Apresentador, humor inofensivo, família tradicional.</td></tr>
+            <tr><td class="name-col">Pedro Gonçalves</td><td>Pote (Futebol), elite desportiva.</td></tr>
+            <tr><td class="name-col">Pedro Granger</td><td>Apresentador, "beto" de Lisboa, conservador social.</td></tr>
+            <tr><td class="name-col">Pedro Guedes</td><td>Modelo, Kelly Baron, valores estéticos e tradicionais.</td></tr>
+            <tr><td class="name-col">Pedro Guerra</td><td>Comentador Benfica, polémico, estilo agressivo de direita.</td></tr>
+            <tr><td class="name-col">Pedro Henriques</td><td>Ex-árbitro, ordem e regras.</td></tr>
+            <tr><td class="name-col">Pedro Hipólito</td><td>Treinador/Empresário.</td></tr>
+            <tr><td class="name-col">Pedro Lima</td><td>Ator, olímpico, imagem de família perfeita (trágica), elite.</td></tr>
+            <tr><td class="name-col">Pedro Morais Leitão</td><td>CEO, Gestor de topo (Media Capital/Priberam), CDS.</td></tr>
+            <tr><td class="name-col">Pedro Neves de Sousa</td><td>Jornalista CMTV, reportagem de rua.</td></tr>
+            <tr><td class="name-col">Pedro Pinto</td><td>Ex-Jornalista TVI, atual comunicação do Benfica, conservador.</td></tr>
+            <tr><td class="name-col">Pedro Proença</td><td>Presidente Liga, gestão, liberalismo económico.</td></tr>
+            <tr><td class="name-col">Pedro Soá</td><td>BB, "Sou o chefe", autoritarismo, empresário.</td></tr>
+            <tr><td class="name-col">Pedro Sousa</td><td>Jornalista/Apresentador Desporto.</td></tr>
+            <tr><td class="name-col">Pedro Teixeira</td><td>Ator/Apresentador, empresário, mainstream comercial.</td></tr>
+            <tr><td class="name-col">Piers Morgan</td><td>Comentador britânico conservador e anti-woke.</td></tr>
+            <tr><td class="name-col">Quim Barreiros</td><td>Valores tradicionais rurais, brejeirice conservadora.</td></tr>
+            <tr><td class="name-col">Quimbé</td><td>Dobragens, entretenimento.</td></tr>
+            <tr><td class="name-col">Quintino Aires</td><td>Psicólogo, crítico do "politicamente correto", conservador.</td></tr>
+            <tr><td class="name-col">Rafaela Granado</td><td>Influencer, festas.</td></tr>
+            <tr><td class="name-col">Raquel Matos Cruz</td><td>Jornalista, lifestyle real (realeza).</td></tr>
+            <tr><td class="name-col">Raul Minh'alma</td><td>Escritor best-seller, individualismo romântico.</td></tr>
+            <tr><td class="name-col">Rebeca Caldeira</td><td>Media.</td></tr>
+            <tr><td class="name-col">Regina Duarte</td><td>Atriz brasileira, Secretária da Cultura de Bolsonaro.</td></tr>
+            <tr><td class="name-col">Ricardo Azedo</td><td>Podcast "Oh Filhos", entretenimento social.</td></tr>
+            <tr><td class="name-col">Ricardo Carriço</td><td>Ator, cantor, perfil clássico e conservador.</td></tr>
+            <tr><td class="name-col">Ricardo Martins Pereira</td><td>"Arrumadinho", empresário, liberal nos negócios, crítico da esquerda identitária.</td></tr>
+            <tr><td class="name-col">Ricardo Pereira</td><td>Guarda-redes, elite desportiva.</td></tr>
+            <tr><td class="name-col">Ricardo Pereira (ator)</td><td>Ator internacional, imagem comercial impecável.</td></tr>
+            <tr><td class="name-col">Ricardo Salgado</td><td>O rosto do BES, dono disto tudo, elite financeira.</td></tr>
+            <tr><td class="name-col">Ricardo Trêpa</td><td>Ator, neto de Manoel de Oliveira, elite cultural conservadora.</td></tr>
+            <tr><td class="name-col">Riquita da Conceição</td><td>Figura de memes, popular rural.</td></tr>
+            <tr><td class="name-col">Rita Ferro Alvim</td><td>Jornalista/Influencer, família numerosa, valores tradicionais e sustentabilidade chic.</td></tr>
+            <tr><td class="name-col">Rita Mendes</td><td>DJ, relações públicas, eventos.</td></tr>
+            <tr><td class="name-col">Rita Piçarra</td><td>Ex-Microsoft, movimento FIRE, literacia financeira liberal.</td></tr>
+            <tr><td class="name-col">Rita Rodrigues</td><td>Jornalista TVI, institucional.</td></tr>
+            <tr><td class="name-col">Rita Salema</td><td>Atriz, "Tia", valores de família conservadora.</td></tr>
+            <tr><td class="name-col">Rodrigo Paganelli</td><td>Ator, imagem juvenil comercial.</td></tr>
+            <tr><td class="name-col">Rosa Bela</td><td>Atriz, reality, comercial.</td></tr>
+            <tr><td class="name-col">Rosa Grilo</td><td>Mediática por crime, valores distorcidos de ganho financeiro.</td></tr>
+            <tr><td class="name-col">Rosinha</td><td>Música popular brejeira, público conservador.</td></tr>
+            <tr><td class="name-col">Rúben Boa Nova</td><td>Reality, empresário local, pragmático.</td></tr>
+            <tr><td class="name-col">Rúben Rua</td><td>Modelo, apresentador, vaidade, elite da moda do Porto.</td></tr>
+            <tr><td class="name-col">Rúben Semedo</td><td>Futebolista, polémicas legais, ambiente de "gangsta" (valores de força).</td></tr>
+            <tr><td class="name-col">Rui André Soares</td><td>Jornalista CMTV.</td></tr>
+            <tr><td class="name-col">Rui Bandeira</td><td>Música popular, patriota.</td></tr>
+            <tr><td class="name-col">Rui da Fonseca e Castro</td><td>Juiz negacionista, Extrema-Direita (Habeas Corpus).</td></tr>
+            <tr><td class="name-col">Rui Figueiredo</td><td>Reality, "o estratega", racionalidade empresarial.</td></tr>
+            <tr><td class="name-col">Rui Moreira</td><td>Presidente CM Porto, liberal.</td></tr>
+            <tr><td class="name-col">Rui Oliveira Nunes</td><td>Marido de Goucha, empresário agrícola, crítico da esquerda.</td></tr>
+            <tr><td class="name-col">Rui Pedro Vaz</td><td>Modelo/Reality, empresário sementes, discurso de sucesso.</td></tr>
+            <tr><td class="name-col">Rui Pinheiro</td><td>Personal Trainer, culto do corpo, estoicismo.</td></tr>
+            <tr><td class="name-col">Rui Rio</td><td>Ex-Líder PSD.</td></tr>
+            <tr><td class="name-col">Rui Santos</td><td>Comentador desportivo, moralista do futebol, institucional.</td></tr>
+            <tr><td class="name-col">Rui Santos (jornalista)</td><td>O mesmo que acima (duplicado na lista).</td></tr>
+            <tr><td class="name-col">Rui Sinel de Cordes</td><td>Humor negro, libertário absoluto, anti-censura "woke".</td></tr>
+            <tr><td class="name-col">Rui Veloso</td><td>"Chico Fininho", apoiante de candidatos da direita (Cavaco).</td></tr>
+            <tr><td class="name-col">Rui Vitória</td><td>Treinador, "homem de família", conservador.</td></tr>
+            <tr><td class="name-col">Rui Xará</td><td>Humorista stand-up (norte), estilo clássico.</td></tr>
+            <tr><td class="name-col">Rute Marques</td><td>Apresentadora/Modelo anos 90, comercial.</td></tr>
+            <tr><td class="name-col">Rute Rita</td><td>Entretenimento.</td></tr>
+            <tr><td class="name-col">Ruy de Carvalho</td><td>Ator decano, institucional, respeitador da autoridade e tradição.</td></tr>
+            <tr><td class="name-col">Salvador Martinha</td><td>Humorista "beto", assume a sua origem de elite de Lisboa.</td></tr>
+            <tr><td class="name-col">Sancha Trindade</td><td>Blogger de lifestyle, "Tia", elite de Lisboa.</td></tr>
+            <tr><td class="name-col">Sandra Felgueiras</td><td>Jornalista de investigação, filha de autarca PSD, anti-corrupção (foco PS).</td></tr>
+            <tr><td class="name-col">Santana Lopes</td><td>Histórico PSD/Aliança.</td></tr>
+            <tr><td class="name-col">Santiago Lagoá</td><td>Apresentador popular (Somos Portugal), conservador.</td></tr>
+            <tr><td class="name-col">Sara Aleixo</td><td>Atriz/Assistente de bordo, conservadora.</td></tr>
+            <tr><td class="name-col">Serenella Andrade</td><td>RTP, institucional, família conservadora.</td></tr>
+            <tr><td class="name-col">Sérgio Conceição</td><td>Treinador, disciplina férrea, valores de família tradicional e religião.</td></tr>
+            <tr><td class="name-col">Sérgio Ramos</td><td>Futebolista espanhol, tourada, conservadorismo.</td></tr>
+            <tr><td class="name-col">Sérgio Tavares</td><td>Jornalista cidadão/YouTuber, associado à extrema-direita e anti-imigração.</td></tr>
+            <tr><td class="name-col">SirKazzio</td><td>YouTuber, foco em entretenimento e monetização.</td></tr>
+            <tr><td class="name-col">Sofia Arruda</td><td>Atriz/Influencer, foco em família e maternidade tradicional.</td></tr>
+            <tr><td class="name-col">Sofia Cerveira</td><td>Apresentadora, neta de almirante, elite social.</td></tr>
+            <tr><td class="name-col">Sofia Dinis</td><td>Moda/Publicidade.</td></tr>
+            <tr><td class="name-col">Sofia Vasconcelos</td><td>Jornalista TVI, entretenimento.</td></tr>
+            <tr><td class="name-col">Sónia Araújo</td><td>Praça da Alegria, conservadora, institucional Norte.</td></tr>
+            <tr><td class="name-col">Sónia Costa</td><td>Comentadora, cantora popular, opiniões fortes de senso comum.</td></tr>
+            <tr><td class="name-col">Sónia Jesus</td><td>Vendedora ambulante, BB, valores de família tradicional.</td></tr>
+            <tr><td class="name-col">Susana Pinto</td><td>Jornalista TVI, reportagem popular ("Somos Portugal").</td></tr>
+            <tr><td class="name-col">Susana Torres</td><td>Coach de Éder, foco em mindset de sucesso individual.</td></tr>
+            <tr><td class="name-col">Suzana Garcia</td><td>Advogada, candidata PSD, linha dura na justiça.</td></tr>
+            <tr><td class="name-col">Tânia Laranjo</td><td>Jornalista CMTV, foco em crime e corrupção (visão securitária).</td></tr>
+            <tr><td class="name-col">Tânia Líbano</td><td>Jornalismo.</td></tr>
+            <tr><td class="name-col">Tanya</td><td>Cantora popular.</td></tr>
+            <tr><td class="name-col">Tatiana Boa Nova</td><td>Reality, empresária de vestuário, pragmática.</td></tr>
+            <tr><td class="name-col">Teresa Guilherme</td><td>Rainha dos Realitys, liberal, produtora implacável.</td></tr>
+            <tr><td class="name-col">Teresa Paula Marques</td><td>Psicóloga (Supernanny), métodos educativos tradicionais/rigorosos.</td></tr>
+            <tr><td class="name-col">Teresa Stichaner</td><td>Jornalista.</td></tr>
+            <tr><td class="name-col">Tiago Fernandes</td><td>Treinador, filho de Manuel Fernandes, conservador.</td></tr>
+            <tr><td class="name-col">Tiago Jaqueta</td><td>Casados à Primeira Vista, foco no físico e masculinidade.</td></tr>
+            <tr><td class="name-col">Tiago Mellert</td><td>Influencer.</td></tr>
+            <tr><td class="name-col">Tiago Paiva</td><td>YouTuber, humor agressivo, "bros", politicamente incorreto.</td></tr>
+            <tr><td class="name-col">Tiago Saramago (Tiagovski)</td><td>YouTuber, cultura gamer, valores de internet (anti-woke).</td></tr>
+            <tr><td class="name-col">Ticas Graciosa</td><td>Socialite, elite.</td></tr>
+            <tr><td class="name-col">Tony Carreira</td><td>Ícone romântico, self-made man, patriota.</td></tr>
+            <tr><td class="name-col">Toy</td><td>Popular, Setúbal, brejeiro, mas socialmente conservador na estrutura familiar.</td></tr>
+            <tr><td class="name-col">Vanda Stewart</td><td>Alta sociedade.</td></tr>
+            <tr><td class="name-col">Vanessa Martins</td><td>Influencer, empresária, foco no sucesso e wellness comercial.</td></tr>
+            <tr><td class="name-col">Vanessa Oliveira</td><td>Apresentadora, moda, mainstream.</td></tr>
+            <tr><td class="name-col">Vânia Sá</td><td>Reality, DJ, empresária, agressiva nos negócios.</td></tr>
+            <tr><td class="name-col">Virgílio Castelo</td><td>Ator, ex-deputado PSD.</td></tr>
+            <tr><td class="name-col">Vitor Pinto</td><td>Jornalista/Comentador político CMTV (tendência populista).</td></tr>
+            <tr><td class="name-col">Wendel</td><td>Futebolista.</td></tr>
+            <tr><td class="name-col">Windoh</td><td>YouTuber, ostentação de riqueza, cripto, capitalismo digital.</td></tr>
+        </tbody>
     </table>
 
-    <h2 class="bg-esq">Tendência: Esquerda</h2>
+    <div class="section-title title-esq">ESQUERDA (Progressismo, Socialismo, Artes, Causas)</div>
     <table>
-        <thead><tr><th>Nome</th><th>Justificação da Perceção</th></tr></thead>
+        <thead>
+            <tr>
+                <th class="name-col">Nome</th>
+                <th>Justificação da Perceção Pública</th>
+            </tr>
+        </thead>
         <tbody>
-            <tr><td class="name-col">Adelaide Ferreira</td><td>Histórico de música de intervenção e causas sociais.</td></tr>
-            <tr><td class="name-col">Ana Garcia Martins</td><td>Ativismo feminista e liberalismo social progressista.</td></tr>
-            <tr><td class="name-col">Ana Moura</td><td>Alinhamento com causas de justiça social e cultura urbana.</td></tr>
-            <tr><td class="name-col">António Costa</td><td>Ex-líder do Partido Socialista.</td></tr>
-            <tr><td class="name-col">Beatriz Nogueira</td><td>Humorista com crítica ao conservadorismo e religião.</td></tr>
-            <tr><td class="name-col">Bernardo Silva</td><td>Voz crítica de derivas autoritárias e defesa da democracia.</td></tr>
-            <tr><td class="name-col">Bruno Nogueira</td><td>Sátira política direcionada à direita tradicional.</td></tr>
-            <tr><td class="name-col">Carolina Deslandes</td><td>Voz ativa no feminismo e causas progressistas.</td></tr>
-            <tr><td class="name-col">Catarina Furtado</td><td>Trabalho humanitário e defesa de direitos humanos.</td></tr>
-            <tr><td class="name-col">Dino Santiago</td><td>Ativismo central no antirracismo e periferias.</td></tr>
-            <tr><td class="name-col">Diogo Faro</td><td>Ativista assumido de esquerda e causas LGBTQ+.</td></tr>
-            <tr><td class="name-col">Eduardo Barroso</td><td>Ligação histórica ao Partido Socialista.</td></tr>
-            <tr><td class="name-col">Fernando Medina</td><td>Político do PS.</td></tr>
-            <tr><td class="name-col">Greta Thunberg</td><td>Ecologia radical e anticapitalismo.</td></tr>
-            <tr><td class="name-col">Isabel Moreira</td><td>Deputada do PS e defensora de causas fraturantes.</td></tr>
-            <tr><td class="name-col">Joacine Katar Moreira</td><td>Ex-deputada do Livre e ativismo identitário.</td></tr>
-            <tr><td class="name-col">Mariana Mortágua</td><td>Líder do Bloco de Esquerda.</td></tr>
-            <tr><td class="name-col">Nuno Markl</td><td>Valores progressistas e direitos dos animais.</td></tr>
-            <tr><td class="name-col">Pedro Nuno Santos</td><td>Líder do Partido Socialista.</td></tr>
-            <tr><td class="name-col">Raquel Varela</td><td>Historiadora de matriz marxista/laboral.</td></tr>
-            <tr><td class="name-col">Ricardo Quaresma</td><td>Combate ao racismo e oposição pública ao Chega.</td></tr>
-            <tr><td class="name-col">Salvador Sobral</td><td>Posicionamento artístico de rutura e progressista.</td></tr>
-            <tr><td class="name-col">Sam The Kid</td><td>Intervenção social através da cultura Hip-Hop.</td></tr>
-            </tbody>
+            <tr><td class="name-col">Adelaide Ferreira</td><td>Histórico de intervenção política e apoio ao PS/Causas sociais.</td></tr>
+            <tr><td class="name-col">Alexandra Lencastre</td><td>Classe artística, apoio público a causas sociais e liberdade de costumes.</td></tr>
+            <tr><td class="name-col">Alexandra Solnado</td><td>Espiritualidade alternativa, historicamente ligada a valores humanistas.</td></tr>
+            <tr><td class="name-col">Ana Galvão</td><td>Humor, causas ambientais e proteção animal.</td></tr>
+            <tr><td class="name-col">Ana Garcia Martins</td><td>Feminismo, ativismo social e crítica ao conservadorismo.</td></tr>
+            <tr><td class="name-col">Ana Guiomar</td><td>Classe artística, valores urbanos progressistas.</td></tr>
+            <tr><td class="name-col">Ana Markl</td><td>Feminismo, direitos dos animais e pautas progressistas.</td></tr>
+            <tr><td class="name-col">Ana Moura</td><td>Renovação do Fado, inclusão multicultural e causas sociais.</td></tr>
+            <tr><td class="name-col">Ana Sofia</td><td>Geralmente associada a meios artísticos/moda com consciência social.</td></tr>
+            <tr><td class="name-col">Ana Sofia Martins</td><td>Ativismo antirracista e inclusão social.</td></tr>
+            <tr><td class="name-col">André Manuel Vaz</td><td>Ligado a movimentos laborais/associativos (perceção).</td></tr>
+            <tr><td class="name-col">André Silva</td><td>Ex-PAN, causas ambientais e animais.</td></tr>
+            <tr><td class="name-col">Ângelo Rodrigues</td><td>Ator, viagens culturais, abertura a outras culturas e inclusão.</td></tr>
+            <tr><td class="name-col">António Costa</td><td>Secretário-Geral do PS.</td></tr>
+            <tr><td class="name-col">Bárbara Bandeira</td><td>Ícone pop jovem, causas de saúde mental e inclusão.</td></tr>
+            <tr><td class="name-col">Bárbara Branco</td><td>Classe artística, discurso cultural progressista.</td></tr>
+            <tr><td class="name-col">Bárbara Guimarães</td><td>Associada historicamente a figuras do PS (Cultura).</td></tr>
+            <tr><td class="name-col">Bárbara Tinoco</td><td>Defesa de causas feministas e liberdade artística.</td></tr>
+            <tr><td class="name-col">Beatriz Frazão</td><td>Jovem atriz, meio artístico progressista.</td></tr>
+            <tr><td class="name-col">Beatriz Nogueira</td><td>Intervenção cultural e sátira ao conservadorismo.</td></tr>
+            <tr><td class="name-col">Benedita Pereira</td><td>Ativismo social, direitos LGBTQ+ e feminismo.</td></tr>
+            <tr><td class="name-col">Bernardo Silva</td><td>Posições públicas sobre democracia e justiça social.</td></tr>
+            <tr><td class="name-col">Bruno Nogueira</td><td>Humor corrosivo contra a direita conservadora e "betos".</td></tr>
+            <tr><td class="name-col">Carlos Carvalhal</td><td>Treinador com discurso humanista e sensibilidade social atípica no meio.</td></tr>
+            <tr><td class="name-col">Carlos Costa</td><td>Quebra de normas de género, liberdade individual (embora apolítico).</td></tr>
+            <tr><td class="name-col">Carlos Coutinho Vilhena</td><td>Humor cínico sobre elites e convenções sociais.</td></tr>
+            <tr><td class="name-col">Carlos Santos Silva</td><td>Associado a José Sócrates (PS).</td></tr>
+            <tr><td class="name-col">Carolina Deslandes</td><td>Feminismo interseccional, ativismo corpo-positivo.</td></tr>
+            <tr><td class="name-col">Carolina Loureiro</td><td>Geração jovem urbana, valores liberais.</td></tr>
+            <tr><td class="name-col">Catarina Furtado</td><td>Embaixadora ONU, direitos humanos, refugiados.</td></tr>
+            <tr><td class="name-col">César Mourão</td><td>Humor e improviso, sensibilidade artística urbana.</td></tr>
+            <tr><td class="name-col">Clara Não</td><td>Ilustração feminista e de esquerda radical.</td></tr>
+            <tr><td class="name-col">Cláudia Pascoal</td><td>Artista indie, apoio a causas LGBTQ+.</td></tr>
+            <tr><td class="name-col">Conan Osíris</td><td>Rutura estética, multiculturalismo, anti-norma.</td></tr>
+            <tr><td class="name-col">Conceição Lino</td><td>Jornalismo social ("E se fosse consigo?"), causas cívicas.</td></tr>
+            <tr><td class="name-col">Conceição Queiroz</td><td>Ativismo antirracista vincado.</td></tr>
+            <tr><td class="name-col">Dalila Carmo</td><td>Atriz intelectual, causas sociais profundas.</td></tr>
+            <tr><td class="name-col">Daniela Ruah</td><td>Carreira em Hollywood, apoio a Democratas/Causas Sociais.</td></tr>
+            <tr><td class="name-col">Daniel Leitão</td><td>Humorista, ex-Canal Q, esquerda urbana.</td></tr>
+            <tr><td class="name-col">Daniel Oliveira (jornalista)</td><td>Comentador político, ex-Bloco de Esquerda.</td></tr>
+            <tr><td class="name-col">Daniel Sampaio</td><td>Psiquiatra, apoiante histórico do PS e causas sociais.</td></tr>
+            <tr><td class="name-col">Dave Hacke</td><td>Espírito livre, surfista, desapego material (hippie chic).</td></tr>
+            <tr><td class="name-col">Dino Santiago</td><td>Ativista principal do movimento negro e periferias.</td></tr>
+            <tr><td class="name-col">Diogo Amaral</td><td>Meio artístico, abertura sobre saúde mental.</td></tr>
+            <tr><td class="name-col">Diogo Faro</td><td>Ativista político woke, crítico acérrimo da direita.</td></tr>
+            <tr><td class="name-col">Diogo Infante</td><td>Diretor artístico, defesa da cultura pública.</td></tr>
+            <tr><td class="name-col">Diogo Piçarra</td><td>Sensibilidade artística, apoio a causas de inclusão.</td></tr>
+            <tr><td class="name-col">Éder</td><td>História de superação institucional, apoio social.</td></tr>
+            <tr><td class="name-col">Eduardo Barroso</td><td>Médico, sobrinho de Mário Soares, PS histórico.</td></tr>
+            <tr><td class="name-col">Eduardo Madeira</td><td>Humorista de intervenção social.</td></tr>
+            <tr><td class="name-col">Fernando Alvim</td><td>Humor alternativo, rádio pública, cultura indie.</td></tr>
+            <tr><td class="name-col">Fernando Daniel</td><td>Origem humilde, sensibilidade social, causas jovens.</td></tr>
+            <tr><td class="name-col">Fernando Medina</td><td>Ex-Ministro das Finanças (PS).</td></tr>
+            <tr><td class="name-col">Filomena Cautela</td><td>Defensora vocal de direitos LGBTQ+ e causas sociais.</td></tr>
+            <tr><td class="name-col">Gilmário Vemba</td><td>Humor sobre racismo e colonialismo.</td></tr>
+            <tr><td class="name-col">Graça Fonseca</td><td>Ex-Ministra da Cultura (PS), lésbica assumida (causas).</td></tr>
+            <tr><td class="name-col">Greta Thunberg</td><td>Ativismo climático radical.</td></tr>
+            <tr><td class="name-col">Heitor Lourenço</td><td>Ator, budista, pacifista, vegetariano.</td></tr>
+            <tr><td class="name-col">Inês Herédia</td><td>Ativismo LGBTQ+, causas de esquerda.</td></tr>
+            <tr><td class="name-col">Inês Lopes Gonçalves</td><td>Humor, rádio pública, cultura urbana progressista.</td></tr>
+            <tr><td class="name-col">Inês Marques Lucas</td><td>Música alternativa.</td></tr>
+            <tr><td class="name-col">Isabel Moreira</td><td>Deputada PS, progressismo social radical.</td></tr>
+            <tr><td class="name-col">Isaura</td><td>Música indie, causas feministas.</td></tr>
+            <tr><td class="name-col">Iva Domingues</td><td>Apoio a causas ambientais (Greta) e democratas (EUA).</td></tr>
+            <tr><td class="name-col">Ivete Sangalo</td><td>Posicionamento anti-Bolsonaro e pró-democracia no Brasil.</td></tr>
+            <tr><td class="name-col">Jessica Athaide</td><td>Ativismo, feminismo, liberdade de corpo, anti-conservadorismo.</td></tr>
+            <tr><td class="name-col">Jéssica Athayde</td><td>(Duplicado) Ver acima.</td></tr>
+            <tr><td class="name-col">Joacine Katar Moreira</td><td>Esquerda radical, antirracismo, ex-Livre.</td></tr>
+            <tr><td class="name-col">Joana Espadinha</td><td>Música indie/pop, sensibilidade urbana progressista.</td></tr>
+            <tr><td class="name-col">Joana Marques</td><td>Humorista, sátira a figuras conservadoras e "betos".</td></tr>
+            <tr><td class="name-col">Joana Vasconcelos</td><td>Artista plástica, apoio público ao PS.</td></tr>
+            <tr><td class="name-col">João Beles</td><td>Naturopatia, mas frequentemente associado a visões alternativas (Left-leaning wellness).</td></tr>
+            <tr><td class="name-col">João Catarré</td><td>Ator, perfil discreto, meio artístico.</td></tr>
+            <tr><td class="name-col">João Ferreira</td><td>PCP (Partido Comunista).</td></tr>
+            <tr><td class="name-col">João Manzarra</td><td>Veganismo, ambientalismo, direitos dos animais.</td></tr>
+            <tr><td class="name-col">Jorge Corrula</td><td>Ator, posições críticas e irónicas sobre a sociedade.</td></tr>
+            <tr><td class="name-col">José Carlos Malato</td><td>Ativismo gay, crítico da direita religiosa.</td></tr>
+            <tr><td class="name-col">José Fidalgo</td><td>Ator, associado a causas ambientais (motas elétricas/sustentabilidade).</td></tr>
+            <tr><td class="name-col">José Pedro Gomes</td><td>Ator, teatro, crítico social.</td></tr>
+            <tr><td class="name-col">José Raposo</td><td>Apoiante da CDU/PCP, classe operária do teatro.</td></tr>
+            <tr><td class="name-col">José Sócrates</td><td>Ex-Líder PS.</td></tr>
+            <tr><td class="name-col">JP Simões</td><td>Música de intervenção, intelectualidade boémia.</td></tr>
+            <tr><td class="name-col">Keyla Brasil</td><td>Ativista Trans, protesto no teatro S. Luiz (radical).</td></tr>
+            <tr><td class="name-col">Landu Bi</td><td>Música africana, cultura urbana.</td></tr>
+            <tr><td class="name-col">Leonor Poeiras</td><td>Jornalista/Apresentadora, postura crítica face às empresas de media, causas sustentáveis.</td></tr>
+            <tr><td class="name-col">Liliana Almeida de Carvalho</td><td>Cantora, relação lésbica pública (BB), quebra de tabus.</td></tr>
+            <tr><td class="name-col">Luana Piovani</td><td>Ativista feminista, crítica de Bolsonaro, vocal em causas sociais.</td></tr>
+            <tr><td class="name-col">Luís Oliveira</td><td>Antena 3, cultura alternativa.</td></tr>
+            <tr><td class="name-col">Luis Sequeira</td><td>Músico, sensibilidade artística.</td></tr>
+            <tr><td class="name-col">Madonna</td><td>Ícone gay, liberalismo social.</td></tr>
+            <tr><td class="name-col">Mafalda Matos</td><td>Holística, espiritualidade alternativa, feminismo.</td></tr>
+            <tr><td class="name-col">Mafalda Rodiles</td><td>Parto humanizado, feminismo, causas naturais.</td></tr>
+            <tr><td class="name-col">Manuel Alegre</td><td>Histórico do PS, poeta da liberdade.</td></tr>
+            <tr><td class="name-col">Manuel Cavaco</td><td>Ator, sindicalismo, esquerda clássica.</td></tr>
+            <tr><td class="name-col">Manuel Maria Carrilho</td><td>Ex-Ministro PS (embora figura polémica).</td></tr>
+            <tr><td class="name-col">Margarida Vila-Nova</td><td>Atriz, cinema independente, causas culturais.</td></tr>
+            <tr><td class="name-col">Maria João Abreu</td><td>Atriz popular, mas ligada à classe artística e solidariedade.</td></tr>
+            <tr><td class="name-col">Mariana Mortágua</td><td>Líder do BE.</td></tr>
+            <tr><td class="name-col">Mário Augusto</td><td>Jornalista de cinema, humanista, cultural.</td></tr>
+            <tr><td class="name-col">Marta Bateira</td><td>Beatriz Gosta, feminista, humor "sem filtros", esquerda social.</td></tr>
+            <tr><td class="name-col">Mia Fernandes</td><td>Ativismo social/animal.</td></tr>
+            <tr><td class="name-col">Miguel Palma</td><td>Artista plástico, arte contemporânea crítica.</td></tr>
+            <tr><td class="name-col">Moussa Marega</td><td>Vítima de racismo, símbolo de luta no futebol.</td></tr>
+            <tr><td class="name-col">Nuno Galopim</td><td>Jornalista musical, cultura pública (RTP), Eurovisão.</td></tr>
+            <tr><td class="name-col">Nuno Homem de Sá</td><td>Ator, posições anti-sistema (às vezes conspiracionistas, mas origem hippie).</td></tr>
+            <tr><td class="name-col">Nuno Lopes</td><td>Ator, DJ, cultura urbana progressista.</td></tr>
+            <tr><td class="name-col">Nuno Markl</td><td>Progressista, geek, "homem sensível" (anti-machista).</td></tr>
+            <tr><td class="name-col">Octávio Machado</td><td>Sindicalista histórico, ligado à esquerda (PCP/Bombarral).</td></tr>
+            <tr><td class="name-col">Paula Lobo Antunes</td><td>Atriz, cosmopolita, liberal.</td></tr>
+            <tr><td class="name-col">Paula Neves</td><td>Atriz, naturalista, ambientalista.</td></tr>
+            <tr><td class="name-col">Pedro Abrunhosa</td><td>Músico de intervenção, crítico de Cavaco/Direita, ativista.</td></tr>
+            <tr><td class="name-col">Pedro Barroso</td><td>Músico de intervenção (falecido) / ou Ator (espiritualidade).</td></tr>
+            <tr><td class="name-col">Pedro Nuno Santos</td><td>Líder do PS.</td></tr>
+            <tr><td class="name-col">Pedro Pico</td><td>Drag Queen, empresário disruptivo (mas valores liberais confusos).</td></tr>
+            <tr><td class="name-col">Pedro Teixeira da Mota</td><td>Humorista, preocupações geracionais, saúde mental.</td></tr>
+            <tr><td class="name-col">Pedro Vieira</td><td>Ilustrador/Escritor, crítico social de esquerda (Irritações).</td></tr>
+            <tr><td class="name-col">Piruka</td><td>Rap, "Vim da Madorna", consciência de classe (bairro).</td></tr>
+            <tr><td class="name-col">Rafael Esteves Martins</td><td>Comentador, ativismo queer e académico de esquerda.</td></tr>
+            <tr><td class="name-col">Raquel Varela</td><td>Historiadora marxista, defesa dos trabalhadores.</td></tr>
+            <tr><td class="name-col">Ricardo Quaresma</td><td>Anti-racismo, crítico de André Ventura.</td></tr>
+            <tr><td class="name-col">Ricardo Robles</td><td>Ex-BE, especulação imobiliária (polémica), mas origem esquerda.</td></tr>
+            <tr><td class="name-col">Rita Ferro Rodrigues</td><td>Feminismo (Capazes), ativismo social.</td></tr>
+            <tr><td class="name-col">Rita Pereira</td><td>Luta contra discriminação racial, inclusão, progressista.</td></tr>
+            <tr><td class="name-col">Rita Rocha</td><td>Jovem cantora, sensibilidade artística.</td></tr>
+            <tr><td class="name-col">Rita Sampaio</td><td>Música (GrandFather's House), alternativo.</td></tr>
+            <tr><td class="name-col">Rodrigo Guedes de Carvalho</td><td>Jornalista, romancista, humanista, editorialismo cívico.</td></tr>
+            <tr><td class="name-col">Romana</td><td>Abertura sobre sexualidade e género, rutura com tradição "pimba".</td></tr>
+            <tr><td class="name-col">Rosa Mota</td><td>Atleta, vereadora pelo PS.</td></tr>
+            <tr><td class="name-col">Rui Unas</td><td>Maluco Beleza, conversa aberta, progressista nos costumes.</td></tr>
+            <tr><td class="name-col">Salvador Sobral</td><td>Ativismo (SOS Refugees), anti-commercialismo.</td></tr>
+            <tr><td class="name-col">Sam The Kid</td><td>Rap, Chelas, voz do povo e desigualdades.</td></tr>
+            <tr><td class="name-col">Sandra Celas</td><td>Atriz, jornalismo, cultura.</td></tr>
+            <tr><td class="name-col">Sandra Silva</td><td>Influencer maternidade real, desconstrução de padrões.</td></tr>
+            <tr><td class="name-col">São José Correia</td><td>Atriz, intensa, intelectual, esquerda cultural.</td></tr>
+            <tr><td class="name-col">São José Lapa</td><td>Atriz, ligada historicamente ao PCP/Esquerda radical.</td></tr>
+            <tr><td class="name-col">Sara Correia</td><td>Fadista, mas com abordagem moderna e inclusiva ("Chelas").</td></tr>
+            <tr><td class="name-col">Sara Matos</td><td>Atriz, yoga, estilo de vida natural e progressista.</td></tr>
+            <tr><td class="name-col">Sara Sampaio</td><td>Modelo internacional, vocal contra o assédio e direitos das mulheres.</td></tr>
+            <tr><td class="name-col">Shawn Mendes</td><td>Causas de saúde mental, ambientalismo.</td></tr>
+            <tr><td class="name-col">Silvia Alberto</td><td>Apresentadora, valores culturais urbanos, discretamente progressista.</td></tr>
+            <tr><td class="name-col">Sofia Aparício</td><td>Ex-modelo, boémia, radicalismo cultural.</td></tr>
+            <tr><td class="name-col">Sofia Ribeiro (atriz)</td><td>História de vida, abertura emocional, empoderamento feminino.</td></tr>
+            <tr><td class="name-col">Sónia Tavares</td><td>The Gift, estética alternativa, anti-preconceito.</td></tr>
+            <tr><td class="name-col">Soraia Chaves</td><td>Atriz, cinema de autor, liberdade corporal.</td></tr>
+            <tr><td class="name-col">Susana Dias Ramos</td><td>Sexóloga, educação sexual, quebra de tabus (embora em canais populares).</td></tr>
+            <tr><td class="name-col">Tânia Ribas de Oliveira</td><td>Apresentadora, empatia social, associada a valores humanistas (esquerda fofinha).</td></tr>
+            <tr><td class="name-col">Tatanka</td><td>Músico (Black Mamba), cultura soul/funk, mente aberta.</td></tr>
+            <tr><td class="name-col">Tiago Graça</td><td>O Triângulo, jovem, educado, valores progressistas.</td></tr>
+            <tr><td class="name-col">Tupac Shakur</td><td>Filho de Black Panthers, letras revolucionárias e sociais.</td></tr>
+            <tr><td class="name-col">Vasco Palmeirim</td><td>Humor inteligente, Rádio Comercial, valores urbanos liberais.</td></tr>
+            <tr><td class="name-col">Vera Kolodzig</td><td>Espiritualidade, naturopatia, valores alternativos.</td></tr>
+            <tr><td class="name-col">Vitor Espadinha</td><td>Ator, boémio, crítico do sistema (anarquista/esquerda).</td></tr>
+            <tr><td class="name-col">Wuant</td><td>YouTuber, mas com reflexões sociais e depressão mais profundas que os pares.</td></tr>
+        </tbody>
     </table>
+
 </div>
 
 </body>
