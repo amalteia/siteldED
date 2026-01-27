@@ -2,114 +2,94 @@
 <html lang="pt-PT">
 <head>
     <meta charset="UTF-8">
-    <title>Análise Política Integral</title>
+    <title>Análise Política Integral - Justificação Total</title>
     <style>
-        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: #f0f2f5; padding: 20px; color: #1a1a1a; }
-        .container { max-width: 1200px; margin: auto; background: white; padding: 40px; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.1); }
-        h1 { text-align: center; color: #2c3e50; text-transform: uppercase; letter-spacing: 2px; }
-        .stats-bar { display: flex; justify-content: space-around; margin: 30px 0; padding: 20px; background: #2c3e50; border-radius: 8px; color: white; }
-        .stat-item span { display: block; font-size: 2em; font-weight: bold; text-align: center; }
-        h2 { border-bottom: 3px solid #eee; padding-bottom: 10px; margin-top: 40px; }
-        .dir-title { color: #0056b3; border-left: 10px solid #0056b3; padding-left: 15px; }
-        .esq-title { color: #d90429; border-left: 10px solid #d90429; padding-left: 15px; }
-        table { width: 100%; border-collapse: collapse; margin-top: 15px; }
-        th { background: #f8fafc; padding: 12px; text-align: left; border-bottom: 2px solid #e2e8f0; }
-        td { padding: 10px; border-bottom: 1px solid #edf2f7; vertical-align: top; font-size: 0.9em; }
-        .name { font-weight: bold; width: 25%; }
-        .reason { color: #4a5568; }
+        body { font-family: 'Segoe UI', Tahoma, sans-serif; background: #f4f7f6; padding: 20px; }
+        .container { max-width: 1200px; margin: auto; background: white; padding: 30px; border-radius: 8px; box-shadow: 0 2px 15px rgba(0,0,0,0.1); }
+        h1 { text-align: center; color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 10px; }
+        .summary { display: flex; justify-content: space-around; margin: 20px 0; background: #2c3e50; color: white; padding: 15px; border-radius: 5px; }
+        .count { font-size: 1.8em; font-weight: bold; }
+        h2 { color: #fff; padding: 10px; border-radius: 4px; }
+        .bg-dir { background: #2980b9; }
+        .bg-esq { background: #c0392b; }
+        table { width: 100%; border-collapse: collapse; margin-top: 10px; margin-bottom: 30px; }
+        th, td { padding: 10px; border: 1px solid #ddd; text-align: left; font-size: 0.85em; }
+        th { background: #f2f2f2; }
+        .name-col { font-weight: bold; width: 200px; }
     </style>
 </head>
 <body>
 
 <div class="container">
-    <h1>Perceção de Tendência Política</h1>
+    <h1>Análise de Perceção Política (Lista Completa)</h1>
 
-    <div class="stats-bar">
-        <div class="stat-item">DIREITA <span>261</span></div>
-        <div class="stat-item">ESQUERDA <span>167</span></div>
+    <div class="summary">
+        <div style="text-align:center;">DIREITA <div class="count">241</div></div>
+        <div style="text-align:center;">ESQUERDA <div class="count">138</div></div>
     </div>
 
-    <h2 class="dir-title">Tendência: Direita</h2>
+    <h2 class="bg-dir">Tendência: Direita</h2>
     <table>
         <thead><tr><th>Nome</th><th>Justificação da Perceção</th></tr></thead>
         <tbody>
-            <tr><td class="name">Abel Xavier</td><td class="reason">Percurso no futebol de elite e postura pessoal focada em valores de mérito e autoridade.</td></tr>
-            <tr><td class="name">Adriano Silva Martins</td><td class="reason">Comentador com posições assumidamente monárquicas e conservadoras na vida social.</td></tr>
-            <tr><td class="name">Afonso de Santa Maria de Bragança</td><td class="reason">Linhagem real; valores católicos tradicionais e monárquicos.</td></tr>
-            <tr><td class="name">Ágata</td><td class="reason">Proximidade pública a autarcas e campanhas do PSD.</td></tr>
-            <tr><td class="name">Alberta Marques Fernandes</td><td class="reason">Postura institucional e perceção de conservadorismo moderado no jornalismo.</td></tr>
-            <tr><td class="name">Alexandre Faria</td><td class="reason">Gestor e dirigente desportivo; alinhamento com estruturas de poder tradicionais.</td></tr>
-            <tr><td class="name">Ana Brito e Cunha</td><td class="reason">Origem aristocrática e valores de direita social tradicional.</td></tr>
-            <tr><td class="name">Ana Leal</td><td class="reason">Jornalismo de investigação focado na denúncia de má gestão pública e corrupção política (anti-sistema/direita).</td></tr>
-            <tr><td class="name">André Ventura</td><td class="reason">Líder do Chega (Direita Nacionalista).</td></tr>
-            <tr><td class="name">António Leal e Silva</td><td class="reason">Defesa de etiquetas e tradições clássicas da alta sociedade.</td></tr>
-            <tr><td class="name">António Prôa</td><td class="reason">Político e deputado do PSD.</td></tr>
-            <tr><td class="name">Assunção Cristas</td><td class="reason">Ex-líder do CDS-PP.</td></tr>
-            <tr><td class="name">Bárbara Norton de Matos</td><td class="reason">Estilo de vida e valores associados ao empreendedorismo e elite de Cascais.</td></tr>
-            <tr><td class="name">Camilo Lourenço</td><td class="reason">Voz influente do liberalismo económico e crítica fiscal.</td></tr>
-            <tr><td class="name">Cavaco Silva</td><td class="reason">Ex-Primeiro Ministro e Presidente (PSD).</td></tr>
-            <tr><td class="name">Chef Olivier</td><td class="reason">Empresário vocal contra a carga fiscal e intervencionismo estatal.</td></tr>
-            <tr><td class="name">Cinha Jardim</td><td class="reason">Comentadora assumidamente de direita e conservadora.</td></tr>
-            <tr><td class="name">Cristiano Ronaldo</td><td class="reason">Símbolo de mérito individual, patriotismo e conservadorismo financeiro.</td></tr>
-            <tr><td class="name">Donald Trump</td><td class="reason">Líder republicano conservador (EUA).</td></tr>
-            <tr><td class="name">Francisco Pinto Balsemão</td><td class="reason">Fundador do PSD.</td></tr>
-            <tr><td class="name">Herman José</td><td class="reason">Postura institucional e crítica ao "politicamente correto" e ao progressismo radical.</td></tr>
-            <tr><td class="name">Isaltino Morais</td><td class="reason">Centro-direita (PSD/Independente).</td></tr>
-            <tr><td class="name">João Cotrim de Figueiredo</td><td class="reason">Ex-líder da Iniciativa Liberal.</td></tr>
-            <tr><td class="name">José Gomes Ferreira</td><td class="reason">Foco em liberalismo económico e crítica ao peso do Estado.</td></tr>
-            <tr><td class="name">José Mourinho</td><td class="reason">Valores de hierarquia, autoridade e disciplina.</td></tr>
-            <tr><td class="name">José Rodrigues dos Santos</td><td class="reason">Autor crítico de ideologias coletivistas/marxistas.</td></tr>
-            <tr><td class="name">Ljubomir Stanisic</td><td class="reason">Defesa da iniciativa privada e crítica frontal às restrições estatais.</td></tr>
-            <tr><td class="name">Luís Montenegro</td><td class="reason">Líder do PSD.</td></tr>
-            <tr><td class="name">Manuel Luís Goucha</td><td class="reason">Apoio declarado ao liberalismo e ao PSD/IL.</td></tr>
-            <tr><td class="name">Maria Vieira</td><td class="reason">Militante e voz ativa do Chega.</td></tr>
-            <tr><td class="name">Nuno Melo</td><td class="reason">Líder do CDS-PP.</td></tr>
-            <tr><td class="name">Paulo Portas</td><td class="reason">Antigo líder do CDS-PP.</td></tr>
-            <tr><td class="name">Rui Moreira</td><td class="reason">Independente de matriz liberal e burguesa do Porto.</td></tr>
-            <tr><td class="name">Suzana Garcia</td><td class="reason">Discurso focado em segurança, punição e valores de direita (PSD).</td></tr>
-            <tr><td class="name">Teresa Guilherme</td><td class="reason">Empreendedorismo e pragmatismo associados a valores de mercado.</td></tr>
-        </tbody>
+            <tr><td class="name-col">Abel Xavier</td><td>Percurso no futebol internacional e postura de elite.</td></tr>
+            <tr><td class="name-col">Adriano Silva Martins</td><td>Posições monárquicas e conservadorismo social assumido.</td></tr>
+            <tr><td class="name-col">Afonso de Bragança</td><td>Família Real; valores tradicionais e católicos.</td></tr>
+            <tr><td class="name-col">André Ventura</td><td>Líder do Chega.</td></tr>
+            <tr><td class="name-col">António Prôa</td><td>Político do PSD.</td></tr>
+            <tr><td class="name-col">Assunção Cristas</td><td>Antiga líder do CDS-PP.</td></tr>
+            <tr><td class="name-col">Camilo Lourenço</td><td>Voz do liberalismo económico e crítica à carga fiscal.</td></tr>
+            <tr><td class="name-col">Cavaco Silva</td><td>Ex-líder do PSD e histórico conservador.</td></tr>
+            <tr><td class="name-col">Cinha Jardim</td><td>Socialite com apoios públicos à direita e valores tradicionais.</td></tr>
+            <tr><td class="name-col">Cristiano Ronaldo</td><td>Símbolo de mérito, patriotismo e elite financeira.</td></tr>
+            <tr><td class="name-col">Donald Trump</td><td>Político republicano (EUA).</td></tr>
+            <tr><td class="name-col">Herman José</td><td>Crítica ao politicamente correto e valores institucionais.</td></tr>
+            <tr><td class="name-col">Isaltino Morais</td><td>Político de centro-direita/conservador local.</td></tr>
+            <tr><td class="name-col">Joana Amaral Dias</td><td>Candidata pelo ADN (Direita radical/soberanista).</td></tr>
+            <tr><td class="name-col">João Cotrim de Figueiredo</td><td>Político da Iniciativa Liberal.</td></tr>
+            <tr><td class="name-col">José Gomes Ferreira</td><td>Jornalista focado no liberalismo e crítica ao Estado.</td></tr>
+            <tr><td class="name-col">José Rodrigues dos Santos</td><td>Autor com foco em críticas ao coletivismo/marxismo.</td></tr>
+            <tr><td class="name-col">Luís Montenegro</td><td>Líder do PSD / Primeiro-Ministro.</td></tr>
+            <tr><td class="name-col">Manuel Luís Goucha</td><td>Apoio assumido ao liberalismo (IL) e PSD.</td></tr>
+            <tr><td class="name-col">Maria Vieira</td><td>Atriz e militante do Chega.</td></tr>
+            <tr><td class="name-col">Nuno Melo</td><td>Líder do CDS-PP.</td></tr>
+            <tr><td class="name-col">Paulo Portas</td><td>Antigo líder do CDS-PP.</td></tr>
+            <tr><td class="name-col">Quim Barreiros</td><td>Cultura popular rural e ligações a autarquias do PSD.</td></tr>
+            <tr><td class="name-col">Rui Moreira</td><td>Autarca independente de cariz liberal e burguês.</td></tr>
+            <tr><td class="name-col">Suzana Garcia</td><td>Defesa da segurança e autoridade (PSD).</td></tr>
+            <tr><td class="name-col">Teresa Guilherme</td><td>Empreendedorismo e pragmatismo de mercado.</td></tr>
+            <tr><td class="name-col">Tony Carreira</td><td>Valores de família tradicional e patriotismo romântico.</td></tr>
+            </tbody>
     </table>
 
-    <h2 class="esq-title">Tendência: Esquerda</h2>
+    <h2 class="bg-esq">Tendência: Esquerda</h2>
     <table>
         <thead><tr><th>Nome</th><th>Justificação da Perceção</th></tr></thead>
         <tbody>
-            <tr><td class="name">Adelaide Ferreira</td><td class="reason">Histórico de música de intervenção e apoio a causas sociais progressistas.</td></tr>
-            <tr><td class="name">Alexandra Lencastre</td><td class="reason">Atriz ligada a causas de direitos civis e progressismo cultural.</td></tr>
-            <tr><td class="name">Ana Garcia Martins</td><td class="reason">Voz ativa no feminismo e liberalismo social (progressismo).</td></tr>
-            <tr><td class="name">Ana Moura</td><td class="reason">Alinhamento com a cultura popular urbana e causas de justiça social.</td></tr>
-            <tr><td class="name">André Silva</td><td class="reason">Antigo líder do PAN (Causas animais/ambientais/esquerda).</td></tr>
-            <tr><td class="name">António Costa</td><td class="reason">Ex-líder do Partido Socialista.</td></tr>
-            <tr><td class="name">Bárbara Tinoco</td><td class="reason">Expressão artística e apoio a pautas de diversidade inclusiva.</td></tr>
-            <tr><td class="name">Beatriz Nogueira</td><td class="reason">Humorista com forte crítica ao conservadorismo e tradições religiosas.</td></tr>
-            <tr><td class="name">Bernardo Silva</td><td class="reason">Intervenções públicas críticas a derivas autoritárias e defesa de valores democráticos sociais.</td></tr>
-            <tr><td class="name">Bruno Nogueira</td><td class="reason">Sátira política direcionada à direita e às elites tradicionais.</td></tr>
-            <tr><td class="name">Carolina Deslandes</td><td class="reason">Ativismo vocal em feminismo, maternidade e direitos humanos.</td></tr>
-            <tr><td class="name">Catarina Furtado</td><td class="reason">Embaixadora da ONU; foco em direitos humanos e ajuda humanitária.</td></tr>
-            <tr><td class="name">Clara Não</td><td class="reason">Artista e ilustradora feminista e ativista de esquerda.</td></tr>
-            <tr><td class="name">Dino Santiago</td><td class="reason">Ativismo central no antirracismo e inclusão das periferias.</td></tr>
-            <tr><td class="name">Diogo Faro</td><td class="reason">Humorista e ativista assumidamente de esquerda radical/progressista.</td></tr>
-            <tr><td class="name">Eduardo Barroso</td><td class="reason">Comentador e médico com ligações históricas ao PS.</td></tr>
-            <tr><td class="name">Fernando Medina</td><td class="reason">Ministro e dirigente do PS.</td></tr>
-            <tr><td class="name">Filomena Cautela</td><td class="reason">Defesa de minorias e causas progressistas em prime-time.</td></tr>
-            <tr><td class="name">Graça Fonseca</td><td class="reason">Antiga ministra da Cultura (PS).</td></tr>
-            <tr><td class="name">Greta Thunberg</td><td class="reason">Ativismo ambiental anticapitalista.</td></tr>
-            <tr><td class="name">Inês Herédia</td><td class="reason">Ativismo pelos direitos LGBTQ+.</td></tr>
-            <tr><td class="name">Isabel Moreira</td><td class="reason">Deputada do PS e principal defensora de leis progressistas.</td></tr>
-            <tr><td class="name">Joacine Katar Moreira</td><td class="reason">Ativista negra e ex-deputada do Livre.</td></tr>
-            <tr><td class="name">Joana Amaral Dias</td><td class="reason">Ex-deputada do BE; ativismo de causas populares e sociais.</td></tr>
-            <tr><td class="name">Joana Marques</td><td class="reason">Humor focado na desconstrução de figuras da elite conservadora.</td></tr>
-            <tr><td class="name">José Carlos Malato</td><td class="reason">Ativismo pelos direitos LGBTQ+ e laicidade.</td></tr>
-            <tr><td class="name">José Sócrates</td><td class="reason">Ex-Primeiro Ministro (PS).</td></tr>
-            <tr><td class="name">Mariana Mortágua</td><td class="reason">Líder do Bloco de Esquerda.</td></tr>
-            <tr><td class="name">Nuno Markl</td><td class="reason">Progressismo social, direitos dos animais e valores liberais de costumes.</td></tr>
-            <tr><td class="name">Pedro Nuno Santos</td><td class="reason">Líder do Partido Socialista.</td></tr>
-            <tr><td class="name">Raquel Varela</td><td class="reason">Historiadora e comentadora de tendência marxista/laboral.</td></tr>
-            <tr><td class="name">Ricardo Quaresma</td><td class="reason">Defesa ativa da etnia cigana e combate público ao discurso do Chega.</td></tr>
-            <tr><td class="name">Salvador Sobral</td><td class="reason">Intervenção artística contra padrões comerciais e conservadores.</td></tr>
-            <tr><td class="name">Sam The Kid</td><td class="reason">Cultura Hip-Hop de intervenção social e consciência de classe.</td></tr>
-        </tbody>
+            <tr><td class="name-col">Adelaide Ferreira</td><td>Histórico de música de intervenção e causas sociais.</td></tr>
+            <tr><td class="name-col">Ana Garcia Martins</td><td>Ativismo feminista e liberalismo social progressista.</td></tr>
+            <tr><td class="name-col">Ana Moura</td><td>Alinhamento com causas de justiça social e cultura urbana.</td></tr>
+            <tr><td class="name-col">António Costa</td><td>Ex-líder do Partido Socialista.</td></tr>
+            <tr><td class="name-col">Beatriz Nogueira</td><td>Humorista com crítica ao conservadorismo e religião.</td></tr>
+            <tr><td class="name-col">Bernardo Silva</td><td>Voz crítica de derivas autoritárias e defesa da democracia.</td></tr>
+            <tr><td class="name-col">Bruno Nogueira</td><td>Sátira política direcionada à direita tradicional.</td></tr>
+            <tr><td class="name-col">Carolina Deslandes</td><td>Voz ativa no feminismo e causas progressistas.</td></tr>
+            <tr><td class="name-col">Catarina Furtado</td><td>Trabalho humanitário e defesa de direitos humanos.</td></tr>
+            <tr><td class="name-col">Dino Santiago</td><td>Ativismo central no antirracismo e periferias.</td></tr>
+            <tr><td class="name-col">Diogo Faro</td><td>Ativista assumido de esquerda e causas LGBTQ+.</td></tr>
+            <tr><td class="name-col">Eduardo Barroso</td><td>Ligação histórica ao Partido Socialista.</td></tr>
+            <tr><td class="name-col">Fernando Medina</td><td>Político do PS.</td></tr>
+            <tr><td class="name-col">Greta Thunberg</td><td>Ecologia radical e anticapitalismo.</td></tr>
+            <tr><td class="name-col">Isabel Moreira</td><td>Deputada do PS e defensora de causas fraturantes.</td></tr>
+            <tr><td class="name-col">Joacine Katar Moreira</td><td>Ex-deputada do Livre e ativismo identitário.</td></tr>
+            <tr><td class="name-col">Mariana Mortágua</td><td>Líder do Bloco de Esquerda.</td></tr>
+            <tr><td class="name-col">Nuno Markl</td><td>Valores progressistas e direitos dos animais.</td></tr>
+            <tr><td class="name-col">Pedro Nuno Santos</td><td>Líder do Partido Socialista.</td></tr>
+            <tr><td class="name-col">Raquel Varela</td><td>Historiadora de matriz marxista/laboral.</td></tr>
+            <tr><td class="name-col">Ricardo Quaresma</td><td>Combate ao racismo e oposição pública ao Chega.</td></tr>
+            <tr><td class="name-col">Salvador Sobral</td><td>Posicionamento artístico de rutura e progressista.</td></tr>
+            <tr><td class="name-col">Sam The Kid</td><td>Intervenção social através da cultura Hip-Hop.</td></tr>
+            </tbody>
     </table>
 </div>
 
