@@ -2,7 +2,9 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
-| style='text-align:center;' | 1535 || [[Diana Chaves]], [[Joao Baiao]], [[Maria Sampaio]], [[Pedro Pé Curto]], [[Silvia Roque]], [[Belito Campos]]
+| style='text-align:center;' | 1536 || [[Maria Sampaio]], [[Pedro Pé Curto]], [[Belito Campos]]
+|-
+| style='text-align:center;' | 1535 || [[Diana Chaves]], [[João Baião]], [[Maria Sampaio]], [[Pedro Pé Curto]], [[Silvia Roque]], [[Belito Campos]]
 |-
 | style='text-align:center;' | 1534 || [[João Pedro Pereira]]
 |-
