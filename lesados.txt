@@ -29,11 +29,11 @@ Luís Oliveira,18,
 Alexandra Lencastre,15,
 Big Brother,15,
 Carolina Patrocínio,15,@carolinapatrocinio
+José Castelo Branco,15,
 José Eduardo Moniz,15,
 Maria Vieira,15,
 Sandra Felgueiras,15,@sandrafelgueiras_oficial
 Fátima Campos Ferreira,14,
-José Castelo Branco,14,
 José Sócrates,14,
 Catarina Furtado,13,
 Duarte Siopa,13,@duartesiopa
@@ -184,6 +184,7 @@ Sofia Ribeiro (atriz),5,
 Sónia Araújo,5,
 Sónia Jesus,5,
 Tiago Grila,5,
+Tânia Laranjo,5,@tanialaranjo_
 Academia de Alcochete,4,
 Alexandra Solnado,4,
 Alice Santos,4,
@@ -265,7 +266,6 @@ Sofia Cerveira,4,
 Sérgio Conceição,4,
 Sónia Tavares,4,
 Tiago Jaqueta,4,
-Tânia Laranjo,4,
 Vera Kolodzig,4,
 Youtubers,4,
 Ágata Rodrigues,4,
@@ -659,6 +659,7 @@ McDonald's,2,
 Me Too,2,
 Mergulhadores do Novo Ano,2,
 Miguel Gameiro,2,
+Miguel Maximiano,2,@miguel_maximiano
 Miguel Palma,2,@avozeamaquina
 Miguel Pinto Luz,2,
 Milene Martins,2,
@@ -983,6 +984,7 @@ Benfiquistas,1,
 Bernado Costa,1,@bernardocastro.pt
 Bernardo Baraona,1,
 Bernardo Blanco,1,
+Bernardo Duque Carreira,1,@bernardo.duquecarreira
 Bernardo Ferrão,1,@bferrao
 Bernardo Lima,1,@bernalima7
 Bernardo Sousa,1,
@@ -1646,6 +1648,7 @@ João Ricardo Pateiro,1,
 João Rôlo,1,
 João Soares,1,
 João Sousa,1,
+João Sousa Pinto,1,@joao_aspinto
 João Vicente de Castro,1,
 João Viola,1,
 Judas,1,
@@ -1895,7 +1898,6 @@ Miguel Fonseca,1,
 Miguel Frazão,1,
 Miguel Marôco,1,
 Miguel Matos,1,
-Miguel Maximiano,1,@miguel_maximiano
 Miguel Mimoso,1,
 Miguel Monteiro,1,
 Miguel Paraíso,1,
