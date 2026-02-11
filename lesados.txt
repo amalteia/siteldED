@@ -1990,6 +1990,7 @@ Nuno GalopimJosé Carlos Malato,1,
 Nuno Gomes,1,
 Nuno Janeiro,1,@nunojaneiro
 Nuno Jesus,1,
+Nuno Kampos,1,@nunokampos
 Nuno Lobo,1,
 Nuno Loureiro Coelho,1,
 Nuno Miguel,1,

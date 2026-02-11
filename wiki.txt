@@ -2,6 +2,8 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1538 || [[Nuno Kampos]]
+|-
 | style='text-align:center;' | 1537 || [[Tânia Laranjo]], [[José Castelo Branco]], [[Miguel Maximiano]], [[João Sousa Pinto]], [[Bernardo Duque Carreira]]
 |-
 | style='text-align:center;' | 1536 || [[Maria Sampaio]], [[Pedro Pé Curto]], [[Belito Campos]]
