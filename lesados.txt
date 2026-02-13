@@ -1,7 +1,7 @@
 Joana Marques,125,@joanamarquespic
 Cristina Ferreira,87,@dailycristina
 Ana Galvão,53,@anagalvaolopez
-Gustavo Santos,47,@o_homem_da_terra
+Gustavo Santos,48,@o_homem_da_terra
 Ana Markl,40,@ana_markl
 TVI,40,
 Covid-19,38,
@@ -12,7 +12,7 @@ Inês Lopes Gonçalves,35,@ineslopesgoncalves
 CMTV,34,
 Cristiano Ronaldo,34,@cristiano
 Manuel Luís Goucha,32,@mlgoucha
-Maya (taróloga),26,@tia__maya
+Maya (taróloga),27,@tia__maya
 Xavier,26,
 Luciana Abreu,24,@lucianaabreuoficial
 Maria Cerqueira Gomes,24,@maria_cerqueira_gomes
@@ -74,6 +74,7 @@ SirKazzio,9,
 Toy,9,
 Vanessa Martins,9,
 Yolanda Tati,9,
+Adriano Silva Martins,8,
 Ana Rita Clara,8,
 Daniel Leitão,8,@danielhleitao
 Diana Chaves,8,
@@ -89,7 +90,6 @@ Luís Filipe Vieira,8,
 Maria Botelho Moniz,8,@mariabotelhomoniz
 Nuno Graciano,8,
 Sónia Costa,8,
-Adriano Silva Martins,7,
 Ana Malhoa,7,
 Ana Sofia Cardoso,7,
 André Silva,7,
@@ -200,6 +200,7 @@ Cláudia Vieira,4,@claudiavieiraoficial
 Conceição Lino,4,@conceicaolino_oficial
 Dalila Carmo,4,
 Daniel Gregório,4,
+Daniel Nascimento,4,@danielnascimento0
 David Araújo,4,@davidaraujobb
 Diogo Morgado,4,
 Domingos José,4,
@@ -305,7 +306,6 @@ Cláudio Viana,3,
 Cátia Palhinha,3,
 Cândido Costa,3,
 D.A.M.A,3,
-Daniel Nascimento,3,@danielnascimento0
 Daniel Oliveira (apresentador),3,
 Daniela Ruah,3,
 David Cristina,3,
@@ -651,6 +651,7 @@ Marial Leal,2,
 Mariana Azevedo,2,@marianamazevedo_
 Mariana Ribeiro,2,
 Mario Ferreira,2,
+Marta Aragão Pinto,2,@martaaragaopinto
 Marta Bateira,2,
 Marta Cardoso,2,
 Martin Torres,2,@martintorresgains
@@ -666,6 +667,7 @@ Milene Martins,2,
 Monica Sintra,2,
 Moussa Marega,2,
 Movimento Libertem as Crianças,2,
+Mário Caetano,2,@mariocaetano_wildpurpose
 Mário Jardel,2,
 Más Influências (podcast),2,
 Mães,2,
@@ -674,6 +676,7 @@ Neymar Júnior,2,
 Nilton,2,@niltonoproprio
 Noite das Estrelas,2,
 Nuno Galopim,2,
+Nuno Kampos,2,@nunokampos
 Nuno Lopes,2,
 Nuno Melo,2,
 Nádia Lopes,2,
@@ -1136,6 +1139,7 @@ Ciganos,1,
 Cindy Álvarez García,1,
 Clara Capucho,1,
 Claudia Isabel,1,
+Claudia Jacques,1,@claudiajacques_oficial
 Claudisabel,1,
 Clemente (cantor),1,
 Clientes Intermache,1,
@@ -1760,6 +1764,7 @@ MC Fioti,1,
 MC MM,1,
 Macaco,1,
 Machismo,1,
+Mafalda Creative,1,@mafaldacreative
 Mafalda Diamond,1,
 Mafalda Fernandes,1,
 Mafalda Marafusta,1,
@@ -1836,6 +1841,7 @@ Maria de Fátima,1,
 Maria de Lurdes Modesto,1,
 Maria do Céu Santos,1,
 Mariana Alvim,1,
+Mariana Bossy,1,
 Mariana Cabral,1,
 Mariana Cardoso,1,@marianacardosopt
 Mariana Duarte,1,
@@ -1858,7 +1864,6 @@ Marlene Santos,1,
 Maro,1,
 Marrachinho,1,
 Marta Andrino,1,
-Marta Aragão Pinto,1,
 Marta Gil,1,
 Marta Leite de Castro,1,
 Marta Temido,1,
@@ -1935,7 +1940,6 @@ Myriam,1,
 Márcia Breia,1,
 Mário,1,
 Mário Amaro,1,
-Mário Caetano,1,
 Mário Centeno,1,
 Mário Crespo,1,
 Mário Monteiro,1,
@@ -1990,7 +1994,6 @@ Nuno GalopimJosé Carlos Malato,1,
 Nuno Gomes,1,
 Nuno Janeiro,1,@nunojaneiro
 Nuno Jesus,1,
-Nuno Kampos,1,@nunokampos
 Nuno Lobo,1,
 Nuno Loureiro Coelho,1,
 Nuno Miguel,1,
@@ -2238,6 +2241,7 @@ RicFazeres,1,
 Ricardo A.,1,
 Ricardo Amorim,1,
 Ricardo Araújo Pereira,1,
+Ricardo Azevedo,1,@rickyazbola8
 Ricardo Campanhã,1,
 Ricardo Costa,1,
 Ricardo Esgaio,1,

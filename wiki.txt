@@ -2,6 +2,10 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1540 || [[Gustavo Santos]], [[Mafalda Creative]], [[Mariana Bossy]], [[Maya (taróloga)]], [[Adriano Silva Martins]], [[Daniel Nascimento]], [[Ricardo Azevedo]], [[Claudia Jacques]], [[Marta Aragão Pinto]]
+|-
+| style='text-align:center;' | 1539 || [[Nuno Kampos]], [[Mário Caetano]]
+|-
 | style='text-align:center;' | 1538 || [[Nuno Kampos]]
 |-
 | style='text-align:center;' | 1537 || [[Tânia Laranjo]], [[José Castelo Branco]], [[Miguel Maximiano]], [[João Sousa Pinto]], [[Bernardo Duque Carreira]]
