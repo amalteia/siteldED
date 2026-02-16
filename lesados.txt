@@ -381,6 +381,7 @@ Mickael Carreira,3,
 Miguel Costa,3,
 Mário Augusto,3,
 Nemanus,3,@nemanusoficial
+Nuno Kampos,3,@nunokampos
 Nuno Pereira,3,
 O Preço Certo,3,
 O Triângulo,3,
@@ -676,7 +677,6 @@ Neymar Júnior,2,
 Nilton,2,@niltonoproprio
 Noite das Estrelas,2,
 Nuno Galopim,2,
-Nuno Kampos,2,@nunokampos
 Nuno Lopes,2,
 Nuno Melo,2,
 Nádia Lopes,2,
@@ -1713,6 +1713,7 @@ Liliana Oliveira,1,
 Liliana Santos,1,@lilianasantos
 Liliana Sequeira,1,
 Linda Reis,1,
+Lisa Joanes,1,@lisa.joanes
 Livre,1,
 Loja Azul,1,
 Loja Verde,1,
