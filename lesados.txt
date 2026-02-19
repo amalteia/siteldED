@@ -26,7 +26,7 @@ Tiago Paiva,19,@tiagopaiva__
 André Ventura,18,
 Joana Amaral Dias,18,
 Luís Oliveira,18,
-Maria Vieira,16,
+Maria Vieira,17,
 Alexandra Lencastre,15,
 Big Brother,15,
 Carolina Patrocínio,15,@carolinapatrocinio
