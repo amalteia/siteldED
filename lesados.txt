@@ -66,6 +66,7 @@ Paulo Futre,10,
 Rui Sinel de Cordes,10,@ruisineldecordes
 SIC,10,
 Clara de Sousa,9,
+Elma Aveiro,9,@elma_oficial
 Globos de Ouro,9,
 Júlia Pinheiro,9,
 Madonna,9,
@@ -79,7 +80,6 @@ Ana Rita Clara,8,
 Daniel Leitão,8,@danielhleitao
 Diana Chaves,8,
 Diogo Faro,8,@diogofaroidiota
-Elma Aveiro,8,
 Filipa Garnel,8,
 Hugo Strada,8,@hugostrada
 Joacine Katar Moreira,8,

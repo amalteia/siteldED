@@ -2,7 +2,7 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
-| style='text-align:center;' | 1544 || [[Kátia Aveiro]]
+| style='text-align:center;' | 1544 || [[Kátia Aveiro]], [[Elma Aveiro]]
 |-
 | style='text-align:center;' | 1543 || [[Maria Vieira]]
 |-
