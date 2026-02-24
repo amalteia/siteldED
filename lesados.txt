@@ -1,9 +1,9 @@
 Joana Marques,125,@joanamarquespic
-Cristina Ferreira,87,@dailycristina
+Cristina Ferreira,88,@dailycristina
 Ana Galvão,53,@anagalvaolopez
 Gustavo Santos,48,@o_homem_da_terra
+TVI,41,
 Ana Markl,40,@ana_markl
-TVI,40,
 Covid-19,38,
 Bruno de Carvalho,36,@bruno_de_carvalho_oficial
 Rita Pereira,36,@hyndia
@@ -27,11 +27,11 @@ André Ventura,18,
 Joana Amaral Dias,18,
 Luís Oliveira,18,
 Maria Vieira,17,
+José Eduardo Moniz,16,
 Alexandra Lencastre,15,
 Big Brother,15,
 Carolina Patrocínio,15,@carolinapatrocinio
 José Castelo Branco,15,
-José Eduardo Moniz,15,
 Sandra Felgueiras,15,@sandrafelgueiras_oficial
 Fátima Campos Ferreira,14,
 José Sócrates,14,
@@ -82,12 +82,14 @@ Diana Chaves,8,
 Diogo Faro,8,@diogofaroidiota
 Filipa Garnel,8,
 Hugo Strada,8,@hugostrada
+Iva Domingues,8,@ivadominguesoficial
 Joacine Katar Moreira,8,
 Joana Dias,8,
 João Montez,8,
 Leandro Portugal,8,
 Luís Filipe Vieira,8,
 Maria Botelho Moniz,8,@mariabotelhomoniz
+Mónica Jardim,8,@mmjardim
 Nuno Graciano,8,
 Sónia Costa,8,
 Ana Malhoa,7,
@@ -102,12 +104,10 @@ Festival da Eurovisão,7,
 Filomena Cautela,7,
 Herman José,7,
 Idevor Mendonça,7,@idevormendonca
-Iva Domingues,7,
 João Catarré,7,
 Liliana Campos,7,
 Maria Leal,7,
 Mário Ferreira,7,
-Mónica Jardim,7,@mmjardim
 Nuno Homem de Sá,7,
 Nuno Luz,7,
 Paulo Pires,7,
@@ -128,6 +128,7 @@ Fátima Lopes (apresentadora),6,
 Hernâni Carvalho,6,
 Hélder Teixeira,6,
 José Carlos Pereira,6,
+José Fidalgo,6,@josefidalgo_oficial
 José Rodrigues dos Santos,6,
 Lara Moniz,6,
 Luana Piovani,6,
@@ -161,7 +162,6 @@ Jair Bolsonaro,5,
 Joaquim Sousa Martins,5,
 Jorge Kapinha,5,
 José Carlos Malato,5,
-José Fidalgo,5,
 Julen Lopetegui,5,
 Liliana Filipa,5,
 Mafalda Castro,5,
@@ -171,6 +171,7 @@ Marisa Cruz,5,
 Marta Gautier,5,
 Miguel Vicente,5,
 Morangos com Açúcar,5,
+Nuno Santos,5,@nuno.sant0s
 Paula Neves,5,
 Pedro Barroso (ator),5,@pedrobarrosopb
 Pedro Soá,5,
@@ -241,7 +242,6 @@ Mónica Sintra,4,
 Nuno Eiró,4,
 Nuno Markl,4,@nunomarkl
 Nuno Queirós,4,@nunoqueiroz_zome
-Nuno Santos,4,
 Octávio Machado,4,
 Para Si,4,
 Paulo Battista,4,
@@ -1443,6 +1443,7 @@ Glória Dias,1,
 Gonzo,1,
 Gonçalo Botelho,1,
 Gonçalo Chaves,1,
+Gonçalo Melo,1,
 Gonçalo Ramos,1,
 Gonçalo da Câmara Pereira,1,
 Gorete Pimentel,1,
@@ -2118,6 +2119,7 @@ Pedro Madeira Rodrigues,1,
 Pedro Markl,1,
 Pedro Miguel Ramos,1,
 Pedro Miguel Ribeiro,1,
+Pedro Moraes Leitão,1,
 Pedro Mourinho,1,
 Pedro Moutinho,1,
 Pedro Nevides,1,
