@@ -5,8 +5,8 @@ Gustavo Santos,48,@o_homem_da_terra
 TVI,41,
 Ana Markl,40,@ana_markl
 Covid-19,38,
+Rita Pereira,37,@hyndia
 Bruno de Carvalho,36,@bruno_de_carvalho_oficial
-Rita Pereira,36,@hyndia
 Cláudio Ramos,35,@claudio_ramos
 Inês Lopes Gonçalves,35,@ineslopesgoncalves
 CMTV,34,
@@ -917,6 +917,7 @@ Angelita Letras,1,
 Angélica Gallettino,1,
 Anne Vitorino de Almeida,1,
 Ano do Cão,1,
+Anselmo Ralph,1,@anselmoralph
 Antilook,1,
 Antonio Pinto Pereira,1,
 António Borralho,1,
@@ -1172,6 +1173,7 @@ Cris Carvalho,1,
 Cristiana Costa,1,
 Cristiano Rolnado,1,
 Cristina Caras Lindas,1,
+Cristina Silva,1,
 Cristo,1,
 Croquetes,1,
 Crónica Criminal,1,
@@ -1487,6 +1489,7 @@ Hugo Aveiro,1,
 Hugo Sousa,1,
 Hugo Van der Ding,1,
 Humberto Coelho,1,
+Hélder Fráguas,1,
 Hélder Milheiro,1,
 IAN,1,
 IKEA de Alfragide,1,
@@ -1615,6 +1618,7 @@ José Mata,1,
 José Miguel Júdice,1,
 José Milhazes,1,
 José Moutinho,1,
+José Neves,1,
 José Pedro,1,
 José Pereira,1,
 José Pina,1,

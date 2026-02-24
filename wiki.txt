@@ -2,7 +2,7 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
-| style='text-align:center;' | 1546 || [[Nuno Santos]], [[Pedro Moraes Leitão]], [[Iva Domingues]], [[Gonçalo Melo]], [[Mónica Jardim]], [[José Fidalgo]], [[José Eduardo Moniz]], [[Cristina Ferreira]], [[TVI]]
+| style='text-align:center;' | 1546 || [[Nuno Santos]], [[Pedro Moraes Leitão]], [[Iva Domingues]], [[Gonçalo Melo]], [[Mónica Jardim]], [[Anselmo Ralph]], [[Hélder Fráguas]], [[Cristina Silva]], [[José Neves]], [[José Fidalgo]], [[José Eduardo Moniz]], [[Cristina Ferreira]], [[TVI]], [[Rita Pereira]]
 |-
 | style='text-align:center;' | 1545 || [[Jaime Cancella de Abreu]], [[Jorge Baptista]]
 |-
