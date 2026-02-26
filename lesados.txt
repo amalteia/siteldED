@@ -61,6 +61,7 @@ António Costa,10,
 Fernanda Serrano,10,
 Flávio Furtado,10,@flavio_furtado_oficial
 João Baião,10,
+Leandro,10,@leandro.pt
 Miguel Sousa Tavares,10,
 Paulo Futre,10,
 Rui Sinel de Cordes,10,@ruisineldecordes
@@ -76,7 +77,7 @@ SirKazzio,9,
 Toy,9,
 Vanessa Martins,9,
 Yolanda Tati,9,
-Adriano Silva Martins,8,
+Adriano Silva Martins,8,@adrianosilvaexpress
 Ana Rita Clara,8,
 Ana Sofia Cardoso,8,@asofiacardoso
 Daniel Leitão,8,@danielhleitao
@@ -88,7 +89,6 @@ Iva Domingues,8,@ivadominguesoficial
 Joacine Katar Moreira,8,
 Joana Dias,8,
 João Montez,8,
-Leandro Portugal,8,
 Luís Filipe Vieira,8,
 Mónica Jardim,8,@mmjardim
 Nuno Graciano,8,
@@ -156,6 +156,7 @@ Fernando Mendes,5,
 Fernando Rocha (Marido de Maria Vieira),5,
 Filipa Castro,5,
 Francisco Nunes,5,
+Frederico Canto e Castro (Fred),5,@fcantoecastro
 Georgina Rodríguez,5,
 Inês Herédia,5,
 Jair Bolsonaro,5,
@@ -330,7 +331,6 @@ Francisco Maria Pereira (Kacha),3,
 Francisco Menezes,3,
 Francisco Monteiro,3,
 Francisco Pedro Balsemão,3,
-Frederico Canto e Castro (Fred),3,@fcantoecastro
 Fábio Coentrão,3,
 Gilmário Vemba,3,
 Globos de Ouro 2021,3,
@@ -553,7 +553,6 @@ Filipa Torrinha Nunes,2,
 Filipe Peres (Pipas),2,@ofilipeperes
 First Dates,2,
 Francisco Penin,2,
-Fred Canto e Castro,2,
 Fred Gomes,2,
 Fábio,2,
 Fábio Paim,2,
@@ -652,6 +651,7 @@ Maria das Dores,2,
 Maria do Céu Santo,2,
 Marial Leal,2,
 Mariana Azevedo,2,@marianamazevedo_
+Mariana Bossy,2,@marianabossy
 Mariana Ribeiro,2,
 Mario Ferreira,2,
 Marta Aragão Pinto,2,@martaaragaopinto
@@ -1027,6 +1027,7 @@ Bruno Alves,1,
 Bruno Batista,1,@brunobatista_oficial
 Bruno Cabrerizo,1,
 Bruno Caetano,1,
+Bruno Costa Carvalho,1,@bserzedelo
 Bruno D'Almeida,1,
 Bruno Fialho,1,
 Bruno Gascon,1,
@@ -1702,7 +1703,6 @@ Laura Mostradinha,1,@laura_mostardinha
 Laura Pausini,1,
 Lava Jato,1,
 Leandra Filipa,1,@leandra.filipa
-Leandro,1,
 Leandro Machado,1,
 Leis do Texas,1,
 Lena D'Água,1,
@@ -1852,7 +1852,6 @@ Maria de Fátima,1,
 Maria de Lurdes Modesto,1,
 Maria do Céu Santos,1,
 Mariana Alvim,1,
-Mariana Bossy,1,
 Mariana Cabral,1,
 Mariana Cardoso,1,@marianacardosopt
 Mariana Duarte,1,

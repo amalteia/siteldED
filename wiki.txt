@@ -2,11 +2,13 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1548 || [[Leandro]]
+|-
 | style='text-align:center;' | 1547 || [[TVI]], [[Rita Pereira]], [[Inês Castel-Branco]], [[Ana Sofia Cardoso]], [[Maria Botelho Moniz]], [[João Patrício]], [[Cláudio Ramos]], [[Diogo Amaral]], [[Ana Guiomar]], [[Marco Borges]], [[João Lagarto]], [[Sandra Felgueiras]], [[Sara Pinto]], [[Andreia Vale]]
 |-
 | style='text-align:center;' | 1546 || [[Nuno Santos]], [[Pedro Moraes Leitão]], [[Iva Domingues]], [[Gonçalo Melo]], [[Mónica Jardim]], [[Anselmo Ralph]], [[Hélder Fráguas]], [[Cristina Silva]], [[José Neves]], [[José Fidalgo]], [[José Eduardo Moniz]], [[Cristina Ferreira]], [[TVI]], [[Rita Pereira]]
 |-
-| style='text-align:center;' | 1545 || [[Jaime Cancella de Abreu]], [[Jorge Baptista]]
+| style='text-align:center;' | 1545 || [[Jaime Cancella de Abreu]], [[Jorge Baptista]], [[Bruno Costa Carvalho]]
 |-
 | style='text-align:center;' | 1544 || [[Kátia Aveiro]], [[Elma Aveiro]]
 |-
@@ -134,7 +136,7 @@
 |-
 | style='text-align:center;' | 1482 || [[Toy]]
 |-
-| style='text-align:center;' | 1481 || [[Fred Canto e Castro]], [[Isabel Silva]]
+| style='text-align:center;' | 1481 || [[Frederico Canto e Castro (Fred)]], [[Isabel Silva]]
 |-
 | style='text-align:center;' | 1480 || [[A minha Mãe com o teu Pai]], [[Júlia Pinheiro]], [[Simone e Daniela]], [[Mário e Gabriela]], [[Elsa e Enzo]], [[Valter e Daniel.]]
 |-
@@ -248,7 +250,7 @@
 |-
 | style='text-align:center;' | 1425 || [[Tiago Grila]]
 |-
-| style='text-align:center;' | 1424 || [[Tiago Grila]]
+| style='text-align:center;' | 1424 || [[Tiago Grila]], [[Mariana Bossy]]
 |-
 | style='text-align:center;' | 1423 || [[Wuant]], [[joliveira10]]
 |-
@@ -386,7 +388,7 @@
 |-
 | style='text-align:center;' | 1356 || [[Bruno Nogueira]], [[Jorge]]
 |-
-| style='text-align:center;' | 1355 || [[Celso Lascasas]], [[Fernando Pimenta]], [[Fred Canto e Castro]], [[Fernando Daniel]]
+| style='text-align:center;' | 1355 || [[Celso Lascasas]], [[Fernando Pimenta]], [[Frederico Canto e Castro (Fred)]], [[Fernando Daniel]]
 |-
 | style='text-align:center;' | 1354 || [[Celso Lascasas]], [[Diana Lascasas]]
 |-
@@ -540,9 +542,9 @@
 |-
 | style='text-align:center;' | 1279 || [[Vanessa Martins]], [[Mafalda Rodrigues de Almeida]]
 |-
-| style='text-align:center;' | 1278 || [[Leandro Portugal]], [[Sónia Costa]], [[Sérgio Tavares]], [[Joana Marques]]
+| style='text-align:center;' | 1278 || [[Leandro]], [[Sónia Costa]], [[Sérgio Tavares]], [[Joana Marques]]
 |-
-| style='text-align:center;' | 1277 || [[Leandro Portugal]], [[Sónia Costa]], [[Sérgio Tavares]]
+| style='text-align:center;' | 1277 || [[Leandro]], [[Sónia Costa]], [[Sérgio Tavares]]
 |-
 | style='text-align:center;' | 1276 || [[João Borges]], [[Sandra Silva]]
 |-
@@ -654,7 +656,7 @@
 |-
 | style='text-align:center;' | 1222 || [[A Sentença]], [[Juíz Hélder Fráguas]], [[João Patrício]]
 |-
-| style='text-align:center;' | 1221 || [[Leandro Portugal]]
+| style='text-align:center;' | 1221 || [[Leandro]]
 |-
 | style='text-align:center;' | 1220 || [[Delfim Monteiro]]
 |-
@@ -1086,7 +1088,7 @@
 |-
 | style='text-align:center;' | 1006 || [[Cristina Ferreira]], [[Ely]], [[Frederico Canto e Castro (Fred)]]
 |-
-| style='text-align:center;' | 1005 || [[Miguel Milhão]], [[Sancha Trindade]], [[Judite Sousa]], [[Madalena Abecasis]], [[Marta Gautier]], [[Carlos Areia]], [[Rosa Bela]], [[Tiago Paiva]], [[Carlos Costa]], [[Pedro Crispim]], [[Tiago Gonçalves]], [[Leandro Portugal]], [[Vanda Leal Nunes]], [[Adelaide Ferreira]], [[Elma Aveiro]], [[Maria Vieira]], [[Filomena Dias]], [[José Cid]]
+| style='text-align:center;' | 1005 || [[Miguel Milhão]], [[Sancha Trindade]], [[Judite Sousa]], [[Madalena Abecasis]], [[Marta Gautier]], [[Carlos Areia]], [[Rosa Bela]], [[Tiago Paiva]], [[Carlos Costa]], [[Pedro Crispim]], [[Tiago Gonçalves]], [[Leandro]], [[Vanda Leal Nunes]], [[Adelaide Ferreira]], [[Elma Aveiro]], [[Maria Vieira]], [[Filomena Dias]], [[José Cid]]
 |-
 | style='text-align:center;' | 1004 || [[Fábio Teles]], [[Sérgio Tavares]], [[Sandra Felgueiras]], [[Isabel Alves]]
 |-
@@ -1118,7 +1120,7 @@
 |-
 | style='text-align:center;' | 990 || [[Kátia Aveiro]], [[Elma Aveiro]], [[César Mourão]]
 |-
-| style='text-align:center;' | 989 || [[Leandro Portugal]], [[Vanda Leal Nunes]]
+| style='text-align:center;' | 989 || [[Leandro]], [[Vanda Leal Nunes]]
 |-
 | style='text-align:center;' | 988 || [[António Pedro Cerdeira]], [[Susana Silva]]
 |-
@@ -1434,9 +1436,9 @@
 |-
 | style='text-align:center;' | 832 || [[Rita Matias]], [[Joana Amaral Dias]]
 |-
-| style='text-align:center;' | 831 || [[Leandro Portugal]]
+| style='text-align:center;' | 831 || [[Leandro]]
 |-
-| style='text-align:center;' | 830 || [[Rui Rio]], [[Francisco Rodrigues dos Santos (Chicão)]], [[Maria Vieira]], [[Fernando Rocha (Marido de Maria Vieira)]], [[Bruno de Carvalho]], [[Mário Jardel]], [[Leandro Portugal]], [[Cláudia Nayara]], [[Rita Pereira]], [[Vanessa Martins]]
+| style='text-align:center;' | 830 || [[Rui Rio]], [[Francisco Rodrigues dos Santos (Chicão)]], [[Maria Vieira]], [[Fernando Rocha (Marido de Maria Vieira)]], [[Bruno de Carvalho]], [[Mário Jardel]], [[Leandro]], [[Cláudia Nayara]], [[Rita Pereira]], [[Vanessa Martins]]
 |-
 | style='text-align:center;' | 829 || [[Cláudia Nayara]]
 |-
@@ -1446,7 +1448,7 @@
 |-
 | style='text-align:center;' | 826 || [[Ana Isableal]], [[Joana Marques]], [[Ana Galvão]]
 |-
-| style='text-align:center;' | 825 || [[Leandro Portugal]]
+| style='text-align:center;' | 825 || [[Leandro]]
 |-
 | style='text-align:center;' | 824 || [[Movimento Libertem as Crianças]], [[Covid-19]], [[Vicky]], [[João Marcello Caetano]]
 |-
