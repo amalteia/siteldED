@@ -2,7 +2,7 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
-| style='text-align:center;' | 1548 || [[Leandro]]
+| style='text-align:center;' | 1548 || [[Dialogos Paralelos (podcast)]], [[Leandro]]
 |-
 | style='text-align:center;' | 1547 || [[TVI]], [[Rita Pereira]], [[Inês Castel-Branco]], [[Ana Sofia Cardoso]], [[Maria Botelho Moniz]], [[João Patrício]], [[Cláudio Ramos]], [[Diogo Amaral]], [[Ana Guiomar]], [[Marco Borges]], [[João Lagarto]], [[Sandra Felgueiras]], [[Sara Pinto]], [[Andreia Vale]]
 |-

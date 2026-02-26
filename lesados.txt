@@ -1233,6 +1233,7 @@ Deus,1,
 Dia de Darwin,1,
 Dia de Finados,1,
 Dia do Pai,1,
+Dialogos Paralelos (podcast),1,@dialogos_paralelos
 Diamantino Miranda,1,
 Diana Duarte,1,
 Diana Ginja,1,
