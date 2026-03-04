@@ -17,7 +17,7 @@ Xavier,26,
 Rúben Rua,25,@ruben_rua
 Luciana Abreu,24,@lucianaabreuoficial
 Maria Cerqueira Gomes,24,@maria_cerqueira_gomes
-Sérgio Tavares,23,@canal_sergiotavares
+Sérgio Tavares,24,@canal_sergiotavares
 José Cid,22,@jose_cid_musico
 Marcelo Rebelo de Sousa,21,
 Lili Caneças,20,
@@ -50,6 +50,7 @@ Cinha Jardim,11,@cinha_jardim
 David Carreira,11,
 José Lopes,11,
 Judite Sousa,11,
+Leandro,11,@leandro.pt
 Liliana Aguiar,11,
 Léo Caeiro,11,@leocaeirooficial
 Marco Paulo,11,
@@ -61,7 +62,6 @@ António Costa,10,
 Fernanda Serrano,10,
 Flávio Furtado,10,@flavio_furtado_oficial
 João Baião,10,
-Leandro,10,@leandro.pt
 Miguel Sousa Tavares,10,
 Paulo Futre,10,
 Rui Sinel de Cordes,10,@ruisineldecordes
@@ -1869,6 +1869,7 @@ Marie (Maria Manuela Pinheiro Gomes),1,
 Marie Le Pen,1,
 Mariline Moreira,1,
 Marina Ferraz,1,
+Marina Pereira (Mary),1,
 Marina Pinto,1,
 Marina de Tavira,1,
 Marinho,1,
