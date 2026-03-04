@@ -14,9 +14,9 @@ Cristiano Ronaldo,34,@cristiano
 Manuel Luís Goucha,32,@mlgoucha
 Maya (taróloga),27,@tia__maya
 Xavier,26,
+Rúben Rua,25,@ruben_rua
 Luciana Abreu,24,@lucianaabreuoficial
 Maria Cerqueira Gomes,24,@maria_cerqueira_gomes
-Rúben Rua,24,@ruben_rua
 Sérgio Tavares,23,@canal_sergiotavares
 José Cid,22,@jose_cid_musico
 Marcelo Rebelo de Sousa,21,
@@ -42,6 +42,7 @@ Donald Trump,12,
 Frederico Varandas,12,
 João Barbosa (Numeiro),12,
 Ljubomir Stanisic,12,
+Miguel Milhão,12,
 Prós e Contras,12,
 Sporting Clube de Portugal,12,
 Casados à Primeira Vista,11,
@@ -52,7 +53,6 @@ Judite Sousa,11,
 Liliana Aguiar,11,
 Léo Caeiro,11,@leocaeirooficial
 Marco Paulo,11,
-Miguel Milhão,11,
 Rodrigo Guedes de Carvalho,11,
 Windoh,11,
 Wuant,11,
@@ -170,6 +170,7 @@ Mafalda Rodiles,5,
 Manuel Pinto Coelho,5,
 Marisa Cruz,5,
 Marta Gautier,5,
+Mia Fernandes,5,@miafernandesr
 Miguel Vicente,5,
 Morangos com Açúcar,5,
 Nuno Santos,5,@nuno.sant0s
@@ -236,7 +237,6 @@ Kelly Bailey (atriz),4,
 Leonor Poeiras,4,
 Lurdes Baeta,4,
 Margarida Oliveira,4,
-Mia Fernandes,4,@miafernandesr
 Miguel Relvas,4,
 Miguel Silva (Jingle Lee),4,@micselva
 Mónica Sintra,4,
@@ -361,6 +361,7 @@ João Patrício,3,@joaovascopatricio
 João Paulo Sousa,3,
 João Seabra,3,
 Julia Pinheiro,3,
+Jéssica Athayde,3,@jessica_athayde
 Júlia Palha,3,
 Laura Figueiredo,3,
 Leonor Santos,3,
@@ -553,6 +554,7 @@ Filipa Torrinha Nunes,2,
 Filipe Peres (Pipas),2,@ofilipeperes
 First Dates,2,
 Francisco Penin,2,
+Francisco Soares (Kiko is Hot),2,@kikoishot
 Fred Gomes,2,
 Fábio,2,
 Fábio Paim,2,
@@ -618,8 +620,8 @@ João Paulo Rodrigues,2,
 João Pedro Pais,2,
 João Pedro Pereira,2,@_joaopedropereira
 João Rendeiro,2,
+João Viola,2,@armunia_viola
 Jéssica Antunes,2,
-Jéssica Athayde,2,
 Júlio Isidro,2,@julioisidrotv
 Keyla Brasil,2,
 Lady Diana,2,
@@ -908,6 +910,7 @@ Andreia Sofia Matos,1,
 André Alves,1,
 André Carvalho Ramos,1,
 André Geraldes,1,
+André Marinho,1,
 André Pinto,1,
 André Rodrigues,1,
 André Samaris,1,
@@ -1381,6 +1384,7 @@ Filipa Maló Franco,1,
 Filipa Patão,1,
 Filipa Sabrosa,1,
 Filipa Teles,1,
+Filipe Bessa Vieira,1,
 Filipe Delgado,1,@filipedelgadomusic
 Filipe Ferreira,1,
 Filipe La Féria,1,
@@ -1403,7 +1407,6 @@ Francisco George,1,
 Francisco José Ferreira,1,
 Francisco Moita Flores,1,
 Francisco Rodrigues dos Santos,1,
-Francisco Soares (Kiko is Hot),1,@kikoishot
 Francisco Soares (Xico),1,
 Francisco Sousa Martins,1,
 Francisco Sá Pena,1,
@@ -1574,6 +1577,7 @@ Joana Machado Madeira,1,
 Joana Miranda,1,
 Joana Monteiro,1,
 Joana Negrão,1,
+Joana Ribeiro,1,
 Joana Salgueiro,1,
 Joana Santos,1,
 Joana Sobral,1,
@@ -1665,10 +1669,10 @@ João Soares,1,
 João Sousa,1,
 João Sousa Pinto,1,@joao_aspinto
 João Vicente de Castro,1,
-João Viola,1,
 Judas,1,
 Julian Assange,1,
 Julio Fernandes,1,
+Justin Amorim,1,@justinamorim
 Jéssica Ataíde,1,
 Jéssica Nogueira,1,
 Jéssica Pereira,1,
