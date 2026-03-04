@@ -2,6 +2,8 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1552 || [[Daniel Leitão]], [[Joana Marques]]
+|-
 | style='text-align:center;' | 1551 || [[Jéssica Athayde]], [[Joana Ribeiro]], [[Francisco Soares (Kiko is Hot)]], [[Rúben Rua]], [[Filipe Bessa Vieira]], [[Justin Amorim]], [[Mia Fernandes]], [[André Marinho]]
 |-
 | style='text-align:center;' | 1550 || [[João Viola]], [[Miguel Milhão]]

@@ -1,4 +1,4 @@
-Joana Marques,125,@joanamarquespic
+Joana Marques,126,@joanamarquespic
 Cristina Ferreira,88,@dailycristina
 Ana Galvão,53,@anagalvaolopez
 Gustavo Santos,48,@o_homem_da_terra
@@ -67,6 +67,7 @@ Paulo Futre,10,
 Rui Sinel de Cordes,10,@ruisineldecordes
 SIC,10,
 Clara de Sousa,9,
+Daniel Leitão,9,@danielhleitao
 Elma Aveiro,9,@elma_oficial
 Globos de Ouro,9,
 Júlia Pinheiro,9,
@@ -80,7 +81,6 @@ Yolanda Tati,9,
 Adriano Silva Martins,8,@adrianosilvaexpress
 Ana Rita Clara,8,
 Ana Sofia Cardoso,8,@asofiacardoso
-Daniel Leitão,8,@danielhleitao
 Diana Chaves,8,
 Diogo Faro,8,@diogofaroidiota
 Filipa Garnel,8,
