@@ -416,6 +416,7 @@ Sofia Aparício,3,
 Sofia Dinis,3,@sofiadinis.sheisart
 Soraia Chaves,3,
 Surma,3,
+Susana Dias Ramos,3,@susanadiasramos
 Susana Pinto,3,@susana.pintooficial
 Susana Silva,3,
 Susana Torres,3,
@@ -763,7 +764,6 @@ Sofia Vasconcelos,2,
 Sofia e José,2,
 Spice Girls,2,
 Sr. Antunes,2,
-Susana Dias Ramos,2,
 São José Lapa,2,
 Sérgio Ramos,2,
 Sílvia e Paulo,2,
