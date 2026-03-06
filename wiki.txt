@@ -2,6 +2,8 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1554 || [[Liliana Aguiar]], [[Gonçalo Gomes]], [[Windoh]], [[Teresa Guilherme]], [[Diogo Amaral]], [[Daniel Nascimento]], [[Rui Figueiredo]], [[Teresa Silva]], [[Ana Barbosa]], [[Margarida Carvalheiro]], [[Sérgio Semedo (Tufão)]], [[Milton Simões (Homem Finanças)]], [[Salvador Silva]], [[Carolina Taner]]
+|-
 | style='text-align:center;' | 1553 || [[Susana Dias Ramos]]
 |-
 | style='text-align:center;' | 1552 || [[Daniel Leitão]], [[Joana Marques]]

@@ -41,21 +41,21 @@ Kátia Aveiro,13,@katiaaveirooficial
 Donald Trump,12,
 Frederico Varandas,12,
 João Barbosa (Numeiro),12,
+Liliana Aguiar,12,@lilianaaguiaroficial
 Ljubomir Stanisic,12,
 Miguel Milhão,12,
 Prós e Contras,12,
 Sporting Clube de Portugal,12,
+Windoh,12,
 Casados à Primeira Vista,11,
 Cinha Jardim,11,@cinha_jardim
 David Carreira,11,
 José Lopes,11,
 Judite Sousa,11,
 Leandro,11,@leandro.pt
-Liliana Aguiar,11,
 Léo Caeiro,11,@leocaeirooficial
 Marco Paulo,11,
 Rodrigo Guedes de Carvalho,11,
-Windoh,11,
 Wuant,11,
 Ana Garcia Martins,10,
 António Costa,10,
@@ -113,8 +113,10 @@ Nuno Luz,7,
 Paulo Pires,7,
 Ricardo Quaresma,7,
 Rita Ferro Rodrigues,7,
+Teresa Guilherme,7,
 Ágata,7,
 Ângelo Rodrigues,7,@angelorodrigues_oficial
+Ana Barbosa,6,@capitan_barb
 Ana Marques,6,
 Assunção Cristas,6,
 Carlos Areia,6,
@@ -132,6 +134,7 @@ José Fidalgo,6,@josefidalgo_oficial
 José Rodrigues dos Santos,6,
 Lara Moniz,6,
 Luana Piovani,6,
+Rui Figueiredo,6,@rui_figueiredo
 Rui Oliveira Nunes,6,@ruideoliveiranunes
 Rui Veloso,6,
 Rui da Fonseca e Castro,6,
@@ -140,11 +143,9 @@ Santana Lopes,6,
 Santiago Lagoá,6,@santiago.lagoa
 Sara Matos,6,
 Suzana Garcia,6,@suzana_garcia
-Teresa Guilherme,6,
 Tiago Saramago (Tiagovski),6,@tiagovski555
 Touradas,6,
 Alexandre Santos,5,
-Ana Barbosa,5,@capitan_barb
 Andreia Rodrigues,5,@andreiarodriguesoficial
 António Pedro Cerdeira,5,
 Carolina Deslandes,5,
@@ -152,6 +153,7 @@ Casados no Paraíso,5,
 Catarina Miranda,5,
 Conan Osíris,5,
 Correio da Manhã,5,
+Daniel Nascimento,5,@danielnascimento0
 Fernando Mendes,5,
 Fernando Rocha (Marido de Maria Vieira),5,
 Filipa Castro,5,
@@ -179,7 +181,6 @@ Pedro Barroso (ator),5,@pedrobarrosopb
 Pedro Soá,5,
 Play - Prémios da Música Portuguesa,5,
 Quintino Aires,5,
-Rui Figueiredo,5,@rui_figueiredo
 Rui Santos,5,
 Sancha Trindade,5,
 Sandra Silva,5,
@@ -203,8 +204,8 @@ Cláudia Vieira,4,@claudiavieiraoficial
 Conceição Lino,4,@conceicaolino_oficial
 Dalila Carmo,4,
 Daniel Gregório,4,
-Daniel Nascimento,4,@danielnascimento0
 David Araújo,4,@davidaraujobb
+Diogo Amaral,4,@diogoamaral.oficial
 Diogo Morgado,4,
 Domingos José,4,
 Eduardo Barroso,4,
@@ -312,7 +313,6 @@ Daniel Oliveira (apresentador),3,
 Daniela Ruah,3,
 David Cristina,3,
 Dina Guedes,3,
-Diogo Amaral,3,@diogoamaral.oficial
 Diogo Infante,3,
 Eduardo Madeira,3,
 Eliana Voigt,3,
@@ -1097,6 +1097,7 @@ Carolina Falkholt,1,
 Carolina Napoleão,1,@carolina_napoleao
 Carolina Nunes,1,
 Carolina Ortigão,1,
+Carolina Taner,1,@taner.carol
 Carolina Torres,1,
 Carro alegóricos,1,
 Carvalhelhos,1,
@@ -1451,6 +1452,7 @@ Glória Dias,1,
 Gonzo,1,
 Gonçalo Botelho,1,
 Gonçalo Chaves,1,
+Gonçalo Gomes,1,@goncalogomesss
 Gonçalo Melo,1,
 Gonçalo Ramos,1,
 Gonçalo da Câmara Pereira,1,
@@ -1823,6 +1825,7 @@ Marco Delgado,1,
 Marco Martins,1,
 Marco Neves,1,
 Marco Sousa,1,
+Margarida Carvalheiro,1,
 Margarida Gomes de Oliveira,1,
 Margarida Menezes,1,
 Margarida Monteiro,1,
@@ -1928,6 +1931,7 @@ Mikaela Övén,1,
 Milene Sofia,1,
 Miley Cyrus/Hannah Montana,1,
 Milhanas,1,
+Milton Simões (Homem Finanças),1,@miltonpalmaesimoes
 Milénio,1,
 Mind da gap,1,
 Minhotos Marotos,1,
@@ -2332,6 +2336,7 @@ Rúben da Cruz,1,
 SIC Radical,1,
 Saltos da Ponte,1,
 Salvador Malheiro,1,
+Salvador Silva,1,@salsellsdxb
 Salvador da Cunha,1,
 Salão Erótico,1,
 Samantha Lecathelinais,1,
@@ -2426,6 +2431,7 @@ Sérgio Godinho,1,
 Sérgio Rosado,1,
 Sérgio Rossi,1,
 Sérgio Santos,1,
+Sérgio Semedo (Tufão),1,@xtufa0x
 Sílvia,1,
 Sílvia Botelho,1,@silvia7botelho
 Sílvia Martins,1,
@@ -2446,6 +2452,7 @@ Tayti (banda),1,
 Telepizza,1,
 Telmo,1,
 Teresa Dimas,1,
+Teresa Silva,1,@teresa_bb20
 Teresa Villaverde,1,
 Teresinha Landeiro,1,
 Terroristas do Bataclan,1,
