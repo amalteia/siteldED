@@ -161,6 +161,7 @@ Francisco Nunes,5,
 Frederico Canto e Castro (Fred),5,@fcantoecastro
 Georgina Rodríguez,5,
 Inês Herédia,5,
+Isabel Silva,5,@iamisabelsilva
 Jair Bolsonaro,5,
 Joaquim Sousa Martins,5,
 Jorge Kapinha,5,
@@ -225,7 +226,6 @@ Greta Thunberg,4,
 Inês Simões,4,
 Isabel Alves,4,
 Isabel Figueira,4,@isabelfigueira.oficial
-Isabel Silva,4,
 Iva Lamarão,4,
 Joana Latino,4,
 Jorge Gabriel,4,
@@ -1836,6 +1836,7 @@ Maria Begonha,1,
 Maria Flor Pedroso,1,
 Maria Francisca Isabel de Bragança,1,
 Maria Gabriela de Orleans e Bragança,1,
+Maria Gorjão Henriques,1,
 Maria Henrique,1,@mariahenriqueoficial
 Maria Inês Pedroso,1,
 Maria José Valério,1,
