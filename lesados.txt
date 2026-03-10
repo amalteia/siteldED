@@ -11,14 +11,14 @@ Cláudio Ramos,36,@claudio_ramos
 Inês Lopes Gonçalves,35,@ineslopesgoncalves
 CMTV,34,
 Cristiano Ronaldo,34,@cristiano
-Manuel Luís Goucha,32,@mlgoucha
+Manuel Luís Goucha,33,@mlgoucha
 Maya (taróloga),27,@tia__maya
 Xavier,26,
 Rúben Rua,25,@ruben_rua
 Luciana Abreu,24,@lucianaabreuoficial
 Maria Cerqueira Gomes,24,@maria_cerqueira_gomes
 Sérgio Tavares,24,@canal_sergiotavares
-José Cid,22,@jose_cid_musico
+José Cid,23,@jose_cid_musico
 Marcelo Rebelo de Sousa,21,
 Lili Caneças,20,
 Jorge Jesus,19,@jorgejesus
@@ -233,6 +233,7 @@ José Gouveia,4,
 José Mourinho,4,
 José Peseiro,4,
 João Fernando Ramos,4,
+João Patrício,4,@joaovascopatricio
 Juíz Hélder Fráguas,4,
 Kelly Bailey (atriz),4,
 Leonor Poeiras,4,
@@ -337,6 +338,7 @@ Globos de Ouro 2021,3,
 Graça Fonseca,3,
 Helena Isabel,3,
 Henrique Gouveia e Melo,3,
+Humberto Bernardo,3,
 Héctor Herrera,3,
 Iker Casillas,3,
 Isa Moreira,3,
@@ -357,7 +359,6 @@ João Beles,3,
 João Cotrim de Figueiredo,3,
 João Félix,3,
 João Manzarra,3,
-João Patrício,3,@joaovascopatricio
 João Paulo Sousa,3,
 João Seabra,3,
 Julia Pinheiro,3,
@@ -575,7 +576,6 @@ Heitor Lourenço,2,
 Helena Coelho,2,@helenacoelhooo
 Hugo Mendes,2,
 Hugo Oliveira,2,
-Humberto Bernardo,2,
 Humberto Simões,2,
 Hélder Tavares,2,
 Iara Dias,2,
@@ -1650,6 +1650,7 @@ João Loureiro,1,
 João Luís Jesus,1,
 João Marcello Caetano,1,
 João Matos (jogador de futsal),1,
+João Melo,1,
 João Menezes,1,
 João Morais do Carmo,1,
 João Mota,1,
@@ -1851,6 +1852,7 @@ Maria Madalena Mateus,1,@mariamadalenamateus
 Maria Maia,1,@mariacostamaia
 Maria Rodrigues,1,@mariarodriguesx
 Maria Rueff,1,
+Maria Sequeira Gomes,1,
 Maria Silvia,1,
 Maria Spínola,1,
 Maria Teixeira Pinto,1,
@@ -2233,6 +2235,7 @@ Regina,1,
 Regresso às aulas,1,
 Rei dos Frangos de Moscavide,1,
 Reis do Carnaval,1,
+Renata Gonçalves,1,@renatagoncalves.oficial
 Renata Reis,1,
 Renato Alexandre,1,
 Renato Duarte,1,
@@ -2281,6 +2284,7 @@ Rihanna,1,
 Rio Tinto,1,
 Rita Carmaneiro,1,
 Rita Egídio,1,@rita__egidio
+Rita Guerra,1,@ritaguerraoficial
 Rita Marrafa de Carvalho,1,
 Rita Matias,1,
 Rita Rodrigues Castro,1,@ritarodriguesecastro
