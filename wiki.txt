@@ -2,6 +2,8 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1557 || [[João Dias]]
+|-
 | style='text-align:center;' | 1556 || [[Rita Guerra]], [[João Melo]], [[Manuel Luís Goucha]], [[Maria Sequeira Gomes]], [[João Patrício]], [[Renata Gonçalves]], [[José Cid]], [[Humberto Bernardo]]
 |-
 | style='text-align:center;' | 1555 || [[Isabel Silva]], [[Maria Gorjão Henriques]]

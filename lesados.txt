@@ -1640,6 +1640,7 @@ João Arbués Moreira,1,
 João Canijo,1,
 João Castelão,1,
 João César das Neves,1,
+João Dias,1,@ironhealth_pt
 João Fernandes Santos,1,
 João Fortes,1,
 João Galamba,1,
