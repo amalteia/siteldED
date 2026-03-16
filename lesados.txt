@@ -4,8 +4,8 @@ Ana Galvão,53,@anagalvaolopez
 Gustavo Santos,48,@o_homem_da_terra
 TVI,42,
 Ana Markl,40,@ana_markl
+Rita Pereira,39,@hyndia
 Covid-19,38,
-Rita Pereira,38,@hyndia
 Bruno de Carvalho,36,@bruno_de_carvalho_oficial
 Cláudio Ramos,36,@claudio_ramos
 Inês Lopes Gonçalves,35,@ineslopesgoncalves
@@ -35,16 +35,17 @@ Carolina Patrocínio,15,@carolinapatrocinio
 José Castelo Branco,15,
 Fátima Campos Ferreira,14,
 José Sócrates,14,
+Miguel Milhão,14,
 Catarina Furtado,13,
 Duarte Siopa,13,@duartesiopa
 Kátia Aveiro,13,@katiaaveirooficial
-Miguel Milhão,13,
 Donald Trump,12,
 Frederico Varandas,12,
 João Barbosa (Numeiro),12,
 Liliana Aguiar,12,@lilianaaguiaroficial
 Ljubomir Stanisic,12,
 Prós e Contras,12,
+Rui Sinel de Cordes,12,@ruisineldecordes
 Sporting Clube de Portugal,12,
 Windoh,12,
 Casados à Primeira Vista,11,
@@ -56,7 +57,6 @@ Leandro,11,@leandro.pt
 Léo Caeiro,11,@leocaeirooficial
 Marco Paulo,11,
 Rodrigo Guedes de Carvalho,11,
-Rui Sinel de Cordes,11,@ruisineldecordes
 Wuant,11,
 Ana Garcia Martins,10,
 António Costa,10,
