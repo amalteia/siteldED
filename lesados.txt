@@ -20,7 +20,7 @@ Maria Cerqueira Gomes,24,@maria_cerqueira_gomes
 Sérgio Tavares,24,@canal_sergiotavares
 José Cid,23,@jose_cid_musico
 Marcelo Rebelo de Sousa,21,
-Lili Caneças,20,
+Lili Caneças,20,@lilicanecas
 Jorge Jesus,19,@jorgejesus
 Tiago Paiva,19,@tiagopaiva__
 André Ventura,18,
