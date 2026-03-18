@@ -2,6 +2,8 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1562 || [[Ruben Rua]]
+|-
 | style='text-align:center;' | 1561 || [[Ruben Rua]]
 |-
 | style='text-align:center;' | 1560 || [[Rita Pereira]]
