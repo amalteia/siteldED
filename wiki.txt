@@ -2,6 +2,8 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1564 || [[Gustavo Santos]]
+|-
 | style='text-align:center;' | 1563 || [[Francisca Cabral (Maria Morango)]], [[Rita Ferro Rodrigues]], [[Luís Montez]], [[Tia Bli]]
 |-
 | style='text-align:center;' | 1562 || [[Ruben Rua]]
