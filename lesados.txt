@@ -13,9 +13,9 @@ CMTV,34,
 Cristiano Ronaldo,34,@cristiano
 Manuel Luís Goucha,33,@mlgoucha
 Maya (taróloga),27,@tia__maya
+Rúben Rua,27,@ruben_rua
 Xavier,26,
 Luciana Abreu,25,@lucianaabreuoficial
-Rúben Rua,25,@ruben_rua
 Maria Cerqueira Gomes,24,@maria_cerqueira_gomes
 Sérgio Tavares,24,@canal_sergiotavares
 José Cid,23,@jose_cid_musico
@@ -742,7 +742,6 @@ Romana,2,
 Rosa Bela,2,
 Rosa Mota,2,
 Rosinha,2,
-Ruben Rua,2,
 Rui André Soares,2,
 Rui Moreira,2,
 Rui Pedro Vaz,2,
