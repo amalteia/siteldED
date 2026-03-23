@@ -8,9 +8,9 @@
 |-
 | style='text-align:center;' | 1563 || [[Francisca Cabral (Maria Morango)]], [[Rita Ferro Rodrigues]], [[Luís Montez]], [[Tia Bli]]
 |-
-| style='text-align:center;' | 1562 || [[Ruben Rua]]
+| style='text-align:center;' | 1562 || [[Rúben Rua]]
 |-
-| style='text-align:center;' | 1561 || [[Ruben Rua]]
+| style='text-align:center;' | 1561 || [[Rúben Rua]]
 |-
 | style='text-align:center;' | 1560 || [[Rita Pereira]]
 |-
@@ -30,7 +30,7 @@
 |-
 | style='text-align:center;' | 1552 || [[Daniel Leitão]], [[Joana Marques]]
 |-
-| style='text-align:center;' | 1551 || [[Jéssica Athayde]], [[Joana Ribeiro]], [[Francisco Soares (Kiko is Hot)]], [[Ruben Rua]], [[Filipe Bessa Vieira]], [[Justin Amorim]], [[Mia Fernandes]], [[André Marinho]]
+| style='text-align:center;' | 1551 || [[Jéssica Athayde]], [[Joana Ribeiro]], [[Francisco Soares (Kiko is Hot)]], [[Rúben Rua]], [[Filipe Bessa Vieira]], [[Justin Amorim]], [[Mia Fernandes]], [[André Marinho]]
 |-
 | style='text-align:center;' | 1550 || [[João Viola]], [[Miguel Milhão]]
 |-
@@ -324,7 +324,7 @@
 |-
 | style='text-align:center;' | 1405 || [[Casados à Primeira Vista]], [[Domingos José]], [[Isa Moreira]]
 |-
-| style='text-align:center;' | 1404 || [[Casados à Primeira Vista]], [[Milene Sofia]], [[Ruben Teixeira]], [[Domingos José]], [[Isa Moreira]]
+| style='text-align:center;' | 1404 || [[Casados à Primeira Vista]], [[Milene Sofia]], [[Rúben Teixeira]], [[Domingos José]], [[Isa Moreira]]
 |-
 | style='text-align:center;' | 1403 || [[Rui Sinel de Cordes]]
 |-
@@ -394,7 +394,7 @@
 |-
 | style='text-align:center;' | 1370 || [[Cristina Ferreira]]
 |-
-| style='text-align:center;' | 1369 || [[Cristina Ferreira]], [[José Pacheco Pereira]], [[Antonio Pinto Pereira]], [[Suzana Garcia]], [[Joana Amaral Dias]], [[Joana Barros]], [[Dona Amelia]], [[André Carvalho Ramos]], [[Ruben Amorim]]
+| style='text-align:center;' | 1369 || [[Cristina Ferreira]], [[José Pacheco Pereira]], [[Antonio Pinto Pereira]], [[Suzana Garcia]], [[Joana Amaral Dias]], [[Joana Barros]], [[Dona Amelia]], [[André Carvalho Ramos]], [[Rúben Amorim]]
 |-
 | style='text-align:center;' | 1368 || [[Teresa Stichaner]], [[Manuel Luís Goucha]], [[Ana Galvão]]
 |-
@@ -462,9 +462,9 @@
 |-
 | style='text-align:center;' | 1336 || [[Wuant]], [[Bárbara Norton de Matos]], [[Joana Marques]]
 |-
-| style='text-align:center;' | 1335 || [[Ruben Rua]], [[Maria Cerqueira Gomes]], [[Lili Caneças]], [[Fernanda Serrano]], [[David Carreira]]
+| style='text-align:center;' | 1335 || [[Rúben Rua]], [[Maria Cerqueira Gomes]], [[Lili Caneças]], [[Fernanda Serrano]], [[David Carreira]]
 |-
-| style='text-align:center;' | 1334 || [[Ruben Rua]], [[Maria Cerqueira Gomes]], [[Jorge Guerreiro]], [[Paulo Baptista]], [[Gonçalo Quinaz]], [[Dalila Carmo]]
+| style='text-align:center;' | 1334 || [[Rúben Rua]], [[Maria Cerqueira Gomes]], [[Jorge Guerreiro]], [[Paulo Baptista]], [[Gonçalo Quinaz]], [[Dalila Carmo]]
 |-
 | style='text-align:center;' | 1333 || [[Jorge Kapinha]], [[Mafalda Teixeira]], [[Ana Rita Clara]]
 |-
@@ -566,7 +566,7 @@
 |-
 | style='text-align:center;' | 1284 || [[Globos de Ouro de 2024]], [[João Canijo]], [[Augusto de Fraga]], [[A Garota Não]], [[Manuel Luís Goucha]], [[Júlia Pinheiro]], [[João Baião]], [[Bárbara Branco]], [[José Mata]], [[Carolina Loureiro]], [[Sara Matos]], [[Soraia Chaves]], [[Andreia Rodrigues]]
 |-
-| style='text-align:center;' | 1283 || [[Maria Cerqueira Gomes]], [[Kika Cerqueira Gomes]], [[Cristina Ferreira]], [[Cláudio Ramos]], [[Ruben Rua]], [[Cayetano Rivera Ordóñez]]
+| style='text-align:center;' | 1283 || [[Maria Cerqueira Gomes]], [[Kika Cerqueira Gomes]], [[Cristina Ferreira]], [[Cláudio Ramos]], [[Rúben Rua]], [[Cayetano Rivera Ordóñez]]
 |-
 | style='text-align:center;' | 1282 || [[Para Si]], [[Sandra Felgueiras]], [[Ângelo Rodrigues]], [[Ana Rita Clara]], [[Ana Galvão]]
 |-
@@ -584,7 +584,7 @@
 |-
 | style='text-align:center;' | 1275 || [[João Borges]], [[Sandra Silva]]
 |-
-| style='text-align:center;' | 1274 || [[Secret Story 8]], [[Diogo Afonso]], [[Renata Reis]], [[Rafael Almeida]], [[Patrícia Carvalho]], [[Ruben Silvestre]], [[Flávia Monteiro]], [[Maycon]]
+| style='text-align:center;' | 1274 || [[Secret Story 8]], [[Diogo Afonso]], [[Renata Reis]], [[Rafael Almeida]], [[Patrícia Carvalho]], [[Rúben Silvestre]], [[Flávia Monteiro]], [[Maycon]]
 |-
 | style='text-align:center;' | 1273 || [[Kátia Aveiro]]
 |-
@@ -736,7 +736,7 @@
 |-
 | style='text-align:center;' | 1199 || [[TVI]], [[Gala TVI 31 anos]], [[Lili Caneças]], [[José Eduardo Moniz]], [[Cristina Ferreira]], [[Pedro Carvalhas]], [[Inês Herédia]], [[Cláudio Ramos]], [[Raquel Matos Cruz]], [[Manuel Luís Goucha]], [[Rita Pereira]], [[Marisa Cruz]], [[Rodrigo Paganelli]], [[Mónica Jardim]], [[Eduardo Madeira]], [[Paula Neves]]
 |-
-| style='text-align:center;' | 1198 || [[TVI]], [[Gala TVI 31 anos]], [[João Montez]], [[Rita Pereira]], [[José Lopes]], [[Ana Sofia Cardoso]], [[Iva Domingues]], [[Mário Ferreira]], [[Paula Ferreira]], [[Ana Guiomar]], [[Matilde Reymão]], [[Inês Herédia]], [[Lili Caneças]], [[José Eduardo Moniz]], [[Cristina Ferreira]], [[Kelly Bailey (atriz)]], [[Nuno Santos]], [[Vítor Fonseca (Cifrão)]], [[Flávio Furtado]], [[Catarina Cardoso]], [[Ruben Rua]], [[Manuel Luís Goucha]], [[Cláudio Ramos]]
+| style='text-align:center;' | 1198 || [[TVI]], [[Gala TVI 31 anos]], [[João Montez]], [[Rita Pereira]], [[José Lopes]], [[Ana Sofia Cardoso]], [[Iva Domingues]], [[Mário Ferreira]], [[Paula Ferreira]], [[Ana Guiomar]], [[Matilde Reymão]], [[Inês Herédia]], [[Lili Caneças]], [[José Eduardo Moniz]], [[Cristina Ferreira]], [[Kelly Bailey (atriz)]], [[Nuno Santos]], [[Vítor Fonseca (Cifrão)]], [[Flávio Furtado]], [[Catarina Cardoso]], [[Rúben Rua]], [[Manuel Luís Goucha]], [[Cláudio Ramos]]
 |-
 | style='text-align:center;' | 1197 || [[Adriano Silva Martins]]
 |-
@@ -824,7 +824,7 @@
 |-
 | style='text-align:center;' | 1155 || [[Bruno Mestre]], [[Sara Afonso]]
 |-
-| style='text-align:center;' | 1154 || [[Quinas de Ouro]], [[Cândido Costa]], [[Lourenço Ortigão]], [[Ruben Dias]], [[Andreia Sofia Matos]], [[Éder]], [[Fernando Gomes]], [[Paulo Futre]]
+| style='text-align:center;' | 1154 || [[Quinas de Ouro]], [[Cândido Costa]], [[Lourenço Ortigão]], [[Rúben Dias]], [[Andreia Sofia Matos]], [[Éder]], [[Fernando Gomes]], [[Paulo Futre]]
 |-
 | style='text-align:center;' | 1153 || [[Mafalda de Castro]], [[Rui Simões]]
 |-
@@ -920,11 +920,11 @@
 |-
 | style='text-align:center;' | 1107 || [[TVI]], [[Cláudio Ramos]], [[Fernanda Serrano]], [[Alexandra Lencastre]], [[Idevor Mendonça]], [[Pedro Morais Leitão]], [[Margarida Corceiro]], [[Diogo Amaral]], [[Ana Brito e Cunha]], [[Francisco Maria Pereira (Kacha)]], [[José Eduardo Moniz]], [[Cristina Ferreira]], [[Miguel Sousa Tavares]], [[Alberto Rodrigues]], [[Paulo Pires]]
 |-
-| style='text-align:center;' | 1106 || [[TVI]], [[Cristina Ferreira]], [[José Eduardo Moniz]], [[Mario Ferreira]], [[Nuno Santos]], [[Idevor Mendonça]], [[Rodrigo Paganelli]], [[Ruben Rua]], [[Ana Sofia Martins]], [[Paulo Pires]], [[Iva Domingues]], [[Marcos Pinto]], [[Cláudio Ramos]], [[Pedro Sousa]], [[Cátia Nobre]], [[Maria Cerqueira Gomes]]
+| style='text-align:center;' | 1106 || [[TVI]], [[Cristina Ferreira]], [[José Eduardo Moniz]], [[Mario Ferreira]], [[Nuno Santos]], [[Idevor Mendonça]], [[Rodrigo Paganelli]], [[Rúben Rua]], [[Ana Sofia Martins]], [[Paulo Pires]], [[Iva Domingues]], [[Marcos Pinto]], [[Cláudio Ramos]], [[Pedro Sousa]], [[Cátia Nobre]], [[Maria Cerqueira Gomes]]
 |-
 | style='text-align:center;' | 1105 || [[Cristina Ferreira]], [[Gustavo Santos]]
 |-
-| style='text-align:center;' | 1104 || [[TVI]], [[Festa de Verão da TVI]], [[Ana Marta Contente]], [[Cristina Ferreira]], [[Lili Caneças]], [[João Montez]], [[Diogo Infante]], [[Ruben Rua]], [[Rodrigo Paganelli]], [[Fanny Rodrigues]], [[José Lopes]], [[Elma Aveiro]], [[Mafalda Marafusta]], [[Abel Xavier]], [[Mafalda Castro]], [[Helena Ferro Gouveia]], [[Ana Sofia Cardoso]], [[Sandra Felgueiras]], [[Liliana Campos]], [[Fernanda Serrano]]
+| style='text-align:center;' | 1104 || [[TVI]], [[Festa de Verão da TVI]], [[Ana Marta Contente]], [[Cristina Ferreira]], [[Lili Caneças]], [[João Montez]], [[Diogo Infante]], [[Rúben Rua]], [[Rodrigo Paganelli]], [[Fanny Rodrigues]], [[José Lopes]], [[Elma Aveiro]], [[Mafalda Marafusta]], [[Abel Xavier]], [[Mafalda Castro]], [[Helena Ferro Gouveia]], [[Ana Sofia Cardoso]], [[Sandra Felgueiras]], [[Liliana Campos]], [[Fernanda Serrano]]
 |-
 | style='text-align:center;' | 1103 || [[Malditas Segundas-Feiras]], [[Manuel Moreira]]
 |-
@@ -972,7 +972,7 @@
 |-
 | style='text-align:center;' | 1081 || [[David Soares (David GYT)]], [[Manuel Pinto Coelho]]
 |-
-| style='text-align:center;' | 1080 || [[Ruben Rua]], [[Maria Helena Martins]]
+| style='text-align:center;' | 1080 || [[Rúben Rua]], [[Maria Helena Martins]]
 |-
 | style='text-align:center;' | 1079 || [[Anitta]]
 |-
@@ -1072,13 +1072,13 @@
 |-
 | style='text-align:center;' | 1031 || [[O Triângulo]], [[Cristina Ferreira]], [[Brenda Pais]], [[Gonçalo Chaves]], [[Alice Santos]]
 |-
-| style='text-align:center;' | 1030 || [[TVI]], [[Gala TVI 30 anos]], [[Manuel Luís Goucha]], [[José Eduardo Moniz]], [[Cristina Ferreira]], [[Idevor Mendonça]], [[Joana Diniz]], [[Sónia Jesus]], [[Mário Ferreira]], [[Cláudio Ramos]], [[Ruben Rua]], [[Maria Cerqueira Gomes]], [[Ana Sofia Cardoso]], [[João Fernando Ramos]], [[Rita Rodrigues]], [[Sandra Felgueiras]], [[Pedro Benevides]]
+| style='text-align:center;' | 1030 || [[TVI]], [[Gala TVI 30 anos]], [[Manuel Luís Goucha]], [[José Eduardo Moniz]], [[Cristina Ferreira]], [[Idevor Mendonça]], [[Joana Diniz]], [[Sónia Jesus]], [[Mário Ferreira]], [[Cláudio Ramos]], [[Rúben Rua]], [[Maria Cerqueira Gomes]], [[Ana Sofia Cardoso]], [[João Fernando Ramos]], [[Rita Rodrigues]], [[Sandra Felgueiras]], [[Pedro Benevides]]
 |-
 | style='text-align:center;' | 1029 || [[TVI]], [[Gala TVI 30 anos]], [[Lurdes Baeta]], [[João Morais do Carmo]], [[Ana Sofia Cardoso]], [[João Fernando Ramos]], [[Rita Rodrigues]], [[Júlia Pinheiro]], [[José Alberto Carvalho]], [[Sandra Felgueiras]], [[Pedro Benevides]], [[Pedro Santos Guerreiro]]
 |-
-| style='text-align:center;' | 1028 || [[TVI]], [[Gala TVI 30 anos]], [[Fernanda Serrano]], [[Rita Pereira]], [[Fernando Pires]], [[Tiago Teotónio Pereira]], [[São José Lapa]], [[José Fidalgo]], [[Cláudio Ramos]], [[Eduardo Madeira]], [[Manuel Marques]], [[Ruben Rua]], [[Maria Cerqueira Gomes]], [[Cristina Ferreira]], [[Marisa Cruz]], [[Joaquim Sousa Martins]], [[Paulo Futre]], [[Rui Santos (jornalista)]]
+| style='text-align:center;' | 1028 || [[TVI]], [[Gala TVI 30 anos]], [[Fernanda Serrano]], [[Rita Pereira]], [[Fernando Pires]], [[Tiago Teotónio Pereira]], [[São José Lapa]], [[José Fidalgo]], [[Cláudio Ramos]], [[Eduardo Madeira]], [[Manuel Marques]], [[Rúben Rua]], [[Maria Cerqueira Gomes]], [[Cristina Ferreira]], [[Marisa Cruz]], [[Joaquim Sousa Martins]], [[Paulo Futre]], [[Rui Santos (jornalista)]]
 |-
-| style='text-align:center;' | 1027 || [[TVI]], [[Gala TVI 30 anos]], [[José Lopes]], [[Ruben Rua]], [[Isaac Alfaiate]], [[Manuel Luís Goucha]], [[José Eduardo Moniz]], [[Cristina Ferreira]], [[Miguel Silva (Jingle Lee)]], [[Dalila Carmo]], [[Fernanda Serrano]], [[Ana Sofia Martins]], [[Toy]], [[Paulo Pires]], [[Raquel Matos Cruz]], [[Maria Cerqueira Gomes]], [[Idevor Mendonça]], [[Joana Diniz]], [[Sónia Jesus]], [[Mário Ferreira]]
+| style='text-align:center;' | 1027 || [[TVI]], [[Gala TVI 30 anos]], [[José Lopes]], [[Rúben Rua]], [[Isaac Alfaiate]], [[Manuel Luís Goucha]], [[José Eduardo Moniz]], [[Cristina Ferreira]], [[Miguel Silva (Jingle Lee)]], [[Dalila Carmo]], [[Fernanda Serrano]], [[Ana Sofia Martins]], [[Toy]], [[Paulo Pires]], [[Raquel Matos Cruz]], [[Maria Cerqueira Gomes]], [[Idevor Mendonça]], [[Joana Diniz]], [[Sónia Jesus]], [[Mário Ferreira]]
 |-
 | style='text-align:center;' | 1026 || [[Lili Caneças]]
 |-
@@ -1110,7 +1110,7 @@
 |-
 | style='text-align:center;' | 1012 || [[Esperança Pereira]], [[Alexandre Monteiro]]
 |-
-| style='text-align:center;' | 1011 || [[Pedro Neves de Sousa]], [[Ruben Rua]]
+| style='text-align:center;' | 1011 || [[Pedro Neves de Sousa]], [[Rúben Rua]]
 |-
 | style='text-align:center;' | 1010 || [[Alice Santos]]
 |-
@@ -1136,7 +1136,7 @@
 |-
 | style='text-align:center;' | 999 || [[Joana Marques]], [[Ana Galvão]], [[Inês Lopes Gonçalves]]
 |-
-| style='text-align:center;' | 998 || [[Gala da TVI]], [[Kelly Bailey (atriz)]], [[Rosinha]], [[Mónica Sintra]], [[Ruben Rua]], [[Carlos Cunha]], [[Miguel Silva (Jingle Lee)]], [[José Cid]]
+| style='text-align:center;' | 998 || [[Gala da TVI]], [[Kelly Bailey (atriz)]], [[Rosinha]], [[Mónica Sintra]], [[Rúben Rua]], [[Carlos Cunha]], [[Miguel Silva (Jingle Lee)]], [[José Cid]]
 |-
 | style='text-align:center;' | 997 || [[Maria do Céu Santo]]
 |-
@@ -1264,13 +1264,13 @@
 |-
 | style='text-align:center;' | 935 || [[Big Brother]], [[Joana Taful]], [[Diana Lopes]]
 |-
-| style='text-align:center;' | 934 || [[Big Brother]], [[Ruben da Cruz]], [[Ruben Boa Nova]], [[Tatiana Boa Nova]], [[Ricardo Pereira]], [[Joana Schreyer]], [[Miguel Vicente]], [[Nuno Homem de Sá]], [[Frederica Lima]], [[Miro Vemba]], [[Ana Maia]], [[Daniel Oliveira]], [[Catarina Severiano]], [[Miguel Vicente]], [[Mafalda Diamond]]
+| style='text-align:center;' | 934 || [[Big Brother]], [[Rúben da Cruz]], [[Rúben Boa Nova]], [[Tatiana Boa Nova]], [[Ricardo Pereira]], [[Joana Schreyer]], [[Miguel Vicente]], [[Nuno Homem de Sá]], [[Frederica Lima]], [[Miro Vemba]], [[Ana Maia]], [[Daniel Oliveira]], [[Catarina Severiano]], [[Miguel Vicente]], [[Mafalda Diamond]]
 |-
 | style='text-align:center;' | 933 || [[SIC]], [[Júlia Palha]], [[João Paulo Sousa]], [[Cláudia Borges]], [[Maria Dominguez]], [[Sara Matos]], [[Andreia Rodrigues]], [[César Mourão]], [[João Paulo Sousa]], [[Paula Lobo Antunes]], [[Jorge Corrula]], [[José Raposo]], [[Beatriz Frazão]], [[Iva Lamarão]], [[Oceana Basílio]]
 |-
 | style='text-align:center;' | 932 || [[Miguel Silva (Jingle Lee)]], [[Cristina Ferreira]], [[José Eduardo Moniz]], [[João Montez]], [[Mónica Jardim]], [[Rita Pereira]], [[Tomás Meireles]], [[Susana Dias Ramos]], [[Sara Prata]]
 |-
-| style='text-align:center;' | 931 || [[TVI]], [[Festa de Verão da TVI]], [[Fanny Rodrigues]], [[José Carlos Pereira]], [[Isaac Alfaiate]], [[Susana Dias Ramos]], [[Ruben Rua]], [[Santiago Lagoá]], [[Sofia Vasconcelos]], [[José Lopes]], [[Miguel Flor de Lima]], [[CNN]], [[Pedro Benevides]], [[Ana Barbosa]]
+| style='text-align:center;' | 931 || [[TVI]], [[Festa de Verão da TVI]], [[Fanny Rodrigues]], [[José Carlos Pereira]], [[Isaac Alfaiate]], [[Susana Dias Ramos]], [[Rúben Rua]], [[Santiago Lagoá]], [[Sofia Vasconcelos]], [[José Lopes]], [[Miguel Flor de Lima]], [[CNN]], [[Pedro Benevides]], [[Ana Barbosa]]
 |-
 | style='text-align:center;' | 930 || [[Bruno de Carvalho]], [[Manuel Luís Goucha]], [[Liliana Almeida de Carvalho]]
 |-
@@ -1352,7 +1352,7 @@
 |-
 | style='text-align:center;' | 891 || [[Miguel Coimbra]], [[João Montez]]
 |-
-| style='text-align:center;' | 890 || [[Ruben Semedo]], [[CMTV]]
+| style='text-align:center;' | 890 || [[Rúben Semedo]], [[CMTV]]
 |-
 | style='text-align:center;' | 889 || [[Casados à Primeira Vista]], [[Tiago Jaqueta]], [[Dina Guedes]], [[Júlia Pinheiro]]
 |-
@@ -1440,9 +1440,9 @@
 |-
 | style='text-align:center;' | 847 || [[Bruno de Carvalho]]
 |-
-| style='text-align:center;' | 846 || [[Gala da TVI]], [[Cláudio Ramos]], [[Ruben Rua]], [[Manuel Luís Goucha]], [[Maria Cerqueira Gomes]], [[Maria Botelho Moniz]], [[Lurdes Baeta]], [[Miguel Gameiro]]
+| style='text-align:center;' | 846 || [[Gala da TVI]], [[Cláudio Ramos]], [[Rúben Rua]], [[Manuel Luís Goucha]], [[Maria Cerqueira Gomes]], [[Maria Botelho Moniz]], [[Lurdes Baeta]], [[Miguel Gameiro]]
 |-
-| style='text-align:center;' | 845 || [[Gala da TVI]], [[Kelly Bailey (atriz)]], [[Rosinha]], [[Mónica Sintra]], [[Ruben Rua]], [[Carlos Cunha]], [[Miguel Silva (Jingle Lee)]], [[José Cid]]
+| style='text-align:center;' | 845 || [[Gala da TVI]], [[Kelly Bailey (atriz)]], [[Rosinha]], [[Mónica Sintra]], [[Rúben Rua]], [[Carlos Cunha]], [[Miguel Silva (Jingle Lee)]], [[José Cid]]
 |-
 | style='text-align:center;' | 844 || [[Gala da TVI]], [[São José Lapa]], [[João Montez]], [[Rita Pereira]], [[José Lopes]]
 |-
@@ -1550,9 +1550,9 @@
 |-
 | style='text-align:center;' | 792 || [[Marcelo Rebelo de Sousa]], [[Duarte Siopa]], [[Mário Jardel]]
 |-
-| style='text-align:center;' | 791 || [[Ruben Rua]], [[Maria Cerqueira Gomes]]
+| style='text-align:center;' | 791 || [[Rúben Rua]], [[Maria Cerqueira Gomes]]
 |-
-| style='text-align:center;' | 790 || [[Ruben Rua]], [[Maria Cerqueira Gomes]]
+| style='text-align:center;' | 790 || [[Rúben Rua]], [[Maria Cerqueira Gomes]]
 |-
 | style='text-align:center;' | 789 || [[Joana Marques]]
 |-
@@ -1572,7 +1572,7 @@
 |-
 | style='text-align:center;' | 781 || [[Ricardo Martins Pereira (Arrumadinho)]], [[Ana Garcia Martins]]
 |-
-| style='text-align:center;' | 780 || [[Ruben Rua]]
+| style='text-align:center;' | 780 || [[Rúben Rua]]
 |-
 | style='text-align:center;' | 779 || [[Jorge Kapinha]], [[Duarte Siopa]]
 |-
@@ -1620,7 +1620,7 @@
 |-
 | style='text-align:center;' | 757 || [[Rui da Fonseca e Castro]], [[CMTV]]
 |-
-| style='text-align:center;' | 756 || [[Gustavo Santos]], [[Ruben Rua]]
+| style='text-align:center;' | 756 || [[Gustavo Santos]], [[Rúben Rua]]
 |-
 | style='text-align:center;' | 755 || [[Gustavo Santos]]
 |-
@@ -1830,7 +1830,7 @@
 |-
 | style='text-align:center;' | 652 || [[Festival da Canção]], [[Fábia Maia]], [[Karetus]], [[Tatanka]], [[Valéria Carvalho]], [[Mema]], [[Anne Vitorino de Almeida]], [[Inês Lopes Gonçalves]], [[Miguel Marôco]], [[Sara Afonso]], [[Irma]], [[IAN]]
 |-
-| style='text-align:center;' | 651 || [[TVI]], [[Ruben Rua]], [[Nuno Eiró]], [[Cristina Ferreira]], [[Mónica Jardim]], [[Alice Alves]], [[Ana Sofia Cardoso]], [[Rita Pereira]], [[Joaquim Sousa Martins]]
+| style='text-align:center;' | 651 || [[TVI]], [[Rúben Rua]], [[Nuno Eiró]], [[Cristina Ferreira]], [[Mónica Jardim]], [[Alice Alves]], [[Ana Sofia Cardoso]], [[Rita Pereira]], [[Joaquim Sousa Martins]]
 |-
 | style='text-align:center;' | 650 || [[TVI]], [[Rita Pereira]], [[Cristina Ferreira]], [[Marisa Cruz]], [[Rita Pereira]], [[Pedro Moutinho]], [[Pedro Abrunhosa]], [[Susana Pinto]]
 |-
@@ -1924,7 +1924,7 @@
 |-
 | style='text-align:center;' | 605 || [[Marcelo Rebelo de Sousa]]
 |-
-| style='text-align:center;' | 604 || [[Cristina Ferreira]], [[Maria Cerqueira Gomes]], [[Francisco Menezes]], [[Rita Pereira]], [[Ruben Rua]]
+| style='text-align:center;' | 604 || [[Cristina Ferreira]], [[Maria Cerqueira Gomes]], [[Francisco Menezes]], [[Rita Pereira]], [[Rúben Rua]]
 |-
 | style='text-align:center;' | 603 || [[Sam The Kid]], [[Possessivo]], [[Alexandra Lencastre]], [[Joana Marques]]
 |-
@@ -2434,7 +2434,7 @@
 |-
 | style='text-align:center;' | 350 || [[Casamentos de Santo António]], [[Natal dos Hospitais]], [[Joana Teles]], [[Serenella Andrade]], [[Ricardo Carriço]], [[Noivos de Santo António]]
 |-
-| style='text-align:center;' | 349 || [[Like Me]], [[TVI]], [[Ruben Rua]], [[Luana Piovani]], [[Rafael Baselli]], [[Gabriella Brooks]], [[Daniel Malheiro]], [[Jorge Quaresma]], [[Angelita Letras]], [[Miguel Ângelo]], [[Mónica Vale de Gato]]
+| style='text-align:center;' | 349 || [[Like Me]], [[TVI]], [[Rúben Rua]], [[Luana Piovani]], [[Rafael Baselli]], [[Gabriella Brooks]], [[Daniel Malheiro]], [[Jorge Quaresma]], [[Angelita Letras]], [[Miguel Ângelo]], [[Mónica Vale de Gato]]
 |-
 | style='text-align:center;' | 348 || [[Jorge Jesus]]
 |-
@@ -2462,7 +2462,7 @@
 |-
 | style='text-align:center;' | 336 || [[O Chef é Você]], [[Manuel Luís Goucha]], [[Maria Cerqueira Gomes]], [[Ana Galvão]], [[Chef Olivier]], [[Chef Sofia]], [[Margarida Rebelo Pinto]], [[Rita Pereira]], [[Miguel Sousa Tavares]]
 |-
-| style='text-align:center;' | 335 || [[Wendel]], [[Ricardo Quaresma]], [[Cristiano Ronaldo]], [[Éder Militão]], [[Luisão (futebolista)]], [[Maurício]], [[Javier Saviola]], [[Maniche]], [[Zlatko Zahovič]], [[Leandro Machado]], [[Ionuţ Cristian Săpunaru]], [[Fábio Coentrão]], [[Gabriel Barbosa]], [[Héctor Herrera]], [[Miguel Monteiro]], [[Ruben Semedo]], [[Walter]], [[Joana Marques]]
+| style='text-align:center;' | 335 || [[Wendel]], [[Ricardo Quaresma]], [[Cristiano Ronaldo]], [[Éder Militão]], [[Luisão (futebolista)]], [[Maurício]], [[Javier Saviola]], [[Maniche]], [[Zlatko Zahovič]], [[Leandro Machado]], [[Ionuţ Cristian Săpunaru]], [[Fábio Coentrão]], [[Gabriel Barbosa]], [[Héctor Herrera]], [[Miguel Monteiro]], [[Rúben Semedo]], [[Walter]], [[Joana Marques]]
 |-
 | style='text-align:center;' | 334 || [[Gelados Magnum]], [[Zezé Camarinha]], [[Lili Caneças]], [[Unilever]]
 |-
@@ -2594,7 +2594,7 @@
 |-
 | style='text-align:center;' | 270 || [[Emojis🥱🛺🦩🦧🧅🧄🦿🧆🪕🩸🤏]], [[Carla Rocha]]
 |-
-| style='text-align:center;' | 269 || [[Casados à Primeira Vista]], [[SIC]], [[O Carro do Amor]], [[Rui Veloso]], [[TVI]], [[Fátima Lopes (apresentadora)]], [[First Dates]], [[Ruben Rua]], [[Ljubomir Stanisic]], [[ASAE]], [[Quem Quer Casar Com o Meu Filho]]
+| style='text-align:center;' | 269 || [[Casados à Primeira Vista]], [[SIC]], [[O Carro do Amor]], [[Rui Veloso]], [[TVI]], [[Fátima Lopes (apresentadora)]], [[First Dates]], [[Rúben Rua]], [[Ljubomir Stanisic]], [[ASAE]], [[Quem Quer Casar Com o Meu Filho]]
 |-
 | style='text-align:center;' | 268 || [[Festas na Prisão]], [[Ricardo Salgado]], [[Camilo na Prisão]], [[Pedro Markl]]
 |-
@@ -2782,7 +2782,7 @@
 |-
 | style='text-align:center;' | 176 || [[Julen Lopetegui]], [[Algarve]], [[Freda Jackson]]
 |-
-| style='text-align:center;' | 175 || [[Tatiana Boa Nova]], [[Ruben Boa Nova]], [[Chef Sanches]], [[Frigideira Master Copper]]
+| style='text-align:center;' | 175 || [[Tatiana Boa Nova]], [[Rúben Boa Nova]], [[Chef Sanches]], [[Frigideira Master Copper]]
 |-
 | style='text-align:center;' | 174 || [[Kevin Sampaio]], [[Jonathan Sampaio]], [[Dolores Aveiro]], [[Ana Sofia]], [[Eric Ribeiro]], [[Judite Sousa]], [[Júlia Pinheiro]], [[Filipa Sabrosa]], [[Assunção Cristas]], [[Vanessa Martins]], [[Pipinha Jardim]], [[Cátia Palhinha]], [[Sónia Araújo]], [[Pedro Miguel Ramos]], [[Fernanda Serrano]], [[Jéssica Ataíde]], [[Tiago Ginga]], [[Gabriela Santana]], [[Inês Herédia]]
 |-
@@ -2978,7 +2978,7 @@
 |-
 | style='text-align:center;' | 78 || [[Maria Leal]]
 |-
-| style='text-align:center;' | 77 || [[Ruben Semedo]], [[Gelson Martins]]
+| style='text-align:center;' | 77 || [[Rúben Semedo]], [[Gelson Martins]]
 |-
 | style='text-align:center;' | 76 || [[Sofia Fernandes]], [[Joana Coelho]], [[Sofia Sousa]], [[Margarida Menezes]], [[Marlene Santos]], [[Casa dos Segredos]]
 |-
@@ -2988,7 +2988,7 @@
 |-
 | style='text-align:center;' | 73 || [[Donald Trump]], [[Tiroteios nos EUA]]
 |-
-| style='text-align:center;' | 72 || [[Paula Neves]], [[Olga Cardoso]], [[Batatinha]], [[Ruben André]], [[Marco Costa]], [[Clara de Sousa]]
+| style='text-align:center;' | 72 || [[Paula Neves]], [[Olga Cardoso]], [[Batatinha]], [[Rúben André]], [[Marco Costa]], [[Clara de Sousa]]
 |-
 | style='text-align:center;' | 71 || [[Rita Mendes]], [[Cláudio Ramos]], [[José Rodrigues dos Santos]], [[Raul Minh'alma]], [[Pedro Chagas Freitas]], [[Maria Vieira]]
 |-
@@ -3124,7 +3124,7 @@
 |-
 | style='text-align:center;' | 5 || [[D4rkFrame]], [[Windoh]], [[SirKazzio]], [[Nuno Agonia]], [[RicFazeres]], [[Tiago Saramago (Tiagovski)]], [[Wuant]]
 |-
-| style='text-align:center;' | 4 || [[Gustavo Santos]], [[Manuel Maria Carrilho]], [[José Sócrates]], [[Ana Rita Clara]], [[Nuno Espírito Santo]], [[Ruben Rua]], [[Aristóteles]]
+| style='text-align:center;' | 4 || [[Gustavo Santos]], [[Manuel Maria Carrilho]], [[José Sócrates]], [[Ana Rita Clara]], [[Nuno Espírito Santo]], [[Rúben Rua]], [[Aristóteles]]
 |-
 | style='text-align:center;' | 3 || [[Cristiano Ronaldo]], [[Elma Aveiro]], [[Cristiano Ronaldo dos Santos]], [[Ricardo Quaresma]], [[Fábio Coentrão]], [[Maxi Pereira]]
 |-
