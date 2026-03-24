@@ -14,8 +14,8 @@ Cristiano Ronaldo,34,@cristiano
 Manuel Luís Goucha,33,@mlgoucha
 Maya (taróloga),27,@tia__maya
 Rúben Rua,27,@R
+Luciana Abreu,26,@lucianaabreuoficial
 Xavier,26,
-Luciana Abreu,25,@lucianaabreuoficial
 Maria Cerqueira Gomes,24,@maria_cerqueira_gomes
 Sérgio Tavares,24,@canal_sergiotavares
 José Cid,23,@jose_cid_musico
@@ -93,6 +93,7 @@ Luís Filipe Vieira,8,
 Mónica Jardim,8,@mmjardim
 Nuno Graciano,8,
 Rita Ferro Rodrigues,8,@ritaferrorodrigues
+Rui Oliveira Nunes,8,@ruideoliveiranunes
 Sónia Costa,8,
 Ana Barbosa,7,@capitan_barb
 Ana Malhoa,7,
@@ -114,7 +115,6 @@ Nuno Homem de Sá,7,
 Nuno Luz,7,
 Paulo Pires,7,
 Ricardo Quaresma,7,
-Rui Oliveira Nunes,7,@ruideoliveiranunes
 Teresa Guilherme,7,
 Ágata,7,
 Ângelo Rodrigues,7,@angelorodrigues_oficial
@@ -1542,6 +1542,7 @@ Iris Soares,1,
 Irma,1,
 Irmãos Guedes,1,
 Isabel Angelino,1,
+Isabel Hermenegildo,1,@dra.isabelhermenegildo
 Isabel Maria dos Santos,1,
 Isabel Valadeira,1,
 Isabel de Herédia,1,

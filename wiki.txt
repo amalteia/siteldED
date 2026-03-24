@@ -2,6 +2,8 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1566 || [[Rui Oliveira Nunes]], [[Luciana Abreu]], [[Isabel Hermenegildo]]
+|-
 | style='text-align:center;' | 1565 || [[Rui Oliveira Nunes]], [[Luciana Abreu]], [[Léo Caeiro]], [[Ana Barbosa]], [[Beatriz Prates]], [[Tânia Laranjo]]
 |-
 | style='text-align:center;' | 1564 || [[Gustavo Santos]]
