@@ -4,7 +4,7 @@ Ana Galvão,53,@anagalvaolopez
 Gustavo Santos,49,@o_homem_da_terra
 TVI,42,
 Ana Markl,40,@ana_markl
-Rita Pereira,39,@hyndia
+Rita Pereira,40,@hyndia
 Covid-19,38,
 Bruno de Carvalho,36,@bruno_de_carvalho_oficial
 Cláudio Ramos,36,@claudio_ramos
@@ -336,6 +336,7 @@ Fábio Coentrão,3,
 Gilmário Vemba,3,
 Globos de Ouro 2021,3,
 Graça Fonseca,3,
+Helena Coelho,3,@helenacoelhooo
 Helena Isabel,3,
 Henrique Gouveia e Melo,3,
 Humberto Bernardo,3,
@@ -573,7 +574,6 @@ Guilherme Leite,2,
 Habitantes da Vibe House,2,
 Halloween,2,
 Heitor Lourenço,2,
-Helena Coelho,2,@helenacoelhooo
 Hugo Mendes,2,
 Hugo Oliveira,2,
 Humberto Simões,2,
@@ -1761,6 +1761,7 @@ Luis Pedro Gonçalves,1,
 Luisa Barbosa,1,
 Luiz Felipe Scolari,1,
 Luiza Abreu,1,
+Luna Ariza,1,@lunavalentinaaa
 Lusíadas,1,
 Luís - O homem das flores,1,
 Luís Bacelar,1,
@@ -2527,6 +2528,7 @@ Vera de Melo,1,@averademelo
 Verdes,1,
 Viagens de Finalistas,1,
 Vicente Alves do Ó,1,
+Vicky Campelo,1,@vickybcampelo
 Victoria Beckham,1,
 Vidas Suspensas,1,
 Viggo Mortensen,1,
