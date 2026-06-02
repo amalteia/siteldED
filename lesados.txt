@@ -121,6 +121,7 @@ Teresa Guilherme,7,
 Ana Marques,6,
 Assunção Cristas,6,
 Carlos Areia,6,
+Catarina Miranda,6,@catarinamiranda.oficial
 Chef Olivier,6,
 Cláudia Nayara,6,
 César Mourão,6,@cesartmourao
@@ -151,7 +152,6 @@ Andreia Rodrigues,5,@andreiarodriguesoficial
 António Pedro Cerdeira,5,
 Carolina Deslandes,5,
 Casados no Paraíso,5,
-Catarina Miranda,5,
 Conan Osíris,5,
 Correio da Manhã,5,
 Daniel Nascimento,5,@danielnascimento0
@@ -830,6 +830,7 @@ Advogados pela verdade,1,
 Aeroportos,1,
 Afonso Cautela,1,
 Afonso Henriques,1,
+Afonso Leitão,1,@afonso__leitaoo
 Afonso Maló,1,
 Afonso Vaz,1,
 Agnes Arabela Marques,1,
