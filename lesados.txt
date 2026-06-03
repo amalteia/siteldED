@@ -1,5 +1,5 @@
 Joana Marques,126,@joanamarquespic
-Cristina Ferreira,88,@dailycristina
+Cristina Ferreira,89,@dailycristina
 Ana Galvão,53,@anagalvaolopez
 Gustavo Santos,49,@o_homem_da_terra
 TVI,42,
@@ -101,6 +101,7 @@ André Silva,7,
 Bárbara Bandeira,7,
 Bárbara Guimarães,7,
 Carla Rocha,7,
+Catarina Miranda,7,@catarinamiranda.oficial
 Dolores Aveiro,7,
 Fanny Rodrigues,7,
 Festival da Eurovisão,7,
@@ -121,7 +122,6 @@ Teresa Guilherme,7,
 Ana Marques,6,
 Assunção Cristas,6,
 Carlos Areia,6,
-Catarina Miranda,6,@catarinamiranda.oficial
 Chef Olivier,6,
 Cláudia Nayara,6,
 César Mourão,6,@cesartmourao
@@ -437,6 +437,7 @@ Adriano Maranhão,2,
 Aficionados das Touradas,2,
 Afonso Freitas,2,
 Afonso Gonçalves,2,
+Afonso Leitão,2,@afonso__leitaoo
 Afonso de Santa Maria de Bragança,2,
 Agentes Imobiliários,2,
 Agnes Arabela,2,
@@ -830,7 +831,6 @@ Advogados pela verdade,1,
 Aeroportos,1,
 Afonso Cautela,1,
 Afonso Henriques,1,
-Afonso Leitão,1,@afonso__leitaoo
 Afonso Maló,1,
 Afonso Vaz,1,
 Agnes Arabela Marques,1,
@@ -967,6 +967,7 @@ Aurea,1,
 Aurora Sousa,1,
 Aurélio Pinto,1,
 Avó Maria Estela,1,
+Avó Rosário,1,
 Axl Rose,1,
 Ayrton Senna,1,
 Azeredo Lopes,1,
@@ -2292,6 +2293,7 @@ Rio Tinto,1,
 Rita Carmaneiro,1,
 Rita Egídio,1,@rita__egidio
 Rita Guerra,1,@ritaguerraoficial
+Rita Leitão,1,
 Rita Marrafa de Carvalho,1,
 Rita Matias,1,
 Rita Rodrigues Castro,1,@ritarodriguesecastro
