@@ -197,6 +197,7 @@ Ana Leal,4,
 Anabela Seabra (Désirat),4,
 Benfica,4,
 Bruna Magalhães,4,@abrunamagalhaes
+Bruno Savate,4,
 Bárbara Corby,4,
 Carolina Loureiro,4,
 Celso Lascasas,4,
@@ -291,7 +292,7 @@ Belito Campos,3,@belitocamposoficial
 Bento Rodrigues,3,
 Brilha sem Filtros,3,
 Bruna Gomes,3,
-Bruno Savate,3,
+Bruno Mestre,3,@brunodiasmestre
 Bárbara Norton de Matos,3,
 Bárbara Parada,3,@barbaraparada5
 Carlos Nunes (Zorlak),3,@zorlakofficial
@@ -478,7 +479,6 @@ Big Brother Famosos,2,
 Biodanza,2,
 Bruno,2,
 Bruno Fernandes,2,
-Bruno Mestre,2,@brunodiasmestre
 Bruno Nogueira,2,
 Bárbara Branco,2,
 Bárbara Tinoco,2,
@@ -499,6 +499,7 @@ Casados á primeira vista,2,
 Casamento Marcado,2,
 Casamento do Toy,2,
 Centro Colombo,2,
+Checka,2,@maisdochecka
 Cláudia Borges,2,@claudiaborgesoficial
 Cláudio Almeida,2,@claudioalmeida1980
 Colombo,2,
@@ -1131,7 +1132,6 @@ Cayetano Rivera Ordóñez,1,
 Celeste Rodrigues,1,
 Cerveja sem álcool,1,
 Check in,1,
-Checka,1,@maisdochecka
 Chef Chakall,1,
 Chef Henrique Sá Pessoa,1,
 Chef José Avillez,1,
@@ -1458,6 +1458,7 @@ Gonzo,1,
 Gonçalo Botelho,1,
 Gonçalo Chaves,1,
 Gonçalo Gomes,1,@goncalogomesss
+Gonçalo Maia,1,@goncalomaya
 Gonçalo Melo,1,
 Gonçalo Ramos,1,
 Gonçalo da Câmara Pereira,1,
@@ -1611,6 +1612,7 @@ Jorge Guerreiro,1,
 Jorge Gustavo,1,
 Jorge Martinez (Jorge Rocha),1,
 Jorge Moreira,1,
+Jorge Neto,1,@jorgeneto.grandchild
 Jorge Quaresma,1,
 Jornal 2,1,
 Jornal Voz de Passo de Arcos,1,
@@ -2466,6 +2468,7 @@ Taxistas,1,
 Tayti (banda),1,
 Telepizza,1,
 Telmo,1,
+Telmo Loko (Luva Di Nike),1,@luvadinike_2
 Teresa Dimas,1,
 Teresa Silva,1,@teresa_bb20
 Teresa Villaverde,1,
