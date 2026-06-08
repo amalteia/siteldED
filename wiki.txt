@@ -2,7 +2,7 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
-| style='text-align:center;' | 1571 || [[Jorge Neto]], [[Gonçalo Maia]], [[Telmo Loko (Luva Di Nike)]], [[Bruno Mestre]], [[Checka]], [[Bruno Savate]]
+| style='text-align:center;' | 1571 || [[Hugo Costa]], [[Jorge Neto]], [[Gonçalo Maia]], [[Telmo Loko (Luva Di Nike)]], [[Bruno Mestre]], [[Checka]], [[Bruno Savate]]
 |-
 | style='text-align:center;' | 1570 || [[João Melo]], [[Paulo André Cecílio]]
 |-

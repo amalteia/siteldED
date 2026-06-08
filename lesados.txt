@@ -1500,6 +1500,7 @@ Hotel Ritz,1,
 Hotéis,1,
 Howie Dorough,1,
 Hugo Aveiro,1,
+Hugo Costa,1,@hugocostaboxe
 Hugo Sousa,1,
 Hugo Van der Ding,1,
 Humberto Coelho,1,
