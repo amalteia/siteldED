@@ -38,10 +38,10 @@ José Sócrates,14,
 Miguel Milhão,14,
 Catarina Furtado,13,
 Duarte Siopa,13,@duartesiopa
+João Barbosa (Numeiro),13,
 Kátia Aveiro,13,@katiaaveirooficial
 Donald Trump,12,
 Frederico Varandas,12,
-João Barbosa (Numeiro),12,
 Liliana Aguiar,12,@lilianaaguiaroficial
 Ljubomir Stanisic,12,
 Léo Caeiro,12,@leocaeirooficial
@@ -167,6 +167,7 @@ Jair Bolsonaro,5,
 Joaquim Sousa Martins,5,
 Jorge Kapinha,5,
 José Carlos Malato,5,
+João Patrício,5,@joaovascopatricio
 Julen Lopetegui,5,
 Liliana Filipa,5,
 Mafalda Castro,5,
@@ -234,7 +235,6 @@ José Gouveia,4,
 José Mourinho,4,
 José Peseiro,4,
 João Fernando Ramos,4,
-João Patrício,4,@joaovascopatricio
 Juíz Hélder Fráguas,4,
 Kelly Bailey (atriz),4,
 Leonor Poeiras,4,
@@ -951,6 +951,7 @@ Apu Nahasapeemapetilon,1,
 Arco da Porta Nova,1,
 Aretha Franklin,1,
 Ariana Grande,1,
+Ariana Miranda,1,@arianamiranda.oficial_
 Ariel Rubin Fonseca,1,
 Aristides Teixeira,1,
 Aristóteles,1,
@@ -1256,6 +1257,7 @@ Diogo Afonso,1,
 Diogo Beja,1,
 Diogo Branco,1,
 Diogo Luís,1,
+Diogo Maia,1,@diogocmaia_16
 Diogo Moreira,1,
 Diogo Rego,1,
 Diogo Valente,1,
