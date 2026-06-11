@@ -27,11 +27,11 @@ André Ventura,18,
 Joana Amaral Dias,18,
 Luís Oliveira,18,
 Maria Vieira,17,
+Carolina Patrocínio,16,@carolinapatrocinio
 José Eduardo Moniz,16,
 Sandra Felgueiras,16,@sandrafelgueiras_oficial
 Alexandra Lencastre,15,
 Big Brother,15,
-Carolina Patrocínio,15,@carolinapatrocinio
 José Castelo Branco,15,
 Fátima Campos Ferreira,14,
 José Sócrates,14,
@@ -687,6 +687,7 @@ Noite das Estrelas,2,
 Nuno Galopim,2,
 Nuno Lopes,2,
 Nuno Melo,2,
+Nuno Santana,2,@nunosantana_niu
 Nádia Lopes,2,
 Oceana Basílio,2,
 Olívia Ortiz,2,
@@ -1880,6 +1881,7 @@ Mariana Cabral,1,
 Mariana Cardoso,1,@marianacardosopt
 Mariana Duarte,1,
 Mariana Pacheco,1,
+Mariana Patrocínio,1,@marianapatrocinio_
 Mariana Reis Martins,1,
 Mariana Seara Cardoso,1,
 Mariana Sottomayor,1,
@@ -1895,6 +1897,7 @@ Marinho,1,
 Marisa Caetano Antunes,1,
 Marisa Matias,1,
 Mariza,1,
+Mark Jacobi,1,
 Marlene Santos,1,
 Maro,1,
 Marrachinho,1,
@@ -2037,7 +2040,6 @@ Nuno Moura,1,
 Nuno Nogueira,1,
 Nuno Pardal,1,
 Nuno Pires,1,
-Nuno Santana,1,
 Nuno Sebastião,1,
 Nós Os Ricos,1,
 O Amor Acontece,1,
@@ -2302,6 +2304,7 @@ Rita Guerra,1,@ritaguerraoficial
 Rita Leitão,1,
 Rita Marrafa de Carvalho,1,
 Rita Matias,1,
+Rita Patrocínio,1,@ritapatrocinio
 Rita Rodrigues Castro,1,@ritarodriguesecastro
 Rita Santos,1,
 Rita de Miranda,1,
@@ -2474,6 +2477,7 @@ Telmo,1,
 Telmo Loko (Luva Di Nike),1,@luvadinike_2
 Teresa Dimas,1,
 Teresa Silva,1,@teresa_bb20
+Teresa Vieira de Almeida (Tatói),1,@tatoiva
 Teresa Villaverde,1,
 Teresinha Landeiro,1,
 Terroristas do Bataclan,1,
