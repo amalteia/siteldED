@@ -26,8 +26,8 @@ Tiago Paiva,19,@tiagopaiva__
 André Ventura,18,
 Joana Amaral Dias,18,
 Luís Oliveira,18,
+Carolina Patrocínio,17,@carolinapatrocinio
 Maria Vieira,17,
-Carolina Patrocínio,16,@carolinapatrocinio
 José Eduardo Moniz,16,
 Sandra Felgueiras,16,@sandrafelgueiras_oficial
 Alexandra Lencastre,15,
@@ -336,6 +336,7 @@ Francisco Pedro Balsemão,3,
 Fábio Coentrão,3,
 Gilmário Vemba,3,
 Globos de Ouro 2021,3,
+Gonçalo Uva,3,
 Graça Fonseca,3,
 Helena Coelho,3,@helenacoelhooo
 Helena Isabel,3,
@@ -390,6 +391,7 @@ Mário Augusto,3,
 Nemanus,3,@nemanusoficial
 Nuno Kampos,3,@nunokampos
 Nuno Pereira,3,
+Nuno Santana,3,@nunosantana_niu
 O Preço Certo,3,
 O Triângulo,3,
 PAN,3,
@@ -567,7 +569,6 @@ Gato Fedorento,2,
 Globos de Ouro de 2024,2,
 Gonçalo Maya,2,@goncalomaya
 Gonçalo Mello,2,@goncalomello
-Gonçalo Uva,2,
 Graça Peralta,2,
 Grupos de Mães,2,
 Grupos de dietas paleo,2,
@@ -658,6 +659,7 @@ Maria do Céu Santo,2,
 Marial Leal,2,
 Mariana Azevedo,2,@marianamazevedo_
 Mariana Bossy,2,@marianabossy
+Mariana Patrocínio,2,@marianapatrocinio_
 Mariana Ribeiro,2,
 Mario Ferreira,2,
 Marta Aragão Pinto,2,@martaaragaopinto
@@ -687,7 +689,6 @@ Noite das Estrelas,2,
 Nuno Galopim,2,
 Nuno Lopes,2,
 Nuno Melo,2,
-Nuno Santana,2,@nunosantana_niu
 Nádia Lopes,2,
 Oceana Basílio,2,
 Olívia Ortiz,2,
@@ -737,6 +738,7 @@ Ricardo Pereira,2,
 Ricardo Robles,2,
 Ricardo Trêpa,2,
 Rita Ferro Alvim,2,
+Rita Patrocínio,2,@ritapatrocinio
 Rita Piçarra,2,
 Rita Rocha,2,
 Rita Salema,2,
@@ -776,6 +778,7 @@ Tatiana Boa Nova,2,
 Tatuagens,2,
 Teresa Paula Marques,2,
 Teresa Stichaner,2,
+Teresa Vieira de Almeida (Tatói),2,@tatoiva
 Tiago Gonçalves,2,@tiago.m.goncalves
 Tiago Graça,2,
 Tiago Mellert,2,
@@ -1881,7 +1884,6 @@ Mariana Cabral,1,
 Mariana Cardoso,1,@marianacardosopt
 Mariana Duarte,1,
 Mariana Pacheco,1,
-Mariana Patrocínio,1,@marianapatrocinio_
 Mariana Reis Martins,1,
 Mariana Seara Cardoso,1,
 Mariana Sottomayor,1,
@@ -2304,7 +2306,6 @@ Rita Guerra,1,@ritaguerraoficial
 Rita Leitão,1,
 Rita Marrafa de Carvalho,1,
 Rita Matias,1,
-Rita Patrocínio,1,@ritapatrocinio
 Rita Rodrigues Castro,1,@ritarodriguesecastro
 Rita Santos,1,
 Rita de Miranda,1,
@@ -2477,7 +2478,6 @@ Telmo,1,
 Telmo Loko (Luva Di Nike),1,@luvadinike_2
 Teresa Dimas,1,
 Teresa Silva,1,@teresa_bb20
-Teresa Vieira de Almeida (Tatói),1,@tatoiva
 Teresa Villaverde,1,
 Teresinha Landeiro,1,
 Terroristas do Bataclan,1,
