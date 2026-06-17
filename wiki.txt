@@ -2,6 +2,12 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1577 || [[Vitor Pinto]], [[Cristiano Ronaldo]], [[Mário Figueiredo]], [[Paulo Catarro]], [[Francisco Trincão]]
+|-
+| style='text-align:center;' | 1576 || [[Inês Patrocínio]], [[Pedro Patrocínio]], [[Carolina Patrocínio]], [[Rita Patrocínio]], [[Mariana Patrocínio]]
+|-
+| style='text-align:center;' | 1575 || [[Carolina Patrocínio]], [[Gonçalo Uva]], [[Teresa Vieira de Almeida (Tatói)]], [[Inês Patrocínio]], [[Rita Patrocínio]]
+|-
 | style='text-align:center;' | 1574 || [[Rita Patrocínio]], [[Teresa Vieira de Almeida (Tatói)]], [[Nuno Santana]], [[Mariana Patrocínio]], [[Gonçalo Uva]], [[Carolina Patrocínio]]
 |-
 | style='text-align:center;' | 1573 || [[Carolina Patrocínio]], [[Mariana Patrocínio]], [[Mark Jacobi]], [[Nuno Santana]], [[Teresa Vieira de Almeida (Tatói)]], [[Rita Patrocínio]]

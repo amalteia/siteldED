@@ -8,9 +8,9 @@ Rita Pereira,40,@hyndia
 Covid-19,38,
 Bruno de Carvalho,36,@bruno_de_carvalho_oficial
 Cláudio Ramos,36,@claudio_ramos
+Cristiano Ronaldo,35,@cristiano
 Inês Lopes Gonçalves,35,@ineslopesgoncalves
 CMTV,34,
-Cristiano Ronaldo,34,@cristiano
 Manuel Luís Goucha,33,@mlgoucha
 Maya (taróloga),27,@tia__maya
 Rúben Rua,27,@R
@@ -21,12 +21,12 @@ Sérgio Tavares,24,@canal_sergiotavares
 José Cid,23,@jose_cid_musico
 Marcelo Rebelo de Sousa,21,
 Lili Caneças,20,@lilicanecas
+Carolina Patrocínio,19,@carolinapatrocinio
 Jorge Jesus,19,@jorgejesus
 Tiago Paiva,19,@tiagopaiva__
 André Ventura,18,
 Joana Amaral Dias,18,
 Luís Oliveira,18,
-Carolina Patrocínio,17,@carolinapatrocinio
 Maria Vieira,17,
 José Eduardo Moniz,16,
 Sandra Felgueiras,16,@sandrafelgueiras_oficial
@@ -224,6 +224,7 @@ Gala da TVI,4,
 Gala da TVI 32 anos,4,
 Gisela Serrano,4,
 Gonçalo Quinaz,4,
+Gonçalo Uva,4,
 Greta Thunberg,4,
 Inês Simões,4,
 Isabel Alves,4,
@@ -261,6 +262,7 @@ Quimbé,4,
 Quinas de Ouro,4,
 Ricardo Martins Pereira (Arrumadinho),4,
 Ricardo Pereira (ator),4,
+Rita Patrocínio,4,@ritapatrocinio
 Rita Rodrigues,4,
 Rodrigo Paganelli,4,
 Romilda Costa,4,@rominature_clinica
@@ -336,7 +338,6 @@ Francisco Pedro Balsemão,3,
 Fábio Coentrão,3,
 Gilmário Vemba,3,
 Globos de Ouro 2021,3,
-Gonçalo Uva,3,
 Graça Fonseca,3,
 Helena Coelho,3,@helenacoelhooo
 Helena Isabel,3,
@@ -385,6 +386,7 @@ Maria João Abreu,3,
 Maria Sampaio,3,@hereisbell
 Maria da Luz,3,
 Mariana Mortágua,3,
+Mariana Patrocínio,3,@marianapatrocinio_
 Mickael Carreira,3,
 Miguel Costa,3,
 Mário Augusto,3,
@@ -429,11 +431,13 @@ São José Correia,3,
 TVI Extra,3,
 Tatanka,3,
 Team Strada,3,
+Teresa Vieira de Almeida (Tatói),3,@tatoiva
 Tiago Fernandes,3,
 Tony Carreira,3,
 Uber,3,
 Utilizadores da Bimby,3,
 Vasco Palmeirim,3,
+Vitor Pinto,3,
 A Sentença,2,
 Aceleras,2,
 Adriano Maranhão,2,
@@ -586,6 +590,7 @@ Intervenção e Resgate Animal,2,
 Inês Castel-Branco,2,@inescastelbranco
 Inês Marques Lucas,2,
 Inês Nunes,2,
+Inês Patrocínio,2,@inespatrociniorm
 Isabel Costa,2,
 Isabel Moreira,2,
 Isabel dos Santos,2,
@@ -659,7 +664,6 @@ Maria do Céu Santo,2,
 Marial Leal,2,
 Mariana Azevedo,2,@marianamazevedo_
 Mariana Bossy,2,@marianabossy
-Mariana Patrocínio,2,@marianapatrocinio_
 Mariana Ribeiro,2,
 Mario Ferreira,2,
 Marta Aragão Pinto,2,@martaaragaopinto
@@ -701,6 +705,7 @@ Paula Bobone,2,
 Paula Lobo Antunes,2,
 Paula Paz Dias Ferreira,2,@paulapazdias
 Paulo Cardoso,2,
+Paulo Catarro,2,@pcatarro
 Paulo Gonzo,2,
 Paulo Paiva dos Santos,2,
 Paulo Portas,2,
@@ -738,7 +743,6 @@ Ricardo Pereira,2,
 Ricardo Robles,2,
 Ricardo Trêpa,2,
 Rita Ferro Alvim,2,
-Rita Patrocínio,2,@ritapatrocinio
 Rita Piçarra,2,
 Rita Rocha,2,
 Rita Salema,2,
@@ -778,7 +782,6 @@ Tatiana Boa Nova,2,
 Tatuagens,2,
 Teresa Paula Marques,2,
 Teresa Stichaner,2,
-Teresa Vieira de Almeida (Tatói),2,@tatoiva
 Tiago Gonçalves,2,@tiago.m.goncalves
 Tiago Graça,2,
 Tiago Mellert,2,
@@ -796,7 +799,6 @@ Vanessa Oliveira,2,
 Vicky,2,
 Virgílio Castelo,2,
 Vitor Espadinha,2,
-Vitor Pinto,2,
 Vânia Sá,2,
 Web Summit,2,
 Wendel,2,
@@ -1422,6 +1424,7 @@ Francisco Rodrigues dos Santos,1,
 Francisco Soares (Xico),1,
 Francisco Sousa Martins,1,
 Francisco Sá Pena,1,
+Francisco Trincão,1,@trincao
 Franco Bastos,1,
 Freda Jackson,1,
 Frederica Lima,1,
@@ -1983,6 +1986,7 @@ Mário,1,
 Mário Amaro,1,
 Mário Centeno,1,
 Mário Crespo,1,
+Mário Figueiredo,1,
 Mário Monteiro,1,
 Mário Narciso,1,
 Mário Soares,1,
@@ -2119,7 +2123,6 @@ Paulo Araújo (Dr. Milagres),1,
 Paulo Baptista,1,
 Paulo Bento,1,
 Paulo Borges,1,
-Paulo Catarro,1,@pcatarro
 Paulo Ferreira,1,
 Paulo Figueiredo,1,
 Paulo Fonseca,1,
@@ -2159,6 +2162,7 @@ Pedro Moraes Leitão,1,
 Pedro Mourinho,1,
 Pedro Moutinho,1,
 Pedro Nevides,1,
+Pedro Patrocínio,1,
 Pedro Pinho,1,
 Pedro Ribeiro,1,
 Pedro Sanchez,1,
