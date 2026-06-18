@@ -1,4 +1,4 @@
-Joana Marques,126,@joanamarquespic
+Joana Marques,127,@joanamarquespic
 Cristina Ferreira,89,@dailycristina
 Ana Galvão,53,@anagalvaolopez
 Gustavo Santos,50,@o_homem_da_terra
@@ -52,6 +52,7 @@ Windoh,12,
 Casados à Primeira Vista,11,
 Cinha Jardim,11,@cinha_jardim
 David Carreira,11,
+Flávio Furtado,11,@flavio_furtado_oficial
 José Lopes,11,
 Judite Sousa,11,
 Leandro,11,@leandro.pt
@@ -61,7 +62,6 @@ Wuant,11,
 Ana Garcia Martins,10,
 António Costa,10,
 Fernanda Serrano,10,
-Flávio Furtado,10,@flavio_furtado_oficial
 João Baião,10,
 Miguel Sousa Tavares,10,
 Paulo Futre,10,
