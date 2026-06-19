@@ -2,6 +2,8 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1579 || [[Gustavo Santos]], [[Joana Marques]]
+|-
 | style='text-align:center;' | 1578 || [[Gustavo Santos]], [[Flávio Furtado]], [[Joana Marques]]
 |-
 | style='text-align:center;' | 1577 || [[Vitor Pinto]], [[Cristiano Ronaldo]], [[Mário Figueiredo]], [[Paulo Catarro]], [[Francisco Trincão]]

@@ -1,7 +1,7 @@
-Joana Marques,127,@joanamarquespic
+Joana Marques,128,@joanamarquespic
 Cristina Ferreira,89,@dailycristina
 Ana Galvão,53,@anagalvaolopez
-Gustavo Santos,50,@o_homem_da_terra
+Gustavo Santos,51,@o_homem_da_terra
 TVI,42,
 Ana Markl,40,@ana_markl
 Rita Pereira,40,@hyndia
