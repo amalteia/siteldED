@@ -2,6 +2,8 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1582 || [[Cláudia Jacques]], [[Ana Paula (Paula Lakshmi)]], [[António Rosa]], [[Maria Joaquina (Quinita)]]
+|-
 | style='text-align:center;' | 1581 || [[Carlos Henriques]], [[Maria Joaquina (Quinita)]], [[Ana Paula (Paula Lakshmi)]]
 |-
 | style='text-align:center;' | 1580 || [[Maria Joaquina (Quinita)]], [[Bela (irmã de Quinita)]], [[Carlos Henriques]], [[Ana Paula (Paula Lakshmi)]]
