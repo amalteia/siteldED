@@ -148,6 +148,7 @@ Tiago Saramago (Tiagovski),6,@tiagovski555
 Touradas,6,
 Tânia Laranjo,6,@tanialaranjo_
 Alexandre Santos,5,
+Ana Paula (Paula Lakshmi),5,@paulalakshmi.oficial
 Andreia Rodrigues,5,@andreiarodriguesoficial
 António Pedro Cerdeira,5,
 Carolina Deslandes,5,
@@ -195,7 +196,6 @@ Academia de Alcochete,4,
 Alexandra Solnado,4,
 Alice Santos,4,
 Ana Leal,4,
-Ana Paula (Paula Lakshmi),4,@paulalakshmi.oficial
 Anabela Seabra (Désirat),4,
 Benfica,4,
 Bruna Magalhães,4,@abrunamagalhaes
@@ -243,6 +243,7 @@ Kelly Bailey (atriz),4,
 Leonor Poeiras,4,
 Lurdes Baeta,4,
 Margarida Oliveira,4,
+Maria Joaquina (Quinita),4,
 Miguel Relvas,4,
 Miguel Silva (Jingle Lee),4,@micselva
 Mónica Sintra,4,
@@ -299,6 +300,7 @@ Bruna Gomes,3,
 Bruno Mestre,3,@brunodiasmestre
 Bárbara Norton de Matos,3,
 Bárbara Parada,3,@barbaraparada5
+Carlos Henriques,3,
 Carlos Nunes (Zorlak),3,@zorlakofficial
 Carlos Peres Dias,3,
 Carolina Monteverde,3,
@@ -383,7 +385,6 @@ Margarida Mercês de Mello,3,
 Maria Dominguez,3,@mariadominguezmiranda
 Maria Helena Costa,3,
 Maria Helena Martins,3,
-Maria Joaquina (Quinita),3,
 Maria João Abreu,3,
 Maria Sampaio,3,@hereisbell
 Maria da Luz,3,
@@ -474,6 +475,7 @@ António Guerreiro,2,
 António Leal e Silva,2,@antoniolealesilva
 António Prôa,2,
 António Ribeiro Cristóvão,2,
+António Rosa,2,
 Anuska Marques,2,
 Apoiantes de Bolsonaro,2,
 Beatriz Frazão,2,
@@ -500,7 +502,6 @@ Carlos Carvalhal,2,
 Carlos Costa,2,
 Carlos Coutinho Vilhena,2,
 Carlos Cunha,2,
-Carlos Henriques,2,
 Carlos Manuel,2,
 Carlos Santos Silva,2,
 Carminho,2,
@@ -948,7 +949,6 @@ António Peças,1,
 António Raminhos,1,
 António Rebelo,1,
 António Rolo Duarte,1,
-António Rosa,1,
 António Salazar,1,
 António Sousa Lara,1,
 António Tadeia,1,
