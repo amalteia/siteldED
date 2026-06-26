@@ -263,6 +263,7 @@ Pedro Teixeira,4,
 Quem Quer Casar com o Meu Filho,4,
 Quimbé,4,
 Quinas de Ouro,4,
+Rafaela Granado,4,@rafaela.granado_
 Ricardo Martins Pereira (Arrumadinho),4,
 Ricardo Pereira (ator),4,
 Rita Patrocínio,4,@ritapatrocinio
@@ -406,7 +407,6 @@ Pedro Hipólito,3,
 Pedro Lima,3,
 Pedro Morais Leitão,3,
 Piruka,3,
-Rafaela Granado,3,@rafaela.granado_
 Raquel Matos Cruz,3,
 Raul Minh'alma,3,@raulminhalma
 Ricardo Carriço,3,
@@ -1255,6 +1255,7 @@ Dia de Finados,1,
 Dia do Pai,1,
 Dialogos Paralelos (podcast),1,@dialogos_paralelos
 Diamantino Miranda,1,
+Diana Bouça-Nova,1,@dianabnova
 Diana Duarte,1,
 Diana Ginja,1,
 Diana Lascasas,1,
