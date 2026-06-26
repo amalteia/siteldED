@@ -942,6 +942,7 @@ António Bravo,1,@antoniobravo
 António Capelo,1,
 António Cerca Martins,1,@antoniocerca
 António Freitas,1,
+António José Leite,1,
 António Leitão Amaro,1,
 António Lobo Antunes,1,
 António Mexia,1,
