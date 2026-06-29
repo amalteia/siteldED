@@ -254,6 +254,7 @@ Nuno Queirós,4,@nunoqueiroz_zome
 Octávio Machado,4,
 Para Si,4,
 Paulo Battista,4,
+Paulo Silver,4,@rebelpaulo
 Pedro Abrunhosa,4,
 Pedro Crispim,4,
 Pedro Granger,4,
@@ -713,7 +714,6 @@ Paulo Catarro,2,@pcatarro
 Paulo Gonzo,2,
 Paulo Paiva dos Santos,2,
 Paulo Portas,2,
-Paulo Silver,2,@rebelpaulo
 Pedro Caldeira Júnior,2,
 Pedro Carvalhas,2,
 Pedro Chagas Freitas,2,
@@ -2140,7 +2140,6 @@ Paulo Rocha,1,
 Paulo Russo Corceiro,1,
 Paulo Salvador,1,
 Paulo Sande,1,
-Paulo Silva,1,
 Paulo Sousa,1,
 Paulo de Carvalho,1,
 Pe. Anselmo Borges,1,

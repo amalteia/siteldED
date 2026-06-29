@@ -2,7 +2,7 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
-| style='text-align:center;' | 1585 || [[João Manzarra]], [[Iva Lamarão]], [[Carolina Loureiro]], [[Cláudia Vieira]], [[Filomena Cautela]], [[Andreia Rodrigues]]
+| style='text-align:center;' | 1585 || [[João Manzarra]], [[Iva Lamarão]], [[Carolina Loureiro]], [[Cláudia Vieira]], [[Paulo Silver]], [[Filomena Cautela]], [[Andreia Rodrigues]]
 |-
 | style='text-align:center;' | 1584 || [[Rafaela Granado]], [[Diana Bouça-Nova]], [[António José Leite]]
 |-
@@ -2352,7 +2352,7 @@
 |-
 | style='text-align:center;' | 411 || [[Ágata]], [[Assunção Cristas]], [[José Cid]]
 |-
-| style='text-align:center;' | 410 || [[Paulo Silva]], [[Inês Afonso]], [[Fred Gomes]]
+| style='text-align:center;' | 410 || [[Paulo Silver]], [[Inês Afonso]], [[Fred Gomes]]
 |-
 | style='text-align:center;' | 409 || [[Primeiro dia no Parlamento]], [[Rui Rio]], [[Miguel Matos]], [[Greta Thunberg]], [[Rafael Esteves Martins]], [[João Cotrim de Figueiredo]], [[Joacine Katar Moreira]], [[André Ventura]], [[Ana Rita Bessa]]
 |-
