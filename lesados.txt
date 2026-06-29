@@ -84,6 +84,7 @@ Ana Sofia Cardoso,8,@asofiacardoso
 Diana Chaves,8,
 Diogo Faro,8,@diogofaroidiota
 Filipa Garnel,8,
+Filomena Cautela,8,
 Hugo Strada,8,@hugostrada
 Iva Domingues,8,@ivadominguesoficial
 Joacine Katar Moreira,8,
@@ -105,7 +106,6 @@ Catarina Miranda,7,@catarinamiranda.oficial
 Dolores Aveiro,7,
 Fanny Rodrigues,7,
 Festival da Eurovisão,7,
-Filomena Cautela,7,
 Herman José,7,
 Idevor Mendonça,7,@idevormendonca
 João Catarré,7,
@@ -120,6 +120,7 @@ Teresa Guilherme,7,
 Ágata,7,
 Ângelo Rodrigues,7,@angelorodrigues_oficial
 Ana Marques,6,
+Andreia Rodrigues,6,@andreiarodriguesoficial
 Assunção Cristas,6,
 Carlos Areia,6,
 Chef Olivier,6,
@@ -149,10 +150,11 @@ Touradas,6,
 Tânia Laranjo,6,@tanialaranjo_
 Alexandre Santos,5,
 Ana Paula (Paula Lakshmi),5,@paulalakshmi.oficial
-Andreia Rodrigues,5,@andreiarodriguesoficial
 António Pedro Cerdeira,5,
 Carolina Deslandes,5,
+Carolina Loureiro,5,
 Casados no Paraíso,5,
+Cláudia Vieira,5,@claudiavieiraoficial
 Conan Osíris,5,
 Correio da Manhã,5,
 Daniel Nascimento,5,@danielnascimento0
@@ -164,6 +166,7 @@ Frederico Canto e Castro (Fred),5,@fcantoecastro
 Georgina Rodríguez,5,
 Inês Herédia,5,
 Isabel Silva,5,@iamisabelsilva
+Iva Lamarão,5,
 Jair Bolsonaro,5,
 Joaquim Sousa Martins,5,
 Jorge Kapinha,5,
@@ -201,11 +204,9 @@ Benfica,4,
 Bruna Magalhães,4,@abrunamagalhaes
 Bruno Savate,4,
 Bárbara Corby,4,
-Carolina Loureiro,4,
 Celso Lascasas,4,
 Clara Não,4,
 Cláudia Jacques,4,
-Cláudia Vieira,4,@claudiavieiraoficial
 Conceição Lino,4,@conceicaolino_oficial
 Dalila Carmo,4,
 Daniel Gregório,4,
@@ -231,13 +232,13 @@ Greta Thunberg,4,
 Inês Simões,4,
 Isabel Alves,4,
 Isabel Figueira,4,@isabelfigueira.oficial
-Iva Lamarão,4,
 Joana Latino,4,
 Jorge Gabriel,4,
 José Gouveia,4,
 José Mourinho,4,
 José Peseiro,4,
 João Fernando Ramos,4,
+João Manzarra,4,
 Juíz Hélder Fráguas,4,
 Kelly Bailey (atriz),4,
 Leonor Poeiras,4,
@@ -366,7 +367,6 @@ José Pinto Coelho,3,
 João Beles,3,
 João Cotrim de Figueiredo,3,
 João Félix,3,
-João Manzarra,3,
 João Paulo Sousa,3,
 João Seabra,3,
 Julia Pinheiro,3,
