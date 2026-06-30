@@ -2,6 +2,8 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1586 || [[Ana Guiomar]], [[Inês Castel-Branco]], [[Daniela Santos]], [[Beatriz Prates]], [[Duarte Pacheco de Souza]], [[Susana Dias Ramos]], [[Flávio Furtado]], [[Anjos]], [[Carlos Moedas]], [[Lili Caneças]]
+|-
 | style='text-align:center;' | 1585 || [[João Manzarra]], [[Iva Lamarão]], [[Carolina Loureiro]], [[Cláudia Vieira]], [[Paulo Silver]], [[Filomena Cautela]], [[Andreia Rodrigues]]
 |-
 | style='text-align:center;' | 1584 || [[Rafaela Granado]], [[Diana Bouça-Nova]], [[António José Leite]]

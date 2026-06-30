@@ -19,8 +19,8 @@ Xavier,26,
 Maria Cerqueira Gomes,24,@maria_cerqueira_gomes
 Sérgio Tavares,24,@canal_sergiotavares
 José Cid,23,@jose_cid_musico
+Lili Caneças,21,@lilicanecas
 Marcelo Rebelo de Sousa,21,
-Lili Caneças,20,@lilicanecas
 Carolina Patrocínio,19,@carolinapatrocinio
 Jorge Jesus,19,@jorgejesus
 Tiago Paiva,19,@tiagopaiva__
@@ -41,6 +41,7 @@ Duarte Siopa,13,@duartesiopa
 João Barbosa (Numeiro),13,
 Kátia Aveiro,13,@katiaaveirooficial
 Donald Trump,12,
+Flávio Furtado,12,@flavio_furtado_oficial
 Frederico Varandas,12,
 Liliana Aguiar,12,@lilianaaguiaroficial
 Ljubomir Stanisic,12,
@@ -52,7 +53,6 @@ Windoh,12,
 Casados à Primeira Vista,11,
 Cinha Jardim,11,@cinha_jardim
 David Carreira,11,
-Flávio Furtado,11,@flavio_furtado_oficial
 José Lopes,11,
 Judite Sousa,11,
 Leandro,11,@leandro.pt
@@ -198,6 +198,7 @@ Tiago Grila,5,
 Academia de Alcochete,4,
 Alexandra Solnado,4,
 Alice Santos,4,
+Ana Guiomar,4,@anaguiomar.oficial
 Ana Leal,4,
 Anabela Seabra (Désirat),4,
 Benfica,4,
@@ -276,6 +277,7 @@ Salvador Martinha,4,
 Sam The Kid,4,
 Serenella Andrade,4,
 Sofia Cerveira,4,
+Susana Dias Ramos,4,@susanadiasramos
 Sérgio Conceição,4,
 Sónia Tavares,4,
 Tiago Jaqueta,4,
@@ -288,11 +290,11 @@ A Garota Não,3,
 A Tatuadora da alma,3,
 Abel Xavier,3,
 Adelaide Ferreira,3,
-Ana Guiomar,3,@anaguiomar.oficial
 Ana Moura,3,
 Ana Sofia,3,
 Ana Sofia Martins,3,
 Andreia Sousa Viegas,3,@andreiadesousaviegas
+Anjos,3,@anjosoficialpt
 Augusto Inácio,3,
 Backstreet Boys,3,
 Becas Lírio,3,
@@ -351,6 +353,7 @@ Henrique Gouveia e Melo,3,
 Humberto Bernardo,3,
 Héctor Herrera,3,
 Iker Casillas,3,
+Inês Castel-Branco,3,@inescastelbranco
 Isa Moreira,3,
 Isaac Alfaiate,3,
 Isaltino Morais,3,
@@ -427,7 +430,6 @@ Sofia Aparício,3,
 Sofia Dinis,3,@sofiadinis.sheisart
 Soraia Chaves,3,
 Surma,3,
-Susana Dias Ramos,3,@susanadiasramos
 Susana Pinto,3,@susana.pintooficial
 Susana Silva,3,
 Susana Torres,3,
@@ -469,7 +471,6 @@ André Manuel Vaz,2,
 André Trigo,2,
 Animais em restaurantes,2,
 Anitta,2,
-Anjos,2,
 Antena 3,2,
 António Conde (Demo),2,
 António Guerreiro,2,
@@ -481,6 +482,7 @@ Anuska Marques,2,
 Apoiantes de Bolsonaro,2,
 Beatriz Frazão,2,
 Beatriz Nogueira,2,@beatrizngr
+Beatriz Prates,2,@beatrizzprates
 Benedita Pereira,2,
 Bernardina Brito,2,
 Bernardo Gomes,2,
@@ -504,6 +506,7 @@ Carlos Costa,2,
 Carlos Coutinho Vilhena,2,
 Carlos Cunha,2,
 Carlos Manuel,2,
+Carlos Moedas,2,@c_moedas
 Carlos Santos Silva,2,
 Carminho,2,
 Casados á primeira vista,2,
@@ -592,7 +595,6 @@ Humberto Simões,2,
 Hélder Tavares,2,
 Iara Dias,2,
 Intervenção e Resgate Animal,2,
-Inês Castel-Branco,2,@inescastelbranco
 Inês Marques Lucas,2,
 Inês Nunes,2,
 Inês Patrocínio,2,@inespatrociniorm
@@ -1000,7 +1002,6 @@ Barco do Amor,1,
 Basílio Horta,1,
 Batatinha,1,
 Beatriz Batarda,1,
-Beatriz Prates,1,@beatrizzprates
 Beatriz Ralon,1,
 Bela (irmã de Quinita),1,
 Bela Adormecida,1,
@@ -1098,7 +1099,6 @@ Carlos Afonso (Bondage),1,
 Carlos Gabriel,1,
 Carlos Godinho,1,
 Carlos Lopes,1,
-Carlos Moedas,1,
 Carlos Pereira,1,
 Carlos Ramalho,1,
 Carlos Saboga,1,
@@ -1236,6 +1236,7 @@ Daniel Oliveira,1,
 Daniel Podence,1,
 Daniel Saavedra,1,
 Daniel Savate,1,
+Daniela Santos,1,@danielacvsantos
 Danny,1,
 David Borges,1,
 David Furnish,1,
@@ -1291,6 +1292,7 @@ Dr. Coimbra de Matos,1,
 Dr. Humberto Barbosa,1,
 Duarte Gomes,1,
 Duarte Litério,1,@duartelitterio
+Duarte Pacheco de Souza,1,@duarsouza
 Duarte Pio de Bragança,1,
 Duarte e Companhia,1,
 Duck,1,
