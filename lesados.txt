@@ -75,6 +75,7 @@ Madonna,9,
 Maria Botelho Moniz,9,@mariabotelhomoniz
 Rui Rio,9,
 SirKazzio,9,
+Sónia Costa,9,
 Toy,9,
 Vanessa Martins,9,
 Yolanda Tati,9,
@@ -95,7 +96,6 @@ Mónica Jardim,8,@mmjardim
 Nuno Graciano,8,
 Rita Ferro Rodrigues,8,@ritaferrorodrigues
 Rui Oliveira Nunes,8,@ruideoliveiranunes
-Sónia Costa,8,
 Ana Barbosa,7,@capitan_barb
 Ana Malhoa,7,
 André Silva,7,
