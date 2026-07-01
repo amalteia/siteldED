@@ -43,6 +43,7 @@ Kátia Aveiro,13,@katiaaveirooficial
 Donald Trump,12,
 Flávio Furtado,12,@flavio_furtado_oficial
 Frederico Varandas,12,
+José Lopes,12,@zelopesss
 Liliana Aguiar,12,@lilianaaguiaroficial
 Ljubomir Stanisic,12,
 Léo Caeiro,12,@leocaeirooficial
@@ -53,7 +54,6 @@ Windoh,12,
 Casados à Primeira Vista,11,
 Cinha Jardim,11,@cinha_jardim
 David Carreira,11,
-José Lopes,11,
 Judite Sousa,11,
 Leandro,11,@leandro.pt
 Marco Paulo,11,
