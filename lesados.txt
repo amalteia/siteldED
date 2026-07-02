@@ -38,12 +38,12 @@ José Sócrates,14,
 Miguel Milhão,14,
 Catarina Furtado,13,
 Duarte Siopa,13,@duartesiopa
+José Lopes,13,@zelopesss
 João Barbosa (Numeiro),13,
 Kátia Aveiro,13,@katiaaveirooficial
 Donald Trump,12,
 Flávio Furtado,12,@flavio_furtado_oficial
 Frederico Varandas,12,
-José Lopes,12,@zelopesss
 Liliana Aguiar,12,@lilianaaguiaroficial
 Ljubomir Stanisic,12,
 Léo Caeiro,12,@leocaeirooficial
@@ -66,6 +66,7 @@ João Baião,10,
 Miguel Sousa Tavares,10,
 Paulo Futre,10,
 SIC,10,
+Sónia Costa,10,
 Clara de Sousa,9,
 Daniel Leitão,9,@danielhleitao
 Elma Aveiro,9,@elma_oficial
@@ -75,7 +76,6 @@ Madonna,9,
 Maria Botelho Moniz,9,@mariabotelhomoniz
 Rui Rio,9,
 SirKazzio,9,
-Sónia Costa,9,
 Toy,9,
 Vanessa Martins,9,
 Yolanda Tati,9,
