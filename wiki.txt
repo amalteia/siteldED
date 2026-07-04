@@ -2,6 +2,8 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1589 || [[Alexandra Lencastre]], [[Flávio Furtado]]
+|-
 | style='text-align:center;' | 1588 || [[Sónia Costa]], [[José Lopes]]
 |-
 | style='text-align:center;' | 1587 || [[Sónia Costa]], [[José Lopes]]

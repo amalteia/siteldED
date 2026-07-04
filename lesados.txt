@@ -28,9 +28,9 @@ André Ventura,18,
 Joana Amaral Dias,18,
 Luís Oliveira,18,
 Maria Vieira,17,
+Alexandra Lencastre,16,
 José Eduardo Moniz,16,
 Sandra Felgueiras,16,@sandrafelgueiras_oficial
-Alexandra Lencastre,15,
 Big Brother,15,
 José Castelo Branco,15,
 Fátima Campos Ferreira,14,
@@ -38,11 +38,11 @@ José Sócrates,14,
 Miguel Milhão,14,
 Catarina Furtado,13,
 Duarte Siopa,13,@duartesiopa
+Flávio Furtado,13,@flavio_furtado_oficial
 José Lopes,13,@zelopesss
 João Barbosa (Numeiro),13,
 Kátia Aveiro,13,@katiaaveirooficial
 Donald Trump,12,
-Flávio Furtado,12,@flavio_furtado_oficial
 Frederico Varandas,12,
 Liliana Aguiar,12,@lilianaaguiaroficial
 Ljubomir Stanisic,12,
