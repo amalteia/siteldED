@@ -35,13 +35,13 @@ Big Brother,15,
 José Castelo Branco,15,
 Fátima Campos Ferreira,14,
 José Sócrates,14,
+Kátia Aveiro,14,@katiaaveirooficial
 Miguel Milhão,14,
 Catarina Furtado,13,
 Duarte Siopa,13,@duartesiopa
 Flávio Furtado,13,@flavio_furtado_oficial
 José Lopes,13,@zelopesss
 João Barbosa (Numeiro),13,
-Kátia Aveiro,13,@katiaaveirooficial
 Donald Trump,12,
 Frederico Varandas,12,
 Liliana Aguiar,12,@lilianaaguiaroficial
@@ -94,6 +94,7 @@ João Montez,8,
 Luís Filipe Vieira,8,
 Mónica Jardim,8,@mmjardim
 Nuno Graciano,8,
+Ricardo Quaresma,8,
 Rita Ferro Rodrigues,8,@ritaferrorodrigues
 Rui Oliveira Nunes,8,@ruideoliveiranunes
 Ana Barbosa,7,@capitan_barb
@@ -115,7 +116,6 @@ Mário Ferreira,7,
 Nuno Homem de Sá,7,
 Nuno Luz,7,
 Paulo Pires,7,
-Ricardo Quaresma,7,
 Teresa Guilherme,7,
 Ágata,7,
 Ângelo Rodrigues,7,@angelorodrigues_oficial
@@ -1779,6 +1779,7 @@ Luis Figo,1,
 Luis Filipe Vieira,1,
 Luis Fonsi,1,
 Luis Franco Bastos,1,
+Luis Mesquita (Luigi),1,@luigimeskita
 Luis Palito,1,
 Luis Pedro Gonçalves,1,
 Luisa Barbosa,1,
@@ -1992,6 +1993,7 @@ Museu das Descobertas,1,
 Museu do Queijo,1,
 Myriam,1,
 Márcia Breia,1,
+Márcia Pacheco,1,@marciaribeiropacheco_
 Mário,1,
 Mário Amaro,1,
 Mário Centeno,1,
@@ -2341,6 +2343,7 @@ Rosário Miranda,1,
 Rui Alves,1,
 Rui Baptista,1,
 Rui Caeiro,1,
+Rui Costa (os primos),1,@osprimosboy
 Rui Massena,1,
 Rui Matias,1,
 Rui Mendes,1,

@@ -2,6 +2,8 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1590 || [[Kátia Aveiro]], [[Márcia Pacheco]], [[Ricardo Quaresma]], [[Rui Costa (os primos)]], [[Luis Mesquita (Luigi)]]
+|-
 | style='text-align:center;' | 1589 || [[Alexandra Lencastre]], [[Flávio Furtado]]
 |-
 | style='text-align:center;' | 1588 || [[Sónia Costa]], [[José Lopes]]
