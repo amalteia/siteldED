@@ -8,7 +8,7 @@ Rita Pereira,40,@hyndia
 Covid-19,38,
 Bruno de Carvalho,36,@bruno_de_carvalho_oficial
 Cláudio Ramos,36,@claudio_ramos
-Cristiano Ronaldo,35,@cristiano
+Cristiano Ronaldo,36,@cristiano
 Inês Lopes Gonçalves,35,@ineslopesgoncalves
 CMTV,34,
 Manuel Luís Goucha,33,@mlgoucha
@@ -28,9 +28,9 @@ André Ventura,18,
 Joana Amaral Dias,18,
 Luís Oliveira,18,
 Maria Vieira,17,
-Alexandra Lencastre,16,
 José Eduardo Moniz,16,
 Sandra Felgueiras,16,@sandrafelgueiras_oficial
+Alexandra Lencastre,15,
 Big Brother,15,
 José Castelo Branco,15,
 Fátima Campos Ferreira,14,
@@ -39,10 +39,10 @@ Kátia Aveiro,14,@katiaaveirooficial
 Miguel Milhão,14,
 Catarina Furtado,13,
 Duarte Siopa,13,@duartesiopa
-Flávio Furtado,13,@flavio_furtado_oficial
 José Lopes,13,@zelopesss
 João Barbosa (Numeiro),13,
 Donald Trump,12,
+Flávio Furtado,12,@flavio_furtado_oficial
 Frederico Varandas,12,
 Liliana Aguiar,12,@lilianaaguiaroficial
 Ljubomir Stanisic,12,
@@ -74,6 +74,7 @@ Globos de Ouro,9,
 Júlia Pinheiro,9,
 Madonna,9,
 Maria Botelho Moniz,9,@mariabotelhomoniz
+Ricardo Quaresma,9,
 Rui Rio,9,
 SirKazzio,9,
 Toy,9,
@@ -94,7 +95,6 @@ João Montez,8,
 Luís Filipe Vieira,8,
 Mónica Jardim,8,@mmjardim
 Nuno Graciano,8,
-Ricardo Quaresma,8,
 Rita Ferro Rodrigues,8,@ritaferrorodrigues
 Rui Oliveira Nunes,8,@ruideoliveiranunes
 Ana Barbosa,7,@capitan_barb
@@ -646,6 +646,7 @@ Landu Bi,2,
 Lisboa,2,
 Loja Maxina,2,
 Lourenço Martins,2,
+Luana do Bem,2,@luanadobem
 Luis Maia,2,
 Luis Sequeira,2,
 Luisão (futebolista),2,
@@ -689,6 +690,7 @@ Milene Martins,2,
 Monica Sintra,2,
 Moussa Marega,2,
 Movimento Libertem as Crianças,2,
+Márcia Pacheco,2,@marciaribeiropacheco_
 Mário Caetano,2,@mariocaetano_wildpurpose
 Mário Jardel,2,
 Más Influências (podcast),2,
@@ -703,6 +705,7 @@ Nuno Melo,2,
 Nádia Lopes,2,
 Oceana Basílio,2,
 Olívia Ortiz,2,
+Os Primos,2,@osprimosboy
 PURP,2,
 Patricia Mota Veiga,2,
 Patricia Pontes,2,
@@ -768,6 +771,7 @@ Rute Rita,2,
 Rute Sousa,2,@rutemsousa
 Rádio Comercial,2,
 Rúben Boa Nova,2,
+Rúben Dias,2,
 SIC Notícias,2,
 Sara Afonso,2,
 Sara Aleixo,2,
@@ -1276,6 +1280,7 @@ Diogo Moreira,1,
 Diogo Rego,1,
 Diogo Valente,1,
 Diogo Valsassina,1,
+Diogo da Silva (movemind),1,@_movemind_
 Djodje,1,
 Dom Duarte Nuno de Bragança,1,
 Dona 'Maria' de Sao Valentim,1,
@@ -1664,6 +1669,7 @@ Jovem António,1,
 Jovens contra a eutanásia,1,
 João Adelino Faria,1,
 João Arbués Moreira,1,
+João Cancelo,1,
 João Canijo,1,
 João Castelão,1,
 João César das Neves,1,
@@ -1767,7 +1773,6 @@ Lourenço,1,
 Lourenço Amaral,1,@lourencomamaral
 Love on Top,1,
 Luan Santana,1,
-Luana do Bem,1,
 Luca Argel,1,
 Lucas Valente,1,
 Lucia Hunt,1,
@@ -1993,7 +1998,6 @@ Museu das Descobertas,1,
 Museu do Queijo,1,
 Myriam,1,
 Márcia Breia,1,
-Márcia Pacheco,1,@marciaribeiropacheco_
 Mário,1,
 Mário Amaro,1,
 Mário Centeno,1,
@@ -2343,7 +2347,6 @@ Rosário Miranda,1,
 Rui Alves,1,
 Rui Baptista,1,
 Rui Caeiro,1,
-Rui Costa (os primos),1,@osprimosboy
 Rui Massena,1,
 Rui Matias,1,
 Rui Mendes,1,
@@ -2368,7 +2371,6 @@ Rádio Campanário,1,
 Rádio Ondas da Cabreira,1,
 Rúben Amorim,1,
 Rúben André,1,
-Rúben Dias,1,
 Rúben Silvestre,1,
 Rúben Teixeira,1,
 Rúben da Cruz,1,
