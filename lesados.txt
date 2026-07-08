@@ -65,6 +65,7 @@ Fernanda Serrano,10,
 João Baião,10,
 Miguel Sousa Tavares,10,
 Paulo Futre,10,
+Ricardo Quaresma,10,
 SIC,10,
 Sónia Costa,10,
 Clara de Sousa,9,
@@ -74,7 +75,6 @@ Globos de Ouro,9,
 Júlia Pinheiro,9,
 Madonna,9,
 Maria Botelho Moniz,9,@mariabotelhomoniz
-Ricardo Quaresma,9,
 Rui Rio,9,
 SirKazzio,9,
 Toy,9,
@@ -396,6 +396,7 @@ Mariana Mortágua,3,
 Mariana Patrocínio,3,@marianapatrocinio_
 Mickael Carreira,3,
 Miguel Costa,3,
+Márcia Pacheco,3,@marciaribeiropacheco_
 Mário Augusto,3,
 Nemanus,3,@nemanusoficial
 Nuno Kampos,3,@nunokampos
@@ -549,6 +550,7 @@ Dieta Paleo,2,
 Dina Aguiar,2,
 Dino Santiago,2,
 Diogo Sena,2,
+Diogo da Silva (movemind),2,@_movemind_
 Domingão,2,
 Duarte Lima,2,
 Dulce Pontes,2,
@@ -690,7 +692,6 @@ Milene Martins,2,
 Monica Sintra,2,
 Moussa Marega,2,
 Movimento Libertem as Crianças,2,
-Márcia Pacheco,2,@marciaribeiropacheco_
 Mário Caetano,2,@mariocaetano_wildpurpose
 Mário Jardel,2,
 Más Influências (podcast),2,
@@ -1280,7 +1281,6 @@ Diogo Moreira,1,
 Diogo Rego,1,
 Diogo Valente,1,
 Diogo Valsassina,1,
-Diogo da Silva (movemind),1,@_movemind_
 Djodje,1,
 Dom Duarte Nuno de Bragança,1,
 Dona 'Maria' de Sao Valentim,1,
