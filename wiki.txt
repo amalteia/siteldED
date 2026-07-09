@@ -2,6 +2,8 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1593 || [[Santiago Lagoá]], [[Rúben Pacheco Correia]], [[Luciana Abreu]]
+|-
 | style='text-align:center;' | 1592 || [[Márcia Pacheco]], [[Ricardo Quaresma]], [[Diogo da Silva (movemind)]]
 |-
 | style='text-align:center;' | 1591 || [[Rúben Dias]], [[Márcia Pacheco]], [[Ricardo Quaresma]], [[Cristiano Ronaldo]], [[Diogo da Silva (movemind)]], [[Luana do Bem]], [[Os Primos]]

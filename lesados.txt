@@ -12,9 +12,9 @@ Cristiano Ronaldo,36,@cristiano
 Inês Lopes Gonçalves,35,@ineslopesgoncalves
 CMTV,34,
 Manuel Luís Goucha,33,@mlgoucha
+Luciana Abreu,27,@lucianaabreuoficial
 Maya (taróloga),27,@tia__maya
 Rúben Rua,27,@R
-Luciana Abreu,26,@lucianaabreuoficial
 Xavier,26,
 Maria Cerqueira Gomes,24,@maria_cerqueira_gomes
 Sérgio Tavares,24,@canal_sergiotavares
@@ -116,6 +116,7 @@ Mário Ferreira,7,
 Nuno Homem de Sá,7,
 Nuno Luz,7,
 Paulo Pires,7,
+Santiago Lagoá,7,@santiago.lagoa
 Teresa Guilherme,7,
 Ágata,7,
 Ângelo Rodrigues,7,@angelorodrigues_oficial
@@ -142,7 +143,6 @@ Rui Veloso,6,
 Rui da Fonseca e Castro,6,
 Salvador Sobral,6,
 Santana Lopes,6,
-Santiago Lagoá,6,@santiago.lagoa
 Sara Matos,6,
 Suzana Garcia,6,@suzana_garcia
 Tiago Saramago (Tiagovski),6,@tiagovski555
@@ -2371,6 +2371,7 @@ Rádio Campanário,1,
 Rádio Ondas da Cabreira,1,
 Rúben Amorim,1,
 Rúben André,1,
+Rúben Pacheco Correia,1,@rubenpcorreia
 Rúben Silvestre,1,
 Rúben Teixeira,1,
 Rúben da Cruz,1,
