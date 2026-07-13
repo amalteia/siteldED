@@ -21,8 +21,8 @@ Sérgio Tavares,24,@canal_sergiotavares
 José Cid,23,@jose_cid_musico
 Lili Caneças,21,@lilicanecas
 Marcelo Rebelo de Sousa,21,
+Jorge Jesus,20,@jorgejesus
 Carolina Patrocínio,19,@carolinapatrocinio
-Jorge Jesus,19,@jorgejesus
 Tiago Paiva,19,@tiagopaiva__
 André Ventura,18,
 Joana Amaral Dias,18,
