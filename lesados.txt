@@ -396,6 +396,7 @@ Mariana Mortágua,3,
 Mariana Patrocínio,3,@marianapatrocinio_
 Mickael Carreira,3,
 Miguel Costa,3,
+Milene Martins,3,
 Márcia Pacheco,3,@marciaribeiropacheco_
 Mário Augusto,3,
 Nemanus,3,@nemanusoficial
@@ -688,7 +689,6 @@ Miguel Gameiro,2,
 Miguel Maximiano,2,@miguel_maximiano
 Miguel Palma,2,@avozeamaquina
 Miguel Pinto Luz,2,
-Milene Martins,2,
 Monica Sintra,2,
 Moussa Marega,2,
 Movimento Libertem as Crianças,2,
