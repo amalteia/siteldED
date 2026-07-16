@@ -1074,6 +1074,7 @@ Buraca,1,
 Burlões,1,
 Bárbara Magalhães,1,
 Bárbara Marques,1,
+Bárbara Marto,1,@babs_marto
 Bárbara Silva,1,
 Bárbara Sofia Holanda Bandeira,1,
 C&A,1,
