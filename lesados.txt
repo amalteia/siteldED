@@ -248,6 +248,7 @@ Margarida Oliveira,4,
 Maria Joaquina (Quinita),4,
 Miguel Relvas,4,
 Miguel Silva (Jingle Lee),4,@micselva
+Milene Martins,4,
 Mónica Sintra,4,
 Nuno Eiró,4,
 Nuno Markl,4,@nunomarkl
@@ -396,7 +397,6 @@ Mariana Mortágua,3,
 Mariana Patrocínio,3,@marianapatrocinio_
 Mickael Carreira,3,
 Miguel Costa,3,
-Milene Martins,3,
 Márcia Pacheco,3,@marciaribeiropacheco_
 Mário Augusto,3,
 Nemanus,3,@nemanusoficial
