@@ -1584,7 +1584,7 @@ Ivo Pires,1,
 Ivo Silva,1,
 J Balvin,1,
 JOSH,1,
-Jaime Cancella de Abreu{https://www.instagram.com/jaime.cancella.de.abreu/),1,@jaime.cancella.de.abreu
+Jaime Cancella de Abreu,1,@jaime.cancella.de.abreu
 Jaime Marta Soares,1,
 James Arthur,1,
 James Bond 007,1,
