@@ -2,169 +2,171 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1598 || [[Milene Martins]]
+|-
 | style='text-align:center;' | 1597 || [[Milene Martins]]
 |-
-| style='text-align:center;' | 1596 || [[Milene Martins]]
+| style='text-align:center;' | 1596 || [[Jorge Jesus]]
 |-
-| style='text-align:center;' | 1595 || [[Jorge Jesus]]
+| style='text-align:center;' | 1595 || [[Rúben Pacheco Correia]], [[Fernando Alvim]], [[Santiago Lagoá]], [[José Eduardo Moniz]], [[João Patrício]], [[Hernâni Carvalho]], [[Cristina Ferreira]]
 |-
-| style='text-align:center;' | 1594 || [[Rúben Pacheco Correia]], [[Fernando Alvim]], [[Santiago Lagoá]], [[José Eduardo Moniz]], [[João Patrício]], [[Hernâni Carvalho]], [[Cristina Ferreira]]
+| style='text-align:center;' | 1594 || [[Santiago Lagoá]], [[Rúben Pacheco Correia]], [[Luciana Abreu]]
 |-
-| style='text-align:center;' | 1593 || [[Santiago Lagoá]], [[Rúben Pacheco Correia]], [[Luciana Abreu]]
+| style='text-align:center;' | 1593 || [[Márcia Pacheco]], [[Ricardo Quaresma]], [[Diogo da Silva (movemind)]]
 |-
-| style='text-align:center;' | 1592 || [[Márcia Pacheco]], [[Ricardo Quaresma]], [[Diogo da Silva (movemind)]]
+| style='text-align:center;' | 1592 || [[Rúben Dias]], [[Márcia Pacheco]], [[Ricardo Quaresma]], [[Cristiano Ronaldo]], [[Diogo da Silva (movemind)]], [[Luana do Bem]], [[Os Primos]]
 |-
-| style='text-align:center;' | 1591 || [[Rúben Dias]], [[Márcia Pacheco]], [[Ricardo Quaresma]], [[Cristiano Ronaldo]], [[Diogo da Silva (movemind)]], [[Luana do Bem]], [[Os Primos]]
+| style='text-align:center;' | 1591 || [[Kátia Aveiro]], [[Márcia Pacheco]], [[Ricardo Quaresma]], [[Os Primos]], [[Luis Mesquita (Luigi)]], [[João Cancelo]], [[]]
 |-
-| style='text-align:center;' | 1590 || [[Kátia Aveiro]], [[Márcia Pacheco]], [[Ricardo Quaresma]], [[Os Primos]], [[Luis Mesquita (Luigi)]], [[João Cancelo]], [[]]
+| style='text-align:center;' | 1590 || [[Alexandra Lencastre]], [[Flávio Furtado]]
 |-
-| style='text-align:center;' | 1589 || [[Alexandra Lencastre]], [[Flávio Furtado]]
+| style='text-align:center;' | 1589 || [[Sónia Costa]], [[José Lopes]]
 |-
 | style='text-align:center;' | 1588 || [[Sónia Costa]], [[José Lopes]]
 |-
-| style='text-align:center;' | 1587 || [[Sónia Costa]], [[José Lopes]]
+| style='text-align:center;' | 1587 || [[Ana Guiomar]], [[Inês Castel-Branco]], [[Daniela Santos]], [[Beatriz Prates]], [[Duarte Pacheco de Souza]], [[Susana Dias Ramos]], [[Flávio Furtado]], [[Os Anjos (dupla musical)]], [[Carlos Moedas]], [[Lili Caneças]]
 |-
-| style='text-align:center;' | 1586 || [[Ana Guiomar]], [[Inês Castel-Branco]], [[Daniela Santos]], [[Beatriz Prates]], [[Duarte Pacheco de Souza]], [[Susana Dias Ramos]], [[Flávio Furtado]], [[Os Anjos (dupla musical)]], [[Carlos Moedas]], [[Lili Caneças]]
+| style='text-align:center;' | 1586 || [[João Manzarra]], [[Iva Lamarão]], [[Bárbara Marto]], [[Carolina Loureiro]], [[Cláudia Vieira]], [[Paulo Silver]], [[Filomena Cautela]], [[Andreia Rodrigues]]
 |-
-| style='text-align:center;' | 1585 || [[João Manzarra]], [[Iva Lamarão]], [[Bárbara Marto]], [[Carolina Loureiro]], [[Cláudia Vieira]], [[Paulo Silver]], [[Filomena Cautela]], [[Andreia Rodrigues]]
+| style='text-align:center;' | 1585 || [[Rafaela Granado]], [[Diana Bouça-Nova]], [[António José Leite]]
 |-
-| style='text-align:center;' | 1584 || [[Rafaela Granado]], [[Diana Bouça-Nova]], [[António José Leite]]
+| style='text-align:center;' | 1584 || [[António Rosa]], [[Maria Joaquina (Quinita)]], [[Carlos Henriques]], [[Ana Paula (Paula Lakshmi)]]
 |-
-| style='text-align:center;' | 1583 || [[António Rosa]], [[Maria Joaquina (Quinita)]], [[Carlos Henriques]], [[Ana Paula (Paula Lakshmi)]]
+| style='text-align:center;' | 1583 || [[Cláudia Jacques]], [[Ana Paula (Paula Lakshmi)]], [[António Rosa]], [[Maria Joaquina (Quinita)]]
 |-
-| style='text-align:center;' | 1582 || [[Cláudia Jacques]], [[Ana Paula (Paula Lakshmi)]], [[António Rosa]], [[Maria Joaquina (Quinita)]]
+| style='text-align:center;' | 1582 || [[Carlos Henriques]], [[Maria Joaquina (Quinita)]], [[Ana Paula (Paula Lakshmi)]]
 |-
-| style='text-align:center;' | 1581 || [[Carlos Henriques]], [[Maria Joaquina (Quinita)]], [[Ana Paula (Paula Lakshmi)]]
+| style='text-align:center;' | 1581 || [[Maria Joaquina (Quinita)]], [[Bela (irmã de Quinita)]], [[Carlos Henriques]], [[Ana Paula (Paula Lakshmi)]]
 |-
-| style='text-align:center;' | 1580 || [[Maria Joaquina (Quinita)]], [[Bela (irmã de Quinita)]], [[Carlos Henriques]], [[Ana Paula (Paula Lakshmi)]]
+| style='text-align:center;' | 1580 || [[Gustavo Santos]], [[Joana Marques]]
 |-
-| style='text-align:center;' | 1579 || [[Gustavo Santos]], [[Joana Marques]]
+| style='text-align:center;' | 1579 || [[Gustavo Santos]], [[Flávio Furtado]], [[Joana Marques]]
 |-
-| style='text-align:center;' | 1578 || [[Gustavo Santos]], [[Flávio Furtado]], [[Joana Marques]]
+| style='text-align:center;' | 1578 || [[Vitor Pinto]], [[Cristiano Ronaldo]], [[Mário Figueiredo]], [[Paulo Catarro]], [[Francisco Trincão]]
 |-
-| style='text-align:center;' | 1577 || [[Vitor Pinto]], [[Cristiano Ronaldo]], [[Mário Figueiredo]], [[Paulo Catarro]], [[Francisco Trincão]]
+| style='text-align:center;' | 1577 || [[Inês Patrocínio]], [[Pedro Patrocínio]], [[Carolina Patrocínio]], [[Rita Patrocínio]], [[Mariana Patrocínio]]
 |-
-| style='text-align:center;' | 1576 || [[Inês Patrocínio]], [[Pedro Patrocínio]], [[Carolina Patrocínio]], [[Rita Patrocínio]], [[Mariana Patrocínio]]
+| style='text-align:center;' | 1576 || [[Carolina Patrocínio]], [[Gonçalo Uva]], [[Teresa Vieira de Almeida (Tatói)]], [[Inês Patrocínio]], [[Rita Patrocínio]]
 |-
-| style='text-align:center;' | 1575 || [[Carolina Patrocínio]], [[Gonçalo Uva]], [[Teresa Vieira de Almeida (Tatói)]], [[Inês Patrocínio]], [[Rita Patrocínio]]
+| style='text-align:center;' | 1575 || [[Rita Patrocínio]], [[Teresa Vieira de Almeida (Tatói)]], [[Nuno Santana]], [[Mariana Patrocínio]], [[Gonçalo Uva]], [[Carolina Patrocínio]]
 |-
-| style='text-align:center;' | 1574 || [[Rita Patrocínio]], [[Teresa Vieira de Almeida (Tatói)]], [[Nuno Santana]], [[Mariana Patrocínio]], [[Gonçalo Uva]], [[Carolina Patrocínio]]
+| style='text-align:center;' | 1574 || [[Carolina Patrocínio]], [[Mariana Patrocínio]], [[Mark Jacobi]], [[Nuno Santana]], [[Teresa Vieira de Almeida (Tatói)]], [[Rita Patrocínio]]
 |-
-| style='text-align:center;' | 1573 || [[Carolina Patrocínio]], [[Mariana Patrocínio]], [[Mark Jacobi]], [[Nuno Santana]], [[Teresa Vieira de Almeida (Tatói)]], [[Rita Patrocínio]]
+| style='text-align:center;' | 1573 || [[Diogo Maia]], [[Ariana Miranda]], [[João Patrício]], [[João Barbosa (Numeiro)]]
 |-
-| style='text-align:center;' | 1572 || [[Diogo Maia]], [[Ariana Miranda]], [[João Patrício]], [[João Barbosa (Numeiro)]]
+| style='text-align:center;' | 1572 || [[Hugo Costa]], [[Jorge Neto]], [[Gonçalo Maia]], [[Telmo Loko (Luva Di Nike)]], [[Bruno Mestre]], [[Checka]], [[Bruno Savate]]
 |-
-| style='text-align:center;' | 1571 || [[Hugo Costa]], [[Jorge Neto]], [[Gonçalo Maia]], [[Telmo Loko (Luva Di Nike)]], [[Bruno Mestre]], [[Checka]], [[Bruno Savate]]
+| style='text-align:center;' | 1571 || [[João Melo]], [[Paulo André Cecílio]]
 |-
-| style='text-align:center;' | 1570 || [[João Melo]], [[Paulo André Cecílio]]
+| style='text-align:center;' | 1570 || [[Catarina Miranda]], [[Afonso Leitão]], [[Rita Leitão]], [[Avó Rosário]], [[Cristina Ferreira]]
 |-
-| style='text-align:center;' | 1569 || [[Catarina Miranda]], [[Afonso Leitão]], [[Rita Leitão]], [[Avó Rosário]], [[Cristina Ferreira]]
+| style='text-align:center;' | 1569 || [[Catarina Miranda]], [[Afonso Leitão]]
 |-
-| style='text-align:center;' | 1568 || [[Catarina Miranda]], [[Afonso Leitão]]
+| style='text-align:center;' | 1568 || [[Luna Ariza]], [[Vicky Campelo]], [[Rita Pereira]], [[Helena Coelho]]
 |-
-| style='text-align:center;' | 1567 || [[Luna Ariza]], [[Vicky Campelo]], [[Rita Pereira]], [[Helena Coelho]]
+| style='text-align:center;' | 1567 || [[Rui Oliveira Nunes]], [[Luciana Abreu]], [[Isabel Hermenegildo]]
 |-
-| style='text-align:center;' | 1566 || [[Rui Oliveira Nunes]], [[Luciana Abreu]], [[Isabel Hermenegildo]]
+| style='text-align:center;' | 1566 || [[Rui Oliveira Nunes]], [[Luciana Abreu]], [[Léo Caeiro]], [[Ana Barbosa]], [[Beatriz Prates]], [[Tânia Laranjo]]
 |-
-| style='text-align:center;' | 1565 || [[Rui Oliveira Nunes]], [[Luciana Abreu]], [[Léo Caeiro]], [[Ana Barbosa]], [[Beatriz Prates]], [[Tânia Laranjo]]
+| style='text-align:center;' | 1565 || [[Gustavo Santos]]
 |-
-| style='text-align:center;' | 1564 || [[Gustavo Santos]]
+| style='text-align:center;' | 1564 || [[Francisca Cabral (Maria Morango)]], [[Rita Ferro Rodrigues]], [[Luís Montez]], [[Tia Bli]]
 |-
-| style='text-align:center;' | 1563 || [[Francisca Cabral (Maria Morango)]], [[Rita Ferro Rodrigues]], [[Luís Montez]], [[Tia Bli]]
+| style='text-align:center;' | 1563 || [[Rúben Rua]]
 |-
 | style='text-align:center;' | 1562 || [[Rúben Rua]]
 |-
-| style='text-align:center;' | 1561 || [[Rúben Rua]]
+| style='text-align:center;' | 1561 || [[Rita Pereira]]
 |-
-| style='text-align:center;' | 1560 || [[Rita Pereira]]
+| style='text-align:center;' | 1560 || [[Rui Sinel de Cordes]], [[Miguel Milhão]]
 |-
 | style='text-align:center;' | 1559 || [[Rui Sinel de Cordes]], [[Miguel Milhão]]
 |-
-| style='text-align:center;' | 1558 || [[Rui Sinel de Cordes]], [[Miguel Milhão]]
+| style='text-align:center;' | 1558 || [[João Dias]]
 |-
-| style='text-align:center;' | 1557 || [[João Dias]]
+| style='text-align:center;' | 1557 || [[Rita Guerra]], [[João Melo]], [[Manuel Luís Goucha]], [[Maria Sequeira Gomes]], [[João Patrício]], [[Renata Gonçalves]], [[José Cid]], [[Humberto Bernardo]]
 |-
-| style='text-align:center;' | 1556 || [[Rita Guerra]], [[João Melo]], [[Manuel Luís Goucha]], [[Maria Sequeira Gomes]], [[João Patrício]], [[Renata Gonçalves]], [[José Cid]], [[Humberto Bernardo]]
+| style='text-align:center;' | 1556 || [[Isabel Silva]], [[Maria Gorjão Henriques]]
 |-
-| style='text-align:center;' | 1555 || [[Isabel Silva]], [[Maria Gorjão Henriques]]
+| style='text-align:center;' | 1555 || [[Liliana Aguiar]], [[Gonçalo Gomes]], [[Windoh]], [[Teresa Guilherme]], [[Diogo Amaral]], [[Daniel Nascimento]], [[Rui Figueiredo]], [[Teresa Silva]], [[Ana Barbosa]], [[Margarida Carvalheiro]], [[Sérgio Semedo (Tufão)]], [[Milton Simões (Homem Finanças)]], [[Salvador Silva]], [[Carolina Taner]]
 |-
-| style='text-align:center;' | 1554 || [[Liliana Aguiar]], [[Gonçalo Gomes]], [[Windoh]], [[Teresa Guilherme]], [[Diogo Amaral]], [[Daniel Nascimento]], [[Rui Figueiredo]], [[Teresa Silva]], [[Ana Barbosa]], [[Margarida Carvalheiro]], [[Sérgio Semedo (Tufão)]], [[Milton Simões (Homem Finanças)]], [[Salvador Silva]], [[Carolina Taner]]
+| style='text-align:center;' | 1554 || [[Susana Dias Ramos]]
 |-
-| style='text-align:center;' | 1553 || [[Susana Dias Ramos]]
+| style='text-align:center;' | 1553 || [[Daniel Leitão]], [[Joana Marques]]
 |-
-| style='text-align:center;' | 1552 || [[Daniel Leitão]], [[Joana Marques]]
+| style='text-align:center;' | 1552 || [[Jéssica Athayde]], [[Joana Ribeiro]], [[Francisco Soares (Kiko is Hot)]], [[Rúben Rua]], [[Filipe Bessa Vieira]], [[Justin Amorim]], [[Mia Fernandes]], [[André Marinho]]
 |-
-| style='text-align:center;' | 1551 || [[Jéssica Athayde]], [[Joana Ribeiro]], [[Francisco Soares (Kiko is Hot)]], [[Rúben Rua]], [[Filipe Bessa Vieira]], [[Justin Amorim]], [[Mia Fernandes]], [[André Marinho]]
+| style='text-align:center;' | 1551 || [[João Viola]], [[Miguel Milhão]]
 |-
-| style='text-align:center;' | 1550 || [[João Viola]], [[Miguel Milhão]]
+| style='text-align:center;' | 1550 || [[Leandro]], [[Sérgio Tavares]], [[Marina Pereira (Mary)]]
 |-
-| style='text-align:center;' | 1549 || [[Leandro]], [[Sérgio Tavares]], [[Marina Pereira (Mary)]]
+| style='text-align:center;' | 1549 || [[Dialogos Paralelos (podcast)]], [[Leandro]]
 |-
-| style='text-align:center;' | 1548 || [[Dialogos Paralelos (podcast)]], [[Leandro]]
+| style='text-align:center;' | 1548 || [[TVI]], [[Rita Pereira]], [[Inês Castel-Branco]], [[Ana Sofia Cardoso]], [[Maria Botelho Moniz]], [[João Patrício]], [[Cláudio Ramos]], [[Diogo Amaral]], [[Ana Guiomar]], [[Marco Borges]], [[João Lagarto]], [[Sandra Felgueiras]], [[Sara Pinto]], [[Andreia Vale]]
 |-
-| style='text-align:center;' | 1547 || [[TVI]], [[Rita Pereira]], [[Inês Castel-Branco]], [[Ana Sofia Cardoso]], [[Maria Botelho Moniz]], [[João Patrício]], [[Cláudio Ramos]], [[Diogo Amaral]], [[Ana Guiomar]], [[Marco Borges]], [[João Lagarto]], [[Sandra Felgueiras]], [[Sara Pinto]], [[Andreia Vale]]
+| style='text-align:center;' | 1547 || [[Nuno Santos]], [[Pedro Moraes Leitão]], [[Iva Domingues]], [[Gonçalo Melo]], [[Mónica Jardim]], [[Anselmo Ralph]], [[Hélder Fráguas]], [[Cristina Silva]], [[José Neves]], [[José Fidalgo]], [[José Eduardo Moniz]], [[Cristina Ferreira]], [[TVI]], [[Rita Pereira]]
 |-
-| style='text-align:center;' | 1546 || [[Nuno Santos]], [[Pedro Moraes Leitão]], [[Iva Domingues]], [[Gonçalo Melo]], [[Mónica Jardim]], [[Anselmo Ralph]], [[Hélder Fráguas]], [[Cristina Silva]], [[José Neves]], [[José Fidalgo]], [[José Eduardo Moniz]], [[Cristina Ferreira]], [[TVI]], [[Rita Pereira]]
+| style='text-align:center;' | 1546 || [[Jaime Cancella de Abreu]], [[Bruno Batista]], [[Jorge Baptista]], [[Bruno Costa Carvalho]]
 |-
-| style='text-align:center;' | 1545 || [[Jaime Cancella de Abreu]], [[Bruno Batista]], [[Jorge Baptista]], [[Bruno Costa Carvalho]]
+| style='text-align:center;' | 1545 || [[Kátia Aveiro]], [[Elma Aveiro]]
 |-
-| style='text-align:center;' | 1544 || [[Kátia Aveiro]], [[Elma Aveiro]]
+| style='text-align:center;' | 1544 || [[Maria Vieira]]
 |-
 | style='text-align:center;' | 1543 || [[Maria Vieira]]
 |-
-| style='text-align:center;' | 1542 || [[Maria Vieira]]
+| style='text-align:center;' | 1542 || [[Lisa Joanes]], [[Nuno Kampos]]
 |-
-| style='text-align:center;' | 1541 || [[Lisa Joanes]], [[Nuno Kampos]]
+| style='text-align:center;' | 1541 || [[Gustavo Santos]], [[Mafalda Creative]], [[Mariana Bossy]], [[Maya (taróloga)]], [[Adriano Silva Martins]], [[Daniel Nascimento]], [[Ricardo Azevedo]], [[Claudia Jacques]], [[Marta Aragão Pinto]]
 |-
-| style='text-align:center;' | 1540 || [[Gustavo Santos]], [[Mafalda Creative]], [[Mariana Bossy]], [[Maya (taróloga)]], [[Adriano Silva Martins]], [[Daniel Nascimento]], [[Ricardo Azevedo]], [[Claudia Jacques]], [[Marta Aragão Pinto]]
+| style='text-align:center;' | 1540 || [[Nuno Kampos]], [[Mário Caetano]]
 |-
-| style='text-align:center;' | 1539 || [[Nuno Kampos]], [[Mário Caetano]]
+| style='text-align:center;' | 1539 || [[Nuno Kampos]]
 |-
-| style='text-align:center;' | 1538 || [[Nuno Kampos]]
+| style='text-align:center;' | 1538 || [[Tânia Laranjo]], [[José Castelo Branco]], [[Miguel Maximiano]], [[João Sousa Pinto]], [[Bernardo Duque Carreira]]
 |-
-| style='text-align:center;' | 1537 || [[Tânia Laranjo]], [[José Castelo Branco]], [[Miguel Maximiano]], [[João Sousa Pinto]], [[Bernardo Duque Carreira]]
+| style='text-align:center;' | 1537 || [[Maria Sampaio]], [[Pedro Pé Curto]], [[Belito Campos]]
 |-
-| style='text-align:center;' | 1536 || [[Maria Sampaio]], [[Pedro Pé Curto]], [[Belito Campos]]
+| style='text-align:center;' | 1536 || [[Diana Chaves]], [[João Baião]], [[Maria Sampaio]], [[Pedro Pé Curto]], [[Silvia Roque]], [[Belito Campos]]
 |-
-| style='text-align:center;' | 1535 || [[Diana Chaves]], [[João Baião]], [[Maria Sampaio]], [[Pedro Pé Curto]], [[Silvia Roque]], [[Belito Campos]]
+| style='text-align:center;' | 1535 || [[João Pedro Pereira]]
 |-
 | style='text-align:center;' | 1534 || [[João Pedro Pereira]]
 |-
-| style='text-align:center;' | 1533 || [[João Pedro Pereira]]
+| style='text-align:center;' | 1533 || [[Suzana Garcia]], [[Flávio Furtado]], [[Cristina Ferreira]], [[Vera de Melo]]
 |-
-| style='text-align:center;' | 1532 || [[Suzana Garcia]], [[Flávio Furtado]], [[Cristina Ferreira]], [[Vera de Melo]]
+| style='text-align:center;' | 1532 || [[Flávio Furtado]], [[Luís Marques Mendes]], [[Manuel João Vieira]], [[António Bravo]], [[Susana Pinto]], [[João Ricardo]], [[Cinha Jardim]]
 |-
-| style='text-align:center;' | 1531 || [[Flávio Furtado]], [[Luís Marques Mendes]], [[Manuel João Vieira]], [[António Bravo]], [[Susana Pinto]], [[João Ricardo]], [[Cinha Jardim]]
+| style='text-align:center;' | 1531 || [[Rute Sousa]]
 |-
 | style='text-align:center;' | 1530 || [[Rute Sousa]]
 |-
-| style='text-align:center;' | 1529 || [[Rute Sousa]]
+| style='text-align:center;' | 1529 || [[Elisabete Figueiredo]]
 |-
-| style='text-align:center;' | 1528 || [[Elisabete Figueiredo]]
+| style='text-align:center;' | 1528 || [[Elisabete Figueiredo]], [[Ticas Graciosa]]
 |-
-| style='text-align:center;' | 1527 || [[Elisabete Figueiredo]], [[Ticas Graciosa]]
+| style='text-align:center;' | 1527 || [[Dona 'Maria' de Sao Valentim]]
 |-
-| style='text-align:center;' | 1526 || [[Dona 'Maria' de Sao Valentim]]
+| style='text-align:center;' | 1526 || [[Kátia Aveiro]]
 |-
-| style='text-align:center;' | 1525 || [[Kátia Aveiro]]
+| style='text-align:center;' | 1525 || [[Gustavo Santos]], [[Miguel Palma]], [[ChatGPT]]
 |-
 | style='text-align:center;' | 1524 || [[Gustavo Santos]], [[Miguel Palma]], [[ChatGPT]]
 |-
-| style='text-align:center;' | 1523 || [[Gustavo Santos]], [[Miguel Palma]], [[ChatGPT]]
+| style='text-align:center;' | 1523 || [[José Moutinho]], [[Pedro Barroso (ator)]], [[Maria Botelho Moniz]], [[Joana D’Arc]], [[Filipe Delgado]], [[Noélia Pereira]], [[Nuno Janeiro]], [[Sara Santos]]
 |-
-| style='text-align:center;' | 1522 || [[José Moutinho]], [[Pedro Barroso (ator)]], [[Maria Botelho Moniz]], [[Joana D’Arc]], [[Filipe Delgado]], [[Noélia Pereira]], [[Nuno Janeiro]], [[Sara Santos]]
+| style='text-align:center;' | 1522 || [[Luciana Abreu]], [[Maya (taróloga)]], [[CMTV]], [[José Carlos Castro]], [[Duarte Siopa]], [[Rui Oliveira Nunes]]
 |-
-| style='text-align:center;' | 1521 || [[Luciana Abreu]], [[Maya (taróloga)]], [[CMTV]], [[José Carlos Castro]], [[Duarte Siopa]], [[Rui Oliveira Nunes]]
+| style='text-align:center;' | 1521 || [[Luciana Abreu]], [[Maya (taróloga)]], [[CMTV]]
 |-
-| style='text-align:center;' | 1520 || [[Luciana Abreu]], [[Maya (taróloga)]], [[CMTV]]
+| style='text-align:center;' | 1520 || [[Sandra Felgueiras]]
 |-
-| style='text-align:center;' | 1519 || [[Sandra Felgueiras]]
+| style='text-align:center;' | 1519 || [[TVI]], [[Gala da TVI 32 anos]], [[Rafaela Granado]], [[Ruy de Carvalho]], [[Mónica Jardim]], [[Henrique Gouveia e Melo]], [[Luís Marques Mendes]], [[Manuel Luís Goucha]], [[Idevor Mendonça]], [[Mário Ferreira]], [[Paula Paz Dias Ferreira]], [[Pedro Morais Leitão]], [[Bárbara Parada]], [[Cristina Ferreira]]
 |-
-| style='text-align:center;' | 1518 || [[TVI]], [[Gala da TVI 32 anos]], [[Rafaela Granado]], [[Ruy de Carvalho]], [[Mónica Jardim]], [[Henrique Gouveia e Melo]], [[Luís Marques Mendes]], [[Manuel Luís Goucha]], [[Idevor Mendonça]], [[Mário Ferreira]], [[Paula Paz Dias Ferreira]], [[Pedro Morais Leitão]], [[Bárbara Parada]], [[Cristina Ferreira]]
+| style='text-align:center;' | 1518 || [[João Barbosa (Numeiro)]]
 |-
 | style='text-align:center;' | 1517 || [[Miguel Milhão]], [[Francisco Monteiro]]
 |-
-| style='text-align:center;' | 1516 || [[Diogo Morgado]]
+| style='text-align:center;' | 1516 || [[Diogo Morgado]], [[Carlos Areia]]
 |-
 | style='text-align:center;' | 1515 || [[Mia Fernandes]], [[Bruna Magalhães]], [[Tânia Líbano]], [[Fernando Alvim]]
 |-
@@ -172,7 +174,7 @@
 |-
 | style='text-align:center;' | 1513 || [[Cristina Ferreira]]
 |-
-| style='text-align:center;' | 1512 || [[Romilda Costa]]
+| style='text-align:center;' | 1512 || [[Romilda Costa]], [[Sónia Quim Costa]]
 |-
 | style='text-align:center;' | 1511 || [[A Tatuadora da alma]], [[Sofia Dinis]]
 |-

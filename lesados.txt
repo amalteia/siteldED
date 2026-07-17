@@ -35,13 +35,13 @@ Big Brother,15,
 José Castelo Branco,15,
 Fátima Campos Ferreira,14,
 José Sócrates,14,
+João Barbosa (Numeiro),14,
 Kátia Aveiro,14,@katiaaveirooficial
 Miguel Milhão,14,
 Catarina Furtado,13,
 Duarte Siopa,13,@duartesiopa
 Flávio Furtado,13,@flavio_furtado_oficial
 José Lopes,13,@zelopesss
-João Barbosa (Numeiro),13,
 Donald Trump,12,
 Frederico Varandas,12,
 Liliana Aguiar,12,@lilianaaguiaroficial
@@ -104,6 +104,7 @@ André Silva,7,
 Bárbara Bandeira,7,
 Bárbara Guimarães,7,
 Carla Rocha,7,
+Carlos Areia,7,
 Catarina Miranda,7,@catarinamiranda.oficial
 Dolores Aveiro,7,
 Fanny Rodrigues,7,
@@ -124,7 +125,6 @@ Teresa Guilherme,7,
 Ana Marques,6,
 Andreia Rodrigues,6,@andreiarodriguesoficial
 Assunção Cristas,6,
-Carlos Areia,6,
 Chef Olivier,6,
 Cláudia Nayara,6,
 César Mourão,6,@cesartmourao
@@ -273,7 +273,7 @@ Ricardo Pereira (ator),4,
 Rita Patrocínio,4,@ritapatrocinio
 Rita Rodrigues,4,
 Rodrigo Paganelli,4,
-Romilda Costa,4,@rominature_clinica
+Romilda Costa,4,
 Salvador Martinha,4,
 Sam The Kid,4,
 Serenella Andrade,4,
@@ -788,6 +788,7 @@ Sr. Antunes,2,
 São José Lapa,2,
 Sérgio Ramos,2,
 Sílvia e Paulo,2,
+Sónia Quim Costa,2,@soniacostaofficial
 Tanya (Tânia Margarida Santos Lima),2,
 Tatiana Boa Nova,2,
 Tatuagens,2,
@@ -2482,7 +2483,6 @@ Síndromes,1,
 Síria,1,
 Sónia Monteiro,1,
 Sónia Patacão,1,
-Sónia Quim Costa,1,@soniacostaofficial
 TV Guia,1,
 Tainá,1,
 Talhos Sá da Bandeira,1,
