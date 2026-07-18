@@ -2,6 +2,8 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1599 || [[Zé Manel]], [[Tânia Ribas de Oliveira]]
+|-
 | style='text-align:center;' | 1598 || [[Milene Martins]]
 |-
 | style='text-align:center;' | 1597 || [[Milene Martins]]
