@@ -196,7 +196,7 @@ Rui Santos,5,
 Sancha Trindade,5,
 Sandra Silva,5,
 Sofia Ribeiro (atriz),5,
-Susana Torres,5,
+Susana Torres,5,@susanatorresoficial
 Sónia Araújo,5,
 Sónia Jesus,5,
 Tiago Grila,5,
