@@ -1,13 +1,13 @@
 Joana Marques,128,@joanamarquespic
-Cristina Ferreira,90,@dailycristina
+Cristina Ferreira,94,@dailycristina
 Ana Galvão,53,@anagalvaolopez
 Gustavo Santos,51,@o_homem_da_terra
-TVI,42,
+TVI,43,
+Rita Pereira,41,@hyndia
 Ana Markl,40,@ana_markl
-Rita Pereira,40,@hyndia
+Cláudio Ramos,40,@claudio_ramos
 Covid-19,38,
 Bruno de Carvalho,36,@bruno_de_carvalho_oficial
-Cláudio Ramos,36,@claudio_ramos
 Cristiano Ronaldo,36,@cristiano
 Inês Lopes Gonçalves,35,@ineslopesgoncalves
 CMTV,34,
@@ -19,7 +19,7 @@ Xavier,26,
 Maria Cerqueira Gomes,24,@maria_cerqueira_gomes
 Sérgio Tavares,24,@canal_sergiotavares
 José Cid,23,@jose_cid_musico
-Lili Caneças,21,@lilicanecas
+Lili Caneças,22,@lilicanecas
 Marcelo Rebelo de Sousa,21,
 Jorge Jesus,20,@jorgejesus
 Carolina Patrocínio,19,@carolinapatrocinio
@@ -39,6 +39,7 @@ João Barbosa (Numeiro),14,
 Kátia Aveiro,14,@katiaaveirooficial
 Miguel Milhão,14,
 Catarina Furtado,13,
+Cinha Jardim,13,@cinha_jardim
 Duarte Siopa,13,@duartesiopa
 Flávio Furtado,13,@flavio_furtado_oficial
 José Lopes,13,@zelopesss
@@ -52,17 +53,19 @@ Rui Sinel de Cordes,12,@ruisineldecordes
 Sporting Clube de Portugal,12,
 Windoh,12,
 Casados à Primeira Vista,11,
-Cinha Jardim,11,@cinha_jardim
 David Carreira,11,
 Judite Sousa,11,
 Leandro,11,@leandro.pt
 Marco Paulo,11,
 Rodrigo Guedes de Carvalho,11,
 Wuant,11,
+Adriano Silva Martins,10,@adrianosilvaexpress
 Ana Garcia Martins,10,
 António Costa,10,
 Fernanda Serrano,10,
 João Baião,10,
+Júlia Pinheiro,10,
+Maria Botelho Moniz,10,@mariabotelhomoniz
 Miguel Sousa Tavares,10,
 Paulo Futre,10,
 Ricardo Quaresma,10,
@@ -72,15 +75,14 @@ Clara de Sousa,9,
 Daniel Leitão,9,@danielhleitao
 Elma Aveiro,9,@elma_oficial
 Globos de Ouro,9,
-Júlia Pinheiro,9,
+João Montez,9,
 Madonna,9,
-Maria Botelho Moniz,9,@mariabotelhomoniz
+Mónica Jardim,9,@mmjardim
 Rui Rio,9,
 SirKazzio,9,
 Toy,9,
 Vanessa Martins,9,
 Yolanda Tati,9,
-Adriano Silva Martins,8,@adrianosilvaexpress
 Ana Rita Clara,8,
 Ana Sofia Cardoso,8,@asofiacardoso
 Diana Chaves,8,
@@ -91,9 +93,7 @@ Hugo Strada,8,@hugostrada
 Iva Domingues,8,@ivadominguesoficial
 Joacine Katar Moreira,8,
 Joana Dias,8,
-João Montez,8,
 Luís Filipe Vieira,8,
-Mónica Jardim,8,@mmjardim
 Nuno Graciano,8,
 Rita Ferro Rodrigues,8,@ritaferrorodrigues
 Rui Oliveira Nunes,8,@ruideoliveiranunes
@@ -113,6 +113,7 @@ Herman José,7,
 Hernâni Carvalho,7,
 Idevor Mendonça,7,@idevormendonca
 João Catarré,7,
+João Patrício,7,@joaovascopatricio
 Liliana Campos,7,
 Maria Leal,7,
 Mário Ferreira,7,
@@ -132,13 +133,14 @@ Diogo Piçarra,6,
 Fernando Medina,6,
 Festival da Canção,6,
 Fátima Lopes (apresentadora),6,
+Gonçalo Quinaz,6,
 Hélder Teixeira,6,
 José Carlos Pereira,6,
 José Fidalgo,6,@josefidalgo_oficial
 José Rodrigues dos Santos,6,
-João Patrício,6,@joaovascopatricio
 Lara Moniz,6,
 Luana Piovani,6,
+Paula Neves,6,
 Rui Figueiredo,6,@rui_figueiredo
 Rui Veloso,6,
 Rui da Fonseca e Castro,6,
@@ -158,6 +160,7 @@ Casados no Paraíso,5,
 Cláudia Vieira,5,@claudiavieiraoficial
 Conan Osíris,5,
 Correio da Manhã,5,
+Dalila Carmo,5,
 Daniel Nascimento,5,@danielnascimento0
 Fernando Alvim,5,
 Fernando Mendes,5,
@@ -184,8 +187,8 @@ Mia Fernandes,5,@miafernandesr
 Miguel Vicente,5,
 Morangos com Açúcar,5,
 Nuno Santos,5,@nuno.sant0s
-Paula Neves,5,
 Pedro Barroso (ator),5,@pedrobarrosopb
+Pedro Granger,5,
 Pedro Soá,5,
 Play - Prémios da Música Portuguesa,5,
 Quintino Aires,5,
@@ -193,6 +196,7 @@ Rui Santos,5,
 Sancha Trindade,5,
 Sandra Silva,5,
 Sofia Ribeiro (atriz),5,
+Susana Torres,5,
 Sónia Araújo,5,
 Sónia Jesus,5,
 Tiago Grila,5,
@@ -210,7 +214,6 @@ Celso Lascasas,4,
 Clara Não,4,
 Cláudia Jacques,4,
 Conceição Lino,4,@conceicaolino_oficial
-Dalila Carmo,4,
 Daniel Gregório,4,
 David Araújo,4,@davidaraujobb
 Diogo Amaral,4,@diogoamaral.oficial
@@ -227,7 +230,6 @@ Gala TVI 31 anos,4,
 Gala da TVI,4,
 Gala da TVI 32 anos,4,
 Gisela Serrano,4,
-Gonçalo Quinaz,4,
 Gonçalo Uva,4,
 Greta Thunberg,4,
 Inês Simões,4,
@@ -259,7 +261,6 @@ Paulo Battista,4,
 Paulo Silver,4,@rebelpaulo
 Pedro Abrunhosa,4,
 Pedro Crispim,4,
-Pedro Granger,4,
 Pedro Pico,4,
 Pedro Pinto,4,@pxpinto
 Pedro Sousa,4,
@@ -305,6 +306,7 @@ Bruna Gomes,3,
 Bruno Mestre,3,@brunodiasmestre
 Bárbara Norton de Matos,3,
 Bárbara Parada,3,@barbaraparada5
+Carlos Costa,3,@carloscosta_music
 Carlos Henriques,3,
 Carlos Nunes (Zorlak),3,@zorlakofficial
 Carlos Peres Dias,3,
@@ -381,6 +383,7 @@ Leonor Santos,3,
 Liliana Almeida de Carvalho,3,
 Lourenço Ortigão,3,
 Luís Marques Mendes,3,@lmarquesmendes_
+Mafalda Matos,3,
 Manifestantes Negacionistas,3,
 Manuel Alegre,3,
 Manuel Maria Carrilho,3,
@@ -434,7 +437,6 @@ Soraia Chaves,3,
 Surma,3,
 Susana Pinto,3,@susana.pintooficial
 Susana Silva,3,
-Susana Torres,3,
 São José Correia,3,
 TVI Extra,3,
 Tatanka,3,
@@ -505,7 +507,6 @@ Camilo Lourenço,2,
 Carla Ferreira,2,
 Carlos Carreira,2,
 Carlos Carvalhal,2,
-Carlos Costa,2,
 Carlos Coutinho Vilhena,2,
 Carlos Cunha,2,
 Carlos Manuel,2,
@@ -658,7 +659,6 @@ Luís Forinho,2,
 Luís Montenegro,2,
 Macário Correia,2,
 Madalena Abecasis,2,
-Mafalda Matos,2,
 Manifestantes pró Bruno de Carvalho,2,
 Manuel Cajuda,2,
 Manuel Cavaco,2,
@@ -1541,6 +1541,7 @@ Ideal Maia,1,
 Igreja ADEFE - Assembleia de Deus Fogo para Europa,1,
 Importações do Brasil,1,
 Inauguração de lojas,1,
+Ines Heredia,1,
 Ines Prata,1,@inesprata
 Infantado,1,
 Infarmed,1,
@@ -1708,6 +1709,7 @@ João Soares,1,
 João Sousa,1,
 João Sousa Pinto,1,@joao_aspinto
 João Vicente de Castro,1,
+João Zilhão,1,
 Judas,1,
 Julian Assange,1,
 Julio Fernandes,1,
@@ -1939,6 +1941,7 @@ Matay,1,
 Mateus Uribe,1,
 Matias Damásio,1,
 Matilde Mello Breyner,1,
+Matilde Reymão,1,@matildern
 Matilde Reymão,1,
 Maurício,1,
 Maxi Pereira,1,
@@ -2608,6 +2611,7 @@ Zezé Di Camargo & Luciano,1,
 Zlatko Zahovič,1,
 Zomato,1,
 Zé Castro,1,
+Zé Lopes,1,
 Zé Manel,1,@zemanel_music
 ePark,1,
 easyJet,1,

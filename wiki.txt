@@ -2,6 +2,20 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1606 || [[Susana Torres]], [[Cláudio Ramos]], [[Cristina Ferreira]]
+|-
+| style='text-align:center;' | 1605 || [[Susana Torres]], [[Cláudio Ramos]], [[Cristina Ferreira]]
+|-
+| style='text-align:center;' | 1604 || [[Mafalda Matos]]
+|-
+| style='text-align:center;' | 1603 || [[Carlos Costa]], [[Júlia Pinheiro]]
+|-
+| style='text-align:center;' | 1602 || [[Cinha Jardim]], [[Cláudio Ramos]], [[Gonçalo Quinaz]], [[Adriano Silva Martins]], [[Cristina Ferreira]]
+|-
+| style='text-align:center;' | 1601 || [[Cláudio Ramos]], [[Gonçalo Quinaz]], [[Adriano Silva Martins]], [[Cristina Ferreira]], [[Cinha Jardim]]
+|-
+| style='text-align:center;' | 1600 || [[TVI]], [[João Montez]], [[Rita Pereira]], [[Matilde Reymão]], [[Dalila Carmo]], [[Mónica Jardim]], [[Paula Neves]], [[João Patrício]], [[João Zilhão]], [[Maria Botelho Moniz]], [[Zé Lopes]], [[Ines Heredia]], [[Pedro Granger]], [[Lili Caneças]]
+|-
 | style='text-align:center;' | 1599 || [[Zé Manel]], [[Tânia Ribas de Oliveira]]
 |-
 | style='text-align:center;' | 1598 || [[Milene Martins]]
