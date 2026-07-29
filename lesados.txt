@@ -43,11 +43,11 @@ Cinha Jardim,13,@cinha_jardim
 Duarte Siopa,13,@duartesiopa
 Flávio Furtado,13,@flavio_furtado_oficial
 José Lopes,13,@zelopesss
+Léo Caeiro,13,@leocaeirooficial
 Donald Trump,12,
 Frederico Varandas,12,
 Liliana Aguiar,12,@lilianaaguiaroficial
 Ljubomir Stanisic,12,
-Léo Caeiro,12,@leocaeirooficial
 Prós e Contras,12,
 Rui Sinel de Cordes,12,@ruisineldecordes
 Sporting Clube de Portugal,12,
@@ -1754,7 +1754,6 @@ Leandro Machado,1,
 Leis do Texas,1,
 Lena D'Água,1,
 Lenita Gentil,1,
-Leo Caeiro,1,
 Leo The Lion,1,
 Leonardo Dicaprio,1,
 Leonel Fontes,1,
