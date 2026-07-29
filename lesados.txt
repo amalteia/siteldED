@@ -1,11 +1,11 @@
 Joana Marques,128,@joanamarquespic
-Cristina Ferreira,94,@dailycristina
+Cristina Ferreira,95,@dailycristina
 Ana Galvão,53,@anagalvaolopez
 Gustavo Santos,51,@o_homem_da_terra
 TVI,43,
+Cláudio Ramos,41,@claudio_ramos
 Rita Pereira,41,@hyndia
 Ana Markl,40,@ana_markl
-Cláudio Ramos,40,@claudio_ramos
 Covid-19,38,
 Bruno de Carvalho,36,@bruno_de_carvalho_oficial
 Cristiano Ronaldo,36,@cristiano
@@ -915,6 +915,7 @@ Ana Moreira,1,
 Ana Morina,1,
 Ana Palma,1,
 Ana Pinto Ribeiro,1,
+Ana Rita Barros,1,@anaritabarros_
 Ana Rita Bessa,1,
 Ana Rita Cavaco,1,
 Ana Rocha de Sousa,1,
