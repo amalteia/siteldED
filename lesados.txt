@@ -12,9 +12,9 @@ Cristiano Ronaldo,36,@cristiano
 Inês Lopes Gonçalves,35,@ineslopesgoncalves
 CMTV,34,
 Manuel Luís Goucha,33,@mlgoucha
+Rúben Rua,28,@R
 Luciana Abreu,27,@lucianaabreuoficial
 Maya (taróloga),27,@tia__maya
-Rúben Rua,27,@R
 Xavier,26,
 Maria Cerqueira Gomes,24,@maria_cerqueira_gomes
 Sérgio Tavares,24,@canal_sergiotavares
@@ -1754,6 +1754,7 @@ Leandro Machado,1,
 Leis do Texas,1,
 Lena D'Água,1,
 Lenita Gentil,1,
+Leo Caeiro,1,
 Leo The Lion,1,
 Leonardo Dicaprio,1,
 Leonel Fontes,1,
