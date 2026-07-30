@@ -2,6 +2,8 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1608 || [[Rafaela Duarte]], [[Franck Rodrigues]]
+|-
 | style='text-align:center;' | 1607 || [[Ana Rita Barros]], [[Cláudio Ramos]], [[Cristina Ferreira]], [[Rúben Rua]], [[Léo Caeiro]]
 |-
 | style='text-align:center;' | 1606 || [[Susana Torres]], [[Cláudio Ramos]], [[Cristina Ferreira]]

@@ -1443,6 +1443,7 @@ Francisco Soares (Xico),1,
 Francisco Sousa Martins,1,
 Francisco Sá Pena,1,
 Francisco Trincão,1,@trincao
+Franck Rodrigues,1,@francktravels
 Franco Bastos,1,
 Freda Jackson,1,
 Frederica Lima,1,
@@ -2263,6 +2264,7 @@ Rafael Braz,1,
 Rafael Maia,1,@theonlyrafaelmaia
 Rafael Mota,1,
 Rafael Teixeira,1,
+Rafaela Duarte,1,@rafaelaalexandra0
 Rafaela Jacinto,1,
 Raquel Barros,1,@raquelbarrosporta7
 Raquel Janeiro,1,
