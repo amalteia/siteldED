@@ -579,6 +579,7 @@ Filipe Peres (Pipas),2,@ofilipeperes
 First Dates,2,
 Francisco Penin,2,
 Francisco Soares (Kiko is Hot),2,@kikoishot
+Franck Rodrigues,2,@francktravels
 Fred Gomes,2,
 Fábio,2,
 Fábio Paim,2,
@@ -992,6 +993,7 @@ Aurora Sousa,1,
 Aurélio Pinto,1,
 Avó Maria Estela,1,
 Avó Rosário,1,
+Avô António,1,
 Axl Rose,1,
 Ayrton Senna,1,
 Azeredo Lopes,1,
@@ -1443,7 +1445,6 @@ Francisco Soares (Xico),1,
 Francisco Sousa Martins,1,
 Francisco Sá Pena,1,
 Francisco Trincão,1,@trincao
-Franck Rodrigues,1,@francktravels
 Franco Bastos,1,
 Freda Jackson,1,
 Frederica Lima,1,
