@@ -23,9 +23,9 @@ Lili Caneças,22,@lilicanecas
 Marcelo Rebelo de Sousa,21,
 Jorge Jesus,20,@jorgejesus
 Carolina Patrocínio,19,@carolinapatrocinio
+Joana Amaral Dias,19,
 Tiago Paiva,19,@tiagopaiva__
 André Ventura,18,
-Joana Amaral Dias,18,
 Luís Oliveira,18,
 José Eduardo Moniz,17,
 Maria Vieira,17,
@@ -170,6 +170,7 @@ Francisco Nunes,5,
 Frederico Canto e Castro (Fred),5,@fcantoecastro
 Georgina Rodríguez,5,
 Inês Herédia,5,
+Isabel Figueira,5,@isabelfigueira.oficial
 Isabel Silva,5,@iamisabelsilva
 Iva Lamarão,5,
 Jair Bolsonaro,5,
@@ -222,6 +223,7 @@ Domingos José,4,
 Eduardo Barroso,4,
 Elsa Pimenta,4,
 Fernando Daniel,4,
+Francisco Menezes,4,@franciscomenezes.insta
 Francisco Pinto Balsemão,4,
 Francisco Rodrigues dos Santos (Chicão),4,
 Fábio Teles,4,
@@ -234,7 +236,6 @@ Gonçalo Uva,4,
 Greta Thunberg,4,
 Inês Simões,4,
 Isabel Alves,4,
-Isabel Figueira,4,@isabelfigueira.oficial
 Joana Latino,4,
 Jorge Gabriel,4,
 José Gouveia,4,
@@ -342,7 +343,6 @@ Festa de Verão da TVI,3,
 Filipe Vilarinho,3,
 Filomena Dias,3,
 Francisco Maria Pereira (Kacha),3,
-Francisco Menezes,3,@franciscomenezes.insta
 Francisco Monteiro,3,
 Francisco Pedro Balsemão,3,
 Fábio Coentrão,3,
@@ -1764,6 +1764,7 @@ Leonor Chicó,1,
 Leonor Dias,1,
 Lia Tchissola,1,
 Lidl,1,
+Ligia Koijen Ramos,1,
 Like Me,1,
 Lil Paradise,1,
 Lila Tiago,1,
