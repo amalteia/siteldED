@@ -190,6 +190,7 @@ Morangos com Açúcar,5,
 Nuno Santos,5,@nuno.sant0s
 Pedro Barroso (ator),5,@pedrobarrosopb
 Pedro Granger,5,
+Pedro Pico,5,
 Pedro Soá,5,
 Play - Prémios da Música Portuguesa,5,
 Quintino Aires,5,
@@ -262,7 +263,6 @@ Paulo Battista,4,
 Paulo Silver,4,@rebelpaulo
 Pedro Abrunhosa,4,
 Pedro Crispim,4,
-Pedro Pico,4,
 Pedro Pinto,4,@pxpinto
 Pedro Sousa,4,
 Pedro Teixeira,4,
