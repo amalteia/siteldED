@@ -12,9 +12,9 @@ Cristiano Ronaldo,36,@cristiano
 Inês Lopes Gonçalves,35,@ineslopesgoncalves
 CMTV,34,
 Manuel Luís Goucha,33,@mlgoucha
+Maya (taróloga),28,@tia__maya
 Rúben Rua,28,@ruben_rua
 Luciana Abreu,27,@lucianaabreuoficial
-Maya (taróloga),27,@tia__maya
 Xavier,26,
 Maria Cerqueira Gomes,24,@maria_cerqueira_gomes
 Sérgio Tavares,24,@canal_sergiotavares
@@ -1371,6 +1371,7 @@ Expofacic,1,
 Expressão ”mais velho que a Sé de Braga”,1,
 Expressões e ditados populares anti-animal,1,
 Extinction Rebellion,1,
+FREDERICA,1,
 Fabiano de Abreu,1,
 Fado Bicha,1,
 Fake News,1,
@@ -2620,7 +2621,6 @@ Zé Lopes,1,
 Zé Manel,1,@zemanel_music
 ePark,1,
 easyJet,1,
-frederica,1,
 joliveira10,1,@joliveira10_
 rapper WAZE,1,
 Álvaro Castello-Branco,1,
