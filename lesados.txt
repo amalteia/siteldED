@@ -71,6 +71,7 @@ Paulo Futre,10,
 Ricardo Quaresma,10,
 SIC,10,
 Sónia Costa,10,
+Vanessa Martins,10,
 Clara de Sousa,9,
 Daniel Leitão,9,@danielhleitao
 Elma Aveiro,9,@elma_oficial
@@ -81,7 +82,6 @@ Mónica Jardim,9,@mmjardim
 Rui Rio,9,
 SirKazzio,9,
 Toy,9,
-Vanessa Martins,9,
 Yolanda Tati,9,
 Ana Rita Clara,8,
 Ana Sofia Cardoso,8,@asofiacardoso
@@ -1371,6 +1371,7 @@ Expofacic,1,
 Expressão ”mais velho que a Sé de Braga”,1,
 Expressões e ditados populares anti-animal,1,
 Extinction Rebellion,1,
+FREDERICA,1,
 Fabiano de Abreu,1,
 Fado Bicha,1,
 Fake News,1,

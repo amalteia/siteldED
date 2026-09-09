@@ -2,6 +2,8 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1612 || [[Vanessa Martins]], [[FREDERICA]]
+|-
 | style='text-align:center;' | 1611 || [[Pedro Pico]]
 |-
 | style='text-align:center;' | 1610 || [[Ligia Koijen Ramos]], [[Joana Amaral Dias]], [[Isabel Figueira]], [[Francisco Menezes]]
