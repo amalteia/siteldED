@@ -208,6 +208,7 @@ Alice Santos,4,
 Ana Guiomar,4,@anaguiomar.oficial
 Ana Leal,4,
 Anabela Seabra (Désirat),4,
+Andreia Sousa Viegas,4,@andreiadesousaviegas
 Benfica,4,
 Bruna Magalhães,4,@abrunamagalhaes
 Bruno Savate,4,
@@ -296,7 +297,6 @@ Adelaide Ferreira,3,
 Ana Moura,3,
 Ana Sofia,3,
 Ana Sofia Martins,3,
-Andreia Sousa Viegas,3,@andreiadesousaviegas
 Augusto Inácio,3,
 Backstreet Boys,3,
 Becas Lírio,3,
@@ -426,6 +426,7 @@ Rosa Grilo,3,
 Rui Bandeira,3,
 Rui Santos (jornalista),3,@ruisantosoficia
 Rute Marques,3,
+Rute Sousa,3,@rutemsousa
 Ruy de Carvalho,3,
 Rúben Semedo,3,
 Sandra Celas,3,
@@ -771,7 +772,6 @@ Rui Unas,2,
 Rui Vitória,2,
 Rui Xará,2,
 Rute Rita,2,
-Rute Sousa,2,@rutemsousa
 Rádio Comercial,2,
 Rúben Boa Nova,2,
 Rúben Dias,2,
@@ -2524,6 +2524,7 @@ Tiago Falcão,1,
 Tiago Ginga,1,
 Tiago Guimarães,1,
 Tiago Ribeiro,1,
+Tiago Sousa,1,@tvde_do_tuga
 Tiago Teotónio Pereira,1,
 Tias da Joana Marques,1,
 Ticiana Xavier,1,
