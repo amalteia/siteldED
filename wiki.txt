@@ -2,6 +2,8 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1614 || [[Rute Sousa]], [[Rita Matias]]
+|-
 | style='text-align:center;' | 1613 || [[Andreia Sousa Viegas]], [[Rute Sousa]], [[Tiago Sousa]]
 |-
 | style='text-align:center;' | 1612 || [[Vanessa Martins]], [[FREDERICA]]

@@ -277,6 +277,7 @@ Rita Patrocínio,4,@ritapatrocinio
 Rita Rodrigues,4,
 Rodrigo Paganelli,4,
 Romilda Costa,4,
+Rute Sousa,4,@rutemsousa
 Salvador Martinha,4,
 Sam The Kid,4,
 Serenella Andrade,4,
@@ -426,7 +427,6 @@ Rosa Grilo,3,
 Rui Bandeira,3,
 Rui Santos (jornalista),3,@ruisantosoficia
 Rute Marques,3,
-Rute Sousa,3,@rutemsousa
 Ruy de Carvalho,3,
 Rúben Semedo,3,
 Sandra Celas,3,
@@ -755,6 +755,7 @@ Ricardo Pereira,2,
 Ricardo Robles,2,
 Ricardo Trêpa,2,
 Rita Ferro Alvim,2,
+Rita Matias,2,@ritamariamatias
 Rita Piçarra,2,
 Rita Rocha,2,
 Rita Salema,2,
@@ -2335,7 +2336,6 @@ Rita Egídio,1,@rita__egidio
 Rita Guerra,1,@ritaguerraoficial
 Rita Leitão,1,
 Rita Marrafa de Carvalho,1,
-Rita Matias,1,
 Rita Rodrigues Castro,1,@ritarodriguesecastro
 Rita Santos,1,
 Rita de Miranda,1,
