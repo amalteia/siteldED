@@ -1,9 +1,9 @@
 Joana Marques,128,@joanamarquespic
-Cristina Ferreira,95,@dailycristina
+Cristina Ferreira,96,@dailycristina
 Ana Galvão,53,@anagalvaolopez
 Gustavo Santos,51,@o_homem_da_terra
 TVI,43,
-Cláudio Ramos,41,@claudio_ramos
+Cláudio Ramos,42,@claudio_ramos
 Rita Pereira,41,@hyndia
 Ana Markl,40,@ana_markl
 Covid-19,38,
@@ -33,10 +33,10 @@ Alexandra Lencastre,16,
 Sandra Felgueiras,16,@sandrafelgueiras_oficial
 Big Brother,15,
 José Castelo Branco,15,
+Kátia Aveiro,15,@katiaaveirooficial
 Fátima Campos Ferreira,14,
 José Sócrates,14,
 João Barbosa (Numeiro),14,
-Kátia Aveiro,14,@katiaaveirooficial
 Miguel Milhão,14,
 Catarina Furtado,13,
 Cinha Jardim,13,@cinha_jardim
@@ -62,6 +62,7 @@ Wuant,11,
 Adriano Silva Martins,10,@adrianosilvaexpress
 Ana Garcia Martins,10,
 António Costa,10,
+Elma Aveiro,10,@elma_oficial
 Fernanda Serrano,10,
 João Baião,10,
 Júlia Pinheiro,10,
@@ -74,7 +75,6 @@ Sónia Costa,10,
 Vanessa Martins,10,
 Clara de Sousa,9,
 Daniel Leitão,9,@danielhleitao
-Elma Aveiro,9,@elma_oficial
 Globos de Ouro,9,
 João Montez,9,
 Madonna,9,
@@ -109,6 +109,7 @@ Catarina Miranda,7,@catarinamiranda.oficial
 Dolores Aveiro,7,
 Fanny Rodrigues,7,
 Festival da Eurovisão,7,
+Gonçalo Quinaz,7,
 Herman José,7,
 Hernâni Carvalho,7,
 Idevor Mendonça,7,@idevormendonca
@@ -133,8 +134,8 @@ Diogo Piçarra,6,
 Fernando Medina,6,
 Festival da Canção,6,
 Fátima Lopes (apresentadora),6,
-Gonçalo Quinaz,6,
 Hélder Teixeira,6,
+Isabel Figueira,6,@isabelfigueira.oficial
 José Carlos Pereira,6,
 José Fidalgo,6,@josefidalgo_oficial
 José Rodrigues dos Santos,6,
@@ -170,7 +171,6 @@ Francisco Nunes,5,
 Frederico Canto e Castro (Fred),5,@fcantoecastro
 Georgina Rodríguez,5,
 Inês Herédia,5,
-Isabel Figueira,5,@isabelfigueira.oficial
 Isabel Silva,5,@iamisabelsilva
 Iva Lamarão,5,
 Jair Bolsonaro,5,
@@ -298,6 +298,7 @@ Adelaide Ferreira,3,
 Ana Moura,3,
 Ana Sofia,3,
 Ana Sofia Martins,3,
+António Leal e Silva,3,@antoniolealesilva
 Augusto Inácio,3,
 Backstreet Boys,3,
 Becas Lírio,3,
@@ -360,6 +361,7 @@ Inês Castel-Branco,3,@inescastelbranco
 Isa Moreira,3,
 Isaac Alfaiate,3,
 Isaltino Morais,3,
+Iury Mellany,3,
 JN,3,
 Joana Teles,3,
 Joana Vasconcelos,3,
@@ -480,7 +482,6 @@ Anitta,2,
 Antena 3,2,
 António Conde (Demo),2,
 António Guerreiro,2,
-António Leal e Silva,2,@antoniolealesilva
 António Prôa,2,
 António Ribeiro Cristóvão,2,
 António Rosa,2,
@@ -610,7 +611,6 @@ Isabel Costa,2,
 Isabel Moreira,2,
 Isabel dos Santos,2,
 Isaura,2,
-Iury Mellany,2,
 Ivete Sangalo,2,
 JP Simões,2,
 Jessica Athaide,2,
