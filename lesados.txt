@@ -1,5 +1,5 @@
 Joana Marques,128,@joanamarquespic
-Cristina Ferreira,96,@dailycristina
+Cristina Ferreira,97,@dailycristina
 Ana Galvão,53,@anagalvaolopez
 Gustavo Santos,51,@o_homem_da_terra
 TVI,43,
@@ -7,8 +7,8 @@ Cláudio Ramos,42,@claudio_ramos
 Rita Pereira,41,@hyndia
 Ana Markl,40,@ana_markl
 Covid-19,38,
+Cristiano Ronaldo,37,@cristiano
 Bruno de Carvalho,36,@bruno_de_carvalho_oficial
-Cristiano Ronaldo,36,@cristiano
 Inês Lopes Gonçalves,35,@ineslopesgoncalves
 CMTV,34,
 Manuel Luís Goucha,33,@mlgoucha
@@ -37,13 +37,13 @@ Kátia Aveiro,15,@katiaaveirooficial
 Fátima Campos Ferreira,14,
 José Sócrates,14,
 João Barbosa (Numeiro),14,
+Léo Caeiro,14,@leocaeirooficial
 Miguel Milhão,14,
 Catarina Furtado,13,
 Cinha Jardim,13,@cinha_jardim
 Duarte Siopa,13,@duartesiopa
 Flávio Furtado,13,@flavio_furtado_oficial
 José Lopes,13,@zelopesss
-Léo Caeiro,13,@leocaeirooficial
 Donald Trump,12,
 Frederico Varandas,12,
 Liliana Aguiar,12,@lilianaaguiaroficial
@@ -52,6 +52,7 @@ Prós e Contras,12,
 Rui Sinel de Cordes,12,@ruisineldecordes
 Sporting Clube de Portugal,12,
 Windoh,12,
+Adriano Silva Martins,11,@adrianosilvaexpress
 Casados à Primeira Vista,11,
 David Carreira,11,
 Judite Sousa,11,
@@ -59,7 +60,6 @@ Leandro,11,@leandro.pt
 Marco Paulo,11,
 Rodrigo Guedes de Carvalho,11,
 Wuant,11,
-Adriano Silva Martins,10,@adrianosilvaexpress
 Ana Garcia Martins,10,
 António Costa,10,
 Elma Aveiro,10,@elma_oficial
@@ -113,6 +113,7 @@ Gonçalo Quinaz,7,
 Herman José,7,
 Hernâni Carvalho,7,
 Idevor Mendonça,7,@idevormendonca
+Isabel Figueira,7,@isabelfigueira.oficial
 João Catarré,7,
 João Patrício,7,@joaovascopatricio
 Liliana Campos,7,
@@ -130,12 +131,13 @@ Assunção Cristas,6,
 Chef Olivier,6,
 Cláudia Nayara,6,
 César Mourão,6,@cesartmourao
+Daniel Nascimento,6,@danielnascimento0
 Diogo Piçarra,6,
 Fernando Medina,6,
 Festival da Canção,6,
 Fátima Lopes (apresentadora),6,
+Georgina Rodríguez,6,
 Hélder Teixeira,6,
-Isabel Figueira,6,@isabelfigueira.oficial
 José Carlos Pereira,6,
 José Fidalgo,6,@josefidalgo_oficial
 José Rodrigues dos Santos,6,
@@ -162,14 +164,12 @@ Cláudia Vieira,5,@claudiavieiraoficial
 Conan Osíris,5,
 Correio da Manhã,5,
 Dalila Carmo,5,
-Daniel Nascimento,5,@danielnascimento0
 Fernando Alvim,5,
 Fernando Mendes,5,
 Fernando Rocha (Marido de Maria Vieira),5,
 Filipa Castro,5,
 Francisco Nunes,5,
 Frederico Canto e Castro (Fred),5,@fcantoecastro
-Georgina Rodríguez,5,
 Inês Herédia,5,
 Isabel Silva,5,@iamisabelsilva
 Iva Lamarão,5,
@@ -350,10 +350,12 @@ Francisco Pedro Balsemão,3,
 Fábio Coentrão,3,
 Gilmário Vemba,3,
 Globos de Ouro 2021,3,
+Gonçalo Mello,3,@goncalomello
 Graça Fonseca,3,
 Helena Coelho,3,@helenacoelhooo
 Helena Isabel,3,
 Henrique Gouveia e Melo,3,
+Hugo Mendes,3,
 Humberto Bernardo,3,
 Héctor Herrera,3,
 Iker Casillas,3,
@@ -430,6 +432,7 @@ Rui Bandeira,3,
 Rui Santos (jornalista),3,@ruisantosoficia
 Rute Marques,3,
 Ruy de Carvalho,3,
+Rúben Pacheco Correia,3,@rubenpcorreia
 Rúben Semedo,3,
 Sandra Celas,3,
 Sara Sampaio,3,
@@ -548,6 +551,7 @@ Daniel Sampaio,2,
 Daniela Dias,2,
 Dany Lisbon,2,@danylisbon
 Dave Hacke,2,
+David Motta,2,@davidmottaworld
 David Soares (David GYT),2,
 David Vieira,2,
 Deus e o Diabo,2,
@@ -589,7 +593,6 @@ Fábio Paim,2,
 Gato Fedorento,2,
 Globos de Ouro de 2024,2,
 Gonçalo Maya,2,@goncalomaya
-Gonçalo Mello,2,@goncalomello
 Graça Peralta,2,
 Grupos de Mães,2,
 Grupos de dietas paleo,2,
@@ -598,7 +601,6 @@ Guilherme Leite,2,
 Habitantes da Vibe House,2,
 Halloween,2,
 Heitor Lourenço,2,
-Hugo Mendes,2,
 Hugo Oliveira,2,
 Humberto Simões,2,
 Hélder Tavares,2,
@@ -778,7 +780,6 @@ Rute Rita,2,
 Rádio Comercial,2,
 Rúben Boa Nova,2,
 Rúben Dias,2,
-Rúben Pacheco Correia,2,@rubenpcorreia
 SIC Notícias,2,
 Sara Afonso,2,
 Sara Aleixo,2,
@@ -1256,7 +1257,6 @@ David Borges,1,
 David Furnish,1,
 David Guetta,1,
 David Hasselhoff,1,
-David Motta,1,@davidmottaworld
 David Whitlock,1,
 Decathlon,1,
 Defensores das Praxes,1,
@@ -2617,6 +2617,7 @@ Zeca Estacionâncio,1,
 Zezé Di Camargo & Luciano,1,
 Zlatko Zahovič,1,
 Zomato,1,
+Zulmira Garrido,1,@zuferrer
 Zé Castro,1,
 Zé Lopes,1,
 Zé Manel,1,@zemanel_music
