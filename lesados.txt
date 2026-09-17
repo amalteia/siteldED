@@ -44,9 +44,9 @@ Cinha Jardim,13,@cinha_jardim
 Duarte Siopa,13,@duartesiopa
 Flávio Furtado,13,@flavio_furtado_oficial
 José Lopes,13,@zelopesss
+Liliana Aguiar,13,@lilianaaguiaroficial
 Donald Trump,12,
 Frederico Varandas,12,
-Liliana Aguiar,12,@lilianaaguiaroficial
 Ljubomir Stanisic,12,
 Prós e Contras,12,
 Rui Sinel de Cordes,12,@ruisineldecordes
