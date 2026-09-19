@@ -2,6 +2,8 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1619 || [[Joana Marques]], [[Sofia Jardim]], [[António Leal e Silva]], [[Joana Latino]], [[Carolina Ortigão]], [[Marta Aragão Pinto]], [[Liliana Campos]], [[Sílvia Botelho]], [[Daniel Nascimento]], [[Os Anjos (dupla musical)]], [[José Gouveia]], [[Rui Figueiredo]]
+|-
 | style='text-align:center;' | 1618 || [[Liliana Aguiar]]
 |-
 | style='text-align:center;' | 1617 || [[Cristina Ferreira]], [[Léo Caeiro]], [[Rúben Pacheco Correia]], [[Cristiano Ronaldo]], [[Hugo Mendes]], [[Zulmira Garrido]], [[Gonçalo Mello]], [[Georgina Rodríguez]], [[Daniel Nascimento]], [[David Motta]], [[Isabel Figueira]], [[Adriano Silva Martins]]
