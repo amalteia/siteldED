@@ -2,7 +2,9 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
-| style='text-align:center;' | 1620 || [[D'ZRT]], [[Vítor Fonseca (Cifrão)]], [[Paulo Vintém]], [[Edmundo Vieira]], [[Pedro]]
+| style='text-align:center;' | 1621 || [[D'ZRT]], [[Vítor Fonseca (Cifrão)]], [[Edmundo Vieira]], [[Pedro Teixeira da Mota]]
+|-
+| style='text-align:center;' | 1620 || [[D'ZRT]], [[Vítor Fonseca (Cifrão)]], [[Paulo Vintém]], [[Edmundo Vieira]], [[Pedro Teixeira da Mota]]
 |-
 | style='text-align:center;' | 1619 || [[Joana Marques]], [[Sofia Jardim]], [[António Leal e Silva]], [[Joana Latino]], [[Carolina Ortigão]], [[Marta Aragão Pinto]], [[Liliana Campos]], [[Sílvia Botelho]], [[Daniel Nascimento]], [[Os Anjos (dupla musical)]], [[José Gouveia]], [[Rui Figueiredo]]
 |-
