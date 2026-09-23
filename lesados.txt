@@ -1,6 +1,6 @@
 Joana Marques,129,@joanamarquespic
 Cristina Ferreira,97,@dailycristina
-Ana Galvão,53,@anagalvaolopez
+Ana Galvão,54,@anagalvaolopez
 Gustavo Santos,51,@o_homem_da_terra
 TVI,43,
 Cláudio Ramos,42,@claudio_ramos
@@ -34,10 +34,10 @@ Sandra Felgueiras,16,@sandrafelgueiras_oficial
 Big Brother,15,
 José Castelo Branco,15,
 Kátia Aveiro,15,@katiaaveirooficial
+Léo Caeiro,15,@leocaeirooficial
 Fátima Campos Ferreira,14,
 José Sócrates,14,
 João Barbosa (Numeiro),14,
-Léo Caeiro,14,@leocaeirooficial
 Miguel Milhão,14,
 Catarina Furtado,13,
 Cinha Jardim,13,@cinha_jardim
@@ -2475,6 +2475,7 @@ Sportinguistas sofredores,1,
 Stalkers,1,
 Stapples,1,
 Starbucks,1,
+Stella,1,@stel.la012345
 Stephen Hawking,1,
 Stevie Wonder,1,
 Sunny Delight,1,
