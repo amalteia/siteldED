@@ -83,6 +83,7 @@ Rui Rio,9,
 SirKazzio,9,
 Toy,9,
 Yolanda Tati,9,
+Ana Barbosa,8,@capitan_barb
 Ana Rita Clara,8,
 Ana Sofia Cardoso,8,@asofiacardoso
 Diana Chaves,8,
@@ -99,7 +100,6 @@ Nuno Graciano,8,
 Rita Ferro Rodrigues,8,@ritaferrorodrigues
 Rui Oliveira Nunes,8,@ruideoliveiranunes
 Santiago Lagoá,8,@santiago.lagoa
-Ana Barbosa,7,@capitan_barb
 Ana Malhoa,7,
 André Silva,7,
 Bárbara Bandeira,7,

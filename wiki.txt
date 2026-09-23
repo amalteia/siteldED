@@ -2,7 +2,7 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
-| style='text-align:center;' | 1622 || [[Stella]], [[Léo Caeiro]], [[Ana Galvão]]
+| style='text-align:center;' | 1622 || [[Stella]], [[Léo Caeiro]], [[Ana Barbosa]], [[Ana Galvão]]
 |-
 | style='text-align:center;' | 1621 || [[D'ZRT]], [[Vítor Fonseca (Cifrão)]], [[Edmundo Vieira]], [[Pedro Teixeira da Mota]]
 |-
