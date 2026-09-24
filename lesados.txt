@@ -22,9 +22,9 @@ José Cid,23,@jose_cid_musico
 Lili Caneças,22,@lilicanecas
 Marcelo Rebelo de Sousa,21,
 Jorge Jesus,20,@jorgejesus
+Tiago Paiva,20,@tiagopaiva__
 Carolina Patrocínio,19,@carolinapatrocinio
 Joana Amaral Dias,19,
-Tiago Paiva,19,@tiagopaiva__
 André Ventura,18,
 Luís Oliveira,18,
 José Eduardo Moniz,17,
@@ -795,6 +795,7 @@ Sofia Vasconcelos,2,
 Sofia e José,2,
 Spice Girls,2,
 Sr. Antunes,2,
+Stella,2,@stel.la012345
 São José Lapa,2,
 Sérgio Ramos,2,
 Sílvia Botelho,2,@silvia7botelho
@@ -1390,6 +1391,7 @@ Feiras,1,
 Felicity Huffman,1,
 Fernanda Câncio,1,
 Fernanda Velez,1,
+Fernandino Queirós,1,@fernandinoqueiros
 Fernando Correia Marques,1,
 Fernando Gomes,1,
 Fernando Loureiro,1,
@@ -2475,7 +2477,6 @@ Sportinguistas sofredores,1,
 Stalkers,1,
 Stapples,1,
 Starbucks,1,
-Stella,1,@stel.la012345
 Stephen Hawking,1,
 Stevie Wonder,1,
 Sunny Delight,1,
