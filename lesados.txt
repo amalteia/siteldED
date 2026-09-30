@@ -21,9 +21,9 @@ Sérgio Tavares,24,@canal_sergiotavares
 José Cid,23,@jose_cid_musico
 Lili Caneças,22,@lilicanecas
 Marcelo Rebelo de Sousa,21,
+Carolina Patrocínio,20,@carolinapatrocinio
 Jorge Jesus,20,@jorgejesus
 Tiago Paiva,20,@tiagopaiva__
-Carolina Patrocínio,19,@carolinapatrocinio
 Joana Amaral Dias,19,
 André Ventura,18,
 Luís Oliveira,18,
@@ -62,6 +62,7 @@ Rodrigo Guedes de Carvalho,11,
 Wuant,11,
 Ana Garcia Martins,10,
 António Costa,10,
+Clara de Sousa,10,@claradesousaoficial
 Elma Aveiro,10,@elma_oficial
 Fernanda Serrano,10,
 João Baião,10,
@@ -73,10 +74,10 @@ Ricardo Quaresma,10,
 SIC,10,
 Sónia Costa,10,
 Vanessa Martins,10,
-Clara de Sousa,9,
 Daniel Leitão,9,@danielhleitao
 Globos de Ouro,9,
 João Montez,9,
+Liliana Campos,9,@lilianacamposoficial
 Madonna,9,
 Mónica Jardim,9,@mmjardim
 Rui Rio,9,
@@ -94,7 +95,6 @@ Hugo Strada,8,@hugostrada
 Iva Domingues,8,@ivadominguesoficial
 Joacine Katar Moreira,8,
 Joana Dias,8,
-Liliana Campos,8,
 Luís Filipe Vieira,8,
 Nuno Graciano,8,
 Rita Ferro Rodrigues,8,@ritaferrorodrigues
@@ -144,6 +144,7 @@ José Fidalgo,6,@josefidalgo_oficial
 José Rodrigues dos Santos,6,
 Lara Moniz,6,
 Luana Piovani,6,
+Marisa Cruz,6,@marisacruz
 Paula Neves,6,
 Rui Veloso,6,
 Rui da Fonseca e Castro,6,
@@ -184,11 +185,11 @@ Liliana Filipa,5,
 Mafalda Castro,5,@mafaldacastro
 Mafalda Rodiles,5,
 Manuel Pinto Coelho,5,
-Marisa Cruz,5,
 Marta Gautier,5,
 Mia Fernandes,5,@miafernandesr
 Miguel Vicente,5,
 Morangos com Açúcar,5,
+Nuno Markl,5,@nunomarkl
 Nuno Santos,5,@nuno.sant0s
 Pedro Barroso (ator),5,@pedrobarrosopb
 Pedro Granger,5,
@@ -196,6 +197,7 @@ Pedro Pico,5,
 Pedro Soá,5,
 Play - Prémios da Música Portuguesa,5,
 Quintino Aires,5,
+Ricardo Pereira (ator),5,@ricardotpereira
 Rui Santos,5,
 Sancha Trindade,5,
 Sandra Silva,5,
@@ -257,7 +259,6 @@ Miguel Silva (Jingle Lee),4,@micselva
 Milene Martins,4,
 Mónica Sintra,4,
 Nuno Eiró,4,
-Nuno Markl,4,@nunomarkl
 Nuno Queirós,4,@nunoqueiroz_zome
 Octávio Machado,4,
 Os Anjos (dupla musical),4,@anjosoficialpt
@@ -275,7 +276,6 @@ Quimbé,4,
 Quinas de Ouro,4,
 Rafaela Granado,4,@rafaela.granado_
 Ricardo Martins Pereira (Arrumadinho),4,
-Ricardo Pereira (ator),4,
 Rita Patrocínio,4,@ritapatrocinio
 Rita Rodrigues,4,
 Rodrigo Paganelli,4,
@@ -322,6 +322,7 @@ Catarina Gouveia,3,
 Cavaco Silva,3,
 ChatGPT,3,
 Chega,3,
+Cláudia Borges,3,@claudiaborgesoficial
 Cláudia Pascoal,3,
 Cláudio André,3,
 Cláudio Viana,3,
@@ -529,7 +530,6 @@ Casamento Marcado,2,
 Casamento do Toy,2,
 Centro Colombo,2,
 Checka,2,@maisdochecka
-Cláudia Borges,2,@claudiaborgesoficial
 Cláudio Almeida,2,@claudioalmeida1980
 Colombo,2,
 Conceição Currito,2,
@@ -552,6 +552,7 @@ D8,2,
 Dani Salles,2,
 Daniel  Monteiro,2,
 Daniel Monteiro,2,
+Daniel Oliveira,2,
 Daniel Oliveira (jornalista),2,
 Daniel Sampaio,2,
 Daniela Dias,2,
@@ -636,6 +637,7 @@ Jornal i,2,
 Jornalistas pela Verdade,2,
 José Alberto Carvalho,2,
 José Carlos Araújo,2,
+José Condessa,2,
 José Eduardo Pinto da Costa,2,
 José Gomes Ferreira,2,
 José Luís Cardoso,2,
@@ -934,6 +936,7 @@ Ana Rocha de Sousa,1,
 Ana Soares,1,
 Ana Sofia e João,1,
 Ana Tereza,1,
+Ana Vilaça,1,@anavilaca__
 Anabela Bastos,1,
 Anabela Moreira,1,
 Anabela Teixeira,1,
@@ -1252,13 +1255,13 @@ Daniel Kenedy,1,
 Daniel Magalhães,1,@daniel_leal_10
 Daniel Malheiro,1,
 Daniel Martins,1,
-Daniel Oliveira,1,
 Daniel Podence,1,
 Daniel Saavedra,1,
 Daniel Savate,1,
 Daniela Santos,1,@danielacvsantos
 Danny,1,
 David Borges,1,
+David Esteves,1,@d.a.v.i.d.esteves
 David Furnish,1,
 David Guetta,1,
 David Hasselhoff,1,
@@ -1659,7 +1662,6 @@ José Alberto Reis,1,
 José Avilez,1,
 José Avillez,1,
 José Carlos Lavouras,1,
-José Condessa,1,
 José Cruz,1,
 José Ferreira,1,
 José Freitas,1,
@@ -1942,6 +1944,8 @@ Marta Andrino,1,
 Marta Gil,1,
 Marta Leite de Castro,1,
 Marta Temido,1,
+Martim Elias,1,@martim_elias_
+Martim Gomes,1,@martim_sgomes
 Martim Sousa Tavares,1,
 Martin Solveig,1,
 Maré Alta,1,
@@ -1976,6 +1980,7 @@ Miguel Coimbra,1,
 Miguel Cruz,1,
 Miguel Flor de Lima,1,
 Miguel Fonseca,1,
+Miguel Fragata,1,@miguelfragata
 Miguel Frazão,1,
 Miguel Marôco,1,
 Miguel Matos,1,
@@ -2195,6 +2200,7 @@ Pedro Mourinho,1,
 Pedro Moutinho,1,
 Pedro Nevides,1,
 Pedro Patrocínio,1,
+Pedro Penim,1,@pedrozegrepenim
 Pedro Pinho,1,
 Pedro Ribeiro,1,
 Pedro Sanchez,1,
