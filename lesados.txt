@@ -1,6 +1,6 @@
 Joana Marques,129,@joanamarquespic
 Cristina Ferreira,97,@dailycristina
-Ana Galvão,54,@anagalvaolopez
+Ana Galvão,55,@anagalvaolopez
 Gustavo Santos,51,@o_homem_da_terra
 TVI,43,
 Cláudio Ramos,42,@claudio_ramos
@@ -12,9 +12,9 @@ Bruno de Carvalho,36,@bruno_de_carvalho_oficial
 Inês Lopes Gonçalves,35,@ineslopesgoncalves
 CMTV,34,
 Manuel Luís Goucha,33,@mlgoucha
+Luciana Abreu,28,@lucianaabreuoficial
 Maya (taróloga),28,@tia__maya
 Rúben Rua,28,@ruben_rua
-Luciana Abreu,27,@lucianaabreuoficial
 Xavier,26,
 Maria Cerqueira Gomes,24,@maria_cerqueira_gomes
 Sérgio Tavares,24,@canal_sergiotavares
@@ -870,6 +870,7 @@ Agosto,1,
 Albano Gerônimo,1,
 Albano Jerónimo,1,
 Alberto João Jardim,1,
+Alberto Lopes,1,@dr.albertolopes
 Alberto Rodrigues,1,
 Aldo Lima,1,
 Alentejo,1,

@@ -2,6 +2,8 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1624 || [[Alberto Lopes]], [[Ana Galvão]], [[Luciana Abreu]]
+|-
 | style='text-align:center;' | 1623 || [[Stella]], [[Tiago Paiva]], [[Fernandino Queirós]]
 |-
 | style='text-align:center;' | 1622 || [[Stella]], [[Léo Caeiro]], [[Ana Barbosa]], [[Ana Galvão]]
