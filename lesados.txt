@@ -123,7 +123,6 @@ Mário Ferreira,7,
 Nuno Homem de Sá,7,
 Nuno Luz,7,
 Paulo Pires,7,
-Ricardo Pereira (ator),7,@ricardotpereira
 Rui Figueiredo,7,@rui_figueiredo
 Teresa Guilherme,7,
 Ágata,7,
@@ -147,6 +146,7 @@ Lara Moniz,6,
 Luana Piovani,6,
 Marisa Cruz,6,@marisacruz
 Paula Neves,6,
+Ricardo Pereira (ator),6,@ricardotpereira
 Rui Veloso,6,
 Rui da Fonseca e Castro,6,
 Salvador Sobral,6,
