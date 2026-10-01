@@ -1,4 +1,4 @@
-Joana Marques,129,@joanamarquespic
+Joana Marques,130,@joanamarquespic
 Cristina Ferreira,97,@dailycristina
 Ana Galvão,55,@anagalvaolopez
 Gustavo Santos,51,@o_homem_da_terra
@@ -54,7 +54,9 @@ Sporting Clube de Portugal,12,
 Windoh,12,
 Adriano Silva Martins,11,@adrianosilvaexpress
 Casados à Primeira Vista,11,
+Clara de Sousa,11,@claradesousaoficial
 David Carreira,11,
+João Baião,11,@joaobaiaobaiao
 Judite Sousa,11,
 Leandro,11,@leandro.pt
 Marco Paulo,11,
@@ -62,11 +64,10 @@ Rodrigo Guedes de Carvalho,11,
 Wuant,11,
 Ana Garcia Martins,10,
 António Costa,10,
-Clara de Sousa,10,@claradesousaoficial
 Elma Aveiro,10,@elma_oficial
 Fernanda Serrano,10,
-João Baião,10,
 Júlia Pinheiro,10,
+Liliana Campos,10,@lilianacamposoficial
 Maria Botelho Moniz,10,@mariabotelhomoniz
 Miguel Sousa Tavares,10,
 Paulo Futre,10,
@@ -77,7 +78,6 @@ Vanessa Martins,10,
 Daniel Leitão,9,@danielhleitao
 Globos de Ouro,9,
 João Montez,9,
-Liliana Campos,9,@lilianacamposoficial
 Madonna,9,
 Mónica Jardim,9,@mmjardim
 Rui Rio,9,
@@ -123,6 +123,7 @@ Mário Ferreira,7,
 Nuno Homem de Sá,7,
 Nuno Luz,7,
 Paulo Pires,7,
+Ricardo Pereira (ator),7,@ricardotpereira
 Rui Figueiredo,7,@rui_figueiredo
 Teresa Guilherme,7,
 Ágata,7,
@@ -197,7 +198,6 @@ Pedro Pico,5,
 Pedro Soá,5,
 Play - Prémios da Música Portuguesa,5,
 Quintino Aires,5,
-Ricardo Pereira (ator),5,@ricardotpereira
 Rui Santos,5,
 Sancha Trindade,5,
 Sandra Silva,5,
@@ -223,6 +223,8 @@ Clara Não,4,
 Cláudia Jacques,4,
 Conceição Lino,4,@conceicaolino_oficial
 Daniel Gregório,4,
+Daniel Oliveira (apresentador),4,
+Daniela Ruah,4,
 David Araújo,4,@davidaraujobb
 Diogo Amaral,4,@diogoamaral.oficial
 Diogo Morgado,4,
@@ -283,6 +285,7 @@ Romilda Costa,4,
 Rute Sousa,4,@rutemsousa
 Salvador Martinha,4,
 Sam The Kid,4,
+Sara Sampaio,4,@sarasampaio
 Serenella Andrade,4,
 Sofia Cerveira,4,
 Susana Dias Ramos,4,@susanadiasramos
@@ -330,11 +333,10 @@ Cátia Palhinha,3,
 Cândido Costa,3,
 D'ZRT,3,
 D.A.M.A,3,
-Daniel Oliveira (apresentador),3,
-Daniela Ruah,3,
 David Cristina,3,
 Dina Guedes,3,
 Diogo Infante,3,
+Dulce Pontes,3,
 Edmundo Vieira,3,@edmundovieiraoficial
 Eduardo Madeira,3,
 Eliana Voigt,3,
@@ -388,6 +390,7 @@ João Seabra,3,
 Julia Pinheiro,3,
 Jéssica Athayde,3,@jessica_athayde
 Júlia Palha,3,
+Júlio Isidro,3,@julioisidrotv
 Laura Figueiredo,3,
 Leonor Santos,3,
 Liliana Almeida de Carvalho,3,
@@ -440,7 +443,6 @@ Ruy de Carvalho,3,
 Rúben Pacheco Correia,3,@rubenpcorreia
 Rúben Semedo,3,
 Sandra Celas,3,
-Sara Sampaio,3,
 Silvia Alberto,3,
 Sofia Aparício,3,
 Sofia Dinis,3,@sofiadinis.sheisart
@@ -570,7 +572,6 @@ Diogo Sena,2,
 Diogo da Silva (movemind),2,@_movemind_
 Domingão,2,
 Duarte Lima,2,
-Dulce Pontes,2,
 Duquesa de Cadaval,2,
 Débora Monteiro,2,
 EMEL,2,
@@ -658,7 +659,6 @@ João Pedro Pereira,2,@_joaopedropereira
 João Rendeiro,2,
 João Viola,2,@armunia_viola
 Jéssica Antunes,2,
-Júlio Isidro,2,@julioisidrotv
 Keyla Brasil,2,
 Lady Diana,2,
 Landu Bi,2,
@@ -685,6 +685,7 @@ Marco Turco,2,
 Margarida Corceiro,2,
 Margarida Vila-Nova,2,
 Maria Helena,2,
+Maria João Bastos,2,@mariajoao.bastos
 Maria das Dores,2,
 Maria do Céu Santo,2,
 Marial Leal,2,
@@ -759,6 +760,7 @@ Rafael Esteves Martins,2,
 Raquel Varela,2,
 Rebeca Caldeira,2,@rebecamcaldeira
 Regina Duarte,2,
+Ricardo Araújo Pereira,2,@verificandosevoceehumano
 Ricardo Azedo,2,
 Ricardo José,2,
 Ricardo Pereira,2,
@@ -1896,7 +1898,6 @@ Maria Henrique,1,@mariahenriqueoficial
 Maria Inês Pedroso,1,
 Maria José Valério,1,
 Maria João Avillez,1,
-Maria João Bastos,1,
 Maria João Costa,1,@mjcarioca
 Maria João Luís,1,
 Maria João Mata,1,
@@ -2326,7 +2327,6 @@ Revista Men's Health,1,
 RicFazeres,1,
 Ricardo A.,1,
 Ricardo Amorim,1,
-Ricardo Araújo Pereira,1,
 Ricardo Azevedo,1,@rickyazbola8
 Ricardo Campanhã,1,
 Ricardo Costa,1,
@@ -2493,12 +2493,14 @@ Susana Novais Santos,1,
 Susana Vieira,1,@susanavieiraoficial
 Syro,1,
 Sérgio Cardoso,1,
+Sérgio Coragem,1,
 Sérgio Godinho,1,
 Sérgio Rosado,1,
 Sérgio Rossi,1,
 Sérgio Santos,1,
 Sérgio Semedo (Tufão),1,@xtufa0x
 Sílvia,1,
+Sílvia Alberto,1,@silviaalberto.oficial
 Sílvia Martins,1,
 Síndromes,1,
 Síria,1,
