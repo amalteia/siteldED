@@ -2,6 +2,8 @@
 = Lista de entidades lesadas no Extremamente Desagradável por episódio =
 </div>
 {|! Episódio !! style='text-align:left;' | Entidade(s) Lesada(s)|-
+| style='text-align:center;' | 1627 || [[Maria Rueff]], [[Ana Galvão]], [[Ricardo Araújo Pereira]], [[Blaya]], [[Júlia Palha]], [[Duques do Precariado]], [[Cristina Ferreira]], [[Dulce Pontes]]
+|-
 | style='text-align:center;' | 1626 || [[Sérgio Coragem]], [[Liliana Campos]], [[Sílvia Alberto]], [[Maria João Bastos]], [[Ricardo Araújo Pereira]], [[Clara de Sousa]], [[Júlio Isidro]], [[João Baião]], [[Daniel Oliveira (apresentador)]], [[Sara Sampaio]], [[Ricardo Pereira (ator)]], [[Joana Marques]], [[Daniela Ruah]], [[Dulce Pontes]]
 |-
 | style='text-align:center;' | 1625 || [[Ricardo Pereira (ator)]], [[Carolina Patrocínio]], [[Cláudia Borges]], [[Daniel Oliveira]], [[Martim Gomes]], [[Martim Elias]], [[Liliana Campos]], [[Marisa Cruz]], [[Clara de Sousa]], [[Nuno Markl]], [[David Esteves]], [[Miguel Fragata]], [[Pedro Penim]], [[José Condessa]], [[Ana Vilaça]]

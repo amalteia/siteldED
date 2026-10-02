@@ -1,6 +1,6 @@
-Joana Marques,130,@joanamarquespic
-Cristina Ferreira,97,@dailycristina
-Ana Galvão,55,@anagalvaolopez
+Joana Marques,131,@juliapalha
+Cristina Ferreira,98,@dailycristina
+Ana Galvão,56,@anagalvaolopez
 Gustavo Santos,51,@o_homem_da_terra
 TVI,43,
 Cláudio Ramos,42,@claudio_ramos
@@ -229,6 +229,7 @@ David Araújo,4,@davidaraujobb
 Diogo Amaral,4,@diogoamaral.oficial
 Diogo Morgado,4,
 Domingos José,4,
+Dulce Pontes,4,
 Eduardo Barroso,4,
 Elsa Pimenta,4,
 Fernando Daniel,4,
@@ -336,7 +337,6 @@ D.A.M.A,3,
 David Cristina,3,
 Dina Guedes,3,
 Diogo Infante,3,
-Dulce Pontes,3,
 Edmundo Vieira,3,@edmundovieiraoficial
 Eduardo Madeira,3,
 Eliana Voigt,3,
@@ -431,6 +431,7 @@ Pedro Morais Leitão,3,
 Piruka,3,
 Raquel Matos Cruz,3,
 Raul Minh'alma,3,@raulminhalma
+Ricardo Araújo Pereira,3,@verificandosevoceehumano
 Ricardo Carriço,3,
 Ricardo Salgado,3,
 Riquita da Conceição,3,
@@ -508,6 +509,7 @@ Bernardo Silva,2,
 Betclic Mano a Mano,2,
 Big Brother Famosos,2,
 Biodanza,2,
+Blaya,2,@blaya_con_dios
 Bruno,2,
 Bruno Fernandes,2,
 Bruno Nogueira,2,
@@ -686,6 +688,7 @@ Margarida Corceiro,2,
 Margarida Vila-Nova,2,
 Maria Helena,2,
 Maria João Bastos,2,@mariajoao.bastos
+Maria Rueff,2,@mariarueff
 Maria das Dores,2,
 Maria do Céu Santo,2,
 Marial Leal,2,
@@ -760,7 +763,6 @@ Rafael Esteves Martins,2,
 Raquel Varela,2,
 Rebeca Caldeira,2,@rebecamcaldeira
 Regina Duarte,2,
-Ricardo Araújo Pereira,2,@verificandosevoceehumano
 Ricardo Azedo,2,
 Ricardo José,2,
 Ricardo Pereira,2,
@@ -1050,7 +1052,6 @@ Bicas (irmao do Becas),1,
 Bicicletas da Uber,1,
 Bidés,1,
 Black Friday,1,
-Blaya,1,
 Blockbuster,1,
 Bloggers lifestyle,1,
 Bob Dylan,1,
@@ -1321,6 +1322,7 @@ Duarte Pio de Bragança,1,
 Duarte e Companhia,1,
 Duck,1,
 Dulce Pimenta,1,
+Duques do Precariado,1,@duquesdoprecariado
 Dusty Whistles,1,
 Dário Pinto,1,
 Dânia Neto,1,
@@ -1734,6 +1736,7 @@ Jéssica Pereira,1,
 Jéssica Pina,1,
 Jéssica Sousa,1,
 Jóias TV,1,
+Júlia Palha{,1,
 Júlia Resende,1,
 Júlio Ferreira,1,
 Júlio Magalhães,1,
@@ -1906,7 +1909,6 @@ Maria Leonor Ferreira,1,
 Maria Madalena Mateus,1,@mariamadalenamateus
 Maria Maia,1,@mariacostamaia
 Maria Rodrigues,1,@mariarodriguesx
-Maria Rueff,1,
 Maria Sequeira Gomes,1,
 Maria Silvia,1,
 Maria Spínola,1,
